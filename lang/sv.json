@@ -3,5 +3,673 @@
         "fr": "franska",
         "ja": "japansk",
         "sv": "svenska"
+    },
+    "onboard": {
+        "team_best": "Molnbaserad elektrisk CAD-programvara",
+        "team_start": "Bjud in din teammedlem eller klient att samarbeta i realtid. <br /><br /> Låt oss komma igång genom att skapa ditt team"
+    },
+    "signup": {
+        "creating_account": "Skapa Electra Cloud-konto"
+    },
+    "mssg": {
+        "cannot_upload": "Du måste vara inloggad för att importera bilder till Electra Cloud.",
+        "import_drawing": "Det kan ta några minuter att importera ritning",
+        "login_to_save_comp": "Logga in för att spara din anpassade komponent i databasen",
+        "cannot_edit_term_block": "Du måste vara inloggad för att redigera terminalblock.",
+        "license_expired": "Test / licens har gått ut. Produktivitetsverktyg från Electra Cloud kommer att inaktiveras.",
+        "inserting_name": "Infoga namn",
+        "prefab_create": "Prefab-kretsen skapas",
+        "license_expired_banner": "Test / licens har gått ut. <a href='./../../pricing'>Prenumerera nu!</a>",
+        "update_linkage": "Uppdatering av länkar"
+    },
+    "verify": {
+        "unverified_not_found": "Vi kan inte verifiera din länk. Du kanske redan har registrerats hos oss. Försök att logga in igen. Om du inte kan logga in, vänligen kontakta oss på support@radicasoftware.com.",
+        "landing": "Gå till Electra Cloud",
+        "successful_mssg": "Du kan nu logga in på Electra Cloud och börja rita. Glöm inte att bjuda in ditt team och börja samarbeta."
+    },
+    "login": {
+        "user_disabled": "Ditt konto har avaktiverats. Om du tycker att detta är ett misstag, kontakta <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .",
+        "signin_title": "Electra Cloud logga in",
+        "resetting_password": "Återställ Electra Cloud-lösenord",
+        "reset_title": "Återställ lösenord för Electra Cloud",
+        "firebase_error": "Om du ser detta, kontakta <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> med en skärmdump av felet ovan.",
+        "signup_title": "Electra Cloud registrerar sig"
+    },
+    "email": {
+        "team_message": "Gå med i Electra Cloud för att dela och enkelt samarbeta om teckningar med dina lagkamrater.",
+        "open_drawing": "Öppen ritning i Electra Cloud",
+        "over_limit": "Ditt konto har nått vår inbjudningsgräns. Gränsen återställs efter en tid. <br /> Om detta är ett fel, vänligen kontakta support@radicasoftware.com",
+        "with_you": "med dig på Electra Cloud",
+        "share_subject": "har delat @@ med dig på Electra Cloud",
+        "slogan": "Electra Cloud: Arbeta var som helst för högre produktivitet",
+        "on_app": "på Electra Cloud"
+    },
+    "dash": {
+        "created_template": "Mall har skapats."
+    },
+    "noti": {
+        "permission_given": "Push-aviseringar är nu aktiverade. <br /> Välkommen ombord på Electra Cloud!",
+        "request_permission": "Hallå @@, <br /><br /> Bli meddelad av Electra Cloud när dina lagkamrater gör en förändring i ditt lag eller ritning. <br /><br /> Vill du aktivera skrivbordsmeddelanden?"
+    },
+    "stencil": {
+        "stencil_68": {
+            "desc": ""
+        },
+        "stencil_223": {
+            "desc": "",
+            "name": "trådar"
+        },
+        "stencil_225": {
+            "desc": "",
+            "name": "IEC-symboler",
+            "cat": [
+                "IEC"
+            ]
+        },
+        "stencil_224": {
+            "desc": "",
+            "name": "JIC-symboler"
+        },
+        "stencil_229": {
+            "desc": "",
+            "name": "Enstaka radsymboler"
+        },
+        "stencil_227": {
+            "desc": "",
+            "cat": [
+                "IEC"
+            ],
+            "name": "IEC Power, Meters, Transformers, Motors"
+        },
+        "stencil_228": {
+            "name": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar",
+            "cat": [
+                "IEC"
+            ],
+            "desc": ""
+        },
+        "stencil_226": {
+            "name": "Elektroniska symboler",
+            "desc": ""
+        },
+        "stencil_230": {
+            "name": "Layout",
+            "desc": "",
+            "cat": [
+                "Layout"
+            ]
+        },
+        "stencil_231": {
+            "name": "Layout 3D",
+            "cat": [
+                "Layout"
+            ],
+            "desc": ""
+        },
+        "stencil_233": {
+            "name": "Pneumatiska ventiler",
+            "cat": [
+                "Pneumatisk"
+            ],
+            "desc": ""
+        },
+        "stencil_232": {
+            "name": "Pneumatiska pumpar, cylindrar och motorer",
+            "cat": [
+                "Pneumatisk"
+            ],
+            "desc": ""
+        },
+        "stencil_234": {
+            "desc": "",
+            "name": "Pneumatiska övriga",
+            "cat": [
+                "Pneumatisk"
+            ]
+        },
+        "stencil_235": {
+            "desc": "",
+            "cat": [
+                "Hydraulisk"
+            ],
+            "name": "Hydrauliska Övriga"
+        },
+        "stencil_236": {
+            "desc": "",
+            "name": "Hydrauliska ventiler",
+            "cat": [
+                "Hydraulisk"
+            ]
+        },
+        "stencil_237": {
+            "name": "Hydrauliska pumpar, cylindrar och motorer",
+            "desc": "",
+            "cat": [
+                "Hydraulisk"
+            ]
+        },
+        "stencil_246": {
+            "desc": "Electra rapporterar",
+            "name": "rapporter"
+        },
+        "stencil_247": {
+            "name": "Prefab-kretsar",
+            "desc": ""
+        }
+    },
+    "ui": {
+        "sample_0": "Electra provteckning",
+        "app_name": "Electra Cloud",
+        "stencil": "Stencil",
+        "slogan": "Molnbaserad elektrisk CAD-programvara",
+        "terminal": "Terminal",
+        "pneumatic": "Pneumatisk",
+        "electrical": "Elektrisk",
+        "sort_by": "Sortera efter",
+        "sort": "Sortera",
+        "sorting_shapes": "Sortera former",
+        "hydraulic": "Hydraulisk",
+        "comp_db": "Komponentdatabas",
+        "all_pages": "Alla sidor",
+        "this_page": "Denna sida",
+        "del_comp": "Radera komponent",
+        "updating_comp": "Uppdaterar komponenten",
+        "confirm_del_comp": "Är du säker på att du vill ta bort den här komponenten?",
+        "confirm_del_cat": "Är du säker på att du vill ta bort den här kategorin?",
+        "add_comp": "Lägg till ny komponent",
+        "removing_comp": "Ta bort komponenten",
+        "updating_cat": "Uppdaterar kategorin",
+        "edit_comp": "Redigera komponent",
+        "confirm_del_cat_comp": "Är du säker på att du vill ta bort denna komponent från kategorin?",
+        "category": "Kategori",
+        "add_cat": "Lägg till Kategori",
+        "cat_name": "kategori namn",
+        "edit_cat": "Redigera kategori",
+        "removing_cat": "Tar bort kategorin",
+        "rem_cat_comp": "Ta bort komponenten från kategorin",
+        "create_layout": "Skapa layout-symbol",
+        "get_layouts": "Få layoutformer",
+        "del_cat": "Radera kategori",
+        "add_to": "Lägg till",
+        "cat_comp_existed": "Komponenten finns redan i kategorin",
+        "brand": "varumärke",
+        "remarks": "Anmärkningar",
+        "layshape": "Layoutform",
+        "model": "Modell",
+        "order_no": "Beställningsnr",
+        "layout": "Layout",
+        "rating": "Betyg",
+        "price": "Pris",
+        "comp_name": "Komponentnamn",
+        "supplier": "Leverantör",
+        "symbol_type": "Symboltyp",
+        "quantity": "Kvantitet",
+        "get_comp": "Få komponenter",
+        "help_dimension": "Accepterar alla större enheter. T.ex. 2 mm, 2 tum, 2 cm etc.",
+        "symbol": "Symbol",
+        "add": "Lägg till",
+        "include_layout": "Inkludera komponent i layouten",
+        "pin": "Pin-namn",
+        "select": "Välj",
+        "diameter": "Diameter",
+        "default_ref": "Standardreferens",
+        "default_verti": "Vertikal som standard",
+        "search_comp": "Sök komponenter",
+        "create_sym": "Skapa symbol",
+        "desc_text": "Beskrivningstext",
+        "no_desc": "Ingen beskrivning",
+        "generate_symbol": "Genererar symbol",
+        "insert_sym_menu": "Sätt i horisontell / vertikal meny",
+        "show_all_comp": "Visa allt",
+        "combine_shapes": "Valda flera former. Vill du kombinera dem i en form?",
+        "help_pin_names": "t.ex. 13, 23, 33. Separata namn på stiftuppsättningar med komma.",
+        "invalid_value": "Ogiltigt värde",
+        "invalid_size": "Ogiltiga storlekar. Enheter med giltiga storlekar är 10mm, 20in, 30cm etc.",
+        "sym_priority": "Prioritet",
+        "generate_all": "Generera alla",
+        "invalid_sym_name": "Noll längd eller tomma strängar är inte tillåtna för symbolnamn",
+        "loc_type": "Plats Typ",
+        "add_pin_names": "Vill du lägga till pin-namn för den här symbolen?",
+        "generate": "Generera",
+        "invalid_default_ref": "Noll längd eller tomma strängar är inte tillåtna för standardreferens",
+        "text_orient": "Textorientering",
+        "selected_comp": "Vald komponent",
+        "verti": "Vertikal",
+        "horiz": "Horisontell",
+        "sym_prompt": "Symbolprompt",
+        "text_pos": "Text Position",
+        "sym_name": "Symbolnamn",
+        "no_conn_pts": "Inga anslutningspunkter hittades",
+        "select_comp": "Välj komponent",
+        "wire_name": "Trådnamn",
+        "click_wire": "Klicka på ett trådnamn för att visa plats",
+        "hide_hose_name": "Dölj slangens namn",
+        "click_hose": "Klicka på ett slangnamn för att visa plats",
+        "click_tube": "Klicka på ett rörnamn för att visa plats",
+        "show": "Visa",
+        "hide_tube_name": "Dölj rörens namn",
+        "hide_wire_name": "Dölj trådnamn",
+        "hose_name": "Slangens namn",
+        "tube_name": "Tube-namn",
+        "cur_name": "Nuvarande namn",
+        "exists_wires": "Befintliga trådnamn",
+        "exists_tubes": "Befintliga rörnamn",
+        "set_no_name": "Ställ in på NoName",
+        "exists_hoses": "Befintliga slangnamn",
+        "selected_ref": "Former för vald referens",
+        "ref": "Referens",
+        "no_name": "Inget namn",
+        "location": "Plats",
+        "shapes": "former",
+        "refs": "referenser",
+        "all_shapes": "Alla former",
+        "use_page_prefix": "Använd sidprefix",
+        "set_pin_names": "Ställ in pin-namn",
+        "hide_desc": "Dölj beskrivning",
+        "show_pin": "Visa pin-namn",
+        "component": "Komponent",
+        "use_panel_prefix": "Använd panelprefix",
+        "hide_pin": "Dölj stiftnamn",
+        "this_shape": "Den här formen",
+        "hide_ref": "Dölj referens",
+        "edit_pin": "Redigera stiftuppsättning",
+        "select_pin": "Välj stiftuppsättning. (Högerklicka för fler alternativ)",
+        "incorrect_pin": "Felaktigt antal stift",
+        "add_pin": "Ny stiftuppsättning",
+        "no_shape_for_ref": "Ingen form hittades för referens @@",
+        "del_pin": "Radera stiftuppsättningen",
+        "ref_not_found": "Hänvisning hittades inte",
+        "locate_ref": "Leta reda på referens",
+        "plc_mod": "PLC-modul",
+        "loc_col": "Ordna platser i kolumn (er)",
+        "connector": "Connector",
+        "spacing": "Mellanrum",
+        "save_as_new_comp": "Spara som ny komponent",
+        "plc_point": "Inledande punkt",
+        "save_comp": "Spara ändringar av komponentdata?",
+        "width": "Bredd",
+        "disable_pl": "Dölj pilots",
+        "close": "Stänga",
+        "num_points": "Antal poäng",
+        "max_inc": "Max. Ökning",
+        "left": "Vänster",
+        "qty_pos": "Kvantitetsposition",
+        "gen_layout": "Generera layout",
+        "bottom": "Botten",
+        "panel": "Panel",
+        "top": "Topp",
+        "ref_pos": "Referensposition",
+        "right": "Rätt",
+        "grouping": "gruppera",
+        "manage_comps": "Hantera komponenter",
+        "renum_list": "Renummer terminaler",
+        "insert_data": "Sätt in alla data i ritningen",
+        "gen_term_lists": "Generera lista över terminalblock",
+        "no_comp": "Ingen komponent hittades",
+        "start_num": "Startnummer",
+        "scan_terms": "Skanna terminaler",
+        "group": "Grupp",
+        "term_per_row": "Terminaler per rad",
+        "gen_tlist": "Skapa lista över terminalblock",
+        "gen_lay_new_page": "Generera till ny sida",
+        "create_tdata": "Infoga titelblockdata",
+        "get_wire_link": "Få trådlänkar",
+        "wire_link": "Trådlänk",
+        "suffix_char": "Suffix-tecken (valfritt, kommaseparerad)",
+        "name_label": "Trådnamn - plats",
+        "available_link": "Tillgänglig länk",
+        "create_tblock": "Skapa titelblock",
+        "def_val": "Standardvärde",
+        "hide_tblock_txt": "Dölj referens för terminalblock",
+        "show_all": "Visa alla länkar",
+        "no_shape": "Välj en form",
+        "loc_info_1": "Electra kommer att lista formplatser baserade",
+        "loc_info_2": "Ställ in nätet på ett osynligt rutnät",
+        "prompt": "Prompt",
+        "loc_format_help": "Exempel: /3.A5",
+        "loc_info_3": "längd och avstånd till dina krav",
+        "dup_names": "Dupliserat datanamn",
+        "gen_tblock": "Generera titelblock",
+        "units_help": "Accepterar i, cm, mm, px",
+        "dup_names_mssg": "Gruppat titelblock innehåller block med duplicerade datanamn.\nGruppera och redigera så att alla block har unika datanamn.",
+        "auto_resize": "Automatisk storlek i / mm / cm / meter",
+        "ref_pop_up": "Popupreferensfönster vid släpp",
+        "ask_create_cable": "Pop-up för att be om åtgärder när det inte finns någon kabelkärna tillgänglig",
+        "conn_dot": "Hantera automatiskt anslutningsprickor för ledningar",
+        "term_split_wire": "Dela kablar när du tappar terminaler",
+        "renum_lzone": "Byt automatiskt om symboler / ledningar när de flyttas inom stegezon",
+        "enable_panel_prefix": "Aktivera panelprefix på referenser",
+        "straighten_wire": "Justera och räta trådarna automatiskt",
+        "general_options": "Generella val",
+        "wire_propagation": "Automatisk trådutbredning och detektion",
+        "auto_placement": "Lägg automatiskt layoutsymboler på rälsen",
+        "wire_sep_help": "Separator kan inte ha numeriska värden, t.ex. 0-9",
+        "page_prefix_ref": "Aktivera på referenser",
+        "sym_split_wire": "Dela kablar när du tappar symboler",
+        "auto_rename": "Auto Rename",
+        "page_prefix_wires": "Aktivera på ledningar",
+        "placement_offset": "Startplacering förskjuten",
+        "wire_tab": "Trådnamn / symbolreferenser",
+        "wire_sep": "Separator för tråd",
+        "page_prefix": "Sidprefix",
+        "from": "Från",
+        "to": "Till",
+        "generating_report": "Genererar rapport",
+        "tube_tab": "Rörnamn / Slangnamn",
+        "listing": "Lista",
+        "mat_ref_report": "Materialreferensrapport",
+        "cross_ref": "Korsreferensrapport",
+        "bom_report": "Materialräkning",
+        "get_syms_info": "Få symbolinformation",
+        "select_all": "Välj alla",
+        "reuse_existing": "Återanvänd befintliga rapporter",
+        "ignore_existing": "Ignorera eller behålla befintliga rapporter och generera nya",
+        "saved_comp": "Sparad komponent",
+        "no_shape_selected": "Ingen form vald",
+        "creating_prefab": "Skapa Prefab Circuit",
+        "exporting_report": "Exporterar rapport",
+        "scanning": "Läser in",
+        "remove_existing": "Ta bort befintliga rapporter och generera nya",
+        "single_sym": "Enkel symbol vald. Mer symboler krävs.",
+        "generating_layout": "Genererar layout",
+        "tubes": "rör",
+        "invalid_prefix": "Ogiltigt sidprefix",
+        "wires": "trådar",
+        "location_format": "Platsformat",
+        "separator": "Separator",
+        "document_options_help": "Electra kommer att lista formplatser baserade på ett osynligt rutnät, ställa in startlängden och avståndet till dina krav",
+        "auto_rename_help": "Välj för att behålla originalnamnet, avmarkera att byta namn",
+        "comp_db_help": "Dra och släpp från komponenter till kategori för att organisera komponenter. <br/> Högerklicka på komponenter för fler alternativ.",
+        "previous": "Tidigare",
+        "hoses": "slangar",
+        "insert_horizontal_menu": "Sätt in horisontell / vertikal meny",
+        "error_layout_sym": "Den valda formen är inte layoutsymbol eller normal form",
+        "hosing_info": "Slanginformation",
+        "is_circle": "Form är en cirkel",
+        "duplicate_laysym_name": "Det finns redan layoutsymbol med namnet. Var god försök igen",
+        "invalid_prefix_content": "Ogiltigt sidnummer. <br/> Sidprefixet för denna form kommer inte att uppdateras automatiskt.",
+        "create_layout_sym": "Skapa layoutsymbol",
+        "tubing_info": "Rörinformation",
+        "cable_info": "Kabelinformation",
+        "core_names": "Kärnnamn",
+        "gauge": "Storlek / mätare",
+        "tubing": "Rör",
+        "core_names_help": "Kommaseparerade, t.ex. röd, gul, blå",
+        "insert": "Föra in",
+        "hosing": "spolning",
+        "cores": "kärnor",
+        "filter_by": "Filtrera efter",
+        "connect_to": "Koppla till",
+        "core_name": "Kärnnamn",
+        "cable": "Kabel",
+        "show_only": "Visa endast",
+        "none": "Ingen",
+        "view_edit": "Visa / Redigera",
+        "hose_db": "Slangdatabas",
+        "save_new_cable": "Spara som ny kabel",
+        "new_cable": "Ny kabel",
+        "cable_db": "Kabeldatabas",
+        "delete_cable": "Ta bort kabeln",
+        "tube_db": "Slangdatabas",
+        "edit_cable": "Redigera kabel",
+        "delete_hosing": "Radera skötsel",
+        "edit_tubing": "Redigera slangen",
+        "delete_tubing": "Ta bort slangen",
+        "new_tubing": "Nytt slang",
+        "new_hosing": "Ny hosing",
+        "edit_hosing": "Redigera hosing",
+        "arrange": "Ordna",
+        "save_new_tubing": "Spara som nytt slang",
+        "save_new_hosing": "Spara som ny hosing",
+        "confirm_del_cable": "Är du säker att du vill radera @@?",
+        "updating_db": "Uppdatering av databasen",
+        "set_numbers": "Ställ in siffror",
+        "rung_height": "Rung höjd",
+        "invalid_cable_name": "Kabelnamnet kan inte tömmas",
+        "arrange_cores_help": "Dra och släpp kablar för att ordna. <br/> Dra till ovan för att ta bort. <br/> Dra från ovan till vänster för att infoga.",
+        "arrange_cores": "Ordna kärnor",
+        "set_ladder_zone": "Ställ in stegezon",
+        "removing": "Ta bort",
+        "core_list_label": "Kärnnamn Trådnamn - plats",
+        "invalid_core": "Ogiltigt kärnnamn",
+        "rung_count_vert": "Rung Count (vertikal)",
+        "rung_count_horiz": "Rung Count (Horisontellt)",
+        "getting_connections": "Få anslutningslista",
+        "rung_width": "Rungbredd",
+        "assign_wire_core": "Vänligen tilldela den aktuella ledningen till en kärna",
+        "first_rung": "Första gången",
+        "rung_count_error": "Ogiltigt värde för ringningsräkning, räknarantalet måste vara minst 2",
+        "first_step": "Första steget",
+        "steps": "Steg",
+        "rung_increment": "Rung Increment",
+        "save_wire": "Spara ändringar i tråd?",
+        "remove_cable": "Ta bort kabeln",
+        "no_more_core": "Kabeln tilldelad kabeln har inte mer tillgänglig kärna. <br/> Välj att tilldela en ny kabel eller ta bort kabel.",
+        "assign_new_cable": "Tilldela ny kabel",
+        "comp_id": "Komponent-ID",
+        "tube_id": "Tube ID",
+        "cable_id": "Kabel-ID",
+        "getting_cable": "Få kabelinformation",
+        "always_new_cable": "Fråga inte detta igen och tilldela alltid ny kabel",
+        "hose_id": "Slang-ID",
+        "wire": "Tråd",
+        "hose": "Slang",
+        "cable_ref": "Kabelreferensrapport",
+        "cable_info_as_col": "Visa kabelinformation som kolumner",
+        "hide_default_tubing": "Dölj standardrör",
+        "tubing_info_as_col": "Visa rörinformation som kolumner",
+        "hide_default_hosing": "Dölj standardpost",
+        "hosing_info_as_col": "Visa husinformation som kolumner",
+        "tube": "Rör",
+        "hide_default_cable": "Dölj standardkabel",
+        "tubing_ref": "Referensrapport för slangar",
+        "hosing_ref": "Slangreferensrapport",
+        "all_core_names": "Alla kärnnamn",
+        "cable_bom": "Kabelräkning av material (BOM) -rapport",
+        "tubing_gauge": "Rörstorlek / mätare",
+        "num_of_cores": "Antal kärnor",
+        "cable_gauge": "Kabelstorlek / mätare",
+        "tubing_bom": "Rapport om materialrör (BOM)",
+        "hosing_bom": "Rapport om materialhantering (BOM)",
+        "connections_report": "Anslutningsrapport",
+        "tube_loc": "Rörplats",
+        "amount": "Belopp",
+        "hose_loc": "Slangplats",
+        "cable_name": "Kabelnamn",
+        "cable_length": "Kabellängd",
+        "tubing_name": "Slangens namn",
+        "wire_loc": "Ledningsplats",
+        "tubing_length": "Slanglängd",
+        "hosing_gauge": "Slangstorlek / mätare",
+        "hosing_length": "Slanglängd",
+        "from_pin": "Pin name (Från)",
+        "to_ref": "Hänvisning till)",
+        "pin_name": "Pin-namn",
+        "to_pin": "Pin-namn (till)",
+        "core_no": "Kärnnr.",
+        "scan_connections": "Skanna anslutningar",
+        "to_loc": "Plats (till)",
+        "from_ref": "Referens (från)",
+        "hosing_name": "Slangnamn",
+        "from_loc": "Plats (Från)",
+        "err_layshape_terminal": "Den valda formen är en terminal. En terminal kan inte vara en layoutform",
+        "err_layshape_hose": "Den valda formen är en slang. En slang kan inte vara en layoutform",
+        "err_layshape_symbol": "Den valda formen är en symbol. En symbol kan inte vara en layoutform",
+        "err_layshape_tube": "Valt form är ett rör. Ett rör kan inte vara en layoutform",
+        "insert_hose": "Bekräfta att du sätter in följande slangnamn (alla andra flyttas tillbaka): <br/><br/>",
+        "insert_name": "Infoga namn",
+        "err_layshape_wire": "Den valda formen är en tråd. En tråd kan inte vara en layoutform",
+        "insert_wire": "Bekräfta att du sätter in följande trådnamn (alla andra flyttas tillbaka): <br/><br/>",
+        "insert_tube": "Bekräfta att du sätter in följande rörnamn (alla andra flyttas tillbaka): <br/><br/>",
+        "invalid_symtype": "Ogiltig symboltyp",
+        "searching": "Sökande",
+        "search_layout": "Söklayout",
+        "no_stencil_id": "Vänligen ange stencil-ID",
+        "tsv": "Tabeller Separerade värden (* .tsv)",
+        "edit": "Redigera",
+        "error_pin": "Vänligen ange stift i alternativen",
+        "csv": "Kommaseparerade värden (* .csv)",
+        "error_connects_pin": "Stift och anslutningspunkter bör ha samma belopp",
+        "reading_comp": "Läskomponent",
+        "export_format": "Exportera format"
+    },
+    "plugin": {
+        "plugin_12": {
+            "desc": "Placera ut former jämnt i ett visst intervall för att få din ritning snyggt",
+            "cat": [
+                "Produktivitetsverktyg"
+            ]
+        },
+        "plugin_15": {
+            "desc": "Skriv ner alla objekt på din lista, kör detta plugin så blir det en snygg bulletlista!",
+            "cat": [
+                "Produktivitetsverktyg"
+            ]
+        },
+        "plugin_6": {
+            "desc": "Ange dina data, och ett linjediagram är redo för din presentation"
+        },
+        "plugin_7": {
+            "desc": "Ange dina data, du har ett cirkeldiagram klart för dig att berätta historier!"
+        },
+        "plugin_10": {
+            "desc": "Med ett klick sätter du in radiellt rutnät i din cirkel med hjälp av gradskiva",
+            "cat": [
+                "Produktivitetsverktyg"
+            ]
+        }
+    },
+    "dialog": {
+        "help_title": "Electra Hjälp"
+    },
+    "preload": {
+        "slack": "Integrera Electra med Slack för bättre samarbete",
+        "plugins": "Automatisera dina ritningar med JavaScript baserade plugins",
+        "dxf-import-and-export": "Importera DXF till Electra och exportera från den",
+        "create-and-invite-team": "Bjud in medlemmar att få ditt team igång i Electra",
+        "generate-layout": "Generera automatiskt panellayout med ett enda klick",
+        "generate-report": "Generera enkelt BOM och andra rapporter i Electra för att spara tid",
+        "create-symbol": "Använd Skapa symbol för att automatiskt infoga intelligens och data i din anpassade symbol",
+        "drag-and-drop": "Electra arbetar med enkel dra och släpp, ingen utbildning krävs",
+        "terminal-list": "Att använda och generera terminaler är ett ögonblick i Electra"
+    },
+    "tips": {
+        "options": {
+            "icon": "Dokumentalternativ"
+        },
+        "manage_comps": {
+            "icon": "Hantera komponenter"
+        },
+        "comp_db": {
+            "icon": "Komponentdatabas"
+        },
+        "electra_export": {
+            "icon": "Exportrapport"
+        },
+        "create_schem": {
+            "icon": "Skapa schematisk symbol"
+        },
+        "title_blocks": {
+            "icon": "Titelblock"
+        },
+        "create_layout_sym": {
+            "icon": "Skapa layoutsymbol"
+        },
+        "generate_layout": {
+            "icon": "Generera layout"
+        }
+    },
+    "drop": {
+        "mat_ref_report": "Materialreferensrapport",
+        "tubing_ref_report": "Referensrapport för slangar",
+        "cable_bom_report": "Materialrapport för kabel (BOM)",
+        "hosing_ref_report": "Slangreferensrapport",
+        "cable_ref_report": "Kabelreferensrapport",
+        "cross_ref": "Korsreferensrapport",
+        "bom_report": "Materialrapport (BOM) -rapport",
+        "tubing_bom_report": "Rapport om materialrör (BOM)",
+        "create_tdata": "Infoga titelblockdata",
+        "create_tblock": "Skapa titelblock",
+        "pneumatic_connections_report": "Pneumatiska anslutningar rapporterar",
+        "comp_db": "Komponentdatabas",
+        "hosing_bom_report": "Rapport om materialhantering (BOM)",
+        "hydraulic_connections_report": "Rapportering om hydrauliska anslutningar",
+        "electrical_connections_report": "Rapport om elektriska anslutningar",
+        "cable_db": "Kabeldatabas",
+        "manage_cable": "Hantera kablar",
+        "manage_tubing": "Hantera slangar",
+        "tubing_db": "Slangdatabas",
+        "hosing_db": "Slangdatabas",
+        "view_edit": "Visa och redigera",
+        "export_as_tsv": "Exportera som TSV",
+        "manage_hosing": "Hantera hosing"
+    },
+    "videos": {
+        "UsXqhNtEGfg": {
+            "desc": "En snabb 15-minuters demo av Electra Cloud, världens första molnbaserade elektriska CAD-programvara.",
+            "title": "Electra Cloud Quick Demo"
+        }
+    },
+    "templates_dev": {
+        "-Loxn7-CtNjHfsPo42wA": {
+            "name": "JIC Ritning",
+            "desc": "JIC Ritning",
+            "cat": [
+                "Schematiska ritningar"
+            ]
+        },
+        "-LoxxvRqk_lWbHufxTdS": {
+            "name": "IEC-ritning",
+            "desc": "IEC-ritning",
+            "cat": [
+                "Schematiska ritningar"
+            ]
+        }
+    },
+    "templates": {
+        "-Loxpy4vEMNvGpXMIT8k": {
+            "desc": "JIC Ritning",
+            "name": "JIC Ritning",
+            "cat": [
+                "Schematiska ritningar"
+            ]
+        },
+        "-Loxq8iCdBBrJNuBMX-F": {
+            "name": "IEC-ritning",
+            "cat": [
+                "Schematiska ritningar"
+            ],
+            "desc": "IEC-ritning"
+        },
+        "-LoxqWnpmATjjX8sjiRH": {
+            "name": "Hydraulisk ritning",
+            "cat": [
+                "Schematiska ritningar"
+            ],
+            "desc": "Hydraulisk ritning"
+        },
+        "-LoxqnRmMJ13M6IJ4y04": {
+            "cat": [
+                "Schematiska ritningar"
+            ],
+            "name": "Pneumatisk ritning",
+            "desc": "Pneumatisk ritning"
+        }
+    },
+    "tools": {
+        "create_schem": "Skapa <br /> Symbol",
+        "generate_layout": "Generera <br /> Layout",
+        "manage_db": "Klara av <br /> databaser",
+        "comp_db": "Komponent <br /> Databas",
+        "manage_comps": "Klara av <br /> Komponenter",
+        "title_blocks": "Titel <br /> Blocks",
+        "manage_wirings": "Klara av <br /> ledningar",
+        "create_layout_sym": "Skapa <br /> Layout-symbol",
+        "options": "Dokumentera <br /> alternativ",
+        "create_layout": "Skapa <br /> Layout",
+        "prefab": "Prefab <br /> Krets",
+        "electra_tools": "Verktyg",
+        "electra_export": "Exportera <br /> Rapportera",
+        "electra_import": "Importera"
     }
 }
