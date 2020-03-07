@@ -3,5 +3,673 @@
         "fr": "フランス語",
         "ja": "日本語",
         "sv": "スウェーデンの"
+    },
+    "onboard": {
+        "team_best": "クラウドベースの電気CADソフトウェア",
+        "team_start": "チームメンバーまたはクライアントを招待して、リアルタイムでコラボレーションします。 <br /><br />チームを作成して始めましょう"
+    },
+    "login": {
+        "reset_title": "Electra Cloudのパスワードのリセット",
+        "signin_title": "Electra Cloudサインイン",
+        "signup_title": "Electra Cloudサインアップ",
+        "user_disabled": "アカウントは無効になっています。これが間違いだと思われる場合は、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまで</a>ご連絡<a href=\"mailto:support@radicasoftware.com\">ください</a> 。",
+        "firebase_error": "これを見ている場合は、上のエラーのスクリーンショットを添えて<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.comに</a>連絡して<a href=\"mailto:support@radicasoftware.com\">ください</a> 。",
+        "resetting_password": "Electra Cloudパスワードのリセット"
+    },
+    "mssg": {
+        "cannot_upload": "Electra Cloudに画像をインポートするにはログインする必要があります。",
+        "prefab_create": "プレハブ回路が作成されます",
+        "license_expired": "試用版/ライセンスの有効期限が切れました。 Electra Cloudの生産性向上ツールは無効になります。",
+        "license_expired_banner": "試用版/ライセンスの有効期限が切れました。 <a href='./../../pricing'>今すぐ申し込む！</a>",
+        "cannot_edit_term_block": "端子台を編集するには、ログインする必要があります。",
+        "import_drawing": "図面のインポートには数分かかる場合があります",
+        "login_to_save_comp": "ログインして、カスタムコンポーネントをデータベースに保存してください",
+        "update_linkage": "リンケージを更新する",
+        "inserting_name": "名前を挿入"
+    },
+    "email": {
+        "on_app": "Electra Cloudで",
+        "over_limit": "アカウントが招待制限に達しました。しばらくすると、制限がリセットされます。 <br />これが間違いである場合は、support @ radicasoftware.comまでご連絡ください",
+        "with_you": "Electra Cloudであなたと",
+        "share_subject": "Electra Cloudで@@を共有しました",
+        "team_message": "Electra Cloudに参加して、チームメイトと図面を共有し、簡単にコラボレーションできます。",
+        "slogan": "Electra Cloud：どこからでも作業して生産性を向上",
+        "open_drawing": "Electra Cloudで図面を開く"
+    },
+    "verify": {
+        "landing": "Electra Cloudにアクセス",
+        "unverified_not_found": "リンクを確認できません。すでに登録されている場合があります。もう一度ログインしてください。ログインできない場合は、support @ radicasoftware.comまでご連絡ください。",
+        "successful_mssg": "Electra Cloudにサインインして、描画を開始できます。チームを招待してコラボレーションを開始することを忘れないでください。"
+    },
+    "signup": {
+        "creating_account": "Electra Cloudアカウントの作成"
+    },
+    "dash": {
+        "created_template": "テンプレートが正常に作成されました。"
+    },
+    "noti": {
+        "permission_given": "プッシュ通知が有効になりました。 <br /> Electra Cloudにようこそ！",
+        "request_permission": "こんにちは @@、 <br /><br />チームメイトがチームまたは抽選で変更を行うと、Electra Cloudから通知を受けます。 <br /><br />デスクトップ通知を有効にしますか？"
+    },
+    "ui": {
+        "sample_0": "エレクトラのサンプル図面",
+        "app_name": "エレクトラクラウド",
+        "stencil": "ステンシル",
+        "slogan": "クラウドベースの電気CADソフトウェア",
+        "electrical": "電気的",
+        "pneumatic": "空気圧",
+        "hydraulic": "油圧式",
+        "terminal": "ターミナル",
+        "all_pages": "すべてのページ",
+        "sort": "ソート",
+        "category": "カテゴリー",
+        "add_comp": "新しいコンポーネントを追加",
+        "del_comp": "コンポーネントを削除",
+        "comp_db": "コンポーネントデータベース",
+        "sort_by": "並び替え",
+        "this_page": "このページ",
+        "edit_comp": "コンポーネントを編集",
+        "sorting_shapes": "図形の並べ替え",
+        "confirm_del_comp": "このコンポーネントを削除してもよろしいですか？",
+        "add_cat": "カテゴリを追加",
+        "updating_comp": "コンポーネントの更新",
+        "confirm_del_cat": "このカテゴリを削除してもよろしいですか？",
+        "confirm_del_cat_comp": "このコンポーネントをカテゴリから削除してもよろしいですか？",
+        "rem_cat_comp": "カテゴリからコンポーネントを削除",
+        "updating_cat": "カテゴリを更新しています",
+        "removing_comp": "コンポーネントの削除",
+        "removing_cat": "カテゴリを削除しています",
+        "add_to": "追加",
+        "del_cat": "カテゴリーを削除",
+        "model": "モデル",
+        "edit_cat": "カテゴリーを編集",
+        "cat_name": "種別名",
+        "cat_comp_existed": "コンポーネントはカテゴリに既に存在します",
+        "rating": "格付け",
+        "brand": "ブランド",
+        "order_no": "注文番号",
+        "get_layouts": "レイアウト図形を取得する",
+        "create_layout": "レイアウトシンボルの作成",
+        "layshape": "レイアウト形状",
+        "supplier": "サプライヤー",
+        "remarks": "備考",
+        "help_dimension": "すべての主要ユニットを受け入れます。例えば。 2 mm、2 in、2 cmなど",
+        "price": "価格",
+        "diameter": "直径",
+        "include_layout": "レイアウトにコンポーネントを含める",
+        "quantity": "量",
+        "layout": "レイアウト",
+        "comp_name": "コンポーネント名",
+        "add": "追加",
+        "symbol": "シンボル",
+        "no_desc": "説明なし",
+        "select": "選択する",
+        "default_verti": "デフォルトで垂直",
+        "insert_sym_menu": "水平/垂直メニューを挿入",
+        "get_comp": "コンポーネントの入手",
+        "pin": "ピン名",
+        "symbol_type": "シンボルタイプ",
+        "default_ref": "デフォルトの参照",
+        "combine_shapes": "複数の図形が選択されました。それらを1つの形状に結合しますか？",
+        "create_sym": "シンボルを作成",
+        "invalid_sym_name": "ゼロの長さまたは空の文字列はシンボル名に使用できません",
+        "show_all_comp": "すべて表示する",
+        "invalid_size": "無効なサイズ単位。有効なサイズの単位は、10mm、20in、30cmなどです。",
+        "generate_symbol": "生成記号",
+        "search_comp": "検索コンポーネント",
+        "invalid_value": "無効な値",
+        "invalid_default_ref": "デフォルトの参照には長さゼロまたは空の文字列は許可されません",
+        "desc_text": "説明テキスト",
+        "text_pos": "テキスト位置",
+        "help_pin_names": "例えば13、23、33。ピンセット名はカンマで区切ります。",
+        "sym_priority": "優先度",
+        "text_orient": "テキストの向き",
+        "add_pin_names": "このシンボルのピン名を追加しますか？",
+        "no_conn_pts": "接続ポイントが見つかりません",
+        "generate_all": "すべて生成",
+        "loc_type": "ロケーションタイプ",
+        "select_comp": "コンポーネントを選択",
+        "generate": "生む",
+        "sym_name": "シンボル名",
+        "selected_comp": "選択されたコンポーネント",
+        "hose_name": "ホース名",
+        "sym_prompt": "記号プロンプト",
+        "wire_name": "ワイヤー名",
+        "tube_name": "チューブ名",
+        "cur_name": "現在の名前",
+        "hide_wire_name": "ワイヤー名を非表示",
+        "verti": "垂直",
+        "horiz": "横",
+        "hide_hose_name": "ホース名を非表示",
+        "show": "公演",
+        "exists_tubes": "既存のチューブ名",
+        "exists_hoses": "既存のホース名",
+        "click_wire": "ワイヤー名をクリックして場所を表示します",
+        "click_tube": "チューブ名をクリックして場所を表示します",
+        "click_hose": "ホース名をクリックして場所を表示します",
+        "exists_wires": "既存のワイヤ名",
+        "location": "ロケーション",
+        "hide_tube_name": "チューブ名を非表示",
+        "no_name": "ノーネーム",
+        "ref": "参照",
+        "component": "成分",
+        "set_no_name": "NoNameに設定",
+        "shapes": "形",
+        "hide_desc": "説明を非表示",
+        "this_shape": "この形",
+        "selected_ref": "選択した参照の形状",
+        "refs": "参照資料",
+        "all_shapes": "すべての形状",
+        "hide_ref": "参照を非表示",
+        "use_page_prefix": "ページのプレフィックスを使用",
+        "select_pin": "ピンセットを選択します。 （その他のオプションを右クリックします）",
+        "set_pin_names": "ピン名を設定する",
+        "show_pin": "ピン名を表示",
+        "hide_pin": "ピン名を非表示",
+        "add_pin": "新しいピンセット",
+        "use_panel_prefix": "パネルプレフィックスを使用",
+        "edit_pin": "ピンセットを編集",
+        "del_pin": "ピンセットを削除",
+        "locate_ref": "参照を見つける",
+        "no_shape_for_ref": "参照用の形状が見つかりません@@",
+        "loc_col": "列の場所を配置する",
+        "connector": "コネクタ",
+        "ref_not_found": "参照が見つかりません",
+        "max_inc": "最大インクリメント",
+        "incorrect_pin": "間違ったピン数",
+        "plc_mod": "PLCモジュール",
+        "num_points": "ポイント数",
+        "plc_point": "初期点",
+        "save_as_new_comp": "新しいコンポーネントとして保存",
+        "close": "閉じる",
+        "right": "正しい",
+        "save_comp": "コンポーネントデータへの変更を保存しますか？",
+        "spacing": "間隔",
+        "disable_pl": "パイロットライトを非表示",
+        "bottom": "底",
+        "top": "上",
+        "left": "左",
+        "width": "幅",
+        "qty_pos": "数量ポジション",
+        "grouping": "グルーピング",
+        "panel": "パネル",
+        "ref_pos": "基準位置",
+        "insert_data": "すべてのデータを図面に挿入する",
+        "no_comp": "コンポーネントが見つかりません",
+        "manage_comps": "コンポーネントを管理する",
+        "gen_layout": "レイアウトを生成する",
+        "group": "グループ",
+        "gen_lay_new_page": "新しいページに生成",
+        "term_per_row": "行ごとのターミナル",
+        "start_num": "開始番号",
+        "scan_terms": "スキャン端末",
+        "suffix_char": "サフィックス文字（オプション、コンマ区切り）",
+        "renum_list": "ターミナルの番号を変更する",
+        "gen_term_lists": "ターミナルブロックリストの生成",
+        "get_wire_link": "ワイヤーリンクの取得",
+        "wire_link": "ワイヤーリンク",
+        "gen_tlist": "ターミナルブロックリストの生成",
+        "hide_tblock_txt": "端子台参照を非表示",
+        "available_link": "利用可能なリンク",
+        "no_shape": "形状を選択してください",
+        "name_label": "ワイヤ名-場所",
+        "show_all": "すべてのリンクを表示",
+        "create_tdata": "タイトルブロックデータを挿入する",
+        "def_val": "デフォルト値",
+        "prompt": "促す",
+        "create_tblock": "タイトルブロックを作成する",
+        "dup_names_mssg": "グループ化されたタイトルブロックには、重複したデータ名を持つブロックが含まれます。\nグループ化を解除して編集し、すべてのブロックに一意のデータ名を付けてください。",
+        "dup_names": "重複したデータ名",
+        "units_help": "in、cm、mm、pxを受け入れます",
+        "auto_resize": "自動in / mm / cm / metersサイズ変更",
+        "wire_propagation": "自動ワイヤ伝播および検出",
+        "gen_tblock": "タイトルブロックの生成",
+        "loc_info_1": "エレクトラは、形状の位置に基づいてリストします",
+        "general_options": "一般的なオプション",
+        "loc_info_3": "要件に応じた長さと間隔",
+        "loc_format_help": "例：/3.A5",
+        "loc_info_2": "非表示のグリッドで、グリッドの開始を設定します",
+        "ref_pop_up": "ドロップ時のポップアップ参照ウィンドウ",
+        "page_prefix_wires": "ワイヤーで有効にする",
+        "enable_panel_prefix": "参照のパネルプレフィックスを有効にする",
+        "page_prefix_ref": "参照で有効にする",
+        "sym_split_wire": "シンボルをドロップするときにワイヤーを分割する",
+        "straighten_wire": "ワイヤを自動的に調整して真っ直ぐにする",
+        "ask_create_cable": "利用可能なケーブルコアがない場合のアクションを求めるポップアップ",
+        "renum_lzone": "ラダーゾーン内で移動すると、シンボル/ワイヤの番号を自動的に付け直す",
+        "term_split_wire": "端子を落とすときにワイヤーを分割する",
+        "page_prefix": "ページプレフィックス",
+        "conn_dot": "ワイヤの接続ドットを自動的に管理します",
+        "wire_sep": "ワイヤー用セパレーター",
+        "wire_sep_help": "区切り文字には数値を含めることはできません。 0-9",
+        "placement_offset": "初期配置オフセット",
+        "auto_placement": "レールにレイアウトシンボルを自動的に配置する",
+        "wire_tab": "ワイヤ名/シンボル参照",
+        "tube_tab": "チューブ名/ホース名",
+        "auto_rename": "自動名前変更",
+        "from": "から",
+        "to": "に",
+        "cross_ref": "相互参照レポート",
+        "mat_ref_report": "資料参照レポート",
+        "reuse_existing": "既存のレポートを再利用する",
+        "remove_existing": "既存のレポートを削除して新しいレポートを生成する",
+        "ignore_existing": "既存のレポートを無視または保持し、新しいレポートを生成します",
+        "get_syms_info": "シンボル情報を取得する",
+        "listing": "リスティング",
+        "exporting_report": "レポートのエクスポート",
+        "bom_report": "部品表",
+        "select_all": "すべて選択",
+        "generating_report": "レポートを生成しています",
+        "generating_layout": "レイアウトの生成",
+        "creating_prefab": "プレハブ回路の作成",
+        "single_sym": "単一のシンボルが選択されました。さらにシンボルが必要です。",
+        "no_shape_selected": "図形が選択されていません",
+        "location_format": "ロケーション形式",
+        "saved_comp": "保存されたコンポーネント",
+        "document_options_help": "Electraは、目に見えないグリッドに基づいて形状の位置をリストし、グリッドの開始の長さと間隔を要件に設定します",
+        "scanning": "走査",
+        "separator": "セパレーター",
+        "comp_db_help": "コンポーネントをカテゴリにドラッグアンドドロップして、コンポーネントを整理します。 <br/>その他のオプションについては、コンポーネントを右クリックします。",
+        "hoses": "ホース",
+        "create_layout_sym": "レイアウトシンボルを作成する",
+        "previous": "前",
+        "invalid_prefix": "無効なページプレフィックス",
+        "tubes": "チューブ",
+        "duplicate_laysym_name": "名前のレイアウトシンボルが既に存在します。もう一度やり直してください",
+        "auto_rename_help": "選択して元の名前を保持し、選択を解除して名前を変更します",
+        "invalid_prefix_content": "無効なページ番号。 <br/>この図形のページプレフィックスは自動的に更新されません。",
+        "wires": "ワイヤー",
+        "error_layout_sym": "選択された形状は、レイアウト記号または通常の形状ではありません",
+        "is_circle": "形状は円です",
+        "core_names": "コア名",
+        "hosing_info": "ホース情報",
+        "tubing_info": "チューブ情報",
+        "cable_info": "ケーブル情報",
+        "core_names_help": "カンマ区切り、例：赤、黄、青",
+        "gauge": "サイズ/ゲージ",
+        "core_name": "コア名",
+        "cores": "コア",
+        "insert_horizontal_menu": "水平/垂直メニューを挿入",
+        "connect_to": "に接続します",
+        "cable": "ケーブル",
+        "show_only": "表示のみ",
+        "tubing": "チューブ",
+        "insert": "インサート",
+        "none": "なし",
+        "tube_db": "チューブデータベース",
+        "hosing": "ホース",
+        "cable_db": "ケーブルデータベース",
+        "filter_by": "フィルター",
+        "hose_db": "ホースデータベース",
+        "delete_cable": "ケーブルを削除",
+        "edit_tubing": "チューブを編集",
+        "edit_cable": "ケーブルを編集",
+        "new_cable": "新しいケーブル",
+        "save_new_cable": "新しいケーブルとして保存",
+        "delete_tubing": "チューブを削除",
+        "save_new_tubing": "新しいチューブとして保存",
+        "view_edit": "表示/編集",
+        "new_tubing": "新しいチューブ",
+        "delete_hosing": "ホースを削除",
+        "save_new_hosing": "新しいホースとして保存",
+        "edit_hosing": "ホースの編集",
+        "invalid_cable_name": "ケーブル名は空にできません",
+        "updating_db": "データベースの更新",
+        "invalid_core": "無効なコア名",
+        "confirm_del_cable": "消去してもよろしいですか @@？",
+        "arrange": "アレンジ",
+        "removing": "取りはずし",
+        "new_hosing": "新しいホース",
+        "rung_height": "ラングハイト",
+        "set_numbers": "番号を設定",
+        "rung_width": "ラング幅",
+        "rung_count_horiz": "ラング数（水平）",
+        "arrange_cores_help": "ワイヤーをドラッグアンドドロップして配置します。 <br/>上にドラッグして削除します。 <br/>上から左にドラッグして挿入します。",
+        "core_list_label": "コア名ワイヤー名-場所",
+        "set_ladder_zone": "ラダーゾーンを設定する",
+        "first_rung": "最初のラング",
+        "rung_count_vert": "ラング数（垂直）",
+        "arrange_cores": "コアを配置する",
+        "rung_increment": "ラング増分",
+        "getting_connections": "接続リストの取得",
+        "save_wire": "変更をワイヤーに保存しますか？",
+        "comp_id": "コンポーネントID",
+        "cable_id": "ケーブルID",
+        "rung_count_error": "ラングカウント値が無効です。ラングカウントは2以上である必要があります",
+        "steps": "手順",
+        "assign_wire_core": "現在のワイヤをコアに割り当ててください",
+        "hose_id": "ホースID",
+        "first_step": "最初の一歩",
+        "tube_id": "チューブID",
+        "always_new_cable": "これを再度聞かないで、常に新しいケーブルを割り当ててください",
+        "hide_default_cable": "デフォルトのケーブルを隠す",
+        "getting_cable": "ケーブル情報を取得する",
+        "no_more_core": "ワイヤに割り当てられたケーブルには、使用可能なコアがありません。 <br/>新しいケーブルを割り当てるか、ケーブルを取り外すかを選択してください。",
+        "wire": "ワイヤー",
+        "remove_cable": "ケーブルを取り外す",
+        "tube": "チューブ",
+        "assign_new_cable": "新しいケーブルを割り当てる",
+        "hose": "ホース",
+        "cable_info_as_col": "ケーブル情報を列として表示する",
+        "hosing_ref": "ハウジング参照レポート",
+        "tubing_ref": "チューブ参照レポート",
+        "hide_default_hosing": "デフォルトのホースを非表示",
+        "cable_ref": "ケーブル参照レポート",
+        "tubing_bom": "チューブ部品表（BOM）レポート",
+        "cable_bom": "ケーブル部品表（BOM）レポート",
+        "tubing_info_as_col": "チューブ情報を列として表示する",
+        "hide_default_tubing": "デフォルトのチューブを非表示",
+        "hosing_info_as_col": "ホース情報を列として表示する",
+        "connections_report": "接続レポート",
+        "hosing_bom": "部品表（BOM）レポートのホース",
+        "all_core_names": "すべてのコア名",
+        "cable_gauge": "ケーブルサイズ/ゲージ",
+        "num_of_cores": "コアの数",
+        "hosing_length": "ホース長",
+        "cable_length": "ケーブルの長さ",
+        "tubing_length": "チューブ長",
+        "tubing_gauge": "チューブサイズ/ゲージ",
+        "hosing_gauge": "ホースサイズ/ゲージ",
+        "amount": "量",
+        "tube_loc": "チューブの場所",
+        "from_loc": "場所（から）",
+        "hosing_name": "ホース名",
+        "core_no": "コア番号",
+        "cable_name": "ケーブル名",
+        "wire_loc": "ワイヤーの場所",
+        "from_ref": "参照（From）",
+        "tubing_name": "チューブ名",
+        "hose_loc": "ホースの場所",
+        "to_pin": "ピン名（To）",
+        "err_layshape_wire": "選択された形状はワイヤーです。ワイヤーをレイアウト形状にすることはできません",
+        "scan_connections": "接続のスキャン",
+        "to_ref": "への参照）",
+        "err_layshape_symbol": "選択された形状はシンボルです。シンボルをレイアウト形状にすることはできません",
+        "pin_name": "ピン名",
+        "to_loc": "ロケーション（To）",
+        "err_layshape_tube": "選択された形状はチューブです。チューブをレイアウト形状にすることはできません",
+        "err_layshape_hose": "選択された形状はホースです。ホースをレイアウト形状にすることはできません",
+        "from_pin": "ピン名（From）",
+        "invalid_symtype": "無効なシンボルタイプ",
+        "insert_name": "名前を挿入",
+        "insert_hose": "次のホース名を挿入することを確認してください（他のすべての名前は元に戻されます）。 <br/><br/>",
+        "no_stencil_id": "ステンシルIDを入力してください",
+        "searching": "検索中",
+        "insert_wire": "次のワイヤ名を挿入することを確認してください（他のワイヤ名はすべて元に戻ります）。 <br/><br/>",
+        "err_layshape_terminal": "選択された形状はターミナルです。端末をレイアウト形状にすることはできません",
+        "error_connects_pin": "ピンと接続ポイントは同じ量にする必要があります",
+        "insert_tube": "次のチューブ名の挿入を確認してください（他のすべてのチューブは元に戻されます）： <br/><br/>",
+        "error_pin": "オプションでピンを提供してください",
+        "search_layout": "検索レイアウト",
+        "edit": "編集",
+        "csv": "コンマ区切り値（* .csv）",
+        "reading_comp": "読書コンポーネント",
+        "export_format": "エクスポート形式",
+        "tsv": "タブ区切り値（* .tsv）"
+    },
+    "dialog": {
+        "help_title": "エレクトラヘルプ"
+    },
+    "plugin": {
+        "plugin_10": {
+            "desc": "1クリックで、分度器を使用して放射状グリッドを円に挿入します",
+            "cat": [
+                "生産性向上ツール"
+            ]
+        },
+        "plugin_6": {
+            "desc": "データを入力すると、プレゼンテーション用の折れ線グラフが準備できます"
+        },
+        "plugin_15": {
+            "desc": "リストのすべてのアイテムを書き留め、このプラグインを実行すると、きちんとした箇条書きリストになります！",
+            "cat": [
+                "生産性向上ツール"
+            ]
+        },
+        "plugin_12": {
+            "desc": "図形を指定された範囲で均等に配置して、図面をすばやく整えます",
+            "cat": [
+                "生産性向上ツール"
+            ]
+        },
+        "plugin_7": {
+            "desc": "データを入力すると、ストーリーを伝えるための円グラフが作成されます！"
+        }
+    },
+    "preload": {
+        "slack": "ElectraとSlackを統合してコラボレーションを改善",
+        "plugins": "Javascriptベースのプラグインで図面を自動化する",
+        "create-and-invite-team": "Electraでチームを立ち上げて実行するようにメンバーを招待する",
+        "create-symbol": "シンボルの作成を使用して、インテリジェンスとデータをカスタムシンボルに自動的に挿入します",
+        "drag-and-drop": "Electraは簡単なドラッグアンドドロップで動作し、トレーニングは不要です",
+        "dxf-import-and-export": "DXFをElectraにインポートし、そこからエクスポートします",
+        "generate-report": "ElectraでBOMおよびその他のレポートを簡単に生成して時間を節約",
+        "terminal-list": "Electraでは、ターミナルの使用と生成は簡単です",
+        "generate-layout": "シングルクリックでパネルレイアウトを自動生成"
+    },
+    "tips": {
+        "create_schem": {
+            "icon": "回路図シンボルを作成"
+        },
+        "create_layout_sym": {
+            "icon": "レイアウトシンボルを作成する"
+        },
+        "generate_layout": {
+            "icon": "レイアウトを生成する"
+        },
+        "options": {
+            "icon": "ドキュメントオプション"
+        },
+        "manage_comps": {
+            "icon": "コンポーネントを管理する"
+        },
+        "title_blocks": {
+            "icon": "タイトルブロック"
+        },
+        "electra_export": {
+            "icon": "レポートをエクスポート"
+        },
+        "comp_db": {
+            "icon": "コンポーネントデータベース"
+        }
+    },
+    "stencil": {
+        "stencil_68": {
+            "desc": ""
+        },
+        "stencil_223": {
+            "name": "ワイヤー",
+            "desc": ""
+        },
+        "stencil_227": {
+            "name": "IEC電源、メーター、変圧器、モーター",
+            "desc": "",
+            "cat": [
+                "IEC"
+            ]
+        },
+        "stencil_225": {
+            "name": "IECシンボル",
+            "cat": [
+                "IEC"
+            ],
+            "desc": ""
+        },
+        "stencil_226": {
+            "desc": "",
+            "name": "電子機器のシンボル"
+        },
+        "stencil_224": {
+            "name": "JICシンボル",
+            "desc": ""
+        },
+        "stencil_228": {
+            "cat": [
+                "IEC"
+            ],
+            "name": "IECアイソレータ、ディスコネクタ、ヒューズ、コンタクタ、過負荷",
+            "desc": ""
+        },
+        "stencil_229": {
+            "desc": "",
+            "name": "単線記号"
+        },
+        "stencil_230": {
+            "name": "レイアウト",
+            "cat": [
+                "レイアウト"
+            ],
+            "desc": ""
+        },
+        "stencil_231": {
+            "name": "レイアウト3D",
+            "cat": [
+                "レイアウト"
+            ],
+            "desc": ""
+        },
+        "stencil_232": {
+            "desc": "",
+            "name": "空気圧ポンプ、シリンダー、モーター",
+            "cat": [
+                "空気圧"
+            ]
+        },
+        "stencil_234": {
+            "name": "空気圧その他",
+            "desc": "",
+            "cat": [
+                "空気圧"
+            ]
+        },
+        "stencil_233": {
+            "cat": [
+                "空気圧"
+            ],
+            "desc": "",
+            "name": "空気圧バルブ"
+        },
+        "stencil_235": {
+            "name": "油圧その他",
+            "cat": [
+                "油圧式"
+            ],
+            "desc": ""
+        },
+        "stencil_236": {
+            "cat": [
+                "油圧式"
+            ],
+            "name": "油圧バルブ",
+            "desc": ""
+        },
+        "stencil_237": {
+            "desc": "",
+            "cat": [
+                "油圧式"
+            ],
+            "name": "油圧ポンプ、シリンダー、モーター"
+        },
+        "stencil_246": {
+            "desc": "エレクトラレポート",
+            "name": "報告書"
+        },
+        "stencil_247": {
+            "desc": "",
+            "name": "プレハブ回路"
+        }
+    },
+    "drop": {
+        "mat_ref_report": "資料参照レポート",
+        "create_tdata": "タイトルブロックデータを挿入する",
+        "cross_ref": "相互参照レポート",
+        "create_tblock": "タイトルブロックを作成する",
+        "tubing_bom_report": "チューブの部品表（BOM）レポート",
+        "cable_bom_report": "ケーブル部品表（BOM）レポート",
+        "cable_ref_report": "ケーブル参照レポート",
+        "hydraulic_connections_report": "油圧接続レポート",
+        "hosing_ref_report": "ハウジング参照レポート",
+        "pneumatic_connections_report": "空気圧接続レポート",
+        "bom_report": "部品表（BOM）レポート",
+        "tubing_ref_report": "チューブ参照レポート",
+        "hosing_bom_report": "ホース部品表（BOM）レポート",
+        "electrical_connections_report": "電気接続レポート",
+        "cable_db": "ケーブルデータベース",
+        "hosing_db": "ホースデータベース",
+        "manage_cable": "ケーブルを管理する",
+        "manage_hosing": "ホースを管理する",
+        "comp_db": "コンポーネントデータベース",
+        "tubing_db": "チューブデータベース",
+        "manage_tubing": "チューブを管理する",
+        "view_edit": "表示および編集",
+        "export_as_tsv": "TSVとしてエクスポート"
+    },
+    "templates_dev": {
+        "-Loxn7-CtNjHfsPo42wA": {
+            "name": "JIC図面",
+            "desc": "JIC図面",
+            "cat": [
+                "回路図"
+            ]
+        },
+        "-LoxxvRqk_lWbHufxTdS": {
+            "name": "IEC図面",
+            "desc": "IEC図面",
+            "cat": [
+                "回路図"
+            ]
+        }
+    },
+    "videos": {
+        "UsXqhNtEGfg": {
+            "desc": "世界初のクラウドベースの電気CADソフトウェアであるElectra Cloudの15分間の簡単なデモ。",
+            "title": "Electra Cloudクイックデモ"
+        }
+    },
+    "templates": {
+        "-Loxpy4vEMNvGpXMIT8k": {
+            "name": "JIC図面",
+            "desc": "JIC図面",
+            "cat": [
+                "回路図"
+            ]
+        },
+        "-LoxqWnpmATjjX8sjiRH": {
+            "desc": "油圧図面",
+            "name": "油圧図面",
+            "cat": [
+                "回路図"
+            ]
+        },
+        "-Loxq8iCdBBrJNuBMX-F": {
+            "desc": "IEC図面",
+            "name": "IEC図面",
+            "cat": [
+                "回路図"
+            ]
+        },
+        "-LoxqnRmMJ13M6IJ4y04": {
+            "name": "空気圧図面",
+            "desc": "空気圧図面",
+            "cat": [
+                "回路図"
+            ]
+        }
+    },
+    "tools": {
+        "create_layout_sym": "作成する<br />レイアウト記号",
+        "generate_layout": "生む<br />レイアウト",
+        "manage_comps": "管理する<br />構成部品",
+        "create_schem": "作成する<br />シンボル",
+        "comp_db": "成分<br />データベース",
+        "options": "資料<br />オプション",
+        "manage_db": "管理する<br />データベース",
+        "prefab": "プレハブ<br />回路",
+        "electra_import": "インポート",
+        "electra_export": "書き出す<br />報告する",
+        "title_blocks": "題名<br />ブロック",
+        "create_layout": "作成する<br />レイアウト",
+        "manage_wirings": "管理する<br />配線",
+        "electra_tools": "道具"
     }
 }
