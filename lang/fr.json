@@ -3,5 +3,673 @@
         "fr": "français",
         "ja": "Japonais",
         "sv": "suédois"
+    },
+    "login": {
+        "reset_title": "Electra Cloud réinitialiser le mot de passe",
+        "signin_title": "Connexion à Electra Cloud",
+        "resetting_password": "Réinitialisation du mot de passe Electra Cloud",
+        "user_disabled": "Votre compte a été désactivé. Si vous pensez que c&#39;est une erreur, veuillez contacter <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .",
+        "signup_title": "Inscription à Electra Cloud",
+        "firebase_error": "Si vous voyez cela, veuillez contacter <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> avec une capture d&#39;écran de l&#39;erreur ci-dessus."
+    },
+    "mssg": {
+        "cannot_upload": "Vous devez être connecté pour importer des images dans Electra Cloud.",
+        "cannot_edit_term_block": "Vous devez être connecté pour modifier le bornier.",
+        "prefab_create": "Un circuit préfabriqué est créé",
+        "update_linkage": "Mise à jour des liens",
+        "login_to_save_comp": "Veuillez vous connecter pour enregistrer votre composant personnalisé dans la base de données",
+        "license_expired": "Version d'essai / licence expirée. Les outils de productivité d'Electra Cloud seront désactivés.",
+        "import_drawing": "L'importation d'un dessin peut prendre quelques minutes",
+        "inserting_name": "Insérer un nom",
+        "license_expired_banner": "Version d&#39;essai / licence expirée. <a href='./../../pricing'>Abonnez-vous maintenant!</a>"
+    },
+    "onboard": {
+        "team_start": "Invitez un membre de votre équipe ou un client à collaborer en temps réel. <br /><br /> Commençons par créer votre équipe",
+        "team_best": "Logiciel de CAO électrique basé sur le cloud"
+    },
+    "signup": {
+        "creating_account": "Création d'un compte Electra Cloud"
+    },
+    "verify": {
+        "unverified_not_found": "Nous ne pouvons pas vérifier votre lien. Vous avez peut-être déjà été enregistré chez nous. Veuillez réessayer de vous connecter. Si vous ne parvenez pas à vous connecter, veuillez nous contacter à support@radicasoftware.com.",
+        "landing": "Accéder à Electra Cloud",
+        "successful_mssg": "Vous pouvez maintenant vous connecter à Electra Cloud et commencer à dessiner. N'oubliez pas d'inviter votre équipe et de commencer à collaborer."
+    },
+    "email": {
+        "slogan": "Electra Cloud: travaillez où que vous soyez pour une productivité accrue",
+        "on_app": "sur Electra Cloud",
+        "with_you": "avec vous sur Electra Cloud",
+        "over_limit": "Votre compte a atteint notre limite d&#39;invitation. La limite sera réinitialisée après un certain temps. <br /> S&#39;il s&#39;agit d&#39;une erreur, veuillez contacter support@radicasoftware.com",
+        "team_message": "Rejoignez Electra Cloud pour partager et collaborer facilement sur des dessins avec vos coéquipiers.",
+        "open_drawing": "Ouvrir le dessin dans Electra Cloud",
+        "share_subject": "a partagé @@ avec vous sur Electra Cloud"
+    },
+    "dash": {
+        "created_template": "Le modèle a été créé avec succès."
+    },
+    "ui": {
+        "app_name": "Electra Cloud",
+        "sample_0": "Dessin d'échantillon Electra",
+        "pneumatic": "Pneumatique",
+        "stencil": "Pochoir",
+        "electrical": "Électrique",
+        "slogan": "Logiciel de CAO électrique basé sur le cloud",
+        "hydraulic": "Hydraulique",
+        "sorting_shapes": "Tri des formes",
+        "this_page": "Cette page",
+        "comp_db": "Base de données des composants",
+        "terminal": "Terminal",
+        "all_pages": "Toutes les pages",
+        "del_comp": "Supprimer le composant",
+        "removing_comp": "Suppression d'un composant",
+        "confirm_del_comp": "Voulez-vous vraiment supprimer ce composant?",
+        "category": "Catégorie",
+        "updating_comp": "Mise à jour du composant",
+        "confirm_del_cat": "Voulez-vous vraiment supprimer cette catégorie?",
+        "sort_by": "Trier par",
+        "add_comp": "Ajouter un nouveau composant",
+        "sort": "Trier",
+        "edit_comp": "Modifier le composant",
+        "get_layouts": "Obtention de formes de mise en page",
+        "add_cat": "Ajouter une catégorie",
+        "add_to": "Ajouter à",
+        "edit_cat": "Modifier la catégorie",
+        "cat_name": "Nom de catégorie",
+        "updating_cat": "Mise à jour de la catégorie",
+        "rem_cat_comp": "Supprimer le composant de la catégorie",
+        "del_cat": "Supprimer la catégorie",
+        "confirm_del_cat_comp": "Voulez-vous vraiment supprimer ce composant de la catégorie?",
+        "removing_cat": "Suppression d'une catégorie",
+        "model": "Modèle",
+        "brand": "Marque",
+        "create_layout": "Création d'un symbole de disposition",
+        "price": "Prix",
+        "supplier": "Fournisseur",
+        "remarks": "Remarques",
+        "order_no": "N ° de commande",
+        "layout": "Disposition",
+        "cat_comp_existed": "Le composant existe déjà dans la catégorie",
+        "rating": "Évaluation",
+        "include_layout": "Inclure un composant dans la présentation",
+        "layshape": "Forme de mise en page",
+        "quantity": "Quantité",
+        "symbol": "symbole",
+        "pin": "Nom de broche",
+        "diameter": "Diamètre",
+        "help_dimension": "Accepte toutes les unités principales. Par exemple. 2 mm, 2 pouces, 2 cm etc.",
+        "add": "Ajouter",
+        "get_comp": "Obtenir des composants",
+        "comp_name": "Nom du composant",
+        "create_sym": "Créer un symbole",
+        "insert_sym_menu": "Insérer un menu horizontal / vertical",
+        "search_comp": "Rechercher des composants",
+        "generate_symbol": "Génération d'un symbole",
+        "no_desc": "Pas de description",
+        "default_verti": "Vertical par défaut",
+        "show_all_comp": "Afficher tout",
+        "default_ref": "Référence par défaut",
+        "select": "Sélectionner",
+        "symbol_type": "Type de symbole",
+        "invalid_value": "Valeur invalide",
+        "combine_shapes": "Plusieurs formes sélectionnées. Voulez-vous les combiner en une seule forme?",
+        "invalid_size": "Unités de taille non valides. Les unités de taille valides sont 10 mm, 20 pouces, 30 cm, etc.",
+        "generate_all": "Générer tout",
+        "add_pin_names": "Voulez-vous ajouter des noms d'épingles pour ce symbole?",
+        "invalid_default_ref": "Longueur nulle ou chaînes vides non autorisées pour la référence par défaut",
+        "generate": "produire",
+        "help_pin_names": "par exemple. 13, 23, 33. Séparez les noms des jeux de broches par une virgule.",
+        "invalid_sym_name": "Zéro longueur ou chaînes vides non autorisées pour le nom du symbole",
+        "desc_text": "Texte de description",
+        "selected_comp": "Composant sélectionné",
+        "select_comp": "Sélectionnez un composant",
+        "loc_type": "Type de lieu",
+        "text_pos": "Position du texte",
+        "sym_priority": "Priorité",
+        "sym_name": "Nom du symbole",
+        "sym_prompt": "Invite de symbole",
+        "verti": "Verticale",
+        "no_conn_pts": "Aucun point de connexion trouvé",
+        "text_orient": "Orientation du texte",
+        "hose_name": "Nom du tuyau",
+        "click_wire": "Cliquez sur un nom de fil pour afficher l'emplacement",
+        "show": "Spectacle",
+        "wire_name": "Nom du fil",
+        "horiz": "Horizontal",
+        "tube_name": "Nom du tube",
+        "hide_hose_name": "Masquer le nom du tuyau",
+        "cur_name": "Nom actuel",
+        "hide_wire_name": "Masquer le nom du fil",
+        "hide_tube_name": "Masquer le nom du tube",
+        "exists_tubes": "Noms des tubes existants",
+        "click_hose": "Cliquez sur un nom de tuyau pour afficher l'emplacement",
+        "shapes": "Formes",
+        "exists_hoses": "Noms des flexibles existants",
+        "no_name": "Sans nom",
+        "click_tube": "Cliquez sur un nom de tube pour afficher l'emplacement",
+        "exists_wires": "Noms de fils existants",
+        "set_no_name": "Défini sur NoName",
+        "location": "Emplacement",
+        "ref": "Référence",
+        "this_shape": "Cette forme",
+        "all_shapes": "Toutes les formes",
+        "refs": "Les références",
+        "selected_ref": "Formes pour la référence sélectionnée",
+        "set_pin_names": "Définir les noms des broches",
+        "hide_desc": "Masquer la description",
+        "component": "Composant",
+        "use_page_prefix": "Utiliser le préfixe de page",
+        "use_panel_prefix": "Utiliser le préfixe du panneau",
+        "hide_ref": "Masquer la référence",
+        "hide_pin": "Masquer les noms des broches",
+        "edit_pin": "Modifier le jeu de broches",
+        "show_pin": "Afficher les noms des broches",
+        "ref_not_found": "Référence introuvable",
+        "loc_col": "Organiser les emplacements dans la ou les colonnes",
+        "select_pin": "Sélectionnez le jeu de broches. (Faites un clic droit pour plus d'options)",
+        "locate_ref": "Localiser la référence",
+        "incorrect_pin": "Nombre de broches incorrect",
+        "add_pin": "Nouveau jeu de broches",
+        "del_pin": "Supprimer le jeu de broches",
+        "plc_point": "Point initial",
+        "width": "Largeur",
+        "max_inc": "Max. Incrément",
+        "connector": "Connecteur",
+        "save_as_new_comp": "Enregistrer en tant que nouveau composant",
+        "plc_mod": "Module PLC",
+        "num_points": "Nombre de points",
+        "spacing": "Espacement",
+        "no_shape_for_ref": "Aucune forme trouvée pour la référence @@",
+        "disable_pl": "Masquer les veilleuses",
+        "save_comp": "Enregistrer les modifications apportées aux données des composants?",
+        "gen_layout": "Générer la mise en page",
+        "manage_comps": "Gérer les composants",
+        "right": "Droite",
+        "close": "Fermer",
+        "left": "La gauche",
+        "ref_pos": "Position de référence",
+        "qty_pos": "Position de la quantité",
+        "bottom": "Bas",
+        "top": "Haut",
+        "grouping": "Regroupement",
+        "term_per_row": "Terminaux par ligne",
+        "gen_tlist": "Générer une liste de borniers",
+        "gen_term_lists": "Génération de la liste des borniers",
+        "gen_lay_new_page": "Générer vers une nouvelle page",
+        "no_comp": "Aucun composant trouvé",
+        "insert_data": "Insérer toutes les données dans le dessin",
+        "panel": "Panneau",
+        "group": "Groupe",
+        "scan_terms": "Terminaux de numérisation",
+        "hide_tblock_txt": "Masquer la référence du bornier",
+        "renum_list": "Renuméroter les terminaux",
+        "wire_link": "Liaison filaire",
+        "suffix_char": "Caractères de suffixe (facultatif, séparés par des virgules)",
+        "show_all": "Afficher tous les liens",
+        "get_wire_link": "Obtenir des liens filaires",
+        "create_tdata": "Insérer des données de cartouche",
+        "available_link": "Lien disponible",
+        "start_num": "Numéro de départ",
+        "name_label": "Nom du fil - emplacement",
+        "def_val": "Valeur par défaut",
+        "create_tblock": "Créer un cartouche",
+        "gen_tblock": "Génération d'un cartouche",
+        "dup_names": "Nom de données dupliqué",
+        "loc_info_1": "Electra listera les emplacements des formes en fonction",
+        "dup_names_mssg": "Le bloc de titre groupé contient des blocs avec des noms de données dupliqués.\nVeuillez dissocier et modifier pour vous assurer que tous les blocs ont des noms de données uniques.",
+        "no_shape": "Veuillez sélectionner une forme",
+        "loc_info_2": "sur une grille invisible, définissez la grille de départ",
+        "loc_info_3": "longueur et espacement selon vos besoins",
+        "prompt": "Rapide",
+        "units_help": "Accepte en, cm, mm, px",
+        "straighten_wire": "Ajustez et redressez automatiquement les fils",
+        "general_options": "Options générales",
+        "enable_panel_prefix": "Activer le préfixe du panneau sur les références",
+        "ref_pop_up": "Fenêtre de référence contextuelle lors de la suppression",
+        "wire_propagation": "Propagation et détection automatique des fils",
+        "term_split_wire": "Séparer les fils lors de la chute des bornes",
+        "loc_format_help": "Exemple: /3.A5",
+        "conn_dot": "Gérez automatiquement les points de connexion des fils",
+        "auto_resize": "Redimensionnement automatique en / mm / cm / mètres",
+        "placement_offset": "Décalage de placement initial",
+        "page_prefix": "Préfixe de page",
+        "wire_sep": "Séparateur pour fil",
+        "auto_placement": "Placer automatiquement les symboles de disposition sur les rails",
+        "page_prefix_ref": "Activer sur les références",
+        "renum_lzone": "Renuméroter automatiquement les symboles / fils lorsqu'ils sont déplacés dans la zone de l'échelle",
+        "page_prefix_wires": "Activer sur les fils",
+        "wire_sep_help": "Le séparateur ne peut pas avoir de valeurs numériques, par ex. 0-9",
+        "ask_create_cable": "Fenêtre contextuelle pour demander des actions lorsqu'aucun noyau de câble n'est disponible",
+        "sym_split_wire": "Séparer les fils lors de la suppression de symboles",
+        "to": "À",
+        "tube_tab": "Noms des tubes / Noms des tuyaux",
+        "select_all": "Tout sélectionner",
+        "wire_tab": "Noms des fils / références des symboles",
+        "from": "De",
+        "listing": "Référencement",
+        "cross_ref": "Rapport de référence croisée",
+        "auto_rename": "Renommage automatique",
+        "bom_report": "Nomenclature",
+        "mat_ref_report": "Rapport de référence des matériaux",
+        "generating_report": "Génération d'un rapport",
+        "creating_prefab": "Création d'un circuit préfabriqué",
+        "ignore_existing": "Ignorez ou conservez les rapports existants et générez de nouveaux",
+        "reuse_existing": "Réutiliser les rapports existants",
+        "get_syms_info": "Obtenir des informations sur les symboles",
+        "generating_layout": "Génération de la mise en page",
+        "single_sym": "Symbole unique sélectionné. Plus de symboles requis.",
+        "remove_existing": "Supprimer les rapports existants et générer de nouveaux",
+        "no_shape_selected": "Aucune forme sélectionnée",
+        "exporting_report": "Exportation du rapport",
+        "wires": "Fils",
+        "saved_comp": "Composant enregistré",
+        "document_options_help": "Electra listera les emplacements des formes sur la base d'une grille invisible, définira la longueur de départ de la grille et l'espacement selon vos besoins",
+        "comp_db_help": "Faites glisser et déposez des composants vers la catégorie pour organiser les composants. <br/> Faites un clic droit sur les composants pour plus d&#39;options.",
+        "tubes": "Tubes",
+        "auto_rename_help": "Sélectionnez pour conserver le nom d'origine, désélectionnez pour renommer",
+        "separator": "Séparateur",
+        "location_format": "Format d'emplacement",
+        "hoses": "Tuyaux",
+        "scanning": "Balayage",
+        "previous": "précédent",
+        "cable_info": "Informations sur le câble",
+        "invalid_prefix_content": "Numéro de page non valide. <br/> Le préfixe de page de cette forme ne sera pas mis à jour automatiquement.",
+        "insert_horizontal_menu": "Insérer un menu horizontal / vertical",
+        "duplicate_laysym_name": "Il y a déjà un symbole de mise en page avec le nom. Veuillez réessayer",
+        "is_circle": "La forme est un cercle",
+        "error_layout_sym": "La forme sélectionnée n'est pas un symbole de disposition ou une forme normale",
+        "create_layout_sym": "Créer un symbole de disposition",
+        "invalid_prefix": "Préfixe de page non valide",
+        "tubing_info": "Informations sur les tubes",
+        "core_names": "Noms principaux",
+        "cores": "Noyaux",
+        "cable": "Câble",
+        "connect_to": "Se connecter à",
+        "hosing_info": "Informations sur le tuyau",
+        "core_name": "Nom de base",
+        "gauge": "Taille / jauge",
+        "tubing": "Tubes",
+        "core_names_help": "Séparé par des virgules, par exemple: rouge, jaune, bleu",
+        "hosing": "Tuyau",
+        "none": "Aucun",
+        "show_only": "Montrer seulement",
+        "view_edit": "Voir la modification",
+        "tube_db": "Base de données des tubes",
+        "cable_db": "Base de données des câbles",
+        "filter_by": "Filtrer par",
+        "edit_cable": "Modifier le câble",
+        "hose_db": "Base de données des tuyaux",
+        "insert": "Insérer",
+        "new_cable": "Nouveau câble",
+        "save_new_hosing": "Enregistrer comme nouveau tuyau",
+        "delete_hosing": "Supprimer le tuyau",
+        "delete_cable": "Supprimer le câble",
+        "new_hosing": "Nouveau tuyau",
+        "edit_hosing": "Modifier le tuyau",
+        "edit_tubing": "Modifier le tube",
+        "delete_tubing": "Supprimer le tube",
+        "save_new_cable": "Enregistrer en tant que nouveau câble",
+        "save_new_tubing": "Enregistrer en tant que nouveau tube",
+        "new_tubing": "Nouvelle tubulure",
+        "arrange": "Organiser",
+        "invalid_cable_name": "Le nom du câble ne peut pas être vide",
+        "core_list_label": "Nom du noyau Nom du câble - emplacement",
+        "set_numbers": "Définir des nombres",
+        "invalid_core": "Nom de noyau non valide",
+        "arrange_cores": "Organiser les noyaux",
+        "arrange_cores_help": "Faites glisser et déposez les fils pour les organiser. <br/> Faites glisser vers le haut pour supprimer. <br/> Faites glisser de haut en bas pour insérer.",
+        "removing": "Suppression",
+        "confirm_del_cable": "Etes-vous sûr que vous voulez supprimer @@?",
+        "updating_db": "Mise à jour de la base de données",
+        "first_step": "Premier pas",
+        "rung_height": "Hauteur des barreaux",
+        "first_rung": "Premier échelon",
+        "set_ladder_zone": "Définir une zone d'échelle",
+        "rung_count_horiz": "Nombre de barreaux (horizontal)",
+        "rung_increment": "Incrément d'échelon",
+        "rung_count_vert": "Nombre de barreaux (vertical)",
+        "rung_width": "Largeur du barreau",
+        "rung_count_error": "Valeur de nombre de lignes non valide, le nombre de lignes doit être d'au moins 2",
+        "steps": "Pas",
+        "assign_wire_core": "Veuillez affecter le fil actuel à un noyau",
+        "no_more_core": "Le câble affecté au fil n&#39;a plus de noyau disponible. <br/> Veuillez choisir d&#39;attribuer un nouveau câble ou de retirer le câble.",
+        "getting_cable": "Obtention d'informations sur le câble",
+        "hose_id": "ID du tuyau",
+        "always_new_cable": "Ne posez plus cette question et attribuez toujours un nouveau câble",
+        "cable_id": "ID de câble",
+        "save_wire": "Enregistrer les modifications dans le fil?",
+        "tube_id": "ID tube",
+        "getting_connections": "Obtenir la liste des connexions",
+        "comp_id": "ID du composant",
+        "tube": "Tube",
+        "hose": "Tuyau",
+        "cable_info_as_col": "Afficher les informations sur les câbles sous forme de colonnes",
+        "remove_cable": "Retirez le câble",
+        "tubing_info_as_col": "Afficher les informations sur les tubes sous forme de colonnes",
+        "hide_default_cable": "Masquer le câble par défaut",
+        "hide_default_hosing": "Masquer le tuyau par défaut",
+        "hide_default_tubing": "Masquer le tube par défaut",
+        "assign_new_cable": "Attribuer un nouveau câble",
+        "wire": "Câble",
+        "hosing_ref": "Rapport de référence sur les flexibles",
+        "hosing_bom": "Rapport de nomenclature de tuyau (BOM)",
+        "hosing_info_as_col": "Afficher les informations de tuyau sous forme de colonnes",
+        "all_core_names": "Tous les noms principaux",
+        "num_of_cores": "Nombres de coeurs",
+        "tubing_ref": "Rapport de référence sur les tubes",
+        "cable_bom": "Rapport de nomenclature de câbles (BOM)",
+        "connections_report": "Rapport sur les connexions",
+        "cable_ref": "Rapport de référence des câbles",
+        "tubing_bom": "Rapport de nomenclature des tubes (BOM)",
+        "cable_gauge": "Taille / calibre du câble",
+        "hosing_length": "Longueur de tuyau",
+        "tubing_gauge": "Taille / jauge de tube",
+        "cable_length": "Longueur de câble",
+        "hosing_gauge": "Taille / jauge de tuyau",
+        "amount": "Montant",
+        "tubing_length": "Longueur de tube",
+        "tube_loc": "Emplacement du tube",
+        "hose_loc": "Emplacement du tuyau",
+        "wire_loc": "Emplacement des fils",
+        "cable_name": "Nom du câble",
+        "to_ref": "Référence à)",
+        "to_pin": "Nom de la broche (À)",
+        "to_loc": "Lieu (à)",
+        "from_loc": "Lieu (De)",
+        "from_pin": "Nom de la broche (De)",
+        "from_ref": "Référence (de)",
+        "core_no": "N ° de base",
+        "hosing_name": "Nom du tuyau",
+        "tubing_name": "Nom du tube",
+        "err_layshape_symbol": "La forme sélectionnée est un symbole. Un symbole ne peut pas être une forme de mise en page",
+        "pin_name": "Nom de broche",
+        "scan_connections": "Analyse des connexions",
+        "insert_tube": "Veuillez confirmer l&#39;insertion du nom de tube suivant (tous les autres seront reculés): <br/><br/>",
+        "err_layshape_terminal": "La forme sélectionnée est un terminal. Un terminal ne peut pas être une forme de mise en page",
+        "insert_hose": "Veuillez confirmer l&#39;insertion du nom de tuyau suivant (tous les autres seront reculés): <br/><br/>",
+        "insert_wire": "Veuillez confirmer l&#39;insertion du nom de fil suivant (tous les autres seront reculés): <br/><br/>",
+        "err_layshape_wire": "La forme sélectionnée est un fil. Un fil ne peut pas être une forme de mise en page",
+        "err_layshape_hose": "La forme sélectionnée est un tuyau. Un tuyau ne peut pas être une forme de disposition",
+        "err_layshape_tube": "La forme sélectionnée est un tube. Un tube ne peut pas être une forme de disposition",
+        "insert_name": "Insérer un nom",
+        "error_pin": "Veuillez fournir des épingles dans les options",
+        "edit": "Éditer",
+        "search_layout": "Disposition de la recherche",
+        "no_stencil_id": "Veuillez fournir l'identifiant du pochoir",
+        "reading_comp": "Composant lecture",
+        "export_format": "Format d'exportation",
+        "invalid_symtype": "Type de symbole non valide",
+        "error_connects_pin": "Les broches et les points de connexion doivent avoir la même quantité",
+        "searching": "Recherche",
+        "tsv": "Valeurs séparées par des tabulations (* .tsv)",
+        "csv": "Valeurs séparées par des virgules (* .csv)"
+    },
+    "dialog": {
+        "help_title": "Aide Electra"
+    },
+    "plugin": {
+        "plugin_7": {
+            "desc": "Entrez vos données, vous aurez un graphique circulaire prêt à vous raconter des histoires!"
+        },
+        "plugin_10": {
+            "desc": "En un clic, insérez une grille radiale dans votre cercle à l'aide du rapporteur",
+            "cat": [
+                "Outils de productivité"
+            ]
+        },
+        "plugin_6": {
+            "desc": "Saisissez vos données et un graphique linéaire sera prêt pour votre présentation"
+        },
+        "plugin_12": {
+            "desc": "Espacez les formes uniformément à une plage spécifiée pour que votre dessin soit net rapidement",
+            "cat": [
+                "Outils de productivité"
+            ]
+        },
+        "plugin_15": {
+            "desc": "Notez tous les éléments de votre liste, exécutez ce plugin et il deviendra une liste de puces soignée!",
+            "cat": [
+                "Outils de productivité"
+            ]
+        }
+    },
+    "noti": {
+        "permission_given": "Les notifications push sont désormais activées. <br /> Bienvenue à bord d&#39;Electra Cloud!",
+        "request_permission": "Salut @@, <br /><br /> Soyez averti par Electra Cloud lorsque vos coéquipiers modifient votre équipe ou votre dessin. <br /><br /> Souhaitez-vous activer les notifications sur le bureau?"
+    },
+    "stencil": {
+        "stencil_68": {
+            "desc": ""
+        },
+        "stencil_223": {
+            "name": "Fils",
+            "desc": ""
+        },
+        "stencil_224": {
+            "desc": "",
+            "name": "Symboles JIC"
+        },
+        "stencil_225": {
+            "name": "Symboles CEI",
+            "desc": "",
+            "cat": [
+                "IEC"
+            ]
+        },
+        "stencil_226": {
+            "desc": "",
+            "name": "Symboles électroniques"
+        },
+        "stencil_227": {
+            "desc": "",
+            "name": "Puissance IEC, compteurs, transformateurs, moteurs",
+            "cat": [
+                "IEC"
+            ]
+        },
+        "stencil_228": {
+            "cat": [
+                "IEC"
+            ],
+            "name": "Isolateurs, sectionneurs, fusibles, contacteurs, surcharges IEC",
+            "desc": ""
+        },
+        "stencil_229": {
+            "name": "Symboles d'une seule ligne",
+            "desc": ""
+        },
+        "stencil_230": {
+            "name": "Disposition",
+            "desc": "",
+            "cat": [
+                "Disposition"
+            ]
+        },
+        "stencil_231": {
+            "cat": [
+                "Disposition"
+            ],
+            "desc": "",
+            "name": "Layout 3D"
+        },
+        "stencil_232": {
+            "desc": "",
+            "name": "Pompes, cylindres et moteurs pneumatiques",
+            "cat": [
+                "Pneumatique"
+            ]
+        },
+        "stencil_233": {
+            "cat": [
+                "Pneumatique"
+            ],
+            "desc": "",
+            "name": "Vannes pneumatiques"
+        },
+        "stencil_235": {
+            "desc": "",
+            "cat": [
+                "Hydraulique"
+            ],
+            "name": "Divers hydraulique"
+        },
+        "stencil_234": {
+            "cat": [
+                "Pneumatique"
+            ],
+            "desc": "",
+            "name": "Divers pneumatiques"
+        },
+        "stencil_236": {
+            "desc": "",
+            "name": "Valves hydrauliques",
+            "cat": [
+                "Hydraulique"
+            ]
+        },
+        "stencil_237": {
+            "desc": "",
+            "cat": [
+                "Hydraulique"
+            ],
+            "name": "Pompes, cylindres et moteurs hydrauliques"
+        },
+        "stencil_247": {
+            "name": "Circuits préfabriqués",
+            "desc": ""
+        },
+        "stencil_246": {
+            "desc": "Rapports Electra",
+            "name": "Rapports"
+        }
+    },
+    "tips": {
+        "options": {
+            "icon": "Options de document"
+        },
+        "create_layout_sym": {
+            "icon": "Créer un symbole de disposition"
+        },
+        "manage_comps": {
+            "icon": "Gérer les composants"
+        },
+        "create_schem": {
+            "icon": "Créer un symbole schématique"
+        },
+        "comp_db": {
+            "icon": "Base de données des composants"
+        },
+        "title_blocks": {
+            "icon": "Blocs de titre"
+        },
+        "generate_layout": {
+            "icon": "Générer la mise en page"
+        },
+        "electra_export": {
+            "icon": "Rapport d'exportation"
+        }
+    },
+    "preload": {
+        "plugins": "Automatisez vos dessins avec des plugins basés sur Javascript",
+        "slack": "Intégrez Electra à Slack pour une meilleure collaboration",
+        "generate-layout": "Générez automatiquement la disposition des panneaux en un seul clic",
+        "terminal-list": "L'utilisation et la génération de terminaux sont un jeu d'enfant dans Electra",
+        "create-and-invite-team": "Invitez les membres à mettre votre équipe en place et à fonctionner dans Electra",
+        "generate-report": "Générez facilement des nomenclatures et autres rapports dans Electra pour gagner du temps",
+        "create-symbol": "Utilisez Créer un symbole pour insérer automatiquement des informations et des données dans votre symbole personnalisé",
+        "drag-and-drop": "Electra fonctionne sur simple glisser-déposer, aucune formation requise",
+        "dxf-import-and-export": "Importez DXF vers Electra et exportez-en"
+    },
+    "drop": {
+        "bom_report": "Rapport de nomenclature (BOM)",
+        "cable_ref_report": "Rapport de référence des câbles",
+        "create_tblock": "Créer un cartouche",
+        "tubing_ref_report": "Rapport de référence sur les tubes",
+        "cross_ref": "Rapport de référence croisée",
+        "create_tdata": "Insérer des données de cartouche",
+        "hosing_ref_report": "Rapport de référence sur les flexibles",
+        "mat_ref_report": "Rapport de référence des matériaux",
+        "tubing_db": "Base de données des tubes",
+        "tubing_bom_report": "Rapport de nomenclature des tubes (BOM)",
+        "cable_db": "Base de données des câbles",
+        "pneumatic_connections_report": "Rapport sur les connexions pneumatiques",
+        "hosing_db": "Base de données des tuyaux",
+        "hydraulic_connections_report": "Rapport sur les connexions hydrauliques",
+        "electrical_connections_report": "Rapport sur les connexions électriques",
+        "cable_bom_report": "Rapport de nomenclature de câbles (BOM)",
+        "hosing_bom_report": "Etat de la nomenclature des flexibles",
+        "comp_db": "Base de données des composants",
+        "manage_cable": "Gérer les câbles",
+        "manage_hosing": "Gérer le tuyau",
+        "manage_tubing": "Gérer les tubes",
+        "view_edit": "Afficher et modifier",
+        "export_as_tsv": "Exporter en TSV"
+    },
+    "templates_dev": {
+        "-LoxxvRqk_lWbHufxTdS": {
+            "cat": [
+                "Dessins schématiques"
+            ],
+            "desc": "Dessin CEI",
+            "name": "Dessin CEI"
+        },
+        "-Loxn7-CtNjHfsPo42wA": {
+            "cat": [
+                "Dessins schématiques"
+            ],
+            "desc": "Dessin JIC",
+            "name": "Dessin JIC"
+        }
+    },
+    "templates": {
+        "-Loxpy4vEMNvGpXMIT8k": {
+            "name": "Dessin JIC",
+            "desc": "Dessin JIC",
+            "cat": [
+                "Dessins schématiques"
+            ]
+        },
+        "-Loxq8iCdBBrJNuBMX-F": {
+            "name": "Dessin CEI",
+            "cat": [
+                "Dessins schématiques"
+            ],
+            "desc": "Dessin CEI"
+        },
+        "-LoxqWnpmATjjX8sjiRH": {
+            "cat": [
+                "Dessins schématiques"
+            ],
+            "desc": "Dessin hydraulique",
+            "name": "Dessin hydraulique"
+        },
+        "-LoxqnRmMJ13M6IJ4y04": {
+            "desc": "Dessin pneumatique",
+            "cat": [
+                "Dessins schématiques"
+            ],
+            "name": "Dessin pneumatique"
+        }
+    },
+    "videos": {
+        "UsXqhNtEGfg": {
+            "desc": "Une démonstration rapide de 15 minutes d'Electra Cloud, le premier logiciel de CAO électrique basé sur le cloud au monde.",
+            "title": "Démonstration rapide d'Electra Cloud"
+        }
+    },
+    "tools": {
+        "comp_db": "Composant <br /> Base de données",
+        "create_layout_sym": "Créer <br /> Symbole de mise en page",
+        "manage_db": "Gérer <br /> Bases de données",
+        "manage_comps": "Gérer <br /> Composants",
+        "create_schem": "Créer <br /> symbole",
+        "title_blocks": "Titre <br /> Blocs",
+        "generate_layout": "produire <br /> Disposition",
+        "options": "Document <br /> Les options",
+        "electra_tools": "Outils",
+        "manage_wirings": "Gérer <br /> Câblages",
+        "create_layout": "Créer <br /> Disposition",
+        "electra_export": "Exportation <br /> rapport",
+        "prefab": "Préfabriqué <br /> Circuit",
+        "electra_import": "Importation"
     }
 }
