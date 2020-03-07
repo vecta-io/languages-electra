@@ -1,1 +1,7 @@
-{}
+{
+    "list": {
+        "fr": "français",
+        "ja": "Japonais",
+        "sv": "suédois"
+    }
+}
