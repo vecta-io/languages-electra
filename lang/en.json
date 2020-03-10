@@ -1433,7 +1433,8 @@
         "reading_comp": "Reading component",
         "export_format": "Export format",
         "tsv": "Tab Separated Values (*.tsv)",
-        "csv": "Comma Separated Values (*.csv)"
+        "csv": "Comma Separated Values (*.csv)",
+        "loading": "Loading"
     },
     "drop": {
         "effects": "Effects",
