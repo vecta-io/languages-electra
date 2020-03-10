@@ -785,7 +785,8 @@
         "signin_link": "Lien de connexion",
         "signin_link_sent": "Lien de connexion envoyé à",
         "microsoft": "Connectez-vous avec Microsoft",
-        "signup_microsoft": "Inscrivez-vous avec Microsoft"
+        "signup_microsoft": "Inscrivez-vous avec Microsoft",
+        "registered_other_provider": "Cet e-mail est déjà enregistré avec @@. Redirection"
     },
     "noti": {
         "deny": "Nier",
