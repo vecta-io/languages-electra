@@ -783,7 +783,8 @@
         "signin_link": "サインインリンク",
         "signin_link_sent": "に送信されたサインインリンク",
         "microsoft": "Microsoftでサインインする",
-        "signup_microsoft": "Microsoftにサインアップする"
+        "signup_microsoft": "Microsoftにサインアップする",
+        "registered_other_provider": "このメールはすでに@@に登録されています。リダイレクト"
     },
     "slack": {
         "add": "スラックに加える",
