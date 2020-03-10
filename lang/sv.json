@@ -782,7 +782,8 @@
         "signin_link": "Logga in länk",
         "signin_link_sent": "Logga in länk skickad till",
         "microsoft": "Logga in med Microsoft",
-        "signup_microsoft": "Registrera dig med Microsoft"
+        "signup_microsoft": "Registrera dig med Microsoft",
+        "registered_other_provider": "Det här e-postmeddelandet är redan registrerat hos @@. Redirecting"
     },
     "dash": {
         "dash": "Hem",
