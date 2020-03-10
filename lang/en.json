@@ -297,7 +297,8 @@
         "magic_link": "Email me the sign in link",
         "send_me_link": "Send me link to sign in",
         "signin_link": "Sign in link",
-        "signin_link_sent": "Sign in link sent to"
+        "signin_link_sent": "Sign in link sent to",
+        "registered_other_provider": "This email is already registered with @@. Redirecting"
     },
     "signup": {
         "not_found": "No account found",
