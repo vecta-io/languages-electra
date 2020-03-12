@@ -414,13 +414,10 @@
                 "b"
             ]
         },
-        "activate": "Activer",
-        "deactivate": "Désactiver",
         "make_copy": "Faire une copie",
         "update": "Mise à jour",
-        "enter_serial_number": "SVP, entrez votre numéro de série",
-        "invalid_key": "Clé invalide saisie",
-        "loading": "Chargement"
+        "loading": "Chargement",
+        "glow": "lueur"
     },
     "page": {
         "cm": "Centimètre",
@@ -1184,7 +1181,9 @@
         "thank_you_feedback": "Merci pour votre avis.",
         "failed_try_again": "Échoué. Veuillez réessayer plus tard.",
         "file_invalid_field": "Champ non valide trouvé dans le fichier.",
-        "save_before_exit": "Voulez-vous enregistrer les modifications avant de quitter?"
+        "save_before_exit": "Voulez-vous enregistrer les modifications avant de quitter?",
+        "update_lzone": "Mise à jour des zones à contacts",
+        "update_layouts": "Mise à jour des dispositions"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
@@ -3704,5 +3703,15 @@
         "validate_payment": "Validation du paiement",
         "validate_email": "Validation de l'email",
         "refresh_token": "Votre accès a changé. Veuillez recharger pour rafraîchir l'accès."
+    },
+    "license": {
+        "activate": "Activer",
+        "enter_serial_number": "SVP, entrez votre numéro de série",
+        "deactivate": "Désactiver",
+        "activated": "Licence activée",
+        "deactivated": "Licence désactivée",
+        "activation": "Activation de licence",
+        "deactivation": "Désactivation de licence",
+        "err_1": "Clé invalide saisie."
     }
 }
