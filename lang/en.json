@@ -245,7 +245,9 @@
         "login_to_save_comp": "Please login to save your custom component to database",
         "inserting_name": "Inserting name",
         "import_drawing": "Importing drawing, may take a few minutes ",
-        "update_linkage": "Updating linkages"
+        "update_linkage": "Updating linkages",
+        "update_lzone": "Updating Ladder Zones",
+        "update_layouts": "Updating layouts"
     },
     "login": {
         "collab": "Online",
@@ -1017,6 +1019,7 @@
         "bevel": "Bevel",
         "shadow": "Shadow",
         "blur": "Blur",
+        "glow": "Glow",
         "filter_title": "Edit Filter",
         "apply": "Apply",
         "size": "Size",
@@ -1077,12 +1080,8 @@
         "upload": "Upload",
         "upload_custom_fonts": "Upload fonts",
         "svg_invalid": "SVG file is invalid",
-        "activate": "Activate",
-        "deactivate": "Deactivate",
         "make_copy": "Make a copy",
         "update": "Update",
-        "enter_serial_number": "Please enter your serial number",
-        "invalid_key": "Invalid key entered",
         "slogan": "Cloud based Electrical CAD Software",
         "stencil": "Stencil",
         "electrical": "Electrical",
@@ -2189,6 +2188,16 @@
         "validate_payment": "Validating payment",
         "validate_email": "Validating email",
         "refresh_token": "Your access has changed. Please reload to refresh access."
+    },
+    "license": {
+        "activate": "Activate",
+        "deactivate": "Deactivate",
+        "enter_serial_number": "Please enter your serial number",
+        "activated": "License activated",
+        "deactivated": "License deactivated",
+        "activation": "License activation",
+        "deactivation": "License deactivation",
+        "err_1": "Invalid Key Entered."
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
