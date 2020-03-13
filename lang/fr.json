@@ -959,7 +959,8 @@
         "confirm_del": "Confirmer la suppression des utilisateurs",
         "confirm_del_mssg": "Les actions sont irréversibles. Les dessins, le dossier et les équipes seront déplacés vers l'équipe d'administration.",
         "remove_template": "Suppression du modèle",
-        "removed_template": "Le modèle a bien été supprimé"
+        "removed_template": "Le modèle a bien été supprimé",
+        "import_file": "Importer un fichier"
     },
     "access": {
         "and": "et",
