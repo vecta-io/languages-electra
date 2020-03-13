@@ -501,6 +501,7 @@
         "create_drawing": "Creating new drawing",
         "create_folder": "Creating new folder",
         "create_template": "Creating new template",
+        "import_file": "Importing file",
         "created_template": "Template successfully created.",
         "remove_template": "Removing template",
         "removed_template": "Template successfully removed",
