@@ -420,7 +420,10 @@
         "update": "Uppdatering",
         "enter_serial_number": "Ange ditt serienummer",
         "invalid_key": "Ogiltig nyckel anges",
-        "loading": "Läser in"
+        "loading": "Läser in",
+        "days_left": "dagar kvar",
+        "trial": "Rättegång",
+        "no_license": "Ingen licens hittades"
     },
     "drop": {
         "in": "tum",
@@ -619,7 +622,8 @@
         "export_dwg": "Exportera som DWG",
         "upload_fonts": "Ladda upp teckensnitt",
         "make_template": "Gör mall",
-        "remove_template": "Ta bort mallen"
+        "remove_template": "Ta bort mallen",
+        "custom_json_layer": "Anpassad JSON (lager)"
     },
     "page": {
         "mm": "Millimeter",
