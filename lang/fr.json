@@ -417,7 +417,10 @@
         "make_copy": "Faire une copie",
         "update": "Mise à jour",
         "loading": "Chargement",
-        "glow": "lueur"
+        "glow": "lueur",
+        "trial": "Procès",
+        "no_license": "Aucune licence trouvée",
+        "days_left": "Jours restants"
     },
     "page": {
         "cm": "Centimètre",
@@ -724,7 +727,8 @@
         "export_dwg": "Exporter en DWG",
         "upload_fonts": "Importer des polices",
         "make_template": "Créer un modèle",
-        "remove_template": "Supprimer le modèle"
+        "remove_template": "Supprimer le modèle",
+        "custom_json_layer": "JSON personnalisé (calque)"
     },
     "list": {
         "en": "Anglais",
