@@ -787,7 +787,8 @@
         "signin_link_sent": "Logga in länk skickad till",
         "microsoft": "Logga in med Microsoft",
         "signup_microsoft": "Registrera dig med Microsoft",
-        "registered_other_provider": "Det här e-postmeddelandet är redan registrerat hos @@. Redirecting"
+        "registered_other_provider": "Det här e-postmeddelandet är redan registrerat hos @@. Redirecting",
+        "access_contacts": "Tillåt åtkomst till din kontaktlista för enkel delning av team och ritningar"
     },
     "dash": {
         "dash": "Hem",
@@ -872,7 +873,7 @@
         "remove_template": "Tar bort mallen",
         "removed_template": "Mallen har tagits bort",
         "import_file": "Importerar fil",
-        "import_finished": "Importerad fil har lyckats"
+        "import_finished": "Importfilen är klar"
     },
     "noti": {
         "deny": "Neka",
