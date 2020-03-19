@@ -787,7 +787,8 @@
         "signin_link_sent": "Lien de connexion envoyé à",
         "microsoft": "Connectez-vous avec Microsoft",
         "signup_microsoft": "Inscrivez-vous avec Microsoft",
-        "registered_other_provider": "Cet e-mail est déjà enregistré avec @@. Redirection"
+        "registered_other_provider": "Cet e-mail est déjà enregistré avec @@. Redirection",
+        "access_contacts": "Autorisez l'accès à votre liste de contacts pour un partage facile des équipes et des dessins"
     },
     "noti": {
         "deny": "Nier",
@@ -966,7 +967,7 @@
         "removed_template": "Le modèle a bien été supprimé",
         "import_file": "Importer un fichier",
         "import_warning": "Vecta n'accepte qu'un seul fichier à la fois.",
-        "import_finished": "Fichier importé avec succès"
+        "import_finished": "Importation du fichier terminée"
     },
     "access": {
         "and": "et",
