@@ -788,7 +788,8 @@
         "signin_link_sent": "に送信されたサインインリンク",
         "microsoft": "Microsoftでサインインする",
         "signup_microsoft": "Microsoftにサインアップする",
-        "registered_other_provider": "このメールはすでに@@に登録されています。リダイレクト"
+        "registered_other_provider": "このメールはすでに@@に登録されています。リダイレクト",
+        "access_contacts": "連絡先リストへのアクセスを許可して、チームと図面を簡単に共有できます"
     },
     "slack": {
         "add": "スラックに加える",
@@ -910,7 +911,7 @@
         "removed_template": "テンプレートを削除しました",
         "import_file": "ファイルをインポートしています",
         "import_warning": "Vectaは、一度に1つのファイルのみを受け入れます。",
-        "import_finished": "正常にインポートされたファイル"
+        "import_finished": "インポートファイルが完了しました"
     },
     "noti": {
         "left": "%% left Team @@。",
