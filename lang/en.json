@@ -300,7 +300,8 @@
         "send_me_link": "Send me link to sign in",
         "signin_link": "Sign in link",
         "signin_link_sent": "Sign in link sent to",
-        "registered_other_provider": "This email is already registered with @@. Redirecting"
+        "registered_other_provider": "This email is already registered with @@. Redirecting",
+        "access_contacts": "Allow access to your contact list for easy sharing of teams and drawings"
     },
     "signup": {
         "not_found": "No account found",
@@ -548,7 +549,7 @@
         "confirm_del": "Confirm deletion of users",
         "confirm_del_mssg": "Actions is irreversible. Drawings, folder and teams will be moved to admin team.",
         "import_warning": "Vecta accepts only 1 file at a time.",
-        "import_finished": "Successfully imported file"
+        "import_finished": "Import file completed"
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
