@@ -909,7 +909,8 @@
         "remove_template": "テンプレートの削除",
         "removed_template": "テンプレートを削除しました",
         "import_file": "ファイルをインポートしています",
-        "import_warning": "Vectaは、一度に1つのファイルのみを受け入れます。"
+        "import_warning": "Vectaは、一度に1つのファイルのみを受け入れます。",
+        "import_finished": "正常にインポートされたファイル"
     },
     "noti": {
         "left": "%% left Team @@。",
