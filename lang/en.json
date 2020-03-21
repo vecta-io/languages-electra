@@ -502,7 +502,7 @@
         "create_drawing": "Creating new drawing",
         "create_folder": "Creating new folder",
         "create_template": "Creating new template",
-        "import_file": "Importing file",
+        "upload_file": "Uploading file",
         "created_template": "Template successfully created.",
         "remove_template": "Removing template",
         "removed_template": "Template successfully removed",
@@ -549,7 +549,7 @@
         "confirm_del": "Confirm deletion of users",
         "confirm_del_mssg": "Actions is irreversible. Drawings, folder and teams will be moved to admin team.",
         "import_warning": "Vecta accepts only 1 file at a time.",
-        "import_finished": "Import file completed"
+        "import_finished": "File successfully uploaded"
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
@@ -1641,6 +1641,7 @@
         "perm_link": "Permanent link",
         "save_as": "Save as",
         "save": "Save",
+        "reset_ratio": "Reset ratio",
         "create_tdata": "Insert title block data",
         "create_tblock": "Create title block",
         "cross_ref": "Cross reference report",
@@ -1722,116 +1723,140 @@
         "saving_stencils": "Saving stencils",
         "stencil_223": {
             "name": "Wires",
-            "desc": ""
+            "desc": "Wires",
+            "cat": [
+                "Wires"
+            ]
         },
         "stencil_224": {
-            "name": "JIC Symbols",
-            "desc": ""
+            "name": "JIC / NFPA Symbols",
+            "desc": "JIC / NFPA symbols",
+            "cat": [
+                "JIC / NFPA"
+            ]
         },
         "stencil_225": {
             "name": "IEC Symbols",
-            "desc": "",
+            "desc": "IEC Symbols",
             "cat": [
                 "IEC"
             ]
         },
         "stencil_226": {
             "name": "Electronics Symbols",
-            "desc": ""
+            "desc": "Electronic symbols",
+            "cat": [
+                "Electronics"
+            ]
         },
         "stencil_227": {
             "name": "IEC Power, Meters, Transformers, Motors",
-            "desc": "",
+            "desc": "IEC Power, Meters, Transformers, Motors",
             "cat": [
                 "IEC"
             ]
         },
         "stencil_228": {
             "name": "IEC Isolators, Disconnectors, Fuses, Contactors, Overloads",
-            "desc": "",
+            "desc": "IEC Isolators, Disconnectors, Fuses, Contactors, Overloads",
             "cat": [
                 "IEC"
             ]
         },
         "stencil_229": {
             "name": "Single Line Symbols",
-            "desc": ""
+            "desc": "Single line symbols",
+            "cat": [
+                "Single Line"
+            ]
         },
         "stencil_230": {
             "name": "Layout",
-            "desc": "",
+            "desc": "Panel layout symbols",
             "cat": [
                 "Layout"
             ]
         },
         "stencil_231": {
             "name": "Layout 3D",
-            "desc": "",
+            "desc": "3D Panel Layout symbols",
             "cat": [
                 "Layout"
             ]
         },
         "stencil_232": {
             "name": "Pneumatic Pumps, Cylinders and Motors",
-            "desc": "",
+            "desc": "Pneumatic Pumps, Cylinders and Motors",
             "cat": [
                 "Pneumatic"
             ]
         },
         "stencil_233": {
             "name": "Pneumatic Valves",
-            "desc": "",
+            "desc": "Pneumatic Valves",
             "cat": [
                 "Pneumatic"
             ]
         },
         "stencil_234": {
             "name": "Pneumatic Misc",
-            "desc": "",
+            "desc": "Pneumatic Miscellaneous",
             "cat": [
                 "Pneumatic"
             ]
         },
         "stencil_235": {
             "name": "Hydraulic Misc",
-            "desc": "",
+            "desc": "Hydraulic Miscellaneous",
             "cat": [
                 "Hydraulic"
             ]
         },
         "stencil_236": {
             "name": "Hydraulic Valves",
-            "desc": "",
+            "desc": "Hydraulic Valves",
             "cat": [
                 "Hydraulic"
             ]
         },
         "stencil_237": {
             "name": "Hydraulic Pumps, Cylinders and Motors",
-            "desc": "",
+            "desc": "Hydraulic Pumps, Cylinders and Motors",
             "cat": [
                 "Hydraulic"
             ]
         },
+        "stencil_49": {
+            "name": "Measurement tools",
+            "desc": "Tools for measurements",
+            "cat": [
+                "Tools"
+            ]
+        },
         "stencil_51": {
             "name": "Title blocks",
-            "desc": "Templates for title block"
+            "desc": "Templates for title block",
+            "cat": [
+                "Title Blocks"
+            ]
         },
         "stencil_246": {
             "name": "Reports",
-            "desc": "Electra reports"
-        },
-        "stencil_49": {
-            "name": "Measurement tools",
-            "desc": "Tools for measurements"
+            "desc": "Electra reports",
+            "cat": [
+                "Reports"
+            ]
         },
         "stencil_247": {
             "name": "Prefab Circuits",
-            "desc": ""
+            "desc": "Ready made circuits",
+            "cat": [
+                "Circuits"
+            ]
         },
         "stencil_68": {
             "name": "Avatars",
-            "desc": ""
+            "desc": "Avatars"
         }
     },
     "plugin": {
