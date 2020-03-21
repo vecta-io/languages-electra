@@ -735,7 +735,8 @@
         "upload_fonts": "フォントをアップロードする",
         "make_template": "テンプレートを作成",
         "remove_template": "テンプレートを削除",
-        "custom_json_layer": "カスタムJSON（レイヤー）"
+        "custom_json_layer": "カスタムJSON（レイヤー）",
+        "reset_ratio": "リセット率"
     },
     "login": {
         "or": "または",
@@ -909,9 +910,9 @@
         "confirm_del_mssg": "アクションは元に戻せません。図面、フォルダ、およびチームは管理チームに移動されます。",
         "remove_template": "テンプレートの削除",
         "removed_template": "テンプレートを削除しました",
-        "import_file": "ファイルをインポートしています",
         "import_warning": "Vectaは、一度に1つのファイルのみを受け入れます。",
-        "import_finished": "インポートファイルが完了しました"
+        "import_finished": "ファイルがアップロードされました",
+        "upload_file": "ファイルをアップロードしています"
     },
     "noti": {
         "left": "%% left Team @@。",
@@ -2076,7 +2077,10 @@
         "fail_refresh": "シンボルは存在しません。",
         "stencil_49": {
             "name": "測定ツール",
-            "desc": "測定ツール"
+            "desc": "測定ツール",
+            "cat": [
+                "道具"
+            ]
         },
         "stencil_50": {
             "name": "マテリアルデザインパレット",
@@ -2088,7 +2092,10 @@
         "open_all": "すべてのステンシルを開く",
         "stencil_51": {
             "name": "タイトルブロック",
-            "desc": "タイトルブロックのテンプレート"
+            "desc": "タイトルブロックのテンプレート",
+            "cat": [
+                "タイトルブロック"
+            ]
         },
         "stencil_52": {
             "name": "AWS Contact Center",
@@ -2194,7 +2201,7 @@
         },
         "stencil_68": {
             "name": "アバター",
-            "desc": "人のアバター",
+            "desc": "アバター",
             "cat": [
                 "人、旗、文書"
             ]
@@ -3445,7 +3452,76 @@
         "getting_stencils": "ステンシルを入手する",
         "drop_symbol": "ドロップシンボル",
         "show_more": "もっと見せる",
-        "login_save_symbol": "サインインしてシンボルを保存してください。"
+        "login_save_symbol": "サインインしてシンボルを保存してください。",
+        "stencil_223": {
+            "desc": "ワイヤー",
+            "cat": [
+                "ワイヤー"
+            ]
+        },
+        "stencil_224": {
+            "name": "JIC / NFPAシンボル",
+            "desc": "JIC / NFPAシンボル",
+            "cat": [
+                "JIC / NFPA"
+            ]
+        },
+        "stencil_226": {
+            "desc": "電子記号",
+            "cat": [
+                "エレクトロニクス"
+            ]
+        },
+        "stencil_225": {
+            "desc": "IECシンボル"
+        },
+        "stencil_227": {
+            "desc": "IEC電源、メーター、変圧器、モーター"
+        },
+        "stencil_229": {
+            "desc": "単線記号",
+            "cat": [
+                "単線"
+            ]
+        },
+        "stencil_230": {
+            "desc": "パネルレイアウトシンボル"
+        },
+        "stencil_231": {
+            "desc": "3Dパネルレイアウトシンボル"
+        },
+        "stencil_228": {
+            "desc": "IECアイソレータ、ディスコネクタ、ヒューズ、コンタクタ、過負荷"
+        },
+        "stencil_233": {
+            "desc": "空気圧バルブ"
+        },
+        "stencil_236": {
+            "desc": "油圧バルブ"
+        },
+        "stencil_235": {
+            "desc": "油圧その他"
+        },
+        "stencil_232": {
+            "desc": "空気圧ポンプ、シリンダー、モーター"
+        },
+        "stencil_237": {
+            "desc": "油圧ポンプ、シリンダー、モーター"
+        },
+        "stencil_247": {
+            "desc": "既製の回路",
+            "cat": [
+                "回路"
+            ]
+        },
+        "stencil_234": {
+            "desc": "空気圧その他"
+        },
+        "stencil_246": {
+            "cat": [
+                "報告書"
+            ]
+        }
     },
     "videos": {
         "tp2ryqLTz1M": {
