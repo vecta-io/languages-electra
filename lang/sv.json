@@ -873,8 +873,8 @@
         "confirm_del_mssg": "Åtgärder är irreversibla. Ritningar, mapp och lag flyttas till admin team.",
         "remove_template": "Tar bort mallen",
         "removed_template": "Mallen har tagits bort",
-        "import_finished": "Filen har laddats upp",
-        "upload_file": "Överför fil"
+        "import_finished": "Importfilen är klar",
+        "import_file": "Importerar fil"
     },
     "noti": {
         "deny": "Neka",
