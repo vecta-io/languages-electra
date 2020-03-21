@@ -502,7 +502,7 @@
         "create_drawing": "Creating new drawing",
         "create_folder": "Creating new folder",
         "create_template": "Creating new template",
-        "import_file": "Importing file",
+        "upload_file": "Uploading file",
         "created_template": "Template successfully created.",
         "remove_template": "Removing template",
         "removed_template": "Template successfully removed",
@@ -549,7 +549,7 @@
         "confirm_del": "Confirm deletion of users",
         "confirm_del_mssg": "Actions is irreversible. Drawings, folder and teams will be moved to admin team.",
         "import_warning": "Vecta accepts only 1 file at a time.",
-        "import_finished": "Import file completed"
+        "import_finished": "File successfully uploaded"
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
