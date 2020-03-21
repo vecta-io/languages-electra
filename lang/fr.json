@@ -728,7 +728,8 @@
         "upload_fonts": "Importer des polices",
         "make_template": "Créer un modèle",
         "remove_template": "Supprimer le modèle",
-        "custom_json_layer": "JSON personnalisé (calque)"
+        "custom_json_layer": "JSON personnalisé (calque)",
+        "reset_ratio": "Rapport de réinitialisation"
     },
     "list": {
         "en": "Anglais",
@@ -965,9 +966,9 @@
         "confirm_del_mssg": "Les actions sont irréversibles. Les dessins, le dossier et les équipes seront déplacés vers l'équipe d'administration.",
         "remove_template": "Suppression du modèle",
         "removed_template": "Le modèle a bien été supprimé",
-        "import_file": "Importer un fichier",
         "import_warning": "Vecta n'accepte qu'un seul fichier à la fois.",
-        "import_finished": "Importation du fichier terminée"
+        "import_finished": "Fichier téléchargé avec succès",
+        "upload_file": "Téléchargement du fichier"
     },
     "access": {
         "and": "et",
@@ -2077,7 +2078,10 @@
         "fail_refresh": "Le symbole n'existe plus.",
         "stencil_49": {
             "name": "Outils de mesure",
-            "desc": "Outils pour les mesures"
+            "desc": "Outils pour les mesures",
+            "cat": [
+                "Outils"
+            ]
         },
         "stencil_50": {
             "name": "Palettes de conception matérielle",
@@ -2089,7 +2093,10 @@
         "open_all": "Ouvrir tous les pochoirs",
         "stencil_51": {
             "name": "Blocs de titre",
-            "desc": "Modèles pour le cartouche"
+            "desc": "Modèles pour le cartouche",
+            "cat": [
+                "Blocs de titre"
+            ]
         },
         "stencil_52": {
             "name": "Centre de contact AWS",
@@ -2195,7 +2202,7 @@
         },
         "stencil_68": {
             "name": "Avatars",
-            "desc": "Avatars des gens",
+            "desc": "Avatars",
             "cat": [
                 "Personnes, drapeaux et documents"
             ]
@@ -3446,7 +3453,76 @@
         "getting_stencils": "Obtenir des pochoirs",
         "drop_symbol": "Symbole en baisse",
         "show_more": "Montre plus",
-        "login_save_symbol": "Veuillez vous connecter pour enregistrer votre symbole."
+        "login_save_symbol": "Veuillez vous connecter pour enregistrer votre symbole.",
+        "stencil_229": {
+            "desc": "Symboles d'une seule ligne",
+            "cat": [
+                "Une seule ligne"
+            ]
+        },
+        "stencil_227": {
+            "desc": "Puissance IEC, compteurs, transformateurs, moteurs"
+        },
+        "stencil_230": {
+            "desc": "Symboles de disposition du panneau"
+        },
+        "stencil_226": {
+            "desc": "Symboles électroniques",
+            "cat": [
+                "Électronique"
+            ]
+        },
+        "stencil_223": {
+            "desc": "Fils",
+            "cat": [
+                "Fils"
+            ]
+        },
+        "stencil_225": {
+            "desc": "Symboles CEI"
+        },
+        "stencil_228": {
+            "desc": "Isolateurs, sectionneurs, fusibles, contacteurs, surcharges IEC"
+        },
+        "stencil_224": {
+            "name": "Symboles JIC / NFPA",
+            "desc": "Symboles JIC / NFPA",
+            "cat": [
+                "JIC / NFPA"
+            ]
+        },
+        "stencil_231": {
+            "desc": "Symboles de disposition du panneau 3D"
+        },
+        "stencil_233": {
+            "desc": "Vannes pneumatiques"
+        },
+        "stencil_232": {
+            "desc": "Pompes, cylindres et moteurs pneumatiques"
+        },
+        "stencil_236": {
+            "desc": "Valves hydrauliques"
+        },
+        "stencil_237": {
+            "desc": "Pompes, cylindres et moteurs hydrauliques"
+        },
+        "stencil_235": {
+            "desc": "Divers hydraulique"
+        },
+        "stencil_247": {
+            "desc": "Circuits prêts à l'emploi",
+            "cat": [
+                "Circuits"
+            ]
+        },
+        "stencil_234": {
+            "desc": "Pneumatique Divers"
+        },
+        "stencil_246": {
+            "cat": [
+                "Rapports"
+            ]
+        }
     },
     "videos": {
         "nlAyOo-_HLQ": {
