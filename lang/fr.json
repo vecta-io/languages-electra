@@ -967,8 +967,8 @@
         "remove_template": "Suppression du modèle",
         "removed_template": "Le modèle a bien été supprimé",
         "import_warning": "Vecta n'accepte qu'un seul fichier à la fois.",
-        "import_finished": "Importation du fichier terminée",
-        "import_file": "Importer un fichier"
+        "import_finished": "Fichier téléchargé avec succès",
+        "upload_file": "Téléchargement du fichier"
     },
     "access": {
         "and": "et",
