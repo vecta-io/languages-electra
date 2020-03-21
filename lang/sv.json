@@ -623,7 +623,8 @@
         "upload_fonts": "Ladda upp teckensnitt",
         "make_template": "Gör mall",
         "remove_template": "Ta bort mallen",
-        "custom_json_layer": "Anpassad JSON (lager)"
+        "custom_json_layer": "Anpassad JSON (lager)",
+        "reset_ratio": "Återställ förhållande"
     },
     "page": {
         "mm": "Millimeter",
@@ -872,8 +873,8 @@
         "confirm_del_mssg": "Åtgärder är irreversibla. Ritningar, mapp och lag flyttas till admin team.",
         "remove_template": "Tar bort mallen",
         "removed_template": "Mallen har tagits bort",
-        "import_file": "Importerar fil",
-        "import_finished": "Importfilen är klar"
+        "import_finished": "Filen har laddats upp",
+        "upload_file": "Överför fil"
     },
     "noti": {
         "deny": "Neka",
@@ -2067,7 +2068,10 @@
         "fail_refresh": "Symbolen finns inte längre.",
         "stencil_49": {
             "name": "Mätverktyg",
-            "desc": "Verktyg för mätningar"
+            "desc": "Verktyg för mätningar",
+            "cat": [
+                "Verktyg"
+            ]
         },
         "stencil_50": {
             "name": "Material designpaletter",
@@ -2079,7 +2083,10 @@
         "open_all": "Öppna alla stenciler",
         "stencil_51": {
             "name": "Titelblock",
-            "desc": "Mallar för titelblock"
+            "desc": "Mallar för titelblock",
+            "cat": [
+                "Titelblock"
+            ]
         },
         "stencil_52": {
             "name": "AWS Contact Center",
@@ -2185,7 +2192,7 @@
         },
         "stencil_68": {
             "name": "Avatars",
-            "desc": "Människor avatars",
+            "desc": "Avatars",
             "cat": [
                 "Människor, flaggor och dokument"
             ]
@@ -3434,7 +3441,76 @@
         "getting_stencils": "Få stencils",
         "drop_symbol": "Släpp symbol",
         "show_more": "Visa mer",
-        "login_save_symbol": "Logga in för att spara din symbol."
+        "login_save_symbol": "Logga in för att spara din symbol.",
+        "stencil_223": {
+            "desc": "trådar",
+            "cat": [
+                "trådar"
+            ]
+        },
+        "stencil_225": {
+            "desc": "IEC-symboler"
+        },
+        "stencil_229": {
+            "desc": "Enkla linjesymboler",
+            "cat": [
+                "En kö"
+            ]
+        },
+        "stencil_226": {
+            "desc": "Elektroniska symboler",
+            "cat": [
+                "Elektronik"
+            ]
+        },
+        "stencil_224": {
+            "desc": "JIC / NFPA-symboler",
+            "name": "JIC / NFPA-symboler",
+            "cat": [
+                "JIC / NFPA"
+            ]
+        },
+        "stencil_228": {
+            "desc": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar"
+        },
+        "stencil_232": {
+            "desc": "Pneumatiska pumpar, cylindrar och motorer"
+        },
+        "stencil_230": {
+            "desc": "Symboler för panellayout"
+        },
+        "stencil_231": {
+            "desc": "Symboler för 3D-panellayout"
+        },
+        "stencil_227": {
+            "desc": "IEC Power, Meters, Transformers, Motors"
+        },
+        "stencil_234": {
+            "desc": "Pneumatisk Diverse"
+        },
+        "stencil_233": {
+            "desc": "Pneumatiska ventiler"
+        },
+        "stencil_235": {
+            "desc": "Hydraulisk Diverse"
+        },
+        "stencil_247": {
+            "desc": "Färdiga kretsar",
+            "cat": [
+                "kretsar"
+            ]
+        },
+        "stencil_237": {
+            "desc": "Hydrauliska pumpar, cylindrar och motorer"
+        },
+        "stencil_236": {
+            "desc": "Hydrauliska ventiler"
+        },
+        "stencil_246": {
+            "cat": [
+                "rapporter"
+            ]
+        }
     },
     "integrate": {
         "error": "Något har gått fel ...",
