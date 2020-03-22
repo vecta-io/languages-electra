@@ -1730,10 +1730,7 @@
         },
         "stencil_224": {
             "name": "JIC / NFPA Symbols",
-            "desc": "JIC / NFPA symbols",
-            "cat": [
-                "JIC / NFPA"
-            ]
+            "desc": "JIC / NFPA symbols"
         },
         "stencil_225": {
             "name": "IEC Symbols",
@@ -1744,10 +1741,7 @@
         },
         "stencil_226": {
             "name": "Electronics Symbols",
-            "desc": "Electronic symbols",
-            "cat": [
-                "Electronics"
-            ]
+            "desc": "Electronic symbols"
         },
         "stencil_227": {
             "name": "IEC Power, Meters, Transformers, Motors",
@@ -1765,10 +1759,7 @@
         },
         "stencil_229": {
             "name": "Single Line Symbols",
-            "desc": "Single line symbols",
-            "cat": [
-                "Single Line"
-            ]
+            "desc": "Single line symbols"
         },
         "stencil_230": {
             "name": "Layout",
@@ -1828,31 +1819,19 @@
         },
         "stencil_49": {
             "name": "Measurement tools",
-            "desc": "Tools for measurements",
-            "cat": [
-                "Tools"
-            ]
+            "desc": "Tools for measurements"
         },
         "stencil_51": {
             "name": "Title blocks",
-            "desc": "Templates for title block",
-            "cat": [
-                "Title Blocks"
-            ]
+            "desc": "Templates for title block"
         },
         "stencil_246": {
             "name": "Reports",
-            "desc": "Electra reports",
-            "cat": [
-                "Reports"
-            ]
+            "desc": "Electra reports"
         },
         "stencil_247": {
             "name": "Prefab Circuits",
-            "desc": "Ready made circuits",
-            "cat": [
-                "Circuits"
-            ]
+            "desc": "Ready made circuits"
         },
         "stencil_68": {
             "name": "Avatars",
