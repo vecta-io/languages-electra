@@ -2078,10 +2078,7 @@
         "fail_refresh": "Le symbole n'existe plus.",
         "stencil_49": {
             "name": "Outils de mesure",
-            "desc": "Outils pour les mesures",
-            "cat": [
-                "Outils"
-            ]
+            "desc": "Outils pour les mesures"
         },
         "stencil_50": {
             "name": "Palettes de conception matérielle",
@@ -2093,10 +2090,7 @@
         "open_all": "Ouvrir tous les pochoirs",
         "stencil_51": {
             "name": "Blocs de titre",
-            "desc": "Modèles pour le cartouche",
-            "cat": [
-                "Blocs de titre"
-            ]
+            "desc": "Modèles pour le cartouche"
         },
         "stencil_52": {
             "name": "Centre de contact AWS",
@@ -3455,10 +3449,7 @@
         "show_more": "Montre plus",
         "login_save_symbol": "Veuillez vous connecter pour enregistrer votre symbole.",
         "stencil_229": {
-            "desc": "Symboles d'une seule ligne",
-            "cat": [
-                "Une seule ligne"
-            ]
+            "desc": "Symboles d'une seule ligne"
         },
         "stencil_227": {
             "desc": "Puissance IEC, compteurs, transformateurs, moteurs"
@@ -3467,10 +3458,7 @@
             "desc": "Symboles de disposition du panneau"
         },
         "stencil_226": {
-            "desc": "Symboles électroniques",
-            "cat": [
-                "Électronique"
-            ]
+            "desc": "Symboles électroniques"
         },
         "stencil_223": {
             "desc": "Fils",
@@ -3486,10 +3474,7 @@
         },
         "stencil_224": {
             "name": "Symboles JIC / NFPA",
-            "desc": "Symboles JIC / NFPA",
-            "cat": [
-                "JIC / NFPA"
-            ]
+            "desc": "Symboles JIC / NFPA"
         },
         "stencil_231": {
             "desc": "Symboles de disposition du panneau 3D"
@@ -3510,18 +3495,10 @@
             "desc": "Divers hydraulique"
         },
         "stencil_247": {
-            "desc": "Circuits prêts à l'emploi",
-            "cat": [
-                "Circuits"
-            ]
+            "desc": "Circuits prêts à l'emploi"
         },
         "stencil_234": {
             "desc": "Pneumatique Divers"
-        },
-        "stencil_246": {
-            "cat": [
-                "Rapports"
-            ]
         }
     },
     "videos": {
