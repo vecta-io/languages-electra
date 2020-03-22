@@ -2068,10 +2068,7 @@
         "fail_refresh": "Symbolen finns inte längre.",
         "stencil_49": {
             "name": "Mätverktyg",
-            "desc": "Verktyg för mätningar",
-            "cat": [
-                "Verktyg"
-            ]
+            "desc": "Verktyg för mätningar"
         },
         "stencil_50": {
             "name": "Material designpaletter",
@@ -2083,10 +2080,7 @@
         "open_all": "Öppna alla stenciler",
         "stencil_51": {
             "name": "Titelblock",
-            "desc": "Mallar för titelblock",
-            "cat": [
-                "Titelblock"
-            ]
+            "desc": "Mallar för titelblock"
         },
         "stencil_52": {
             "name": "AWS Contact Center",
@@ -3452,23 +3446,14 @@
             "desc": "IEC-symboler"
         },
         "stencil_229": {
-            "desc": "Enkla linjesymboler",
-            "cat": [
-                "En kö"
-            ]
+            "desc": "Enkla linjesymboler"
         },
         "stencil_226": {
-            "desc": "Elektroniska symboler",
-            "cat": [
-                "Elektronik"
-            ]
+            "desc": "Elektroniska symboler"
         },
         "stencil_224": {
             "desc": "JIC / NFPA-symboler",
-            "name": "JIC / NFPA-symboler",
-            "cat": [
-                "JIC / NFPA"
-            ]
+            "name": "JIC / NFPA-symboler"
         },
         "stencil_228": {
             "desc": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar"
@@ -3495,21 +3480,13 @@
             "desc": "Hydraulisk Diverse"
         },
         "stencil_247": {
-            "desc": "Färdiga kretsar",
-            "cat": [
-                "kretsar"
-            ]
+            "desc": "Färdiga kretsar"
         },
         "stencil_237": {
             "desc": "Hydrauliska pumpar, cylindrar och motorer"
         },
         "stencil_236": {
             "desc": "Hydrauliska ventiler"
-        },
-        "stencil_246": {
-            "cat": [
-                "rapporter"
-            ]
         }
     },
     "integrate": {
