@@ -3437,10 +3437,7 @@
         "show_more": "Visa mer",
         "login_save_symbol": "Logga in för att spara din symbol.",
         "stencil_223": {
-            "desc": "trådar",
-            "cat": [
-                "trådar"
-            ]
+            "desc": "trådar"
         },
         "stencil_225": {
             "desc": "IEC-symboler"
