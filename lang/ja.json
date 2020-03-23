@@ -3448,10 +3448,7 @@
         "show_more": "もっと見せる",
         "login_save_symbol": "サインインしてシンボルを保存してください。",
         "stencil_223": {
-            "desc": "ワイヤー",
-            "cat": [
-                "ワイヤー"
-            ]
+            "desc": "ワイヤー"
         },
         "stencil_224": {
             "name": "JIC / NFPAシンボル",
