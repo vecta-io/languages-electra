@@ -3461,10 +3461,7 @@
             "desc": "Symboles électroniques"
         },
         "stencil_223": {
-            "desc": "Fils",
-            "cat": [
-                "Fils"
-            ]
+            "desc": "Fils"
         },
         "stencil_225": {
             "desc": "Symboles CEI"
