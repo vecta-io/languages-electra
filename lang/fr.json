@@ -3452,29 +3452,47 @@
             "desc": "Symboles d'une seule ligne"
         },
         "stencil_227": {
-            "desc": "Puissance IEC, compteurs, transformateurs, moteurs"
+            "desc": "Puissance IEC, compteurs, transformateurs, moteurs",
+            "cat": [
+                "IEC"
+            ]
         },
         "stencil_230": {
-            "desc": "Symboles de disposition du panneau"
+            "desc": "Symboles de disposition du panneau",
+            "cat": [
+                "Disposition"
+            ]
         },
         "stencil_226": {
             "desc": "Symboles électroniques"
         },
         "stencil_223": {
-            "desc": "Fils"
+            "desc": "Fils",
+            "cat": [
+                "Fils"
+            ]
         },
         "stencil_225": {
-            "desc": "Symboles CEI"
+            "desc": "Symboles CEI",
+            "cat": [
+                "IEC"
+            ]
         },
         "stencil_228": {
-            "desc": "Isolateurs, sectionneurs, fusibles, contacteurs, surcharges IEC"
+            "desc": "Isolateurs, sectionneurs, fusibles, contacteurs, surcharges IEC",
+            "cat": [
+                "IEC"
+            ]
         },
         "stencil_224": {
             "name": "Symboles JIC / NFPA",
             "desc": "Symboles JIC / NFPA"
         },
         "stencil_231": {
-            "desc": "Symboles de disposition du panneau 3D"
+            "desc": "Symboles de disposition du panneau 3D",
+            "cat": [
+                "Disposition"
+            ]
         },
         "stencil_233": {
             "desc": "Vannes pneumatiques"
