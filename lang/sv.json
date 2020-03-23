@@ -3437,16 +3437,10 @@
         "show_more": "Visa mer",
         "login_save_symbol": "Logga in för att spara din symbol.",
         "stencil_223": {
-            "desc": "trådar",
-            "cat": [
-                "trådar"
-            ]
+            "desc": "trådar"
         },
         "stencil_225": {
-            "desc": "IEC-symboler",
-            "cat": [
-                "IEC"
-            ]
+            "desc": "IEC-symboler"
         },
         "stencil_229": {
             "desc": "Enkla linjesymboler"
@@ -3459,31 +3453,19 @@
             "name": "JIC / NFPA-symboler"
         },
         "stencil_228": {
-            "desc": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar",
-            "cat": [
-                "IEC"
-            ]
+            "desc": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar"
         },
         "stencil_232": {
             "desc": "Pneumatiska pumpar, cylindrar och motorer"
         },
         "stencil_230": {
-            "desc": "Symboler för panellayout",
-            "cat": [
-                "Layout"
-            ]
+            "desc": "Symboler för panellayout"
         },
         "stencil_231": {
-            "desc": "Symboler för 3D-panellayout",
-            "cat": [
-                "Layout"
-            ]
+            "desc": "Symboler för 3D-panellayout"
         },
         "stencil_227": {
-            "desc": "IEC Power, Meters, Transformers, Motors",
-            "cat": [
-                "IEC"
-            ]
+            "desc": "IEC Power, Meters, Transformers, Motors"
         },
         "stencil_234": {
             "desc": "Pneumatisk Diverse"
