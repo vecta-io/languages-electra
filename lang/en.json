@@ -1723,7 +1723,10 @@
         "saving_stencils": "Saving stencils",
         "stencil_223": {
             "name": "Wires",
-            "desc": "Wires"
+            "desc": "Wires",
+            "cat": [
+                "Wires"
+            ]
         },
         "stencil_224": {
             "name": "JIC / NFPA Symbols",
@@ -1731,7 +1734,10 @@
         },
         "stencil_225": {
             "name": "IEC Symbols",
-            "desc": "IEC Symbols"
+            "desc": "IEC Symbols",
+            "cat": [
+                "IEC"
+            ]
         },
         "stencil_226": {
             "name": "Electronics Symbols",
@@ -1739,11 +1745,17 @@
         },
         "stencil_227": {
             "name": "IEC Power, Meters, Transformers, Motors",
-            "desc": "IEC Power, Meters, Transformers, Motors"
+            "desc": "IEC Power, Meters, Transformers, Motors",
+            "cat": [
+                "IEC"
+            ]
         },
         "stencil_228": {
             "name": "IEC Isolators, Disconnectors, Fuses, Contactors, Overloads",
-            "desc": "IEC Isolators, Disconnectors, Fuses, Contactors, Overloads"
+            "desc": "IEC Isolators, Disconnectors, Fuses, Contactors, Overloads",
+            "cat": [
+                "IEC"
+            ]
         },
         "stencil_229": {
             "name": "Single Line Symbols",
@@ -1751,11 +1763,17 @@
         },
         "stencil_230": {
             "name": "Layout",
-            "desc": "Panel layout symbols"
+            "desc": "Panel layout symbols",
+            "cat": [
+                "Layout"
+            ]
         },
         "stencil_231": {
             "name": "Layout 3D",
-            "desc": "3D Panel Layout symbols"
+            "desc": "3D Panel Layout symbols",
+            "cat": [
+                "Layout"
+            ]
         },
         "stencil_232": {
             "name": "Pneumatic Pumps, Cylinders and Motors",
