@@ -1818,6 +1818,10 @@
         "stencil_68": {
             "name": "Avatars",
             "desc": "Avatars"
+        },
+        "stencil_69": {
+            "name": "Comments",
+            "desc": "Comments are assigned to layers, so you can customize its visibility during exporting/printing"
         }
     },
     "plugin": {
@@ -2147,6 +2151,7 @@
         "no_payment_history": "No payment history yet",
         "payment_methods": "Payment Methods",
         "no_payment_method": "No payment method found",
+        "no_license": "No license found",
         "required_fields": "Required fields",
         "ok": "OK",
         "cancel": "Cancel",
@@ -2181,7 +2186,16 @@
         "payment_method_exists": "Payment method is already added",
         "validate_payment": "Validating payment",
         "validate_email": "Validating email",
-        "refresh_token": "Your access has changed. Please reload to refresh access."
+        "refresh_token": "Your access has changed. Please reload to refresh access.",
+        "paid_on": "Paid on",
+        "assigned": "Serial key successfully assigned",
+        "invalid_email": "Invalid email provided",
+        "revoked": "User successfully revoked",
+        "revoke_failed": "Revoke failed",
+        "method_updated": "Payment method updated",
+        "method_deleted": "Payment method deleted",
+        "method_change_failed": "Failed to change payment method",
+        "permission_denied": "Permission denied"
     },
     "license": {
         "activate": "Activate",
