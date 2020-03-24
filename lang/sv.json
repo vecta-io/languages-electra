@@ -2193,7 +2193,7 @@
         },
         "stencil_69": {
             "name": "kommentarer",
-            "desc": "Kommentarer tilldelas lag, så du kan anpassa dess synlighet under export / utskrift",
+            "desc": "Kommentarer tilldelas lager, så att du kan anpassa dess synlighet under export / utskrift",
             "cat": [
                 "Människor, flaggor och dokument"
             ]
@@ -3751,6 +3751,16 @@
         "payment_method_exists": "Payment method is already added",
         "validate_payment": "Validera betalning",
         "validate_email": "Validerar e-post",
-        "refresh_token": "Din åtkomst har ändrats. Ladda om för att uppdatera åtkomst."
+        "refresh_token": "Din åtkomst har ändrats. Ladda om för att uppdatera åtkomst.",
+        "assigned": "Seriell nyckel tilldelad",
+        "no_license": "Ingen licens hittades",
+        "paid_on": "Betalade på",
+        "invalid_email": "Ogiltig e-postadress tillhandahålls",
+        "revoked": "Användaren återkallas",
+        "method_deleted": "Betalningsmetod raderad",
+        "method_updated": "Betalningsmetoden uppdaterad",
+        "revoke_failed": "Återkallelse misslyckades",
+        "method_change_failed": "Det gick inte att ändra betalningsmetod",
+        "permission_denied": "Åtkomst nekad"
     }
 }
