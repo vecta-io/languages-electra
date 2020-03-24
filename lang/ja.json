@@ -2202,7 +2202,7 @@
         },
         "stencil_69": {
             "name": "コメント",
-            "desc": "Comments are assigned to layers, so you can customize its visibility during exporting/printing",
+            "desc": "コメントはレイヤーに割り当てられるため、エクスポート/印刷中に表示をカスタマイズできます",
             "cat": [
                 "人、旗、文書"
             ]
@@ -3756,6 +3756,16 @@
         "payment_method_exists": "お支払い方法は既に追加されています",
         "validate_payment": "支払いの検証",
         "validate_email": "メールの検証",
-        "refresh_token": "アクセスが変更されました。再読み込みしてアクセスを更新してください。"
+        "refresh_token": "アクセスが変更されました。再読み込みしてアクセスを更新してください。",
+        "invalid_email": "無効なメールが提供されました",
+        "no_license": "ライセンスが見つかりません",
+        "revoke_failed": "取り消しに失敗しました",
+        "revoked": "ユーザーは取り消されました",
+        "paid_on": "有料",
+        "assigned": "シリアルキーが正常に割り当てられました",
+        "method_updated": "支払方法が更新されました",
+        "method_deleted": "支払方法が削除されました",
+        "method_change_failed": "支払い方法を変更できませんでした",
+        "permission_denied": "アクセス拒否"
     }
 }
