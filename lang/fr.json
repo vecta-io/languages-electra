@@ -2203,7 +2203,7 @@
         },
         "stencil_69": {
             "name": "commentaires",
-            "desc": "Les commentaires sont attribués aux calques afin que vous puissiez personnaliser sa visibilité lors de l'exportation / impression",
+            "desc": "Les commentaires sont attribués aux calques, vous pouvez donc personnaliser sa visibilité lors de l'exportation / de l'impression",
             "cat": [
                 "Personnes, drapeaux et documents"
             ]
@@ -3760,7 +3760,17 @@
         "payment_method_exists": "La méthode de paiement est déjà ajoutée",
         "validate_payment": "Validation du paiement",
         "validate_email": "Validation de l'email",
-        "refresh_token": "Votre accès a changé. Veuillez recharger pour rafraîchir l'accès."
+        "refresh_token": "Votre accès a changé. Veuillez recharger pour rafraîchir l'accès.",
+        "assigned": "Clé série affectée avec succès",
+        "revoked": "L'utilisateur a été révoqué avec succès",
+        "invalid_email": "E-mail non valide fourni",
+        "no_license": "Aucune licence trouvée",
+        "method_deleted": "Méthode de paiement supprimée",
+        "revoke_failed": "La révocation a échoué",
+        "method_updated": "Méthode de paiement mise à jour",
+        "paid_on": "Payé le",
+        "permission_denied": "Permission refusée",
+        "method_change_failed": "Impossible de modifier le mode de paiement"
     },
     "license": {
         "activate": "Activer",
