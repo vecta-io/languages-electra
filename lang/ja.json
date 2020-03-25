@@ -910,10 +910,10 @@
         "confirm_del_mssg": "アクションは元に戻せません。図面、フォルダ、およびチームは管理チームに移動されます。",
         "remove_template": "テンプレートの削除",
         "removed_template": "テンプレートを削除しました",
-        "valid_message": " PDFのみアップロードできます",
+        "valid_message": "使用できるファイル形式はPDFです。",
         "upload_completed": "正常にアップロードされました",
         "invalid_type": "無効なファイルタイプ",
-        "upload_warning": "Vectaは一度に1つのファイルのみを受け入れます。"
+        "uploading": "アップロードしています"
     },
     "noti": {
         "left": "%% left Team @@。",
