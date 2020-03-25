@@ -966,9 +966,10 @@
         "confirm_del_mssg": "Les actions sont irréversibles. Les dessins, le dossier et les équipes seront déplacés vers l'équipe d'administration.",
         "remove_template": "Suppression du modèle",
         "removed_template": "Le modèle a bien été supprimé",
-        "import_warning": "Vecta n'accepte qu'un seul fichier à la fois.",
-        "import_finished": "Fichier téléchargé avec succès",
-        "upload_file": "Téléchargement du fichier"
+        "invalid_type": "type de fichier invalide",
+        "valid_message": " Peut uniquement télécharger des PDF",
+        "upload_completed": "téléchargé avec succès",
+        "upload_warning": "Vecta n'accepte qu'un seul fichier à la fois."
     },
     "access": {
         "and": "et",
@@ -1683,7 +1684,8 @@
                 "auto": "Auto",
                 "custom": "Douane"
             },
-            "custom_key_incre": "Définir l'incrément"
+            "custom_key_incre": "Définir l'incrément",
+            "connector_curve": "Taille de la courbe du connecteur"
         },
         "files": {
             "sten": "Chemin des pochoirs:",
