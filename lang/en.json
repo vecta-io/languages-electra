@@ -547,10 +547,10 @@
         "applying_changes": "Applying changes",
         "confirm_del": "Confirm deletion of users",
         "confirm_del_mssg": "Actions is irreversible. Drawings, folder and teams will be moved to admin team.",
-        "upload_warning": "Vecta accepts only 1 file at a time.",
         "upload_completed": "successfully uploaded",
         "invalid_type": "Invalid file type ",
-        "valid_message": " Can only upload PDF"
+        "valid_message": "Acceptable file types are PDF.",
+        "uploading": "Uploading"
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
