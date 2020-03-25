@@ -874,9 +874,9 @@
         "remove_template": "Tar bort mallen",
         "removed_template": "Mallen har tagits bort",
         "invalid_type": "ogiltig filtyp",
-        "valid_message": " Kan bara ladda upp PDF",
-        "upload_warning": "Vecta accepterar bara en fil åt gången.",
-        "upload_completed": "uppladdad"
+        "valid_message": "Godkända filtyper är PDF.",
+        "upload_completed": "uppladdad",
+        "uploading": "uppladdning"
     },
     "noti": {
         "deny": "Neka",
