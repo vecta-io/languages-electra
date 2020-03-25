@@ -502,7 +502,6 @@
         "create_drawing": "Creating new drawing",
         "create_folder": "Creating new folder",
         "create_template": "Creating new template",
-        "upload_file": "Uploading file",
         "created_template": "Template successfully created.",
         "remove_template": "Removing template",
         "removed_template": "Template successfully removed",
@@ -548,8 +547,10 @@
         "applying_changes": "Applying changes",
         "confirm_del": "Confirm deletion of users",
         "confirm_del_mssg": "Actions is irreversible. Drawings, folder and teams will be moved to admin team.",
-        "import_warning": "Vecta accepts only 1 file at a time.",
-        "import_finished": "File successfully uploaded"
+        "upload_warning": "Vecta accepts only 1 file at a time.",
+        "upload_completed": "successfully uploaded",
+        "invalid_type": "Invalid file type ",
+        "valid_message": " Can only upload PDF"
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
@@ -2094,6 +2095,7 @@
                 "custom": "Custom"
             },
             "custom_key_incre": "Set increment",
+            "connector_curve": "Connector curve size",
             "new_mssg": "Chat message is received",
             "new_user": "Collaborator joins editing"
         },
