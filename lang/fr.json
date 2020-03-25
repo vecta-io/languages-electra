@@ -967,9 +967,9 @@
         "remove_template": "Suppression du modèle",
         "removed_template": "Le modèle a bien été supprimé",
         "invalid_type": "type de fichier invalide",
-        "valid_message": " Peut uniquement télécharger des PDF",
+        "valid_message": "Les types de fichiers acceptables sont PDF.",
         "upload_completed": "téléchargé avec succès",
-        "upload_warning": "Vecta n'accepte qu'un seul fichier à la fois."
+        "uploading": "Téléchargement"
     },
     "access": {
         "and": "et",
