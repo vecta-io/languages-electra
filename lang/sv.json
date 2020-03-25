@@ -873,8 +873,10 @@
         "confirm_del_mssg": "Åtgärder är irreversibla. Ritningar, mapp och lag flyttas till admin team.",
         "remove_template": "Tar bort mallen",
         "removed_template": "Mallen har tagits bort",
-        "import_finished": "Filen har laddats upp",
-        "upload_file": "Överför fil"
+        "invalid_type": "ogiltig filtyp",
+        "valid_message": " Kan bara ladda upp PDF",
+        "upload_warning": "Vecta accepterar bara en fil åt gången.",
+        "upload_completed": "uppladdad"
     },
     "noti": {
         "deny": "Neka",
@@ -1670,7 +1672,8 @@
                 "auto": "Bil",
                 "custom": "Beställnings"
             },
-            "custom_key_incre": "Ställ in steg"
+            "custom_key_incre": "Ställ in steg",
+            "connector_curve": "Storlek på anslutningskurvan"
         },
         "receive_noti": "Meddela mig när en lagmedlem:",
         "files": {
