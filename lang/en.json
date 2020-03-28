@@ -2207,8 +2207,7 @@
         "deactivated": "License deactivated",
         "activation": "License activation",
         "deactivation": "License deactivation",
-        "err_1": "Invalid Key Entered.",
-        "product_is_unlicensed": "This product is unlicensed"
+        "err_1": "Invalid Key Entered."
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
