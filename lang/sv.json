@@ -3765,5 +3765,8 @@
         "revoke_failed": "Återkallelse misslyckades",
         "method_change_failed": "Det gick inte att ändra betalningsmetod",
         "permission_denied": "Åtkomst nekad"
+    },
+    "license": {
+        "product_is_unlicensed": "Denna produkt är olicensierad"
     }
 }
