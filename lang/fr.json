@@ -3782,7 +3782,6 @@
         "deactivated": "Licence désactivée",
         "activation": "Activation de licence",
         "deactivation": "Désactivation de licence",
-        "err_1": "Clé invalide saisie.",
-        "product_is_unlicensed": "Ce produit n'est pas autorisé"
+        "err_1": "Clé invalide saisie."
     }
 }
