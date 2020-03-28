@@ -3769,5 +3769,8 @@
         "method_deleted": "支払方法が削除されました",
         "method_change_failed": "支払い方法を変更できませんでした",
         "permission_denied": "アクセス拒否"
+    },
+    "license": {
+        "product_is_unlicensed": "この製品はライセンスされていません"
     }
 }
