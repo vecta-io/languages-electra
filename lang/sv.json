@@ -423,7 +423,8 @@
         "loading": "Läser in",
         "days_left": "dagar kvar",
         "trial": "Rättegång",
-        "no_license": "Ingen licens hittades"
+        "no_license": "Ingen licens hittades",
+        "dxf_no_image": "Den här sidan innehåller bilder. Bilder kan inte exporteras i DXF-format"
     },
     "drop": {
         "in": "tum",
