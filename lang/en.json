@@ -1090,6 +1090,7 @@
         "days_left": "days left",
         "trial": "Trial",
         "no_license": "No license found",
+        "dxf_no_image": "This page contains images. Images can't be exported in DXF format",
         "slogan": "Cloud based Electrical CAD Software",
         "stencil": "Stencil",
         "electrical": "Electrical",
