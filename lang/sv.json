@@ -877,7 +877,8 @@
         "invalid_type": "ogiltig filtyp",
         "valid_message": "Godkända filtyper är PDF.",
         "upload_completed": "uppladdad",
-        "uploading": "uppladdning"
+        "uploading": "uppladdning",
+        "disabled_upload": "Uppladdning inaktiverad. Ladda upp igen när den nuvarande uppladdningen har slutförts."
     },
     "noti": {
         "deny": "Neka",
