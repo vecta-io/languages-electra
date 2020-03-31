@@ -914,7 +914,8 @@
         "valid_message": "使用できるファイル形式はPDFです。",
         "upload_completed": "正常にアップロードされました",
         "invalid_type": "無効なファイルタイプ",
-        "uploading": "アップロードしています"
+        "uploading": "アップロードしています",
+        "disabled_upload": "アップロードが無効になっています。現在のアップロードが完了したら、もう一度アップロードしてください。"
     },
     "noti": {
         "left": "%% left Team @@。",
