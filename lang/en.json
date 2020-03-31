@@ -550,7 +550,8 @@
         "upload_completed": "successfully uploaded",
         "invalid_type": "Invalid file type ",
         "valid_message": "Acceptable file types are PDF.",
-        "uploading": "Uploading"
+        "uploading": "Uploading",
+        "disabled_upload": "Upload disabled. Please upload again when the current upload has completed."
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
