@@ -247,7 +247,8 @@
         "import_drawing": "Importing drawing, may take a few minutes ",
         "update_linkage": "Updating linkages",
         "update_lzone": "Updating Ladder Zones",
-        "update_layouts": "Updating layouts"
+        "update_layouts": "Updating layouts",
+        "update_wireIEC": "Updating wire IEC"
     },
     "login": {
         "collab": "Online",
