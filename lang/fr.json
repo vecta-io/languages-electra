@@ -1195,7 +1195,8 @@
         "file_invalid_field": "Champ non valide trouvé dans le fichier.",
         "save_before_exit": "Voulez-vous enregistrer les modifications avant de quitter?",
         "update_lzone": "Mise à jour des zones à contacts",
-        "update_layouts": "Mise à jour des dispositions"
+        "update_layouts": "Mise à jour des dispositions",
+        "update_wireIEC": "Mise à jour du fil IEC"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
