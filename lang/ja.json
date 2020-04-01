@@ -1204,7 +1204,8 @@
         "thank_you_feedback": "ご意見ありがとうございます。",
         "failed_try_again": "失敗しました。後でもう一度やり直してください。",
         "file_invalid_field": "ファイルに無効なフィールドが見つかりました。",
-        "save_before_exit": "終了する前に変更を保存しますか？"
+        "save_before_exit": "終了する前に変更を保存しますか？",
+        "update_wireIEC": "ワイヤーIECの更新"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
