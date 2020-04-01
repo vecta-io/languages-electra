@@ -1135,7 +1135,8 @@
         "thank_you_feedback": "Tack för din feedback.",
         "failed_try_again": "Misslyckades. Vänligen försök igen senare.",
         "file_invalid_field": "Ogiltigt fält hittades i filen.",
-        "save_before_exit": "Vill du spara ändringar innan du lämnar?"
+        "save_before_exit": "Vill du spara ändringar innan du lämnar?",
+        "update_wireIEC": "Uppdatering av tråd IEC"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
