@@ -372,7 +372,9 @@
         "trial": "Procès",
         "no_license": "Aucune licence trouvée",
         "days_left": "Jours restants",
-        "dxf_no_image": "Cette page contient des images. Les images ne peuvent pas être exportées au format DXF"
+        "dxf_no_image": "Cette page contient des images. Les images ne peuvent pas être exportées au format DXF",
+        "updating_autoloc": "Mise à jour des emplacements automatiques",
+        "scan_autoloc": "Analyse des emplacements automatiques"
     },
     "page": {
         "cm": "Centimètre",
