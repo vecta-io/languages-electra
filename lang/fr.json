@@ -22,14 +22,6 @@
         "name": "prénom",
         "txtcx": "TxtCenterX",
         "end_x": "EndX",
-        "hsl": [
-            "H",
-            "S",
-            "L",
-            "R",
-            "g",
-            "B"
-        ],
         "end_y": "EndY",
         "error": "Erreur",
         "share": "Partager avec d'autres",
@@ -362,10 +354,6 @@
         "exported_dwg": "DWG exporté. Veuillez activer le popup dans votre navigateur pour télécharger",
         "color_separation": "Séparations de couleurs",
         "color_mode": "Color mode",
-        "color_modes": {
-            "rgb": "RGB",
-            "cmyk": "CMYK"
-        },
         "red": "Red",
         "green": "Green",
         "blue": "Blue",
@@ -377,43 +365,6 @@
         "upload": "Télécharger",
         "upload_custom_fonts": "Importer des polices",
         "svg_invalid": "Le fichier SVG n'est pas valide",
-        "color_formats": {
-            "hex": "HEX",
-            "rgb": "RVB",
-            "hsl": "HSL",
-            "hsv": "HSV",
-            "cmyk": "CMJN",
-            "pantone": "Pantone",
-            "lab": "LABORATOIRE"
-        },
-        "color_abrv": {
-            "rgb": [
-                "R",
-                "g",
-                "B"
-            ],
-            "hsl": [
-                "H",
-                "S",
-                "L"
-            ],
-            "hsv": [
-                "H",
-                "S",
-                "V"
-            ],
-            "cmyk": [
-                "C",
-                "M",
-                "Oui",
-                "K"
-            ],
-            "lab": [
-                "L",
-                "une",
-                "b"
-            ]
-        },
         "make_copy": "Faire une copie",
         "update": "Mise à jour",
         "loading": "Chargement",
