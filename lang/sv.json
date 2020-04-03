@@ -375,7 +375,9 @@
         "days_left": "dagar kvar",
         "trial": "Rättegång",
         "no_license": "Ingen licens hittades",
-        "dxf_no_image": "Den här sidan innehåller bilder. Bilder kan inte exporteras i DXF-format"
+        "dxf_no_image": "Den här sidan innehåller bilder. Bilder kan inte exporteras i DXF-format",
+        "updating_autoloc": "Uppdatera autoplatser",
+        "scan_autoloc": "Skanna autoplatser"
     },
     "drop": {
         "in": "tum",
