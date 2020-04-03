@@ -1396,7 +1396,9 @@
         "export_format": "Export format",
         "tsv": "Tab Separated Values (*.tsv)",
         "csv": "Comma Separated Values (*.csv)",
-        "loading": "Loading"
+        "loading": "Loading",
+        "scan_autoloc": "Scanning auto locations",
+        "updating_autoloc": "Updating auto locations"
     },
     "drop": {
         "effects": "Effects",
