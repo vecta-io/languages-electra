@@ -20,14 +20,6 @@
         "view": "ビュー",
         "txty": "TxtY",
         "init": "図面を読む",
-        "hsl": [
-            "H",
-            "L",
-            "S",
-            "B",
-            "R",
-            "G"
-        ],
         "txtcy": "TxtCenterY",
         "end_x": "エンド",
         "txtcx": "TxtCenterX",
@@ -360,10 +352,6 @@
         "exported_dwg": "DWGがエクスポートされました。ダウンロードするには、ブラウザのポップアップを有効にしてください",
         "color_separation": "色分解",
         "color_mode": "カラーモード",
-        "color_modes": {
-            "rgb": "RGB",
-            "cmyk": "CMYK"
-        },
         "red": "赤",
         "green": "Green",
         "blue": "青い",
@@ -375,43 +363,6 @@
         "upload": "アップロードする",
         "upload_custom_fonts": "フォントをアップロードする",
         "svg_invalid": "SVGファイルが無効です",
-        "color_formats": {
-            "hex": "HEX",
-            "rgb": "RGB",
-            "hsl": "HSL",
-            "hsv": "HSV",
-            "cmyk": "CMYK",
-            "pantone": "パントン",
-            "lab": "LAB"
-        },
-        "color_abrv": {
-            "rgb": [
-                "R",
-                "G",
-                "B"
-            ],
-            "hsl": [
-                "H",
-                "S",
-                "L"
-            ],
-            "hsv": [
-                "H",
-                "S",
-                "V"
-            ],
-            "cmyk": [
-                "C",
-                "M",
-                "Y",
-                "K"
-            ],
-            "lab": [
-                "L",
-                "a",
-                "b"
-            ]
-        },
         "activate": "有効化",
         "deactivate": "無効化",
         "make_copy": "コピーする",
