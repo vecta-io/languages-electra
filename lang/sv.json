@@ -20,14 +20,6 @@
         "fill": "Fylla",
         "endx": "EndX",
         "txty": "TxtY",
-        "hsl": [
-            "H",
-            "S",
-            "L",
-            "R",
-            "G",
-            "B"
-        ],
         "end_x": "EndX",
         "txtcy": "TxtCenterY",
         "error": "Fel",
@@ -362,10 +354,6 @@
         "exported_dwg": "DWG exporteras. Aktivera popup i din webbläsare för att ladda ner",
         "color_separation": "Color Separations",
         "color_mode": "Color mode",
-        "color_modes": {
-            "rgb": "RGB",
-            "cmyk": "CMYK"
-        },
         "red": "Röd",
         "green": "Grön",
         "blue": "Blå",
@@ -377,43 +365,6 @@
         "upload": "Ladda upp",
         "upload_custom_fonts": "Ladda upp teckensnitt",
         "svg_invalid": "SVG-filen är ogiltig",
-        "color_formats": {
-            "hex": "HEX",
-            "rgb": "RGB",
-            "hsl": "HSL",
-            "hsv": "HSV",
-            "cmyk": "CMYK",
-            "pantone": "Pantone",
-            "lab": "LABB"
-        },
-        "color_abrv": {
-            "rgb": [
-                "R",
-                "G",
-                "B"
-            ],
-            "hsl": [
-                "H",
-                "S",
-                "L"
-            ],
-            "hsv": [
-                "H",
-                "S",
-                "V"
-            ],
-            "cmyk": [
-                "C",
-                "M",
-                "Y",
-                "K"
-            ],
-            "lab": [
-                "L",
-                "en",
-                "b"
-            ]
-        },
         "activate": "Aktivera",
         "deactivate": "Avaktivera",
         "make_copy": "Göra en kopia",
