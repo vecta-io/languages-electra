@@ -377,7 +377,56 @@
         "no_license": "Ingen licens hittades",
         "dxf_no_image": "Den här sidan innehåller bilder. Bilder kan inte exporteras i DXF-format",
         "updating_autoloc": "Uppdatera autoplatser",
-        "scan_autoloc": "Skanna autoplatser"
+        "scan_autoloc": "Skanna autoplatser",
+        "color_formats": {
+            "pantone": "Pantone",
+            "rgb": "RGB",
+            "hsl": "HSL",
+            "hsv": "HSV",
+            "cmyk": "CMYK",
+            "hex": "HEX",
+            "lab": "LABB"
+        },
+        "color_modes": {
+            "cmyk": "CMYK",
+            "rgb": "RGB"
+        },
+        "color_abrv": {
+            "rgb": [
+                "R",
+                "G",
+                "B"
+            ],
+            "hsv": [
+                "H",
+                "S",
+                "V"
+            ],
+            "hsl": [
+                "H",
+                "S",
+                "L"
+            ],
+            "cmyk": [
+                "C",
+                "M",
+                "Y",
+                "K"
+            ],
+            "lab": [
+                "L",
+                "en",
+                "b"
+            ]
+        },
+        "hsl": [
+            "H",
+            "S",
+            "L",
+            "R",
+            "G",
+            "B"
+        ]
     },
     "drop": {
         "in": "tum",
