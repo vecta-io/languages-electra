@@ -835,6 +835,55 @@
         "shape_properties": "Shape Properties",
         "color_separation": "Color Separations",
         "color_mode": "Color mode",
+        "color_modes": {
+            "rgb": "RGB",
+            "cmyk": "CMYK"
+        },
+        "color_formats": {
+            "hex": "HEX",
+            "rgb": "RGB",
+            "hsl": "HSL",
+            "hsv": "HSV",
+            "cmyk": "CMYK",
+            "pantone": "Pantone",
+            "lab": "LAB"
+        },
+        "hsl": [
+            "H",
+            "S",
+            "L",
+            "R",
+            "G",
+            "B"
+        ],
+        "color_abrv": {
+            "rgb": [
+                "R",
+                "G",
+                "B"
+            ],
+            "hsl": [
+                "H",
+                "S",
+                "L"
+            ],
+            "hsv": [
+                "H",
+                "S",
+                "V"
+            ],
+            "cmyk": [
+                "C",
+                "M",
+                "Y",
+                "K"
+            ],
+            "lab": [
+                "L",
+                "a",
+                "b"
+            ]
+        },
         "red": "Red",
         "green": "Green",
         "blue": "Blue",
