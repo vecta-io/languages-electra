@@ -375,7 +375,56 @@
         "days_left": "残りの日数",
         "dxf_no_image": "このページには画像が含まれています。画像はDXF形式でエクスポートできません",
         "scan_autoloc": "自動位置をスキャンしています",
-        "updating_autoloc": "自動位置情報の更新"
+        "updating_autoloc": "自動位置情報の更新",
+        "color_formats": {
+            "hsl": "HSL",
+            "hsv": "HSV",
+            "pantone": "パントン",
+            "rgb": "RGB",
+            "lab": "ラボ",
+            "cmyk": "CMYK",
+            "hex": "HEX"
+        },
+        "color_modes": {
+            "rgb": "RGB",
+            "cmyk": "CMYK"
+        },
+        "hsl": [
+            "H",
+            "S",
+            "L",
+            "R",
+            "G",
+            "B"
+        ],
+        "color_abrv": {
+            "hsl": [
+                "H",
+                "S",
+                "L"
+            ],
+            "rgb": [
+                "R",
+                "G",
+                "B"
+            ],
+            "cmyk": [
+                "C",
+                "M",
+                "Y",
+                "K"
+            ],
+            "hsv": [
+                "H",
+                "S",
+                "V"
+            ],
+            "lab": [
+                "L",
+                "a",
+                "b"
+            ]
+        }
     },
     "list": {
         "sv": "スウェーデン語",
