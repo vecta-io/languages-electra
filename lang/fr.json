@@ -374,7 +374,56 @@
         "days_left": "Jours restants",
         "dxf_no_image": "Cette page contient des images. Les images ne peuvent pas être exportées au format DXF",
         "updating_autoloc": "Mise à jour des emplacements automatiques",
-        "scan_autoloc": "Analyse des emplacements automatiques"
+        "scan_autoloc": "Analyse des emplacements automatiques",
+        "color_formats": {
+            "lab": "LABORATOIRE",
+            "hsl": "HSL",
+            "cmyk": "CMJN",
+            "hex": "HEX",
+            "rgb": "RVB",
+            "pantone": "Pantone",
+            "hsv": "HSV"
+        },
+        "hsl": [
+            "H",
+            "S",
+            "L",
+            "R",
+            "g",
+            "B"
+        ],
+        "color_modes": {
+            "rgb": "RVB",
+            "cmyk": "CMJN"
+        },
+        "color_abrv": {
+            "rgb": [
+                "R",
+                "g",
+                "B"
+            ],
+            "hsl": [
+                "H",
+                "S",
+                "L"
+            ],
+            "cmyk": [
+                "C",
+                "M",
+                "Oui",
+                "K"
+            ],
+            "hsv": [
+                "H",
+                "S",
+                "V"
+            ],
+            "lab": [
+                "L",
+                "une",
+                "b"
+            ]
+        }
     },
     "page": {
         "cm": "Centimètre",
