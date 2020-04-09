@@ -3743,7 +3743,7 @@
         "serial_key": "Clé de série",
         "validity": "Validité",
         "unlimited": "Illimité",
-        "err_offline": "Veuillez vous connecter à Internet pour effectuer l'activation",
-        "license_id": "ID de licence"
+        "license_id": "ID de licence",
+        "err_2": "Veuillez vous connecter à Internet pour effectuer l'activation / désactivation."
     }
 }
