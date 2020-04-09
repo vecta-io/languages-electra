@@ -3727,7 +3727,7 @@
         "validity": "Giltighet",
         "unlimited": "Obegränsat",
         "license_id": "Licens-ID",
-        "err_offline": "Anslut till internet för att utföra aktivering",
-        "serial_key": "Seriell nyckel"
+        "serial_key": "Seriell nyckel",
+        "err_2": "Anslut till Internet för att utföra aktivering / inaktivering."
     }
 }
