@@ -3739,6 +3739,11 @@
         "activation": "Activation de licence",
         "deactivation": "Désactivation de licence",
         "err_1": "Clé invalide saisie.",
-        "product_is_unlicensed": "Ce produit n'est pas autorisé"
+        "product_is_unlicensed": "Ce produit n'est pas autorisé",
+        "serial_key": "Clé de série",
+        "validity": "Validité",
+        "unlimited": "Illimité",
+        "err_offline": "Veuillez vous connecter à Internet pour effectuer l'activation",
+        "license_id": "ID de licence"
     }
 }
