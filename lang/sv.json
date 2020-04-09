@@ -3723,6 +3723,11 @@
         "permission_denied": "Åtkomst nekad"
     },
     "license": {
-        "product_is_unlicensed": "Denna produkt är olicensierad"
+        "product_is_unlicensed": "Denna produkt är olicensierad",
+        "validity": "Giltighet",
+        "unlimited": "Obegränsat",
+        "license_id": "Licens-ID",
+        "err_offline": "Anslut till internet för att utföra aktivering",
+        "serial_key": "Seriell nyckel"
     }
 }
