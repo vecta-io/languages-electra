@@ -3727,6 +3727,11 @@
         "permission_denied": "アクセス拒否"
     },
     "license": {
-        "product_is_unlicensed": "この製品はライセンスされていません"
+        "product_is_unlicensed": "この製品はライセンスされていません",
+        "validity": "有効",
+        "serial_key": "シリアルキー",
+        "license_id": "ライセンスID",
+        "unlimited": "無制限",
+        "err_offline": "アクティベーションを実行するにはインターネットに接続してください"
     }
 }
