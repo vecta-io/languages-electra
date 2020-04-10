@@ -375,7 +375,10 @@
         "days_left": "残りの日数",
         "dxf_no_image": "このページには画像が含まれています。画像はDXF形式でエクスポートできません",
         "scan_autoloc": "自動位置をスキャンしています",
-        "updating_autoloc": "自動位置情報の更新"
+        "updating_autoloc": "自動位置情報の更新",
+        "updating_hosing_tag": "ホースタグの更新",
+        "updating_cable_tag": "ケーブルタグの更新",
+        "updating_tubing_tag": "チューブタグの更新"
     },
     "list": {
         "sv": "スウェーデン語",
