@@ -377,7 +377,10 @@
         "no_license": "Ingen licens hittades",
         "dxf_no_image": "Den här sidan innehåller bilder. Bilder kan inte exporteras i DXF-format",
         "updating_autoloc": "Uppdatera autoplatser",
-        "scan_autoloc": "Skanna autoplatser"
+        "scan_autoloc": "Skanna autoplatser",
+        "updating_hosing_tag": "Uppdaterar hosing-taggen",
+        "updating_cable_tag": "Uppdaterar kabel taggen",
+        "updating_tubing_tag": "Uppdaterar slangtaggen"
     },
     "drop": {
         "in": "tum",
