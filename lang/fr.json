@@ -1584,6 +1584,18 @@
         },
         "ListCustomMenu": {
             "tip": "Liste du menu personnalisé"
+        },
+        "view": {
+            "icon": "Vue"
+        },
+        "share": {
+            "icon": "Partager"
+        },
+        "export": {
+            "icon": "Exportation"
+        },
+        "file": {
+            "icon": "Préférences"
         }
     },
     "signup": {
