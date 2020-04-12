@@ -1535,6 +1535,18 @@
         },
         "ListCustomMenu": {
             "tip": "List custom menu"
+        },
+        "file": {
+            "icon": "環境設定"
+        },
+        "export": {
+            "icon": "書き出す"
+        },
+        "view": {
+            "icon": "見る"
+        },
+        "share": {
+            "icon": "シェア"
         }
     },
     "preload": {
