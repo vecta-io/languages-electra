@@ -1574,6 +1574,18 @@
         },
         "ListCustomMenu": {
             "tip": "Lista anpassad meny"
+        },
+        "view": {
+            "icon": "Se"
+        },
+        "export": {
+            "icon": "Exportera"
+        },
+        "share": {
+            "icon": "Dela med sig"
+        },
+        "file": {
+            "icon": "Inställningar"
         }
     },
     "verify": {
