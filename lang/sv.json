@@ -3745,8 +3745,6 @@
         "unlimited": "Obegränsat",
         "license_id": "Licens-ID",
         "serial_key": "Seriell nyckel",
-        "err_2": "Anslut till Internet för att utföra aktivering / inaktivering.",
-        "err_3": "Seriell nyckel är ogiltig. För att få en giltig, besök @@",
-        "err_4": "Seriell nyckel tillhandahålls inte."
+        "err_2": "Anslut till Internet för att utföra aktivering / inaktivering."
     }
 }
