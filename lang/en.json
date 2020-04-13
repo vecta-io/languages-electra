@@ -2174,8 +2174,6 @@
         "deactivation": "License deactivation",
         "err_1": "Invalid Key Entered.",
         "err_2": "Please connect to the internet to perform activation / deactivation.",
-        "err_3": "Serial key is invalid. To obtain a valid one, please visit @@",
-        "err_4": "Serial key is not provided.",
         "product_is_unlicensed": "This product is unlicensed",
         "license_id": "License ID",
         "validity": "Validity",
