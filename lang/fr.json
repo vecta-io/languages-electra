@@ -546,7 +546,6 @@
         "edit_icon": "Modifier l'icône",
         "hide_grid": "Masquer la grille",
         "open_sans": "Ouvrir Sans",
-        "file_prop": "Configuration du document",
         "intersect": "Couper",
         "export_pdf": "Exporter en PDF",
         "page_setup": "Mise en page",
@@ -602,14 +601,11 @@
         "share_stencil": "Partager le pochoir",
         "export_stencil": "Exportation",
         "import_stencil": "Importer",
-        "file_prop_info": "Le titre et la description sont utilisés dans votre publication et sur les réseaux sociaux. <br /> La publication de dessins rendra votre contenu visible à quiconque sur Internet.",
         "show_properties": "Afficher les propriétés",
         "hide_properties": "Masquer les propriétés",
         "publish_drawing": "Publier le dessin",
         "download_drawing": "Télécharger",
         "roboto_condensed": "Roboto condensé",
-        "show_icon_preview": "Afficher l'aperçu de l'icône",
-        "hide_icon_preview": "Masquer l'aperçu des icônes",
         "last_modified_by_me": "Dernière modification par moi",
         "tools": "Outils",
         "convert_path": "Convertir en chemin",
@@ -686,7 +682,9 @@
         "make_template": "Créer un modèle",
         "remove_template": "Supprimer le modèle",
         "custom_json_layer": "JSON personnalisé (calque)",
-        "reset_ratio": "Rapport de réinitialisation"
+        "reset_ratio": "Rapport de réinitialisation",
+        "doc_setup_info": "Le titre et la description sont utilisés sur votre publication et sur les réseaux sociaux. <br /> La publication de dessins rendra votre contenu visible par quiconque sur Internet.",
+        "doc_setup": "Configuration du document"
     },
     "list": {
         "en": "Anglais",
