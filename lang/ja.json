@@ -378,7 +378,11 @@
         "updating_autoloc": "自動位置情報の更新",
         "updating_hosing_tag": "ホースタグの更新",
         "updating_cable_tag": "ケーブルタグの更新",
-        "updating_tubing_tag": "チューブタグの更新"
+        "updating_tubing_tag": "チューブタグの更新",
+        "new_version_available": "新しいバージョンが利用可能です",
+        "update_available": "利用可能なアップデート",
+        "updating": "更新しています",
+        "update_downloaded": "アップデートがダウンロードされました"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -3745,6 +3749,8 @@
         "serial_key": "シリアルキー",
         "license_id": "ライセンスID",
         "unlimited": "無制限",
-        "err_2": "有効化/無効化を行うには、インターネットに接続してください。"
+        "err_2": "有効化/無効化を行うには、インターネットに接続してください。",
+        "err_4": "シリアルキーは付属していません。",
+        "err_3": "シリアルキーが無効です。有効なものを取得するには、@@にアクセスしてください。"
     }
 }
