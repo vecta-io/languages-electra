@@ -377,7 +377,11 @@
         "scan_autoloc": "Analyse des emplacements automatiques",
         "updating_cable_tag": "Mise à jour de l'étiquette de câble",
         "updating_tubing_tag": "Mise à jour de la balise de tube",
-        "updating_hosing_tag": "Mise à jour de la balise d'arrosage"
+        "updating_hosing_tag": "Mise à jour de la balise d'arrosage",
+        "update_available": "Mise à jour disponible",
+        "update_downloaded": "Mise à jour téléchargée",
+        "updating": "Mise à jour",
+        "new_version_available": "Une nouvelle version est disponible"
     },
     "page": {
         "cm": "Centimètre",
@@ -3757,6 +3761,8 @@
         "validity": "Validité",
         "unlimited": "Illimité",
         "license_id": "ID de licence",
-        "err_2": "Veuillez vous connecter à Internet pour effectuer l'activation / désactivation."
+        "err_2": "Veuillez vous connecter à Internet pour effectuer l'activation / désactivation.",
+        "err_4": "La clé de série n'est pas fournie.",
+        "err_3": "La clé de série n'est pas valide. Pour en obtenir un valide, veuillez visiter @@"
     }
 }
