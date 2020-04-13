@@ -548,7 +548,6 @@
         "hyperlink": "ハイパーリンク",
         "show_grid": "グリッド表示",
         "edit_link": "ハイパーリンクを編集する",
-        "file_prop": "ドキュメント設定",
         "edit_icon": "編集アイコン",
         "open_sans": "オープンサンズ",
         "hide_grid": "グリッドを非表示",
@@ -607,7 +606,6 @@
         "show_chat_box": "チャットボックスを表示する",
         "hide_chat_box": "チャットボックスを非表示にする",
         "show_sym_name": "アイコン名を表示する",
-        "file_prop_info": "タイトルと説明は、出版物およびソーシャルメディアで使用されます。 <br />図面を公開すると、インターネット上の誰でもコンテンツを見ることができます。",
         "export_stencil": "輸出する",
         "import_stencil": "インポート",
         "show_properties": "プロパティを表示する",
@@ -615,8 +613,6 @@
         "publish_drawing": "図面を公開する",
         "roboto_condensed": "Roboto Condensed",
         "download_drawing": "ダウンロード",
-        "show_icon_preview": "アイコンのプレビューを表示する",
-        "hide_icon_preview": "アイコンのプレビューを隠す",
         "last_modified_by_me": "最後に更新した図面",
         "tools": "ツール",
         "convert_path": "パスに変換する",
@@ -693,7 +689,9 @@
         "make_template": "テンプレートを作成",
         "remove_template": "テンプレートを削除",
         "custom_json_layer": "カスタムJSON（レイヤー）",
-        "reset_ratio": "リセット率"
+        "reset_ratio": "リセット率",
+        "doc_setup": "ドキュメントの設定",
+        "doc_setup_info": "タイトルと説明は、出版物やソーシャルメディアで使用されます。 <br />図面を公開すると、インターネット上の誰でもコンテンツを閲覧できるようになります。"
     },
     "login": {
         "or": "または",
