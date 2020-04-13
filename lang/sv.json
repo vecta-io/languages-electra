@@ -380,7 +380,11 @@
         "scan_autoloc": "Skanna autoplatser",
         "updating_hosing_tag": "Uppdaterar hosing-taggen",
         "updating_cable_tag": "Uppdaterar kabel taggen",
-        "updating_tubing_tag": "Uppdaterar slangtaggen"
+        "updating_tubing_tag": "Uppdaterar slangtaggen",
+        "update_available": "Uppdatering tillgänglig",
+        "updating": "Uppdaterande",
+        "new_version_available": "Ny version är tillgänglig",
+        "update_downloaded": "Uppdaterad nedladdad"
     },
     "drop": {
         "in": "tum",
@@ -3741,6 +3745,8 @@
         "unlimited": "Obegränsat",
         "license_id": "Licens-ID",
         "serial_key": "Seriell nyckel",
-        "err_2": "Anslut till Internet för att utföra aktivering / inaktivering."
+        "err_2": "Anslut till Internet för att utföra aktivering / inaktivering.",
+        "err_3": "Seriell nyckel är ogiltig. För att få en giltig, besök @@",
+        "err_4": "Seriell nyckel tillhandahålls inte."
     }
 }
