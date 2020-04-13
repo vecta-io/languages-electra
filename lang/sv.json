@@ -436,7 +436,6 @@
         "intersect": "Skära av",
         "open_sans": "Öppna Sans",
         "hyperlink": "hyper~~POS=TRUNC",
-        "file_prop": "Dokumentuppsättning",
         "align_top": "Toppjustera",
         "hide_grid": "Dölj rutnät",
         "edit_icon": "Redigera ikon",
@@ -494,7 +493,6 @@
         "move_to_trash": "Flytta till papperskorgen",
         "close_stencil": "Stänga",
         "show_sym_name": "Visa symbolnamn",
-        "file_prop_info": "Titeln och beskrivningen används på din publikation och på sociala medier. <br /> Att publicera ritningar gör ditt innehåll synligt för alla på Internet.",
         "update_preview": "Uppdatera förhandsvisning",
         "import_stencil": "Importera",
         "export_stencil": "Exportera",
@@ -503,8 +501,6 @@
         "hide_properties": "Dölj egenskaper",
         "roboto_condensed": "Roboto Condensed",
         "download_drawing": "Ladda ner",
-        "hide_icon_preview": "Dölj ikon förhandsvisning",
-        "show_icon_preview": "Visa ikonförhandsgranskning",
         "last_modified_by_me": "Senast ändrad av mig",
         "tools": "Verktyg",
         "convert_path": "Konvertera till sökväg",
@@ -581,7 +577,9 @@
         "make_template": "Gör mall",
         "remove_template": "Ta bort mallen",
         "custom_json_layer": "Anpassad JSON (lager)",
-        "reset_ratio": "Återställ förhållande"
+        "reset_ratio": "Återställ förhållande",
+        "doc_setup_info": "Titeln och beskrivningen används på din publikation och på sociala medier. <br /> Att publicera ritningar gör ditt innehåll synligt för alla på Internet.",
+        "doc_setup": "Dokumentinställning"
     },
     "page": {
         "mm": "Millimeter",
