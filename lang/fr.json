@@ -3761,8 +3761,6 @@
         "validity": "Validité",
         "unlimited": "Illimité",
         "license_id": "ID de licence",
-        "err_2": "Veuillez vous connecter à Internet pour effectuer l'activation / désactivation.",
-        "err_4": "La clé de série n'est pas fournie.",
-        "err_3": "La clé de série n'est pas valide. Pour en obtenir un valide, veuillez visiter @@"
+        "err_2": "Veuillez vous connecter à Internet pour effectuer l'activation / désactivation."
     }
 }
