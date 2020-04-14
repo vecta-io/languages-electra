@@ -583,7 +583,9 @@
         "custom_json_layer": "Anpassad JSON (lager)",
         "reset_ratio": "Återställ förhållande",
         "doc_setup_info": "Titeln och beskrivningen används på din publikation och på sociala medier. <br /> Att publicera ritningar gör ditt innehåll synligt för alla på Internet.",
-        "doc_setup": "Dokumentinställning"
+        "doc_setup": "Dokumentinställning",
+        "make_default": "Göra default",
+        "remove_default": "Ta bort standard"
     },
     "page": {
         "mm": "Millimeter",
@@ -3745,6 +3747,8 @@
         "unlimited": "Obegränsat",
         "license_id": "Licens-ID",
         "serial_key": "Seriell nyckel",
-        "err_2": "Anslut till Internet för att utföra aktivering / inaktivering."
+        "err_2": "Anslut till Internet för att utföra aktivering / inaktivering.",
+        "err_3": "Seriell nyckel är ogiltig. För att få en giltig, besök @@",
+        "err_4": "Seriell nyckel tillhandahålls inte."
     }
 }
