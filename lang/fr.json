@@ -1222,10 +1222,7 @@
         "flow-text": "Créer un texte qui coule le long d'un chemin",
         "resizable-arrow": "Dimensionnement illimité pour vos fins de lignes (flèches) dans les propriétés de forme",
         "import-dxf": "Importez un fichier DXF incroyable en un simple glisser-déposer",
-        "text-effects": "Ajoutez un effet d'ombre, de biseau ou de flou à votre texte",
-        "dark-theme-electra": "Afficher le thème sombre pour activer le mode sombre",
-        "dark-theme-vecta": "Afficher le thème sombre pour activer le mode sombre",
-        "duplicate-shape": "Ctrl + D pour appliquer les changements sur les propriétés de la forme sélectionnée"
+        "text-effects": "Ajoutez un effet d'ombre, de biseau ou de flou à votre texte"
     },
     "tips": {
         "Lock": {
