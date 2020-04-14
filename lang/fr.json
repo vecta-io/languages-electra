@@ -688,7 +688,9 @@
         "custom_json_layer": "JSON personnalisé (calque)",
         "reset_ratio": "Rapport de réinitialisation",
         "doc_setup_info": "Le titre et la description sont utilisés sur votre publication et sur les réseaux sociaux. <br /> La publication de dessins rendra votre contenu visible par quiconque sur Internet.",
-        "doc_setup": "Configuration du document"
+        "doc_setup": "Configuration du document",
+        "make_default": "Faire défaut",
+        "remove_default": "Supprimer la valeur par défaut"
     },
     "list": {
         "en": "Anglais",
@@ -3761,6 +3763,8 @@
         "validity": "Validité",
         "unlimited": "Illimité",
         "license_id": "ID de licence",
-        "err_2": "Veuillez vous connecter à Internet pour effectuer l'activation / désactivation."
+        "err_2": "Veuillez vous connecter à Internet pour effectuer l'activation / désactivation.",
+        "err_3": "La clé de série n'est pas valide. Pour en obtenir un valide, veuillez visiter @@",
+        "err_4": "La clé de série n'est pas fournie."
     }
 }
