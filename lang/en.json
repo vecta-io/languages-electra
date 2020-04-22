@@ -2084,6 +2084,58 @@
         "UsXqhNtEGfg": {
             "title": "Electra Cloud Quick Demo",
             "desc": "A quick 15 minutes demo of Electra Cloud, world's first cloud-based Electrical CAD software."
+        },
+        "nlAyOo-_HLQ": {
+            "title": "Quick intro to Fragment, Union, Difference, Intersect",
+            "desc": "Create your own symbols with fragment, union, difference and intersect operation."
+        },
+        "AOeIJRAECEk": {
+            "title": "Create Team and Invite Team Members",
+            "desc": "Invite your friends and teammates to collaborate effectively."
+        },
+        "1XbHln-9QDg": {
+            "title": "How to Organize Drawings and Folders in Dashboard",
+            "desc": "Move your drawings easily by dragging and dropping to any teams or folders. Use the search bar to find your drawings easily!"
+        },
+        "JBvyeA743Qo": {
+            "title": "What are Layers and How to Use Them",
+            "desc": "Use layers to better categorize your shapes for easier editing, or hide information."
+        },
+        "5z7hF_yIILw": {
+            "title": "View and edit shape using Shape Properties",
+            "desc": "Much like Visio's Size & Position Dialog, now you can view and edit shapes in Vecta."
+        },
+        "tp2ryqLTz1M": {
+            "title": "How to Resize Shapes Proportionally and Use Offset",
+            "desc": "Use SHIFT key to fix proportions and ALT key to use offset."
+        },
+        "Y-lxlpDM-7g": {
+            "title": "How to Add or Edit Text Box in Shapes",
+            "desc": "Use Ctrl-5 to easily add text box, resize or rotate your text box in text mode."
+        },
+        "wZUVOSDEpPo": {
+            "title": "How to Use Symbols and Stencils",
+            "desc": "Watch this video on how to save symbols into your own stencils. Save more time by just drag and drop repetitive symbols onto drawing."
+        },
+        "a1Mv0H_jZKM": {
+            "title": "Symbol search in Vecta",
+            "desc": "Watch on how to find your symbols easily and efficiently in Vecta."
+        },
+        "EWtTCLx8ngg": {
+            "title": "Anatomy of Vecta Color Palette",
+            "desc": "Watch this guide to know how to access last used color and customize color using RGB values or HEX codes."
+        },
+        "Zap6sT5bOB0": {
+            "title": "Apply last used color directly onto other shapes, texts, and lines easily",
+            "desc": "Make full use of your color painter to apply last used color onto your shapes, texts, and lines."
+        },
+        "YPYPdGPi-nI": {
+            "title": "Painter tool ",
+            "desc": "Make full use of your color painter to apply last used color onto your shapes, texts, and lines."
+        },
+        "RX3vce2QXyk": {
+            "title": "How to Connect Shapes Accurately",
+            "desc": "What's the difference between connectors and lines?"
         }
     },
     "list": {
