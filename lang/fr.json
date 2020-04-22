@@ -3480,27 +3480,27 @@
     },
     "videos": {
         "nlAyOo-_HLQ": {
-            "desc": "Créez vos propres symboles avec l'opération fragment, union, différence et intersection.",
-            "title": "Introduction rapide à Fragment, Union, Différence, Intersection"
+            "desc": "Créez vos propres symboles avec des fragments, des unions, des différences et des intersections.",
+            "title": "Introduction rapide à Fragment, Union, Difference, Intersect"
         },
         "EWtTCLx8ngg": {
-            "desc": "Regardez ce guide pour savoir comment accéder à la dernière couleur utilisée et personnaliser les couleurs en utilisant les valeurs RVB ou les codes HEX.",
-            "title": "Anatomie de la palette de couleurs Vecta"
+            "desc": "Regardez ce guide pour savoir comment accéder à la dernière couleur utilisée et personnaliser la couleur à l'aide des valeurs RVB ou des codes HEX.",
+            "title": "Palette de couleurs Anatomie de Vecta"
         },
         "1XbHln-9QDg": {
-            "desc": "Déplacez vos dessins facilement en les faisant glisser vers n'importe quelle équipe ou dossier. Utilisez la barre de recherche pour trouver facilement vos dessins!",
-            "title": "Comment organiser des dessins et des dossiers dans le tableau de bord"
+            "desc": "Déplacez facilement vos dessins en les faisant glisser et en les déposant dans n'importe quelle équipe ou dossier. Utilisez la barre de recherche pour trouver facilement vos dessins!",
+            "title": "Comment organiser les dessins et les dossiers dans le tableau de bord"
         },
         "JBvyeA743Qo": {
-            "desc": "Utilisez des calques pour mieux classer vos formes afin de les modifier plus facilement ou pour masquer les informations.",
-            "title": "Quelles sont les couches et comment les utiliser"
+            "desc": "Utilisez des calques pour mieux classer vos formes afin de les modifier plus facilement ou masquez les informations.",
+            "title": "Que sont les calques et comment les utiliser"
         },
         "RX3vce2QXyk": {
             "desc": "Quelle est la différence entre les connecteurs et les lignes?",
             "title": "Comment connecter des formes avec précision"
         },
         "wZUVOSDEpPo": {
-            "desc": "Regardez cette vidéo sur comment enregistrer des symboles dans vos propres pochoirs. Gagnez plus de temps en faisant simplement glisser et déposer des symboles répétitifs sur le dessin.",
+            "desc": "Regardez cette vidéo sur la façon d'enregistrer des symboles dans vos propres pochoirs. Gagnez plus de temps en faisant simplement glisser et déposer des symboles répétitifs sur le dessin.",
             "title": "Comment utiliser les symboles et les pochoirs"
         },
         "Y-lxlpDM-7g": {
@@ -3516,20 +3516,20 @@
             "title": "Comment redimensionner les formes proportionnellement et utiliser le décalage"
         },
         "Zap6sT5bOB0": {
-            "title": "Appliquez la dernière couleur utilisée directement sur d'autres formes, textes et lignes facilement",
-            "desc": "Utilisez pleinement votre peintre des couleurs pour appliquer la dernière couleur utilisée sur vos formes, textes et lignes."
+            "title": "Appliquez facilement la dernière couleur utilisée directement sur d'autres formes, textes et lignes",
+            "desc": "Tirez pleinement parti de votre peintre de couleurs pour appliquer la dernière couleur utilisée sur vos formes, textes et lignes."
         },
         "5z7hF_yIILw": {
             "title": "Afficher et modifier la forme à l'aide des propriétés de forme",
-            "desc": "Tout comme le dialogue Taille & Position de Visio, vous pouvez désormais visualiser et modifier des formes dans Vecta."
+            "desc": "Tout comme la boîte de dialogue Taille et position de Visio, vous pouvez désormais afficher et modifier des formes dans Vecta."
         },
         "a1Mv0H_jZKM": {
-            "title": "Recherche de symbole dans Vecta",
+            "title": "Recherche de symboles dans Vecta",
             "desc": "Regardez comment trouver vos symboles facilement et efficacement dans Vecta."
         },
         "YPYPdGPi-nI": {
             "title": "Outil de peintre",
-            "desc": "Utilisez pleinement votre peintre de couleurs pour appliquer la dernière couleur utilisée sur vos formes, textes et lignes."
+            "desc": "Tirez pleinement parti de votre peintre de couleurs pour appliquer la dernière couleur utilisée sur vos formes, textes et lignes."
         }
     },
     "plugin": {
