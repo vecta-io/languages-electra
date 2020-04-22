@@ -378,7 +378,6 @@
         "updating_cable_tag": "Mise à jour de l'étiquette de câble",
         "updating_tubing_tag": "Mise à jour de la balise de tube",
         "updating_hosing_tag": "Mise à jour de la balise d'arrosage",
-        "update_available": "Mise à jour disponible",
         "update_downloaded": "Mise à jour téléchargée",
         "updating": "Mise à jour",
         "new_version_available": "Une nouvelle version est disponible"
@@ -1156,7 +1155,9 @@
         "save_before_exit": "Voulez-vous enregistrer les modifications avant de quitter?",
         "update_lzone": "Mise à jour des zones à contacts",
         "update_layouts": "Mise à jour des dispositions",
-        "update_wireIEC": "Mise à jour du fil IEC"
+        "update_wireIEC": "Mise à jour du fil IEC",
+        "latest_version_updated": "Vous avez mis à jour la dernière version!",
+        "new_version_downloaded": "Une nouvelle version a été téléchargée. Redémarrez l'application pour appliquer les mises à jour."
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
