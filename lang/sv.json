@@ -381,7 +381,6 @@
         "updating_hosing_tag": "Uppdaterar hosing-taggen",
         "updating_cable_tag": "Uppdaterar kabel taggen",
         "updating_tubing_tag": "Uppdaterar slangtaggen",
-        "update_available": "Uppdatering tillgänglig",
         "updating": "Uppdaterande",
         "new_version_available": "Ny version är tillgänglig",
         "update_downloaded": "Uppdaterad nedladdad"
@@ -1096,7 +1095,9 @@
         "failed_try_again": "Misslyckades. Vänligen försök igen senare.",
         "file_invalid_field": "Ogiltigt fält hittades i filen.",
         "save_before_exit": "Vill du spara ändringar innan du lämnar?",
-        "update_wireIEC": "Uppdatering av tråd IEC"
+        "update_wireIEC": "Uppdatering av tråd IEC",
+        "new_version_downloaded": "En ny version har laddats ner. Starta om programmet för att tillämpa uppdateringarna.",
+        "latest_version_updated": "Du har uppdaterat till den senaste versionen!"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
