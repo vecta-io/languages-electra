@@ -3475,56 +3475,56 @@
     },
     "videos": {
         "Y-lxlpDM-7g": {
-            "desc": "Använd Ctrl-5 för att enkelt lägga till textrutan, ändra storlek eller rotera textrutan i textläge.",
-            "title": "Så här lägger du till eller redigerar textrutan i former"
+            "desc": "Använd Ctrl-5 för att enkelt lägga till textruta, ändra storlek på eller rotera textrutan i textläge.",
+            "title": "Hur man lägger till eller redigerar textruta i former"
         },
         "AOeIJRAECEk": {
             "desc": "Bjud in dina vänner och lagkamrater att samarbeta effektivt.",
-            "title": "Skapa lag och bjud in lagmedlemmar"
+            "title": "Skapa team och bjud in teammedlemmar"
         },
         "tp2ryqLTz1M": {
             "desc": "Använd SHIFT-tangenten för att fixa proportioner och ALT-tangenten för att använda offset.",
-            "title": "Så här ändrar du storlek på former proportionellt och använder förskjutning"
+            "title": "Hur du ändrar storlek på former proportionellt och använder förskjutning"
         },
         "EWtTCLx8ngg": {
-            "desc": "Se den här guiden för att få veta hur du får tillgång till den senast använda färgen och anpassa färgen med hjälp av RGB-värden eller HEX-koder.",
-            "title": "Anatomi av Vecta Color Palette"
+            "desc": "Se den här guiden för att veta hur du får åtkomst till senast använda färg och anpassar färg med RGB-värden eller HEX-koder.",
+            "title": "Anatomi av Vecta färgpalett"
         },
         "1XbHln-9QDg": {
-            "desc": "Flytta dina ritningar enkelt genom att dra och släppa till några lag eller mappar. Använd sökfältet för att enkelt hitta dina ritningar!",
-            "title": "Hur man organiserar ritningar och mappar i instrumentbrädan"
+            "desc": "Flytta dina ritningar enkelt genom att dra och släppa till alla lag eller mappar. Använd sökfältet för att enkelt hitta dina ritningar!",
+            "title": "Hur man organiserar teckningar och mappar i instrumentpanelen"
         },
         "JBvyeA743Qo": {
-            "desc": "Använd lag för att bättre kategorisera dina former för enklare redigering eller dölja information.",
+            "desc": "Använd lager för att bättre kategorisera dina former för enklare redigering eller dölja information.",
             "title": "Vad är lager och hur man använder dem"
         },
         "RX3vce2QXyk": {
             "desc": "Vad är skillnaden mellan kontakter och linjer?",
-            "title": "Så här ansluter du former noggrant"
+            "title": "Hur du ansluter former korrekt"
         },
         "wZUVOSDEpPo": {
-            "desc": "Titta på den här videon om hur du sparar symboler i dina egna stenciler. Spara mer tid genom att bara dra och släppa repeterande symboler på ritning.",
-            "title": "Så här använder du Symboler och Stencils"
+            "desc": "Se den här videon om hur du sparar symboler i dina egna stenciler. Spara mer tid genom att bara dra och släpp upprepade symboler på ritningen.",
+            "title": "Hur man använder symboler och stenciler"
         },
         "nlAyOo-_HLQ": {
-            "desc": "Skapa egna symboler med fragment, fackförening, skillnad och korsning.",
-            "title": "Snabba intro till fragment, union, skillnad, intersect"
+            "desc": "Skapa dina egna symboler med fragment, förening, skillnad och korsning.",
+            "title": "Snabb introduktion till fragment, union, skillnad, skärning"
         },
         "Zap6sT5bOB0": {
-            "title": "Använd senast använda färg direkt på andra former, texter och rader enkelt",
-            "desc": "Använd full färgfärg för att använda den senast använda färgen på dina former, texter och linjer."
+            "title": "Använd enkelt senast använda färg direkt på andra former, texter och linjer",
+            "desc": "Använd din färgmålare till fullo för att applicera senast använda färg på dina former, texter och linjer."
         },
         "5z7hF_yIILw": {
-            "title": "Visa och ändra form med hjälp av Shape Properties",
-            "desc": "Mycket som Visios storlek & positionsdialog, nu kan du visa och redigera former i Vecta."
+            "title": "Visa och redigera form med hjälp av formegenskaper",
+            "desc": "Liksom Visios storlek och positionsdialog kan du nu visa och redigera former i Vecta."
         },
         "a1Mv0H_jZKM": {
             "title": "Symbolsökning i Vecta",
             "desc": "Titta på hur du hittar dina symboler enkelt och effektivt i Vecta."
         },
         "YPYPdGPi-nI": {
-            "title": "Målare verktyg",
-            "desc": "Använd full färgfärg för att använda den senast använda färgen på dina former, texter och linjer."
+            "title": "Målarverktyg",
+            "desc": "Använd din färgmålare till fullo för att applicera senast använda färg på dina former, texter och linjer."
         }
     },
     "plugin": {
