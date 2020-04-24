@@ -254,7 +254,8 @@
         "update_linkage": "Updating linkages",
         "update_lzone": "Updating Ladder Zones",
         "update_layouts": "Updating layouts",
-        "update_wireIEC": "Updating wire IEC"
+        "update_wireIEC": "Updating wire IEC",
+        "update_measure_tool": "Üpdating measurement tools"
     },
     "login": {
         "collab": "Online",
@@ -1053,6 +1054,7 @@
         "updating": "Updating",
         "new_version_available": "New version is available",
         "update_downloaded": "Update Downloaded",
+        "downloading": "Downloading",
         "slogan": "Cloud based Electrical CAD Software",
         "stencil": "Stencil",
         "electrical": "Electrical",
