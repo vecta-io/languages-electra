@@ -380,7 +380,8 @@
         "updating_hosing_tag": "Mise à jour de la balise d'arrosage",
         "update_downloaded": "Mise à jour téléchargée",
         "updating": "Mise à jour",
-        "new_version_available": "Une nouvelle version est disponible"
+        "new_version_available": "Une nouvelle version est disponible",
+        "downloading": "Téléchargement"
     },
     "page": {
         "cm": "Centimètre",
@@ -1157,7 +1158,8 @@
         "update_layouts": "Mise à jour des dispositions",
         "update_wireIEC": "Mise à jour du fil IEC",
         "latest_version_updated": "Vous avez mis à jour la dernière version!",
-        "new_version_downloaded": "Une nouvelle version a été téléchargée. Redémarrez l'application pour appliquer les mises à jour."
+        "new_version_downloaded": "Une nouvelle version a été téléchargée. Redémarrez l'application pour appliquer les mises à jour.",
+        "update_measure_tool": "Outils de mesure à jour"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
