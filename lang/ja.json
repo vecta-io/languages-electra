@@ -381,7 +381,8 @@
         "updating_tubing_tag": "チューブタグの更新",
         "new_version_available": "新しいバージョンが利用可能です",
         "updating": "更新しています",
-        "update_downloaded": "アップデートがダウンロードされました"
+        "update_downloaded": "アップデートがダウンロードされました",
+        "downloading": "ダウンロード中"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1166,7 +1167,8 @@
         "save_before_exit": "終了する前に変更を保存しますか？",
         "update_wireIEC": "ワイヤーIECの更新",
         "latest_version_updated": "最新バージョンに更新しました！",
-        "new_version_downloaded": "新しいバージョンがダウンロードされました。アプリケーションを再起動して、更新を適用します。"
+        "new_version_downloaded": "新しいバージョンがダウンロードされました。アプリケーションを再起動して、更新を適用します。",
+        "update_measure_tool": "Ü測定ツールの更新"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
