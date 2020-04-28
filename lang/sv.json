@@ -1654,7 +1654,8 @@
                 "custom": "Beställnings"
             },
             "custom_key_incre": "Ställ in steg",
-            "connector_curve": "Storlek på anslutningskurvan"
+            "connector_curve": "Storlek på anslutningskurvan",
+            "show_stencil_bar": "Göm inte stencils rullningsfält"
         },
         "receive_noti": "Meddela mig när en lagmedlem:",
         "files": {
