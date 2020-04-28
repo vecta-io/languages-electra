@@ -2126,7 +2126,8 @@
         "en": "English",
         "fr": "French",
         "ja": "Japanese",
-        "sv": "Swedish"
+        "sv": "Swedish",
+        "zh": "Simplified Chinese"
     },
     "account": {
         "contacting_server": "Contacting server",
