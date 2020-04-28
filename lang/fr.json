@@ -1666,7 +1666,8 @@
                 "custom": "Douane"
             },
             "custom_key_incre": "Définir l'incrément",
-            "connector_curve": "Taille de la courbe du connecteur"
+            "connector_curve": "Taille de la courbe du connecteur",
+            "show_stencil_bar": "Ne pas masquer la barre de défilement du pochoir"
         },
         "files": {
             "sten": "Chemin des pochoirs:",
