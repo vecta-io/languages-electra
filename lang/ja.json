@@ -1657,7 +1657,7 @@
             },
             "custom_key_incre": "増分を設定",
             "connector_curve": "コネクタ曲線サイズ",
-            "show_stencil_bar": "ステンシルのスクロールバーを非表示にしない"
+            "show_stencil_bar": "ステンシルのスクロールバーを常に表示する"
         },
         "receive_noti": "チームメンバー：",
         "files": {
