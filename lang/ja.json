@@ -1656,7 +1656,8 @@
                 "custom": "カスタム"
             },
             "custom_key_incre": "増分を設定",
-            "connector_curve": "コネクタ曲線サイズ"
+            "connector_curve": "コネクタ曲線サイズ",
+            "show_stencil_bar": "ステンシルのスクロールバーを非表示にしない"
         },
         "receive_noti": "チームメンバー：",
         "files": {
