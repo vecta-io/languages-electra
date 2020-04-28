@@ -2070,7 +2070,7 @@
             "connector_curve": "Connector curve size",
             "new_mssg": "Chat message is received",
             "new_user": "Collaborator joins editing",
-            "show_stencil_bar": "Do not hide stencil's scroll bar"
+            "show_stencil_bar": "Always show stencil's scroll bar"
         },
         "noti": {
             "push": "Enable desktop notification",
