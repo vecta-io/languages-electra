@@ -1655,7 +1655,7 @@
             },
             "custom_key_incre": "Ställ in steg",
             "connector_curve": "Storlek på anslutningskurvan",
-            "show_stencil_bar": "Göm inte stencils rullningsfält"
+            "show_stencil_bar": "Visa alltid stencils rullningsfält"
         },
         "receive_noti": "Meddela mig när en lagmedlem:",
         "files": {
