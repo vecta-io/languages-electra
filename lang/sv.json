@@ -1099,8 +1099,7 @@
         "update_wireIEC": "Uppdatering av tråd IEC",
         "new_version_downloaded": "En ny version har laddats ner. Starta om programmet för att tillämpa uppdateringarna.",
         "latest_version_updated": "Du har uppdaterat till den senaste versionen!",
-        "update_measure_tool": "Ü uppdatera mätverktyg",
-        "update_auto_loc": "Uppdatering av AutoLocations"
+        "update_measure_tool": "Ü uppdatera mätverktyg"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
