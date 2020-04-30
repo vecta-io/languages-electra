@@ -255,6 +255,7 @@
         "update_lzone": "Updating Ladder Zones",
         "update_layouts": "Updating layouts",
         "update_wireIEC": "Updating wire IEC",
+        "update_auto_loc": "Updating AutoLocations",
         "update_measure_tool": "Üpdating measurement tools"
     },
     "login": {
