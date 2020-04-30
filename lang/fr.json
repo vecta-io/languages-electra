@@ -1159,7 +1159,8 @@
         "update_wireIEC": "Mise à jour du fil IEC",
         "latest_version_updated": "Vous avez mis à jour la dernière version!",
         "new_version_downloaded": "Une nouvelle version a été téléchargée. Redémarrez l'application pour appliquer les mises à jour.",
-        "update_measure_tool": "Outils de mesure à jour"
+        "update_measure_tool": "Outils de mesure à jour",
+        "update_auto_loc": "Mise à jour des emplacements automatiques"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
