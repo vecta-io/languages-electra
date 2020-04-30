@@ -1168,7 +1168,8 @@
         "update_wireIEC": "ワイヤーIECの更新",
         "latest_version_updated": "最新バージョンに更新しました！",
         "new_version_downloaded": "新しいバージョンがダウンロードされました。アプリケーションを再起動して、更新を適用します。",
-        "update_measure_tool": "Ü測定ツールの更新"
+        "update_measure_tool": "Ü測定ツールの更新",
+        "update_auto_loc": "自動位置情報の更新"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
