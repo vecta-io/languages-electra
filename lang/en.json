@@ -59,7 +59,7 @@
         "draw_path.icon": "Draw path, arc,<br>curve or freeform<br>(Ctrl-4)",
         "draw_textblock.icon": "Draw, move, resize<br>or rotate text<br>(Ctrl-5)",
         "draw_connector.icon": "Draw connectors<br>(Ctrl-6)",
-        "format_painter.icon": "Format, color or<br>formula painter<br>(Ctrl-7)",
+        "format_painter.icon": "Format, color, <br>formula or <br> json painter<br>(Ctrl-7)",
         "undo.icon": "Undo<br>(Ctrl-Z)",
         "redo.icon": "Redo<br>(Ctrl-Y)",
         "line_weight.icon": "Line weight",
@@ -1056,6 +1056,7 @@
         "new_version_available": "New version is available",
         "update_downloaded": "Update Downloaded",
         "downloading": "Downloading",
+        "upload_font_noti": "Only file with .woff extension is allowed",
         "slogan": "Cloud based Electrical CAD Software",
         "stencil": "Stencil",
         "electrical": "Electrical",
@@ -1692,6 +1693,8 @@
         "drop_symbol": "Dropping symbol",
         "show_more": "Show more",
         "saving_stencils": "Saving stencils",
+        "credits_to": "Credits to",
+        "credits_link": "Credits link",
         "stencil_223": {
             "name": "Wires",
             "desc": "Wires"
@@ -1831,6 +1834,9 @@
         "saving_plugin": "Saving plugin",
         "success_refresh": "Plugin successfully refreshed.",
         "fail_refresh": "Plugin no longer exist.",
+        "personal": "Personal",
+        "public": "Public",
+        "team": "Team",
         "plugin_0": {
             "name": "Hello World",
             "desc": "Print Hello,\"creator's name\" in drawing"
@@ -2127,7 +2133,9 @@
         "en": "English",
         "fr": "French",
         "ja": "Japanese",
-        "sv": "Swedish"
+        "sv": "Swedish",
+        "zh-CN": "Simplified Chinese",
+        "zh-TW": "Traditional Chinese"
     },
     "account": {
         "contacting_server": "Contacting server",
