@@ -585,7 +585,8 @@
         "doc_setup_info": "Titeln och beskrivningen används på din publikation och på sociala medier. <br /> Att publicera ritningar gör ditt innehåll synligt för alla på Internet.",
         "doc_setup": "Dokumentinställning",
         "make_default": "Göra default",
-        "remove_default": "Ta bort standard"
+        "remove_default": "Ta bort standard",
+        "custom_events": "Anpassade händelser"
     },
     "page": {
         "mm": "Millimeter",
