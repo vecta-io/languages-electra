@@ -2210,7 +2210,11 @@
         "method_updated": "Payment method updated",
         "method_deleted": "Payment method deleted",
         "method_change_failed": "Failed to change payment method",
-        "permission_denied": "Permission denied"
+        "permission_denied": "Permission denied",
+        "devices": "Devices",
+        "device": "device",
+        "remove_devices": "Remove all",
+        "confirm_device": "Remove all devices from this serial key?"
     },
     "license": {
         "activate": "Activate",
