@@ -3702,7 +3702,11 @@
         "method_updated": "Méthode de paiement mise à jour",
         "paid_on": "Payé le",
         "permission_denied": "Permission refusée",
-        "method_change_failed": "Impossible de modifier le mode de paiement"
+        "method_change_failed": "Impossible de modifier le mode de paiement",
+        "remove_devices": "Enlever tout",
+        "device": "dispositif",
+        "devices": "Dispositifs",
+        "confirm_device": "Supprimer tous les appareils de cette clé série?"
     },
     "license": {
         "activate": "Activer",
