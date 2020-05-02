@@ -690,7 +690,8 @@
         "doc_setup_info": "Le titre et la description sont utilisés sur votre publication et sur les réseaux sociaux. <br /> La publication de dessins rendra votre contenu visible par quiconque sur Internet.",
         "doc_setup": "Configuration du document",
         "make_default": "Faire défaut",
-        "remove_default": "Supprimer la valeur par défaut"
+        "remove_default": "Supprimer la valeur par défaut",
+        "custom_events": "Événements personnalisés"
     },
     "list": {
         "en": "Anglais",
