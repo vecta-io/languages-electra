@@ -314,10 +314,6 @@
         "page": "Page",
         "file_upload": "Les fichiers sont en cours de téléchargement, ne fermez pas votre navigateur.",
         "attachment": "Attachement",
-        "embed_fonts": "Polices intégrées",
-        "maintain_id": "Maintenir l'ID",
-        "maintain_class": "Maintenir les cours",
-        "maintain_structure": "Maintenir la structure",
         "duplicating_shapes": "Duplication de formes",
         "done": "Fait, merci pour la demande",
         "yes": "Oui",
@@ -381,7 +377,10 @@
         "update_downloaded": "Mise à jour téléchargée",
         "updating": "Mise à jour",
         "new_version_available": "Une nouvelle version est disponible",
-        "downloading": "Téléchargement"
+        "downloading": "Téléchargement",
+        "event": "un événement",
+        "action": "action",
+        "code": "Code"
     },
     "page": {
         "cm": "Centimètre",
@@ -691,7 +690,12 @@
         "doc_setup": "Configuration du document",
         "make_default": "Faire défaut",
         "remove_default": "Supprimer la valeur par défaut",
-        "custom_events": "Événements personnalisés"
+        "custom_events": "Événements personnalisés",
+        "maintain_events": "Maintenir les événements",
+        "maintain_class": "Maintenir les classes",
+        "maintain_id": "Maintenir l'ID",
+        "maintain_structure": "Maintenir la structure",
+        "embed_fonts": "Incorporer des polices"
     },
     "list": {
         "en": "Anglais",
