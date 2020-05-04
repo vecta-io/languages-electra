@@ -313,10 +313,6 @@
         "page": "Page",
         "file_upload": "ファイルをアップロードしています。ブラウザを閉じないでください。",
         "attachment": "添付ファイル",
-        "embed_fonts": "フォントを埋め込む",
-        "maintain_id": "ID管理",
-        "maintain_class": "クラスを維持する",
-        "maintain_structure": "構造を維持する",
         "duplicating_shapes": "図形を複製する",
         "yes": "はい",
         "no": "いいえ",
@@ -382,7 +378,10 @@
         "new_version_available": "新しいバージョンが利用可能です",
         "updating": "更新しています",
         "update_downloaded": "アップデートがダウンロードされました",
-        "downloading": "ダウンロード中"
+        "downloading": "ダウンロード中",
+        "code": "コード",
+        "event": "イベント",
+        "action": "アクション"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -698,7 +697,12 @@
         "doc_setup_info": "タイトルと説明は、出版物やソーシャルメディアで使用されます。 <br />図面を公開すると、インターネット上の誰でもコンテンツを閲覧できるようになります。",
         "make_default": "デフォルトにする",
         "remove_default": "デフォルトを削除",
-        "custom_events": "カスタムイベント"
+        "custom_events": "カスタムイベント",
+        "maintain_class": "クラスを維持する",
+        "maintain_id": "IDを維持",
+        "maintain_events": "イベントを維持する",
+        "maintain_structure": "構造を維持する",
+        "embed_fonts": "フォントを埋め込む"
     },
     "login": {
         "or": "または",
