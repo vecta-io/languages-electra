@@ -679,6 +679,9 @@
         "team_guide": "Slack integration allows you to share Vecta drawing directly to your Slack Channels and invite your Slack channel members into Vecta teams."
     },
     "ui": {
+        "event": "Event",
+        "code": "Code",
+        "action": "Action",
         "ready": "Ready",
         "no_target": "Unable to find animation target.",
         "load_drawing": "Loading drawing...",
@@ -815,10 +818,6 @@
         "round_to": "Precision: ",
         "decimals": "decimals",
         "remove_CDATA": "Remove CDATA",
-        "embed_fonts": "Embed fonts",
-        "maintain_id": "Maintain ID",
-        "maintain_class": "Maintain classes",
-        "maintain_structure": "Maintain structure",
         "view_access": "You have view only access<br />to this drawing",
         "view_template": "You have view only access<br />to this template",
         "view": "View",
@@ -1417,6 +1416,11 @@
         "updating_autoloc": "Updating auto locations"
     },
     "drop": {
+        "maintain_id": "Maintain ID",
+        "maintain_class": "Maintain classes",
+        "maintain_structure": "Maintain structure",
+        "maintain_events": "Maintain events",
+        "embed_fonts": "Embed fonts",
         "effects": "Effects",
         "blur": "Blur",
         "drop_shadow": "Drop shadow",
