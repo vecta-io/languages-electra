@@ -314,10 +314,6 @@
         "page": "Sida",
         "file_upload": "Filerna laddas upp, var god stäng inte webbläsaren",
         "attachment": "Bilaga",
-        "embed_fonts": "Bädda in teckensnitt",
-        "maintain_id": "Underhålla ID",
-        "maintain_class": "Underhålla klasser",
-        "maintain_structure": "Underhålla strukturen",
         "duplicating_shapes": "Dupliserande former",
         "done": "Fyllt, tack för förfrågan",
         "yes": "Ja",
@@ -384,7 +380,10 @@
         "updating": "Uppdaterande",
         "new_version_available": "Ny version är tillgänglig",
         "update_downloaded": "Uppdaterad nedladdad",
-        "downloading": "Laddar ner"
+        "downloading": "Laddar ner",
+        "action": "Verkan",
+        "code": "Koda",
+        "event": "Händelse"
     },
     "drop": {
         "in": "tum",
@@ -586,7 +585,12 @@
         "doc_setup": "Dokumentinställning",
         "make_default": "Göra default",
         "remove_default": "Ta bort standard",
-        "custom_events": "Anpassade händelser"
+        "custom_events": "Anpassade händelser",
+        "maintain_id": "Behåll ID",
+        "maintain_class": "Underhålla klasser",
+        "embed_fonts": "Bädda in teckensnitt",
+        "maintain_structure": "Underhålla strukturen",
+        "maintain_events": "Underhålla händelser"
     },
     "page": {
         "mm": "Millimeter",
