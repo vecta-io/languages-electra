@@ -756,7 +756,8 @@
         "microsoft": "Microsoftでサインインする",
         "signup_microsoft": "Microsoftにサインアップする",
         "registered_other_provider": "このメールはすでに@@に登録されています。リダイレクト",
-        "access_contacts": "連絡先リストへのアクセスを許可して、チームと図面を簡単に共有できます"
+        "access_contacts": "連絡先リストへのアクセスを許可して、チームと図面を簡単に共有できます",
+        "social_no_email": "この@@アカウントにはメールがありません。 <br/>メールまたは別のアカウントでサインアップしてください。"
     },
     "slack": {
         "add": "スラックに加える",
