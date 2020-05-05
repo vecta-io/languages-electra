@@ -755,7 +755,8 @@
         "microsoft": "Connectez-vous avec Microsoft",
         "signup_microsoft": "Inscrivez-vous avec Microsoft",
         "registered_other_provider": "Cet e-mail est déjà enregistré avec @@. Redirection",
-        "access_contacts": "Autorisez l'accès à votre liste de contacts pour un partage facile des équipes et des dessins"
+        "access_contacts": "Autorisez l'accès à votre liste de contacts pour un partage facile des équipes et des dessins",
+        "social_no_email": "Ce compte @@ n&#39;a pas d&#39;e-mail. <br/> Veuillez vous inscrire avec un e-mail ou un autre compte."
     },
     "noti": {
         "deny": "Nier",
