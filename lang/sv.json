@@ -755,7 +755,8 @@
         "microsoft": "Logga in med Microsoft",
         "signup_microsoft": "Registrera dig med Microsoft",
         "registered_other_provider": "Det här e-postmeddelandet är redan registrerat hos @@. Redirecting",
-        "access_contacts": "Tillåt åtkomst till din kontaktlista för enkel delning av team och ritningar"
+        "access_contacts": "Tillåt åtkomst till din kontaktlista för enkel delning av team och ritningar",
+        "social_no_email": "Detta @@-konto har inte e-post. <br/> Registrera dig med ett e-postmeddelande eller annat konto."
     },
     "dash": {
         "dash": "Hem",
