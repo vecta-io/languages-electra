@@ -296,6 +296,7 @@
         "or": "OR",
         "firebase_error": "If you are seeing this, please contact <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> with a screenshot of the error above.",
         "wrong_credentials": "You have previously logged in using your email and password. <br /> Please log in with the email and password instead.",
+        "social_no_email": "This @@ account doesn't have email.<br/>Please signup with an email or another account.",
         "invalid_email_pwd": "Invalid email or password",
         "signin_failed": "Sign in failed",
         "short_pwd": "Your password must be at least 8 characters",
