@@ -383,7 +383,8 @@
         "downloading": "Laddar ner",
         "action": "Verkan",
         "code": "Koda",
-        "event": "Händelse"
+        "event": "Händelse",
+        "invalid_events": "Ogiltiga händelser eller koder, får inte vara tomma"
     },
     "drop": {
         "in": "tum",
@@ -3714,7 +3715,9 @@
         "err_2": "Anslut till Internet för att utföra aktivering / inaktivering.",
         "err_3": "Seriell nyckel är ogiltig. För att få en giltig, besök @@",
         "err_4": "Seriell nyckel tillhandahålls inte.",
-        "err_5": "Ogiltig licens har upptäckts. Vänligen aktivera din seriell nyckel."
+        "err_5": "Ogiltig licens har upptäckts. Vänligen aktivera din seriell nyckel.",
+        "region_restriction": "Regionbegränsning",
+        "license_region_specific": "Den här landsspecifika licensen tillåter endast användning i köpningsområdet. Alla funktioner kommer inte att vara tillgängliga utanför inköpsområdet."
     },
     "videos": {
         "hnx0KutWDa0": {
