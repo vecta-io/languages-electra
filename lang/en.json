@@ -1057,6 +1057,7 @@
         "update_downloaded": "Update Downloaded",
         "downloading": "Downloading",
         "upload_font_noti": "Only file with .woff extension is allowed",
+        "invalid_events": "Invalid events or codes, not allowed to be empty",
         "slogan": "Cloud based Electrical CAD Software",
         "stencil": "Stencil",
         "electrical": "Electrical",
@@ -2238,7 +2239,9 @@
         "product_is_unlicensed": "This product is unlicensed",
         "license_id": "License ID",
         "validity": "Validity",
-        "unlimited": "Unlimited"
+        "unlimited": "Unlimited",
+        "region_restriction": "Region Restriction",
+        "license_region_specific": "This region specific license only allow usage at the region of purchase. All features will be unavailable outside of purchase region."
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
