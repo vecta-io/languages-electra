@@ -381,7 +381,12 @@
         "event": "un événement",
         "action": "action",
         "code": "Code",
-        "invalid_events": "Événements ou codes non valides, non autorisés à être vides"
+        "invalid_events": "Événements ou codes non valides, non autorisés à être vides",
+        "auto_wiring": "Câblage automatique",
+        "auto_wiring_label": "Connecter automatiquement les fils lors de la suppression de symboles",
+        "generating_toc": "Génération d'une table des matières",
+        "wire_sym_not_found": "Le symbole de @@ est introuvable. <br/> Veuillez vous assurer que le pochoir <b>%%</b> est ouvert ou <br/> désactiver le fil de connexion automatique lors de la suppression du symbole dans les options du document",
+        "reuse_toc": "Voulez-vous réutiliser la table des matières actuelle?"
     },
     "page": {
         "cm": "Centimètre",
@@ -3702,7 +3707,6 @@
         "assigned": "Clé série affectée avec succès",
         "revoked": "L'utilisateur a été révoqué avec succès",
         "invalid_email": "E-mail non valide fourni",
-        "no_license": "Aucune licence trouvée",
         "method_deleted": "Méthode de paiement supprimée",
         "revoke_failed": "La révocation a échoué",
         "method_updated": "Méthode de paiement mise à jour",
@@ -3712,7 +3716,9 @@
         "remove_devices": "Enlever tout",
         "device": "dispositif",
         "devices": "Dispositifs",
-        "confirm_device": "Supprimer tous les appareils de cette clé série?"
+        "confirm_device": "Supprimer tous les appareils de cette clé série?",
+        "beta": "Bêta",
+        "license": "Licence"
     },
     "license": {
         "activate": "Activer",
