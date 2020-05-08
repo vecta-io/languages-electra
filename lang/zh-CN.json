@@ -1658,7 +1658,12 @@
         "csv": "逗号分隔值（* .csv）",
         "loading": "正在加载",
         "scan_autoloc": "正在扫描自动位置",
-        "updating_autoloc": "正在更新自动位置"
+        "updating_autoloc": "正在更新自动位置",
+        "wire_sym_not_found": "找不到@@的符号。 <br/>请确保已打开<b>%%</b>模具或<br/>在“文档选项”中放置符号时禁用自动连接线",
+        "auto_wiring_label": "放置符号时自动连接电线",
+        "auto_wiring": "自动接线",
+        "reuse_toc": "您想重用当前的目录吗？",
+        "generating_toc": "生成目录"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -2417,7 +2422,6 @@
         "no_payment_history": "尚无支付记录",
         "payment_methods": "支付方式",
         "no_payment_method": "未找到支付方式",
-        "no_license": "找不到许可证",
         "required_fields": "必填领域",
         "ok": "确定",
         "cancel": "取消",
@@ -2465,7 +2469,9 @@
         "devices": "设备",
         "device": "设备",
         "remove_devices": "全部删除",
-        "confirm_device": "要从此序列号中删除所有设备吗？"
+        "confirm_device": "要从此序列号中删除所有设备吗？",
+        "license": "执照",
+        "beta": "贝塔"
     },
     "license": {
         "activate": "激活",
