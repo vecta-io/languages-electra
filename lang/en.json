@@ -1241,6 +1241,7 @@
         "ask_create_cable": "Popup to ask for actions when no cable core available",
         "renum_lzone": "Automatically renumber symbols/wires when moved within ladder zone",
         "sym_split_wire": "Split wires when dropping symbols",
+        "auto_wiring_label": "Automatically connect wires when dropping symbols",
         "page_prefix": "Page Prefix",
         "page_prefix_ref": "Enable on references",
         "page_prefix_wires": "Enable on wires",
@@ -1415,7 +1416,11 @@
         "csv": "Comma Separated Values (*.csv)",
         "loading": "Loading",
         "scan_autoloc": "Scanning auto locations",
-        "updating_autoloc": "Updating auto locations"
+        "updating_autoloc": "Updating auto locations",
+        "auto_wiring": "Auto wiring",
+        "wire_sym_not_found": "The symbol of @@ not found. <br/>Please ensure the <b>%%</b> stencil is opened or <br/>disable the automatic connect wire when dropping symbol in Document Options",
+        "generating_toc": "Generating table of contents",
+        "reuse_toc": "Do you want to reuse current TOC?"
     },
     "drop": {
         "maintain_id": "Maintain ID",
@@ -2169,12 +2174,13 @@
         "to_go_account": "to go to account page",
         "loading": "Loading...",
         "account": "Account",
+        "beta": "Beta",
+        "license": "License",
         "licenses": "Licenses",
         "payment_history": "Payment History",
         "no_payment_history": "No payment history yet",
         "payment_methods": "Payment Methods",
         "no_payment_method": "No payment method found",
-        "no_license": "No license found",
         "required_fields": "Required fields",
         "ok": "OK",
         "cancel": "Cancel",
@@ -2243,7 +2249,11 @@
         "validity": "Validity",
         "unlimited": "Unlimited",
         "region_restriction": "Region Restriction",
-        "license_region_specific": "This region specific license only allow usage at the region of purchase. All features will be unavailable outside of purchase region."
+        "license_region_specific": "This region specific license only allow usage at the region of purchase. All features will be unavailable outside of purchase region.",
+        "trial_mode": "Trial mode",
+        "trial_left": "You are currently in trial mode. Your license will expires in @@ days",
+        "license_expired": "Trial / License expired",
+        "license_expired_desc": "Trial / License expired. Productivity tools will be disabled."
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
