@@ -384,7 +384,12 @@
         "action": "Verkan",
         "code": "Koda",
         "event": "Händelse",
-        "invalid_events": "Ogiltiga händelser eller koder, får inte vara tomma"
+        "invalid_events": "Ogiltiga händelser eller koder, får inte vara tomma",
+        "wire_sym_not_found": "Symbolen för @@ hittades inte. <br/> Se till att <b>%%</b> stencil öppnas eller <br/> inaktivera den automatiska anslutningen när du tappar symbolen i dokumentalternativ",
+        "auto_wiring_label": "Anslut trådarna automatiskt när du tappar symboler",
+        "generating_toc": "Generera innehållsförteckning",
+        "auto_wiring": "Auto ledningar",
+        "reuse_toc": "Vill du återanvända aktuell TOC?"
     },
     "drop": {
         "in": "tum",
@@ -3692,7 +3697,6 @@
         "validate_email": "Validerar e-post",
         "refresh_token": "Din åtkomst har ändrats. Ladda om för att uppdatera åtkomst.",
         "assigned": "Seriell nyckel tilldelad",
-        "no_license": "Ingen licens hittades",
         "paid_on": "Betalade på",
         "invalid_email": "Ogiltig e-postadress tillhandahålls",
         "revoked": "Användaren återkallas",
@@ -3704,7 +3708,9 @@
         "devices": "enheter",
         "device": "enhet",
         "remove_devices": "Ta bort alla",
-        "confirm_device": "Ta bort alla enheter från den här serienyckeln?"
+        "confirm_device": "Ta bort alla enheter från den här serienyckeln?",
+        "beta": "Beta",
+        "license": "Licens"
     },
     "license": {
         "product_is_unlicensed": "Denna produkt är olicensierad",
