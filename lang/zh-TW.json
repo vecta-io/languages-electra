@@ -2471,7 +2471,9 @@
         "remove_devices": "全部刪除",
         "confirm_device": "要從此序列號中刪除所有設備嗎？",
         "beta": "貝塔",
-        "license": "執照"
+        "license": "執照",
+        "request_trial": "要求延長試用期",
+        "purchase_license": "購買許可證"
     },
     "license": {
         "activate": "激活",
@@ -2492,7 +2494,8 @@
         "validity": "有效性",
         "unlimited": "無限",
         "region_restriction": "區域限制",
-        "license_region_specific": "此特定於區域的許可證僅允許在購買區域使用。在購買區域之外，所有功能將不可用"
+        "license_region_specific": "此特定於區域的許可證僅允許在購買區域使用。在購買區域之外，所有功能將不可用",
+        "expired": "已過期"
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
