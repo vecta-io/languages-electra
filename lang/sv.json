@@ -3710,7 +3710,9 @@
         "remove_devices": "Ta bort alla",
         "confirm_device": "Ta bort alla enheter från den här serienyckeln?",
         "beta": "Beta",
-        "license": "Licens"
+        "license": "Licens",
+        "purchase_license": "Köp en licens",
+        "request_trial": "Begär testförlängning"
     },
     "license": {
         "product_is_unlicensed": "Denna produkt är olicensierad",
@@ -3723,7 +3725,8 @@
         "err_4": "Seriell nyckel tillhandahålls inte.",
         "err_5": "Ogiltig licens har upptäckts. Vänligen aktivera din seriell nyckel.",
         "region_restriction": "Regionbegränsning",
-        "license_region_specific": "Den här landsspecifika licensen tillåter endast användning i köpningsområdet. Alla funktioner kommer inte att vara tillgängliga utanför inköpsområdet."
+        "license_region_specific": "Den här landsspecifika licensen tillåter endast användning i köpningsområdet. Alla funktioner kommer inte att vara tillgängliga utanför inköpsområdet.",
+        "expired": "utgånget"
     },
     "videos": {
         "hnx0KutWDa0": {
