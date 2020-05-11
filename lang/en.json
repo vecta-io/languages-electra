@@ -2228,7 +2228,9 @@
         "devices": "Devices",
         "device": "device",
         "remove_devices": "Remove all",
-        "confirm_device": "Remove all devices from this serial key?"
+        "confirm_device": "Remove all devices from this serial key?",
+        "purchase_license": "Purchase a license",
+        "request_trial": "Request trial extension"
     },
     "license": {
         "activate": "Activate",
@@ -2252,6 +2254,7 @@
         "license_region_specific": "This region specific license only allow usage at the region of purchase. All features will be unavailable outside of purchase region.",
         "trial_mode": "Trial mode",
         "trial_left": "You are currently in trial mode. Your license will expires in @@ days",
+        "expired": "expired",
         "license_expired": "Trial / License expired",
         "license_expired_desc": "Trial / License expired. Productivity tools will be disabled."
     },
