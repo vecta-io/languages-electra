@@ -389,7 +389,9 @@
         "auto_wiring_label": "Anslut trådarna automatiskt när du tappar symboler",
         "generating_toc": "Generera innehållsförteckning",
         "auto_wiring": "Auto ledningar",
-        "reuse_toc": "Vill du återanvända aktuell TOC?"
+        "reuse_toc": "Vill du återanvända aktuell TOC?",
+        "import_img": "Importerar bild ...",
+        "img_upload_progress": "Laddar upp bild (##%) ..."
     },
     "drop": {
         "in": "tum",
