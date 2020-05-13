@@ -383,9 +383,9 @@
         "code": "Code",
         "invalid_events": "Événements ou codes non valides, non autorisés à être vides",
         "auto_wiring": "Câblage automatique",
-        "auto_wiring_label": "Connecter automatiquement les fils lors de la suppression de symboles",
+        "auto_wiring_label": "Câblage automatique lors de la chute du symbole",
         "generating_toc": "Génération d'une table des matières",
-        "wire_sym_not_found": "Le symbole de @@ est introuvable. <br/> Veuillez vous assurer que le pochoir <b>%%</b> est ouvert ou <br/> désactiver le fil de connexion automatique lors de la suppression du symbole dans les options du document",
+        "wire_sym_not_found": "Le symbole @@ est introuvable. <br/> Veuillez vous assurer que le gabarit <b>%%</b> est développé ou <br/> le câblage automatique lors de la suppression du symbole est désactivé dans les options du document.",
         "reuse_toc": "Voulez-vous réutiliser la table des matières actuelle?",
         "img_upload_progress": "Téléchargement de l'image (##%) ...",
         "import_img": "Importation d'image ..."
