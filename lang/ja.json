@@ -389,7 +389,8 @@
         "generating_toc": "目次の生成",
         "reuse_toc": "現在の目次を再利用しますか？",
         "img_upload_progress": "画像（##％）をアップロードしています...",
-        "import_img": "画像をインポートしています..."
+        "import_img": "画像をインポートしています...",
+        "dimension": "寸法"
     },
     "list": {
         "sv": "スウェーデン語",
