@@ -1665,7 +1665,8 @@
         "reuse_toc": "您想重用當前的目錄嗎？",
         "generating_toc": "生成目錄",
         "img_upload_progress": "正在上傳圖片（##％）...",
-        "import_img": "正在導入圖片..."
+        "import_img": "正在導入圖片...",
+        "dimension": "尺寸"
     },
     "drop": {
         "maintain_id": "維護ID",
