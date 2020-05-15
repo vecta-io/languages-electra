@@ -391,7 +391,8 @@
         "auto_wiring": "Auto ledningar",
         "reuse_toc": "Vill du återanvända aktuell TOC?",
         "import_img": "Importerar bild ...",
-        "img_upload_progress": "Laddar upp bild (##%) ..."
+        "img_upload_progress": "Laddar upp bild (##%) ...",
+        "dimension": "Dimensionera"
     },
     "drop": {
         "in": "tum",
