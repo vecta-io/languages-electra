@@ -388,7 +388,8 @@
         "wire_sym_not_found": "Le symbole @@ est introuvable. <br/> Veuillez vous assurer que le gabarit <b>%%</b> est développé ou <br/> le câblage automatique lors de la suppression du symbole est désactivé dans les options du document.",
         "reuse_toc": "Voulez-vous réutiliser la table des matières actuelle?",
         "img_upload_progress": "Téléchargement de l'image (##%) ...",
-        "import_img": "Importation d'image ..."
+        "import_img": "Importation d'image ...",
+        "dimension": "Dimension"
     },
     "page": {
         "cm": "Centimètre",
