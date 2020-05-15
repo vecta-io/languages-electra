@@ -1665,7 +1665,8 @@
         "reuse_toc": "您想重用当前的目录吗？",
         "generating_toc": "生成目录",
         "img_upload_progress": "正在上传图片（##％）...",
-        "import_img": "正在导入图片..."
+        "import_img": "正在导入图片...",
+        "dimension": "尺寸"
     },
     "drop": {
         "maintain_id": "维护ID",
