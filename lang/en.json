@@ -1103,6 +1103,7 @@
         "layshape": "Layout Shape",
         "comp_name": "Component Name",
         "diameter": "Diameter",
+        "dimension": "Dimension",
         "help_dimension": "Accepts all major units. E.g. 2 mm, 2 in, 2 cm etc.",
         "include_layout": "Include Component in Layout",
         "quantity": "Quantity",
