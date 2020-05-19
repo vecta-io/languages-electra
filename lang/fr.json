@@ -389,7 +389,8 @@
         "reuse_toc": "Voulez-vous réutiliser la table des matières actuelle?",
         "img_upload_progress": "Téléchargement de l'image (##%) ...",
         "import_img": "Importation d'image ...",
-        "dimension": "Dimension"
+        "dimension": "Dimension",
+        "auto_rename_help": "Sélectionnez pour conserver le nom d&#39;origine, désélectionnez pour renommer, <br /> ou annuler pour conserver tous les noms d&#39;origine"
     },
     "page": {
         "cm": "Centimètre",
