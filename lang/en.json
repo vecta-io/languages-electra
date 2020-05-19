@@ -1278,7 +1278,7 @@
         "separator": "Separator",
         "location_format": "Location format",
         "comp_db_help": "Drag and drop from components to category to organize components.<br/>Right click on components for more options.",
-        "auto_rename_help": "Select to retain original name, deselect to rename",
+        "auto_rename_help": "Select to retain original name, deselect to rename, <br />or cancel to retain all original names",
         "wires": "Wires",
         "tubes": "Tubes",
         "hoses": "Hoses",
