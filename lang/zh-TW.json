@@ -1517,7 +1517,7 @@
         "separator": "分離器",
         "location_format": "位置格式",
         "comp_db_help": "從組件拖放到類別以組織組件。<br/>右鍵單擊組件以獲取更多選項",
-        "auto_rename_help": "選擇保留原始名稱，取消選擇以重命名",
+        "auto_rename_help": "選擇保留原始名稱，取消選擇重命名， <br />或取消保留所有原始名稱",
         "wires": "電線",
         "tubes": "管子",
         "hoses": "軟管",
