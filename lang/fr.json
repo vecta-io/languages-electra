@@ -383,7 +383,7 @@
         "code": "Code",
         "invalid_events": "Événements ou codes non valides, non autorisés à être vides",
         "auto_wiring": "Câblage automatique",
-        "auto_wiring_label": "Câblage automatique lors de la chute du symbole",
+        "auto_wiring_label": "Câblez automatiquement les symboles en cas de chute",
         "generating_toc": "Génération d'une table des matières",
         "wire_sym_not_found": "Le symbole @@ est introuvable. <br/> Veuillez vous assurer que le gabarit <b>%%</b> est développé ou <br/> le câblage automatique lors de la suppression du symbole est désactivé dans les options du document.",
         "reuse_toc": "Voulez-vous réutiliser la table des matières actuelle?",
