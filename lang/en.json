@@ -1244,7 +1244,7 @@
         "ask_create_cable": "Popup to ask for actions when no cable core available",
         "renum_lzone": "Automatically renumber symbols/wires when moved within ladder zone",
         "sym_split_wire": "Split wires when dropping symbols",
-        "auto_wiring_label": "Automatic wiring when dropping symbol",
+        "auto_wiring_label": "Automatically wire symbols on drop",
         "page_prefix": "Page Prefix",
         "page_prefix_ref": "Enable on references",
         "page_prefix_wires": "Enable on wires",
@@ -2092,7 +2092,7 @@
             "connector_curve": "Connector curve size",
             "new_mssg": "Chat message is received",
             "new_user": "Collaborator joins editing",
-            "show_stencil_bar": "Always show stencil's scroll bar"
+            "show_stencil_bar": "Always show stencil scroll bar"
         },
         "noti": {
             "push": "Enable desktop notification",
