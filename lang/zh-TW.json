@@ -1660,7 +1660,7 @@
         "scan_autoloc": "正在掃描自動位置",
         "updating_autoloc": "正在更新自動位置",
         "auto_wiring": "自動接線",
-        "auto_wiring_label": "放下符號時自動接線",
+        "auto_wiring_label": "自動將符號連線放置",
         "wire_sym_not_found": "找不到@@符號。 <br/>請確保將<b>%%</b>模板擴展或<br/>文檔選項中禁用了放下符號時自動佈線。",
         "reuse_toc": "您想重用當前的目錄嗎？",
         "generating_toc": "生成目錄",
@@ -2335,7 +2335,7 @@
             "connector_curve": "連接曲線大小",
             "new_mssg": "收到聊天消息",
             "new_user": "合作者加入了編輯",
-            "show_stencil_bar": "始終顯示模具的滾動條"
+            "show_stencil_bar": "始終顯示模具滾動條"
         },
         "noti": {
             "push": "啟用桌面通知",
