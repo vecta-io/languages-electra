@@ -1548,6 +1548,7 @@
         "align_bottom": "Align bottom",
         "hide_properties": "Hide properties",
         "show_properties": "Show properties",
+        "show_hidden": "Show hidden shapes",
         "light_theme": "Show light theme",
         "dark_theme": "Show dark theme",
         "show_chat_box": "Show chat box",
