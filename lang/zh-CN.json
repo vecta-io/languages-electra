@@ -43,400 +43,160 @@
         "diagram_smart_symbols": "使用公式创建智能形状并节省更多时间！"
     },
     "tips": {
-        "Playlist": {
-            "tip": "视频播放列表"
+        "Playlist.tip": "视频播放列表",
+        "Minimize.tip": "最小化",
+        "Maximize.tip": "最大化",
+        "Close.tip": "关闭",
+        "rect_help.icon": "帮助",
+        "videos.icon": "观看教程视频",
+        "SaveSearch.tip": "保存搜索模具",
+        "dashboard.icon": "转到显示面板",
+        "revert_icon.icon": "将图标恢复为上次更新",
+        "update_icon.icon": "更新符号图标",
+        "cursor.icon": "指针,平移工具<br>(Ctrl-1)",
+        "cursor.menu": {
+            "pointer.icon": "指针工具",
+            "pan.icon": "平移工具"
         },
-        "Minimize": {
-            "tip": "最小化"
+        "draw_rect.icon": "绘制的矩形<br>(Ctrl-2)",
+        "draw_ellipse.icon": "绘制圈或椭圆<br>(Ctrl-3)",
+        "draw_path.icon": "绘制路径，弧线，<br> 曲线或自由形式<br>(Ctrl-4)",
+        "draw_path.menu": {
+            "draw_line.icon": "绘制直线",
+            "draw_quad.icon": "绘制弧",
+            "draw_cubic.icon": "绘制曲线",
+            "draw_free.icon": "绘制自由格式"
         },
-        "Maximize": {
-            "tip": "最大化"
+        "draw_textblock.icon": "绘制、移动、调整<br＞或旋转文本<br>(Ctrl-5)",
+        "draw_connector.icon": "绘图连接器<br>(Ctrl-6)",
+        "draw_connector.menu": {
+            "draw_conn_verti.icon": "弯头连接器",
+            "draw_conn_line.icon": "直接头",
+            "draw_conn_jump.icon": "肘跳连接器",
+            "draw_conn_ljump.icon": "直跳连接器",
+            "draw_conn_points.icon": "连接点"
         },
-        "Close": {
-            "tip": "关闭"
+        "format_painter.icon": "格式、颜色, <br>公式或<br>对象简谱漆匠<br>(Ctrl-7)",
+        "undo.icon": "撤消<br>(Ctrl-Z)",
+        "redo.icon": "重做<br>(Ctrl-Y)",
+        "line_weight.icon": "线宽",
+        "line_style.icon": "线条样式",
+        "line_color.icon": "线条颜色",
+        "line_end.icon": "线属性",
+        "line_end.menu": {
+            "[1,0]": "从小开始",
+            "[1,1]": "均为小",
+            "[0,1]": "结束小",
+            "[1.5,0]": "从中开始",
+            "[1.5,1.5]": "均为中",
+            "[0,1.5]": "结束中",
+            "[2,0]": "从大开始",
+            "[2,2]": "均为大",
+            "[0,2]": "结束大",
+            "linecap_butt": "对接线帽",
+            "linecap_round": "圆线帽",
+            "linecap_square": "正方形线帽",
+            "linejoin_miter": "斜接线连接",
+            "linejoin_round": "圆线连接",
+            "linejoin_bevel": "斜角线连接",
+            "swap": "切换线结束"
         },
-        "rect_help": {
-            "icon": "帮助"
+        "fill_color.icon": "填充颜色",
+        "round_corner.icon": "圆角",
+        "arrange.icon": "为选定的形状安排z阶<br>",
+        "operations.icon": "分组，取消分组，翻转<br＞或加入所选择的形状",
+        "align.icon": "对齐选定的形状",
+        "file_name.icon": "重命名绘图",
+        "zoom_out.icon": "缩小<br>Ctrl+鼠标滚轮",
+        "zoom_level.icon": "缩放级别",
+        "zoom_in.icon": "放大<br>Ctrl+鼠标滚轮",
+        "zoom_fit.icon": "缩放至适合页面大小",
+        "pages.icon": "查看另一个页面",
+        "view.icon": "查看",
+        "export.icon": "导出",
+        "share.icon": "分享",
+        "file.icon": "首选项",
+        "feedback.icon": "提交反馈",
+        "text_align.icon": "文字对齐",
+        "text_align.menu": {
+            "start": "向左对齐",
+            "middle": "对齐中间",
+            "end": "向右对齐",
+            "top": "对齐顶部",
+            "central": "对齐中心",
+            "bottom": "对齐底部"
         },
-        "videos": {
-            "icon": "观看教程视频"
-        },
-        "SaveSearch": {
-            "tip": "保存搜索模具"
-        },
-        "dashboard": {
-            "icon": "转到显示面板"
-        },
-        "revert_icon": {
-            "icon": "将图标恢复为上次更新"
-        },
-        "update_icon": {
-            "icon": "更新符号图标"
-        },
-        "cursor": {
-            "icon": "指针,平移工具<br>(Ctrl-1)",
-            "menu": {
-                "pointer": {
-                    "icon": "指针工具"
-                },
-                "pan": {
-                    "icon": "平移工具"
-                }
-            }
-        },
-        "draw_rect": {
-            "icon": "绘制的矩形<br>(Ctrl-2)"
-        },
-        "draw_ellipse": {
-            "icon": "绘制圈或椭圆<br>(Ctrl-3)"
-        },
-        "draw_path": {
-            "icon": "绘制路径，弧线，<br> 曲线或自由形式<br>(Ctrl-4)",
-            "menu": {
-                "draw_line": {
-                    "icon": "绘制直线"
-                },
-                "draw_quad": {
-                    "icon": "绘制弧"
-                },
-                "draw_cubic": {
-                    "icon": "绘制曲线"
-                },
-                "draw_free": {
-                    "icon": "绘制自由格式"
-                }
-            }
-        },
-        "draw_textblock": {
-            "icon": "绘制、移动、调整<br＞或旋转文本<br>(Ctrl-5)"
-        },
-        "draw_connector": {
-            "icon": "绘图连接器<br>(Ctrl-6)",
-            "menu": {
-                "draw_conn_verti": {
-                    "icon": "弯头连接器"
-                },
-                "draw_conn_line": {
-                    "icon": "直接头"
-                },
-                "draw_conn_jump": {
-                    "icon": "肘跳连接器"
-                },
-                "draw_conn_ljump": {
-                    "icon": "直跳连接器"
-                },
-                "draw_conn_points": {
-                    "icon": "连接点"
-                }
-            }
-        },
-        "format_painter": {
-            "icon": "格式、颜色, <br>公式或<br>对象简谱漆匠<br>(Ctrl-7)"
-        },
-        "undo": {
-            "icon": "撤消<br>(Ctrl-Z)"
-        },
-        "redo": {
-            "icon": "重做<br>(Ctrl-Y)"
-        },
-        "line_weight": {
-            "icon": "线宽"
-        },
-        "line_style": {
-            "icon": "线条样式"
-        },
-        "line_color": {
-            "icon": "线条颜色"
-        },
-        "line_end": {
-            "icon": "线属性",
-            "menu": {
-                "[1,0]": "从小开始",
-                "[1,1]": "均为小",
-                "[0,1]": "结束小",
-                "[1": {
-                    "5,0]": "从中开始",
-                    "5,1": {
-                        "5]": "均为中"
-                    }
-                },
-                "[0,1": {
-                    "5]": "结束中"
-                },
-                "[2,0]": "从大开始",
-                "[2,2]": "均为大",
-                "[0,2]": "结束大",
-                "linecap_butt": "对接线帽",
-                "linecap_round": "圆线帽",
-                "linecap_square": "正方形线帽",
-                "linejoin_miter": "斜接线连接",
-                "linejoin_round": "圆线连接",
-                "linejoin_bevel": "斜角线连接",
-                "swap": "切换线结束"
-            }
-        },
-        "fill_color": {
-            "icon": "填充颜色"
-        },
-        "round_corner": {
-            "icon": "圆角"
-        },
-        "arrange": {
-            "icon": "为选定的形状安排z阶<br>"
-        },
-        "operations": {
-            "icon": "分组，取消分组，翻转<br＞或加入所选择的形状"
-        },
-        "align": {
-            "icon": "对齐选定的形状"
-        },
-        "file_name": {
-            "icon": "重命名绘图"
-        },
-        "zoom_out": {
-            "icon": "缩小<br>Ctrl+鼠标滚轮"
-        },
-        "zoom_level": {
-            "icon": "缩放级别"
-        },
-        "zoom_in": {
-            "icon": "放大<br>Ctrl+鼠标滚轮"
-        },
-        "zoom_fit": {
-            "icon": "缩放至适合页面大小"
-        },
-        "pages": {
-            "icon": "查看另一个页面"
-        },
-        "view": {
-            "icon": "查看"
-        },
-        "export": {
-            "icon": "导出"
-        },
-        "share": {
-            "icon": "分享"
-        },
-        "file": {
-            "icon": "首选项"
-        },
-        "feedback": {
-            "icon": "提交反馈"
-        },
-        "text_align": {
-            "icon": "文字对齐",
-            "menu": {
-                "start": "向左对齐",
-                "middle": "对齐中间",
-                "end": "向右对齐",
-                "top": "对齐顶部",
-                "central": "对齐中心",
-                "bottom": "对齐底部"
-            }
-        },
-        "font_family": {
-            "icon": "字体家族"
-        },
-        "font_size": {
-            "icon": "字体大小"
-        },
-        "font_color": {
-            "icon": "字体颜色"
-        },
-        "color": {
-            "help": "自定义颜色<br>#fff / #ffffff / rgb(0, 0, 0)"
-        },
-        "bevel_color": {
-            "help": "自定义颜色<br>#fff / #ffffff / rgb(0, 0, 0)"
-        },
-        "shadow_color": {
-            "help": "自定义颜色<br>#fff / #ffffff / rgb(0, 0, 0)"
-        },
-        "color_trans": {
-            "help": "透明度<br/>0-100 / 0%-100% / 0-1"
-        },
-        "bold": {
-            "icon": "粗体"
-        },
-        "italic": {
-            "icon": "斜体"
-        },
-        "underline": {
-            "icon": "下划线"
-        },
-        "login": {
-            "icon": "登录"
-        },
-        "logout": {
-            "icon": "登出"
-        },
-        "profile": {
-            "icon": "个人资料"
-        },
-        "record": {
-            "icon": "记录宏"
-        },
-        "save_record": {
-            "icon": "导出宏"
-        },
-        "play_record": {
-            "icon": "播放宏"
-        },
-        "pause_record": {
-            "icon": "暂停宏"
-        },
-        "grid": {
-            "icon": "网格视图"
-        },
-        "list": {
-            "icon": "列表视图"
-        },
+        "font_family.icon": "字体家族",
+        "font_size.icon": "字体大小",
+        "font_color.icon": "字体颜色",
+        "color.help": "自定义颜色<br>#fff / #ffffff / rgb(0, 0, 0)",
+        "bevel_color.help": "自定义颜色<br>#fff / #ffffff / rgb(0, 0, 0)",
+        "shadow_color.help": "自定义颜色<br>#fff / #ffffff / rgb(0, 0, 0)",
+        "color_trans.help": "透明度<br/>0-100 / 0%-100% / 0-1",
+        "bold.icon": "粗体",
+        "italic.icon": "斜体",
+        "underline.icon": "下划线",
+        "login.icon": "登录",
+        "logout.icon": "登出",
+        "profile.icon": "个人资料",
+        "record.icon": "记录宏",
+        "save_record.icon": "导出宏",
+        "play_record.icon": "播放宏",
+        "pause_record.icon": "暂停宏",
+        "grid.icon": "网格视图",
+        "list.icon": "列表视图",
         "set_public": {
             "label": "互联网上的任何人都可以找到和访问"
         },
-        "remove": {
-            "help": "删除用户"
-        },
-        "page_setup": {
-            "icon": "上一前页"
-        },
-        "page_down": {
-            "icon": "下一页"
-        },
-        "new_page": {
-            "icon": "新页面"
-        },
-        "delete_page": {
-            "icon": "删除页面"
-        },
-        "ascend": {
-            "icon": "反向排序方向"
-        },
-        "descend": {
-            "icon": "反向排序方向"
-        },
-        "sort": {
-            "icon": "排序依据"
-        },
-        "toggle_grid": {
-            "icon": "显示/隐藏网格"
-        },
-        "Lock": {
-            "tip": "模具已锁定"
-        },
-        "Search": {
-            "tip": "无法编辑搜索模具"
-        },
-        "expand": {
-            "icon": "更多的工具..."
-        },
-        "shared_url": {
-            "icon": "获取可共享的链接而不发送电子邮件"
-        },
-        "noti": {
-            "icon": "通知"
-        },
-        "pref": {
-            "icon": "首选项"
-        },
-        "chat_box": {
-            "icon": "聊天室"
-        },
-        "preserve_ratio": {
-            "icon": "锁定/解锁宽度和高度"
-        },
-        "formula_prop": {
-            "icon": "显示/隐藏公式"
-        },
-        "fields_prop": {
-            "icon": "添加领域"
-        },
-        "add_layer": {
-            "icon": "添加图层"
-        },
-        "Select": {
-            "tip": "选择图层中的所有形状"
-        },
-        "custom_gradient": {
-            "icon": "拖放到左侧以保存"
-        },
-        "reset": {
-            "icon": "重置选定的渐变"
-        },
-        "Visible": {
-            "tip": "显示/隐藏图层中的形状"
-        },
-        "edit_info": {
-            "icon": "确认链接将<br>发送到您以前的电子邮件中"
-        },
-        "Expand": {
-            "tip": "扩大"
-        },
-        "Collapse": {
-            "tip": "折叠"
-        },
-        "Add": {
-            "tip": "添加"
-        },
-        "Remove": {
-            "tip": "移除"
-        },
-        "Delete": {
-            "tip": "删除"
-        },
-        "Save": {
-            "tip": "保存"
-        },
-        "edit_profile": {
-            "icon": "编辑个人资料"
-        },
-        "fit_to_drawing": {
-            "tip": "“增加宽度和高度以增加边距"
-        },
+        "remove.help": "删除用户",
+        "page_setup.icon": "上一前页",
+        "page_down.icon": "下一页",
+        "new_page.icon": "新页面",
+        "delete_page.icon": "删除页面",
+        "ascend.icon": "反向排序方向",
+        "descend.icon": "反向排序方向",
+        "sort.icon": "排序依据",
+        "toggle_grid.icon": "显示/隐藏网格",
+        "Lock.tip": "模具已锁定",
+        "Search.tip": "无法编辑搜索模具",
+        "expand.icon": "更多的工具...",
+        "shared_url.icon": "获取可共享的链接而不发送电子邮件",
+        "noti.icon": "通知",
+        "pref.icon": "首选项",
+        "chat_box.icon": "聊天室",
+        "preserve_ratio.icon": "锁定/解锁宽度和高度",
+        "formula_prop.icon": "显示/隐藏公式",
+        "fields_prop.icon": "添加领域",
+        "add_layer.icon": "添加图层",
+        "Select.tip": "选择图层中的所有形状",
+        "custom_gradient.icon": "拖放到左侧以保存",
+        "reset.icon": "重置选定的渐变",
+        "Visible.tip": "显示/隐藏图层中的形状",
+        "edit_info.icon": "确认链接将<br>发送到您以前的电子邮件中",
+        "Expand.tip": "扩大",
+        "Collapse.tip": "折叠",
+        "Add.tip": "添加",
+        "Remove.tip": "移除",
+        "Delete.tip": "删除",
+        "Save.tip": "保存",
+        "edit_profile.icon": "编辑个人资料",
+        "fit_to_drawing.tip": "“增加宽度和高度以增加边距",
         "blur_help": "模糊不能与任何效果一起使用",
         "shadow_help": "拖放阴影可以与斜角一起使用<br>内部阴影不能与任何效果一起使用",
-        "AddField": {
-            "tip": "添加字段"
-        },
-        "FormulaField": {
-            "tip": "编辑公式"
-        },
-        "AddLayer": {
-            "tip": "添加图层"
-        },
-        "AddEffect": {
-            "tip": "增加效果"
-        },
-        "AddCustomMenu": {
-            "tip": "添加自定义菜单"
-        },
-        "ListCustomMenu": {
-            "tip": "列表自定义菜单"
-        },
-        "create_schem": {
-            "icon": "创建原理图符号"
-        },
-        "create_layout_sym": {
-            "icon": "创建布局符号"
-        },
-        "comp_db": {
-            "icon": "组件数据库"
-        },
-        "options": {
-            "icon": "文档选项"
-        },
-        "title_blocks": {
-            "icon": "标题块"
-        },
-        "manage_comps": {
-            "icon": "管理组件"
-        },
-        "generate_layout": {
-            "icon": "生成布局"
-        },
-        "electra_export": {
-            "icon": "导出报告"
-        }
+        "AddField.tip": "添加字段",
+        "FormulaField.tip": "编辑公式",
+        "AddLayer.tip": "添加图层",
+        "AddEffect.tip": "增加效果",
+        "AddCustomMenu.tip": "添加自定义菜单",
+        "ListCustomMenu.tip": "列表自定义菜单",
+        "create_schem.icon": "创建原理图符号",
+        "create_layout_sym.icon": "创建布局符号",
+        "comp_db.icon": "组件数据库",
+        "options.icon": "文档选项",
+        "title_blocks.icon": "标题块",
+        "manage_comps.icon": "管理组件",
+        "generate_layout.icon": "生成布局",
+        "electra_export.icon": "导出报告"
     },
     "mssg": {
         "sending": "正在发送",
@@ -1895,7 +1655,8 @@
         "manage_tubing": "管理管子",
         "manage_hosing": "管理软管",
         "view_edit": "“查看和编辑",
-        "export_as_tsv": "导出为TSV"
+        "export_as_tsv": "导出为TSV",
+        "show_hidden": "显示隐藏的形状"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
