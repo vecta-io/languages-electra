@@ -600,7 +600,8 @@
         "maintain_class": "Underhålla klasser",
         "embed_fonts": "Bädda in teckensnitt",
         "maintain_structure": "Underhålla strukturen",
-        "maintain_events": "Underhålla händelser"
+        "maintain_events": "Underhålla händelser",
+        "show_hidden": "Visa dolda former"
     },
     "page": {
         "mm": "Millimeter",
@@ -1244,376 +1245,150 @@
         "dark-theme-electra": "Visa mörkt tema för att aktivera mörkt läge"
     },
     "tips": {
-        "Lock": {
-            "tip": "Stencil låst"
-        },
-        "undo": {
-            "icon": "Ångra <br> (Ctrl-Z)"
-        },
-        "grid": {
-            "icon": "Rutnät"
-        },
-        "bold": {
-            "icon": "Fetstil"
-        },
-        "save": {
-            "icon": "Dra och släpp till vänster för att spara"
-        },
-        "redo": {
-            "icon": "Göra om <br> (Ctrl-Y)"
-        },
-        "noti": {
-            "icon": "Notifiering"
-        },
-        "list": {
-            "icon": "Listvy"
-        },
-        "pref": {
-            "icon": "Inställningar"
-        },
-        "sort": {
-            "icon": "Sortera efter"
-        },
-        "reset": {
-            "icon": "Återställ vald gradient"
-        },
-        "align": {
-            "icon": "Arrangera valda former"
-        },
-        "Search": {
-            "tip": "Sök stencil kan inte redigeras"
-        },
-        "Select": {
-            "tip": "Välj alla former i lager"
-        },
-        "login": {
-            "icon": "Logga in"
-        },
-        "Visible": {
-            "tip": "Visa / dölja former i lager"
-        },
-        "ascend": {
-            "icon": "Ändra sorteringsriktning"
-        },
-        "record": {
-            "icon": "Spela in makros"
-        },
-        "italic": {
-            "icon": "Kursiv"
-        },
-        "videos": {
-            "icon": "Titta på handledningsvideor"
-        },
-        "logout": {
-            "icon": "Logga ut"
-        },
-        "expand": {
-            "icon": "Fler verktyg..."
-        },
-        "remove": {
-            "help": "Ta bort användare"
-        },
-        "descend": {
-            "icon": "Ändra sorteringsriktning"
-        },
-        "profile": {
-            "icon": "Profil"
-        },
-        "arrange": {
-            "icon": "Ordna z-order <br> för utvalda former"
-        },
-        "zoom_in": {
-            "icon": "Zooma in <br> Ctrl + mushjul"
-        },
-        "line_end": {
-            "icon": "Linjeegenskaper",
-            "menu": {
-                "[1,0]": "Börja små",
-                "[1,1]": "Båda små",
-                "[0,1]": "Avsluta små",
-                "[1": {
-                    "5,0]": "Börja mediet",
-                    "5,1": {
-                        "5]": "Båda mediet"
-                    }
-                },
-                "[0,1": {
-                    "5]": "Slutmedium"
-                },
-                "[2,0]": "Börja stort",
-                "[2,2]": "Båda stora",
-                "[0,2]": "Sluta stora",
-                "linecap_butt": "Linecap butt",
-                "linecap_round": "Linecap rund",
-                "linecap_square": "Linecap square",
-                "linejoin_miter": "Linejoin miter",
-                "linejoin_round": "Linejoin runda",
-                "linejoin_bevel": "Linejoin bevel",
-                "swap": "Byt linjeändar"
-            }
-        },
-        "zoom_fit": {
-            "icon": "Zooma för att passa sidstorleken"
-        },
-        "feedback": {
-            "icon": "Lämna feedback"
-        },
-        "chat_box": {
-            "icon": "Chat"
-        },
-        "zoom_out": {
-            "icon": "Zooma ut <br> Ctrl + mushjulet"
-        },
-        "file_name": {
-            "icon": "Byt namn på ritning"
-        },
-        "dashboard": {
-            "icon": "Gå till kontrollpanelen"
-        },
-        "draw_rect": {
-            "icon": "Rita rektangel <br> (Ctrl-2)"
-        },
-        "draw_path": {
-            "icon": "Rita väg, båge, <br> kurva eller freeform <br> (Ctrl-4)",
-            "menu": {
-                "draw_line": {
-                    "icon": "Rita linje"
-                },
-                "draw_quad": {
-                    "icon": "Rita båge"
-                },
-                "draw_cubic": {
-                    "icon": "Rita kurvan"
-                },
-                "draw_free": {
-                    "icon": "Rita fritt format"
-                }
-            }
-        },
-        "add_layer": {
-            "icon": "Lägg till ett lager"
-        },
-        "underline": {
-            "icon": "Understrykning"
-        },
-        "SaveSearch": {
-            "tip": "Spara sökstensil"
-        },
-        "font_size": {
-            "icon": "Textstorlek"
-        },
-        "shared_url": {
-            "icon": "Få en länk som kan delas"
-        },
-        "line_color": {
-            "icon": "Linjefärg"
-        },
-        "operations": {
-            "icon": "Gruppera, gruppera, flip <br> eller gå med valda former"
-        },
-        "text_align": {
-            "icon": "Justera text",
-            "menu": {
-                "start": "Justera vänster",
-                "middle": "Rikta in mitten",
-                "end": "Anpassa till höger",
-                "top": "Justera toppen",
-                "central": "Centrera i linje med",
-                "bottom": "Justera botten"
-            }
-        },
-        "font_color": {
-            "icon": "Textfärg"
-        },
-        "page_setup": {
-            "icon": "Utskriftsformat"
-        },
-        "zoom_level": {
-            "icon": "Zoom level"
-        },
-        "fill_color": {
-            "icon": "Fyllnadsfärg"
-        },
-        "line_style": {
-            "icon": "Linjestil"
-        },
-        "fields_prop": {
-            "icon": "Lägg till ett fält"
-        },
-        "toggle_grid": {
-            "icon": "Visa / dölj rutnät"
-        },
-        "color_trans": {
-            "help": "Transparens<br/>0-100 / 0%-100% / 0-1"
-        },
-        "save_record": {
-            "icon": "Exportera makros"
-        },
-        "line_weight": {
-            "icon": "Linjestyrka"
-        },
-        "play_record": {
-            "icon": "Spela makros"
-        },
-        "font_family": {
-            "icon": "Teckensnitt"
-        },
-        "update_icon": {
-            "icon": "Uppdatera symbolikonen"
-        },
-        "revert_icon": {
-            "icon": "Återgå ikon för att senast uppdateras"
-        },
-        "formula_prop": {
-            "icon": "Visa / dölja formler"
-        },
-        "pause_record": {
-            "icon": "Pausa makron"
-        },
-        "draw_ellipse": {
-            "icon": "Rita cirkel eller ellips <br> (Ctrl-3)"
-        },
-        "round_corner": {
-            "icon": "Runda hörn"
-        },
-        "draw_connector": {
-            "icon": "Rita kontakter <br> (Ctrl-6)",
-            "menu": {
-                "draw_conn_verti": {
-                    "icon": "Armbågeanslutning"
-                },
-                "draw_conn_line": {
-                    "icon": "Rak kontakt"
-                },
-                "draw_conn_points": {
-                    "icon": "Anslutningspunkt"
-                },
-                "draw_conn_jump": {
-                    "icon": "Hoppkontakt"
-                }
-            }
-        },
-        "preserve_ratio": {
-            "icon": "Lås / Lås upp bredd och höjd"
-        },
-        "draw_textblock": {
-            "icon": "Rita, flytta, ändra storlek på eller rotera text <br> (Ctrl-5)"
-        },
-        "format_painter": {
-            "icon": "Formatera, färg eller bildformelare <br> (Ctrl-7)"
-        },
-        "custom_gradient": {
-            "icon": "Dra och släpp till vänster för att spara"
-        },
-        "Playlist": {
-            "tip": "Videospellista"
-        },
-        "Minimize": {
-            "tip": "Minimera"
-        },
-        "Maximize": {
-            "tip": "Maximera"
-        },
-        "Close": {
-            "tip": "Stänga"
-        },
-        "Expand": {
-            "tip": "Bygga ut"
-        },
-        "Collapse": {
-            "tip": "Kollaps"
-        },
-        "Add": {
-            "tip": "Lägg till"
-        },
-        "Remove": {
-            "tip": "Avlägsna"
-        },
-        "Save": {
-            "tip": "Spara"
-        },
-        "edit_profile": {
-            "icon": "Redigera profil"
-        },
-        "plug_main": {
-            "icon": "plugins"
-        },
-        "fit_to_drawing": {
-            "tip": "Öka bredden och höjden för att lägga till marginalen"
-        },
-        "new_page": {
-            "icon": "Ny sida"
-        },
-        "cursor": {
-            "icon": "Pekare, panverktyg <br> (Ctrl-1)",
-            "menu": {
-                "pointer": {
-                    "icon": "Pekare verktyg"
-                },
-                "pan": {
-                    "icon": "Pan verktyg"
-                }
-            }
-        },
-        "delete_page": {
-            "icon": "Ta bort sida"
-        },
-        "pages": {
-            "icon": "Visa en annan sida"
-        },
-        "color": {
-            "help": "Anpassad färg <br> #fff / #ffffff / rgb (0, 0, 0)"
-        },
-        "bevel_color": {
-            "help": "Anpassad färg <br> #fff / #ffffff / rgb (0, 0, 0)"
-        },
-        "shadow_color": {
-            "help": "Anpassad färg <br> #fff / #ffffff / rgb (0, 0, 0)"
-        },
+        "Lock.tip": "Stencil låst",
+        "undo.icon": "Ångra <br> (Ctrl-Z)",
+        "grid.icon": "Rutnät",
+        "bold.icon": "Fetstil",
+        "save.icon": "Dra och släpp till vänster för att spara",
+        "redo.icon": "Göra om <br> (Ctrl-Y)",
+        "noti.icon": "Notifiering",
+        "list.icon": "Listvy",
+        "pref.icon": "Inställningar",
+        "sort.icon": "Sortera efter",
+        "reset.icon": "Återställ vald gradient",
+        "align.icon": "Arrangera valda former",
+        "Search.tip": "Sök stencil kan inte redigeras",
+        "Select.tip": "Välj alla former i lager",
+        "login.icon": "Logga in",
+        "Visible.tip": "Visa / dölja former i lager",
+        "ascend.icon": "Ändra sorteringsriktning",
+        "record.icon": "Spela in makros",
+        "italic.icon": "Kursiv",
+        "videos.icon": "Titta på handledningsvideor",
+        "logout.icon": "Logga ut",
+        "expand.icon": "Fler verktyg...",
+        "remove.help": "Ta bort användare",
+        "descend.icon": "Ändra sorteringsriktning",
+        "profile.icon": "Profil",
+        "arrange.icon": "Ordna z-order <br> för utvalda former",
+        "zoom_in.icon": "Zooma in <br> Ctrl + mushjul",
+        "line_end.icon": "Linjeegenskaper",
+        "line_end.menu": {
+            "[1,0]": "Börja små",
+            "[1,1]": "Båda små",
+            "[0,1]": "Avsluta små",
+            "[1.5,0]": "Börja mediet",
+            "[1.5,1.5]": "Båda mediet",
+            "[0,1.5]": "Slutmedium",
+            "[2,0]": "Börja stort",
+            "[2,2]": "Båda stora",
+            "[0,2]": "Sluta stora",
+            "linecap_butt": "Linecap butt",
+            "linecap_round": "Linecap rund",
+            "linecap_square": "Linecap square",
+            "linejoin_miter": "Linejoin miter",
+            "linejoin_round": "Linejoin runda",
+            "linejoin_bevel": "Linejoin bevel",
+            "swap": "Byt linjeändar"
+        },
+        "zoom_fit.icon": "Zooma för att passa sidstorleken",
+        "feedback.icon": "Lämna feedback",
+        "chat_box.icon": "Chat",
+        "zoom_out.icon": "Zooma ut <br> Ctrl + mushjulet",
+        "file_name.icon": "Byt namn på ritning",
+        "dashboard.icon": "Gå till kontrollpanelen",
+        "draw_rect.icon": "Rita rektangel <br> (Ctrl-2)",
+        "draw_path.icon": "Rita väg, båge, <br> kurva eller freeform <br> (Ctrl-4)",
+        "draw_path.menu": {
+            "draw_line.icon": "Rita linje",
+            "draw_quad.icon": "Rita båge",
+            "draw_cubic.icon": "Rita kurvan",
+            "draw_free.icon": "Rita fritt format"
+        },
+        "add_layer.icon": "Lägg till ett lager",
+        "underline.icon": "Understrykning",
+        "SaveSearch.tip": "Spara sökstensil",
+        "font_size.icon": "Textstorlek",
+        "shared_url.icon": "Få en länk som kan delas",
+        "line_color.icon": "Linjefärg",
+        "operations.icon": "Gruppera, gruppera, flip <br> eller gå med valda former",
+        "text_align.icon": "Justera text",
+        "text_align.menu": {
+            "start": "Justera vänster",
+            "middle": "Rikta in mitten",
+            "end": "Anpassa till höger",
+            "top": "Justera toppen",
+            "central": "Centrera i linje med",
+            "bottom": "Justera botten"
+        },
+        "font_color.icon": "Textfärg",
+        "page_setup.icon": "Utskriftsformat",
+        "zoom_level.icon": "Zoom level",
+        "fill_color.icon": "Fyllnadsfärg",
+        "line_style.icon": "Linjestil",
+        "fields_prop.icon": "Lägg till ett fält",
+        "toggle_grid.icon": "Visa / dölj rutnät",
+        "color_trans.help": "Transparens<br/>0-100 / 0%-100% / 0-1",
+        "save_record.icon": "Exportera makros",
+        "line_weight.icon": "Linjestyrka",
+        "play_record.icon": "Spela makros",
+        "font_family.icon": "Teckensnitt",
+        "update_icon.icon": "Uppdatera symbolikonen",
+        "revert_icon.icon": "Återgå ikon för att senast uppdateras",
+        "formula_prop.icon": "Visa / dölja formler",
+        "pause_record.icon": "Pausa makron",
+        "draw_ellipse.icon": "Rita cirkel eller ellips <br> (Ctrl-3)",
+        "round_corner.icon": "Runda hörn",
+        "draw_connector.icon": "Rita kontakter <br> (Ctrl-6)",
+        "draw_connector.menu": {
+            "draw_conn_verti.icon": "Armbågeanslutning",
+            "draw_conn_line.icon": "Rak kontakt",
+            "draw_conn_points.icon": "Anslutningspunkt",
+            "draw_conn_jump.icon": "Hoppkontakt"
+        },
+        "preserve_ratio.icon": "Lås / Lås upp bredd och höjd",
+        "draw_textblock.icon": "Rita, flytta, ändra storlek på eller rotera text <br> (Ctrl-5)",
+        "format_painter.icon": "Formatera, färg eller bildformelare <br> (Ctrl-7)",
+        "custom_gradient.icon": "Dra och släpp till vänster för att spara",
+        "Playlist.tip": "Videospellista",
+        "Minimize.tip": "Minimera",
+        "Maximize.tip": "Maximera",
+        "Close.tip": "Stänga",
+        "Expand.tip": "Bygga ut",
+        "Collapse.tip": "Kollaps",
+        "Add.tip": "Lägg till",
+        "Remove.tip": "Avlägsna",
+        "Save.tip": "Spara",
+        "edit_profile.icon": "Redigera profil",
+        "plug_main.icon": "plugins",
+        "fit_to_drawing.tip": "Öka bredden och höjden för att lägga till marginalen",
+        "new_page.icon": "Ny sida",
+        "cursor.icon": "Pekare, panverktyg <br> (Ctrl-1)",
+        "cursor.menu": {
+            "pointer.icon": "Pekare verktyg",
+            "pan.icon": "Pan verktyg"
+        },
+        "delete_page.icon": "Ta bort sida",
+        "pages.icon": "Visa en annan sida",
+        "color.help": "Anpassad färg <br> #fff / #ffffff / rgb (0, 0, 0)",
+        "bevel_color.help": "Anpassad färg <br> #fff / #ffffff / rgb (0, 0, 0)",
+        "shadow_color.help": "Anpassad färg <br> #fff / #ffffff / rgb (0, 0, 0)",
         "blur_help": "Blur kan inte användas med några effekter.",
         "shadow_help": "Drop Shadow kan användas med Bevel. <br> Inner Shadow kan inte användas med några effekter.",
-        "page_up": {
-            "icon": "Föregående sida"
-        },
-        "page_down": {
-            "icon": "Nästa sida"
-        },
-        "rect_help": {
-            "icon": "Hjälp"
-        },
-        "Delete": {
-            "tip": "Delete"
-        },
-        "AddField": {
-            "tip": "Add field"
-        },
-        "FormulaField": {
-            "tip": "Redigera formel"
-        },
-        "AddLayer": {
-            "tip": "Lägg till lager"
-        },
-        "AddEffect": {
-            "tip": "Lägg till effekt"
-        },
-        "AddCustomMenu": {
-            "tip": "Lägg till anpassad meny"
-        },
-        "ListCustomMenu": {
-            "tip": "Lista anpassad meny"
-        },
-        "view": {
-            "icon": "Se"
-        },
-        "export": {
-            "icon": "Exportera"
-        },
-        "share": {
-            "icon": "Dela med sig"
-        },
-        "file": {
-            "icon": "Inställningar"
-        }
+        "page_up.icon": "Föregående sida",
+        "page_down.icon": "Nästa sida",
+        "rect_help.icon": "Hjälp",
+        "Delete.tip": "Delete",
+        "AddField.tip": "Add field",
+        "FormulaField.tip": "Redigera formel",
+        "AddLayer.tip": "Lägg till lager",
+        "AddEffect.tip": "Lägg till effekt",
+        "AddCustomMenu.tip": "Lägg till anpassad meny",
+        "ListCustomMenu.tip": "Lista anpassad meny",
+        "view.icon": "Se",
+        "export.icon": "Exportera",
+        "share.icon": "Dela med sig",
+        "file.icon": "Inställningar"
     },
     "verify": {
         "failed": "Verifiering misslyckades",
