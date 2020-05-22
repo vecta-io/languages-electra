@@ -705,7 +705,8 @@
         "maintain_class": "Maintenir les classes",
         "maintain_id": "Maintenir l'ID",
         "maintain_structure": "Maintenir la structure",
-        "embed_fonts": "Incorporer des polices"
+        "embed_fonts": "Incorporer des polices",
+        "show_hidden": "Afficher les formes cachées"
     },
     "list": {
         "en": "Anglais",
@@ -1248,382 +1249,154 @@
         "dark-theme-electra": "Afficher le thème sombre pour activer le mode sombre"
     },
     "tips": {
-        "Lock": {
-            "tip": "Stencil verrouillé"
-        },
-        "redo": {
-            "icon": "Redo <br> (Ctrl-Y)"
-        },
-        "pref": {
-            "icon": "Préférences"
-        },
-        "sort": {
-            "icon": "Trier par"
-        },
-        "undo": {
-            "icon": "Annuler <br> (Ctrl-Z)"
-        },
-        "list": {
-            "icon": "Vue de la liste"
-        },
-        "noti": {
-            "icon": "Notifications"
-        },
-        "grid": {
-            "icon": "Vue de la grille"
-        },
-        "save": {
-            "icon": "Faites glisser et déposez à gauche pour enregistrer"
-        },
-        "bold": {
-            "icon": "Audacieux"
-        },
-        "align": {
-            "icon": "Aligner les formes sélectionnées"
-        },
-        "reset": {
-            "icon": "Réinitialiser le gradient sélectionné"
-        },
-        "Select": {
-            "tip": "Sélectionnez toutes les formes dans la couche"
-        },
-        "Search": {
-            "tip": "Le pochoir de recherche ne peut pas être modifié"
-        },
-        "login": {
-            "icon": "se connecter"
-        },
-        "remove": {
-            "help": "Supprimer l'utilisateur"
-        },
-        "italic": {
-            "icon": "Italique"
-        },
-        "expand": {
-            "icon": "Plus d'outils ..."
-        },
-        "logout": {
-            "icon": "Déconnexion"
-        },
-        "Visible": {
-            "tip": "Afficher / masquer les formes dans la couche"
-        },
-        "record": {
-            "icon": "Enregistrer des macros"
-        },
-        "videos": {
-            "icon": "Regardez des vidéos de tutoriel"
-        },
-        "ascend": {
-            "icon": "Inverser la direction du tri"
-        },
-        "profile": {
-            "icon": "Profil"
-        },
-        "arrange": {
-            "icon": "Organiser l'ordre Z pour les formes sélectionnées"
-        },
-        "descend": {
-            "icon": "Inverser la direction du tri"
-        },
-        "zoom_in": {
-            "icon": "Zoom avant <br> Ctrl + molette de la souris"
-        },
-        "line_end": {
-            "icon": "Propriétés de ligne",
-            "menu": {
-                "[1,0]": "Commencez petit",
-                "[1,1]": "Les deux petits",
-                "[0,1]": "Fin petit",
-                "[1": {
-                    "5,0]": "Commencer le milieu",
-                    "5,1": {
-                        "5]": "Les deux moyens"
-                    }
-                },
-                "[0,1": {
-                    "5]": "Fin moyen"
-                },
-                "[2,0]": "Commencez gros",
-                "[2,2]": "Les deux grands",
-                "[0,2]": "Fin grand",
-                "linecap_butt": "Linecap bout à bout",
-                "linecap_round": "Linecap ronde",
-                "linecap_square": "Linecap carré",
-                "linejoin_miter": "Linejoin mitre",
-                "linejoin_round": "Linejoin round",
-                "linejoin_bevel": "Linejoin biseau",
-                "swap": "Commuter les extrémités de ligne"
-            }
-        },
-        "chat_box": {
-            "icon": "Boîte de discussion"
-        },
-        "zoom_fit": {
-            "icon": "Zoom pour adapter la page"
-        },
-        "feedback": {
-            "icon": "Envoyer un commentaire"
-        },
-        "zoom_out": {
-            "icon": "Zoom arrière <br> Ctrl + molette de la souris"
-        },
-        "SaveSearch": {
-            "tip": "Sauvegarder le pochoir de recherche"
-        },
-        "dashboard": {
-            "icon": "Aller au tableau de bord"
-        },
-        "draw_path": {
-            "icon": "Dessiner un chemin, un arc, une courbe ou une forme libre <br> (Ctrl-4)",
-            "menu": {
-                "draw_line": {
-                    "icon": "Dessiner une ligne"
-                },
-                "draw_quad": {
-                    "icon": "Dessiner un arc"
-                },
-                "draw_cubic": {
-                    "icon": "Dessiner la courbe"
-                },
-                "draw_free": {
-                    "icon": "Dessiner une forme libre"
-                }
-            }
-        },
-        "draw_rect": {
-            "icon": "Dessiner un rectangle <br> (Ctrl-2)"
-        },
-        "font_size": {
-            "icon": "Taille de police"
-        },
-        "underline": {
-            "icon": "Souligner"
-        },
-        "add_layer": {
-            "icon": "Ajouter une couche"
-        },
-        "file_name": {
-            "icon": "Renommer le dessin"
-        },
-        "operations": {
-            "icon": "Grouper, dégrouper, retourner ou joindre des formes sélectionnées"
-        },
-        "line_color": {
-            "icon": "Couleur de la ligne"
-        },
-        "page_setup": {
-            "icon": "Mise en page"
-        },
-        "line_style": {
-            "icon": "Style de ligne"
-        },
-        "fill_color": {
-            "icon": "La couleur de remplissage"
-        },
-        "font_color": {
-            "icon": "Couleur de la police"
-        },
-        "zoom_level": {
-            "icon": "Le niveau de zoom"
-        },
-        "shared_url": {
-            "icon": "Obtenir un lien partageable sans envoyer d'e-mails"
-        },
-        "text_align": {
-            "icon": "Alignement du texte",
-            "menu": {
-                "start": "Alignez à gauche",
-                "middle": "Aligner le milieu",
-                "end": "Aligner à droite",
-                "top": "Aligner en haut",
-                "central": "Aligner le centre",
-                "bottom": "Aligner le fond"
-            }
-        },
-        "revert_icon": {
-            "icon": "Rétablir l'icône pour la dernière mise à jour"
-        },
-        "update_icon": {
-            "icon": "Mise à jour icône"
-        },
-        "color_trans": {
-            "help": "Transparence <br/> 0-100 / 0% -100% / 0-1"
-        },
-        "play_record": {
-            "icon": "Lire des macros"
-        },
-        "fields_prop": {
-            "icon": "Ajouter un champ"
-        },
-        "font_family": {
-            "icon": "Famille de polices"
-        },
-        "line_weight": {
-            "icon": "Poids de ligne"
-        },
-        "save_record": {
-            "icon": "Exporter des macros"
-        },
-        "toggle_grid": {
-            "icon": "Afficher / masquer la grille"
-        },
-        "draw_ellipse": {
-            "icon": "Tracez un cercle ou une ellipse <br> (Ctrl-3)"
-        },
-        "round_corner": {
-            "icon": "Coin rond"
-        },
-        "pause_record": {
-            "icon": "Suspendre les macros"
-        },
-        "formula_prop": {
-            "icon": "Afficher / masquer les formules"
-        },
-        "format_painter": {
-            "icon": "Peintre de formats, de couleurs ou de formules <br> <br> (Ctrl-7)"
-        },
-        "draw_textblock": {
-            "icon": "Dessiner, déplacer, redimensionner ou faire pivoter du texte <br> (Ctrl-5)"
-        },
-        "draw_connector": {
-            "icon": "Dessiner des connecteurs <br> (Ctrl-6)",
-            "menu": {
-                "draw_conn_verti": {
-                    "icon": "Coude"
-                },
-                "draw_conn_line": {
-                    "icon": "Connecteur droit"
-                },
-                "draw_conn_points": {
-                    "icon": "Point de connexion"
-                },
-                "draw_conn_jump": {
-                    "icon": "Connecteur de coude"
-                },
-                "draw_conn_ljump": {
-                    "icon": "Connecteur de saut droit"
-                }
-            }
-        },
-        "preserve_ratio": {
-            "icon": "Verrouiller / Débloquer la largeur et la hauteur"
-        },
-        "custom_gradient": {
-            "icon": "Faites glisser et déposez à gauche pour enregistrer"
-        },
-        "Playlist": {
-            "tip": "Playlist de vidéos"
-        },
-        "Minimize": {
-            "tip": "Minimiser"
-        },
-        "Maximize": {
-            "tip": "Maximiser"
-        },
-        "Close": {
-            "tip": "Fermer"
-        },
-        "Expand": {
-            "tip": "Développer"
-        },
-        "Collapse": {
-            "tip": "Effondrer"
-        },
-        "Add": {
-            "tip": "Ajouter"
-        },
-        "Remove": {
-            "tip": "Retirer"
-        },
-        "Save": {
-            "tip": "sauvegarder"
-        },
-        "edit_profile": {
-            "icon": "Editer le profil"
-        },
-        "fit_to_drawing": {
-            "tip": "Augmentez la largeur et la hauteur pour ajouter la marge"
-        },
-        "new_page": {
-            "icon": "Nouvelle page"
-        },
-        "cursor": {
-            "icon": "Pointeur, outil panoramique <br> (Ctrl-1)",
-            "menu": {
-                "pointer": {
-                    "icon": "Outil de pointeur"
-                },
-                "pan": {
-                    "icon": "Outil pan"
-                }
-            }
-        },
-        "delete_page": {
-            "icon": "Supprimer la page"
-        },
-        "pages": {
-            "icon": "Voir une autre page"
-        },
+        "Lock.tip": "Stencil verrouillé",
+        "redo.icon": "Redo <br> (Ctrl-Y)",
+        "pref.icon": "Préférences",
+        "sort.icon": "Trier par",
+        "undo.icon": "Annuler <br> (Ctrl-Z)",
+        "list.icon": "Vue de la liste",
+        "noti.icon": "Notifications",
+        "grid.icon": "Vue de la grille",
+        "save.icon": "Faites glisser et déposez à gauche pour enregistrer",
+        "bold.icon": "Audacieux",
+        "align.icon": "Aligner les formes sélectionnées",
+        "reset.icon": "Réinitialiser le gradient sélectionné",
+        "Select.tip": "Sélectionnez toutes les formes dans la couche",
+        "Search.tip": "Le pochoir de recherche ne peut pas être modifié",
+        "login.icon": "se connecter",
+        "remove.help": "Supprimer l'utilisateur",
+        "italic.icon": "Italique",
+        "expand.icon": "Plus d'outils ...",
+        "logout.icon": "Déconnexion",
+        "Visible.tip": "Afficher / masquer les formes dans la couche",
+        "record.icon": "Enregistrer des macros",
+        "videos.icon": "Regardez des vidéos de tutoriel",
+        "ascend.icon": "Inverser la direction du tri",
+        "profile.icon": "Profil",
+        "arrange.icon": "Organiser l'ordre Z pour les formes sélectionnées",
+        "descend.icon": "Inverser la direction du tri",
+        "zoom_in.icon": "Zoom avant <br> Ctrl + molette de la souris",
+        "line_end.icon": "Propriétés de ligne",
+        "line_end.menu": {
+            "[1,0]": "Commencez petit",
+            "[1,1]": "Les deux petits",
+            "[0,1]": "Fin petit",
+            "[1.5,0]": "Commencer le milieu",
+            "[1.5,1.5]": "Les deux moyens",
+            "[0,1.5]": "Fin moyen",
+            "[2,0]": "Commencez gros",
+            "[2,2]": "Les deux grands",
+            "[0,2]": "Fin grand",
+            "linecap_butt": "Linecap bout à bout",
+            "linecap_round": "Linecap ronde",
+            "linecap_square": "Linecap carré",
+            "linejoin_miter": "Linejoin mitre",
+            "linejoin_round": "Linejoin round",
+            "linejoin_bevel": "Linejoin biseau",
+            "swap": "Commuter les extrémités de ligne"
+        },
+        "chat_box.icon": "Boîte de discussion",
+        "zoom_fit.icon": "Zoom pour adapter la page",
+        "feedback.icon": "Envoyer un commentaire",
+        "zoom_out.icon": "Zoom arrière <br> Ctrl + molette de la souris",
+        "SaveSearch.tip": "Sauvegarder le pochoir de recherche",
+        "dashboard.icon": "Aller au tableau de bord",
+        "draw_path.icon": "Dessiner un chemin, un arc, une courbe ou une forme libre <br> (Ctrl-4)",
+        "draw_path.menu": {
+            "draw_line.icon": "Dessiner une ligne",
+            "draw_quad.icon": "Dessiner un arc",
+            "draw_cubic.icon": "Dessiner la courbe",
+            "draw_free.icon": "Dessiner une forme libre"
+        },
+        "draw_rect.icon": "Dessiner un rectangle <br> (Ctrl-2)",
+        "font_size.icon": "Taille de police",
+        "underline.icon": "Souligner",
+        "add_layer.icon": "Ajouter une couche",
+        "file_name.icon": "Renommer le dessin",
+        "operations.icon": "Grouper, dégrouper, retourner ou joindre des formes sélectionnées",
+        "line_color.icon": "Couleur de la ligne",
+        "page_setup.icon": "Mise en page",
+        "line_style.icon": "Style de ligne",
+        "fill_color.icon": "La couleur de remplissage",
+        "font_color.icon": "Couleur de la police",
+        "zoom_level.icon": "Le niveau de zoom",
+        "shared_url.icon": "Obtenir un lien partageable sans envoyer d'e-mails",
+        "text_align.icon": "Alignement du texte",
+        "text_align.menu": {
+            "start": "Alignez à gauche",
+            "middle": "Aligner le milieu",
+            "end": "Aligner à droite",
+            "top": "Aligner en haut",
+            "central": "Aligner le centre",
+            "bottom": "Aligner le fond"
+        },
+        "revert_icon.icon": "Rétablir l'icône pour la dernière mise à jour",
+        "update_icon.icon": "Mise à jour icône",
+        "color_trans.help": "Transparence <br/> 0-100 / 0% -100% / 0-1",
+        "play_record.icon": "Lire des macros",
+        "fields_prop.icon": "Ajouter un champ",
+        "font_family.icon": "Famille de polices",
+        "line_weight.icon": "Poids de ligne",
+        "save_record.icon": "Exporter des macros",
+        "toggle_grid.icon": "Afficher / masquer la grille",
+        "draw_ellipse.icon": "Tracez un cercle ou une ellipse <br> (Ctrl-3)",
+        "round_corner.icon": "Coin rond",
+        "pause_record.icon": "Suspendre les macros",
+        "formula_prop.icon": "Afficher / masquer les formules",
+        "format_painter.icon": "Peintre de formats, de couleurs ou de formules <br> <br> (Ctrl-7)",
+        "draw_textblock.icon": "Dessiner, déplacer, redimensionner ou faire pivoter du texte <br> (Ctrl-5)",
+        "draw_connector.icon": "Dessiner des connecteurs <br> (Ctrl-6)",
+        "draw_connector.menu": {
+            "draw_conn_verti.icon": "Coude",
+            "draw_conn_line.icon": "Connecteur droit",
+            "draw_conn_points.icon": "Point de connexion",
+            "draw_conn_jump.icon": "Connecteur de coude",
+            "draw_conn_ljump.icon": "Connecteur de saut droit"
+        },
+        "preserve_ratio.icon": "Verrouiller / Débloquer la largeur et la hauteur",
+        "custom_gradient.icon": "Faites glisser et déposez à gauche pour enregistrer",
+        "Playlist.tip": "Playlist de vidéos",
+        "Minimize.tip": "Minimiser",
+        "Maximize.tip": "Maximiser",
+        "Close.tip": "Fermer",
+        "Expand.tip": "Développer",
+        "Collapse.tip": "Effondrer",
+        "Add.tip": "Ajouter",
+        "Remove.tip": "Retirer",
+        "Save.tip": "sauvegarder",
+        "edit_profile.icon": "Editer le profil",
+        "fit_to_drawing.tip": "Augmentez la largeur et la hauteur pour ajouter la marge",
+        "new_page.icon": "Nouvelle page",
+        "cursor.icon": "Pointeur, outil panoramique <br> (Ctrl-1)",
+        "cursor.menu": {
+            "pointer.icon": "Outil de pointeur",
+            "pan.icon": "Outil pan"
+        },
+        "delete_page.icon": "Supprimer la page",
+        "pages.icon": "Voir une autre page",
         "set_public": {
             "label": "Toute personne sur Internet peut trouver et accéder à"
         },
-        "edit_info": {
-            "icon": "Un lien de confirmation sera <br> envoyé à votre email précédent."
-        },
-        "color": {
-            "help": "Couleur personnalisée <br> #fff / #ffffff / rgb (0, 0, 0)"
-        },
-        "bevel_color": {
-            "help": "Couleur personnalisée <br> #fff / #ffffff / rgb (0, 0, 0)"
-        },
-        "shadow_color": {
-            "help": "Couleur personnalisée <br> #fff / #ffffff / rgb (0, 0, 0)"
-        },
+        "edit_info.icon": "Un lien de confirmation sera <br> envoyé à votre email précédent.",
+        "color.help": "Couleur personnalisée <br> #fff / #ffffff / rgb (0, 0, 0)",
+        "bevel_color.help": "Couleur personnalisée <br> #fff / #ffffff / rgb (0, 0, 0)",
+        "shadow_color.help": "Couleur personnalisée <br> #fff / #ffffff / rgb (0, 0, 0)",
         "blur_help": "Le flou ne peut être utilisé avec aucun effet.",
         "shadow_help": "L'ombre portée peut être utilisée avec Bevel. <br> Inner Shadow ne peut être utilisé avec aucun effet.",
-        "page_up": {
-            "icon": "Page précédente"
-        },
-        "page_down": {
-            "icon": "Page suivante"
-        },
-        "rect_help": {
-            "icon": "Aidez-moi"
-        },
-        "Delete": {
-            "tip": "Effacer"
-        },
-        "AddField": {
-            "tip": "Ajouter le champ"
-        },
-        "FormulaField": {
-            "tip": "Modifier la formule"
-        },
-        "AddLayer": {
-            "tip": "Ajouter une couche"
-        },
-        "AddEffect": {
-            "tip": "Ajouter un effet"
-        },
-        "AddCustomMenu": {
-            "tip": "Ajouter un menu personnalisé"
-        },
-        "ListCustomMenu": {
-            "tip": "Liste du menu personnalisé"
-        },
-        "view": {
-            "icon": "Vue"
-        },
-        "share": {
-            "icon": "Partager"
-        },
-        "export": {
-            "icon": "Exportation"
-        },
-        "file": {
-            "icon": "Préférences"
-        }
+        "page_up.icon": "Page précédente",
+        "page_down.icon": "Page suivante",
+        "rect_help.icon": "Aidez-moi",
+        "Delete.tip": "Effacer",
+        "AddField.tip": "Ajouter le champ",
+        "FormulaField.tip": "Modifier la formule",
+        "AddLayer.tip": "Ajouter une couche",
+        "AddEffect.tip": "Ajouter un effet",
+        "AddCustomMenu.tip": "Ajouter un menu personnalisé",
+        "ListCustomMenu.tip": "Liste du menu personnalisé",
+        "view.icon": "Vue",
+        "share.icon": "Partager",
+        "export.icon": "Exportation",
+        "file.icon": "Préférences"
     },
     "signup": {
         "failed": "L'inscription a échoué",
