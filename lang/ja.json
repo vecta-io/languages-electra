@@ -359,12 +359,8 @@
         "upload": "アップロードする",
         "upload_custom_fonts": "フォントをアップロードする",
         "svg_invalid": "SVGファイルが無効です",
-        "activate": "有効化",
-        "deactivate": "無効化",
         "make_copy": "コピーする",
         "update": "更新",
-        "enter_serial_number": "シリアル番号を入力してください",
-        "invalid_key": "無効なキーが入力されました",
         "loading": "読み込み中",
         "trial": "試用",
         "no_license": "ライセンスが見つかりません",
@@ -391,16 +387,373 @@
         "img_upload_progress": "画像（##％）をアップロードしています...",
         "import_img": "画像をインポートしています...",
         "dimension": "寸法",
-        "auto_rename_help": "選択すると元の名前が保持され、選択解除すると名前が変更されます。 <br />またはキャンセルして元の名前をすべて保持する"
+        "auto_rename_help": "選択すると元の名前が保持され、選択解除すると名前が変更されます。 <br />またはキャンセルして元の名前をすべて保持する",
+        "editor": "編集者",
+        "glow": "グロー",
+        "revert": "元に戻す",
+        "slogan": "クラウドベースの電気CADソフトウェア",
+        "upload_font_noti": "拡張子が.woffのファイルのみが許可されます",
+        "done": "完了、リクエストをありがとう",
+        "all_pages": "すべてのページ",
+        "this_page": "このページ",
+        "sort_by": "並び替え",
+        "comp_db": "コンポーネントデータベース",
+        "terminal": "ターミナル",
+        "pneumatic": "空気圧",
+        "sorting_shapes": "図形の並べ替え",
+        "stencil": "ステンシル",
+        "hydraulic": "油圧",
+        "electrical": "電気",
+        "sort": "ソート",
+        "category": "カテゴリー",
+        "updating_comp": "コンポーネントを更新しています",
+        "edit_comp": "コンポーネントを編集",
+        "del_comp": "コンポーネントを削除",
+        "removing_comp": "コンポーネントを削除しています",
+        "add_comp": "新しいコンポーネントを追加",
+        "confirm_del_cat": "このカテゴリを削除してもよろしいですか？",
+        "confirm_del_comp": "このコンポーネントを削除してもよろしいですか？",
+        "confirm_del_cat_comp": "このコンポーネントをカテゴリから削除してもよろしいですか？",
+        "cat_name": "種別名",
+        "add_to": "追加",
+        "removing_cat": "カテゴリを削除しています",
+        "del_cat": "カテゴリを削除",
+        "get_layouts": "レイアウト形状を取得する",
+        "updating_cat": "カテゴリを更新しています",
+        "edit_cat": "カテゴリを編集",
+        "rem_cat_comp": "カテゴリからコンポーネントを削除",
+        "create_layout": "レイアウトシンボルの作成",
+        "add_cat": "カテゴリを追加",
+        "brand": "ブランド",
+        "remarks": "備考",
+        "layout": "レイアウト",
+        "rating": "評価",
+        "model": "型番",
+        "order_no": "注文番号",
+        "supplier": "サプライヤー",
+        "price": "価格",
+        "layshape": "レイアウト形状",
+        "cat_comp_existed": "コンポーネントはすでにカテゴリに存在します",
+        "quantity": "量",
+        "diameter": "直径",
+        "add": "追加",
+        "symbol": "シンボル",
+        "select": "選択する",
+        "comp_name": "コンポーネント名",
+        "get_comp": "コンポーネントの入手",
+        "pin": "ピン名",
+        "include_layout": "レイアウトにコンポーネントを含める",
+        "help_dimension": "すべての主要ユニットを受け入れます。例えば。 2 mm、2インチ、2 cmなど",
+        "show_all_comp": "すべて表示する",
+        "no_desc": "説明なし",
+        "create_sym": "シンボルを作成",
+        "search_comp": "コンポーネントを検索",
+        "default_ref": "デフォルトのリファレンス",
+        "default_verti": "デフォルトで垂直",
+        "symbol_type": "シンボルタイプ",
+        "generate_symbol": "シンボルを生成しています",
+        "insert_sym_menu": "水平/垂直メニューの挿入",
+        "combine_shapes": "複数の形状が選択されました。それらを1つの形状に結合しますか？",
+        "generate": "生む",
+        "sym_priority": "優先",
+        "invalid_value": "無効な値",
+        "desc_text": "説明文",
+        "help_pin_names": "例えば13、23、33。ピンセット名はカンマで区切ります。",
+        "invalid_default_ref": "長さゼロまたは空の文字列はデフォルトの参照では許可されていません",
+        "invalid_sym_name": "シンボル名には長さゼロまたは空の文字列は使用できません",
+        "add_pin_names": "このシンボルにピン名を追加しますか？",
+        "invalid_size": "サイズの単位が無効です。有効なサイズの単位は、10mm、20in、30cmなどです。",
+        "generate_all": "すべてを生成",
+        "verti": "垂直",
+        "horiz": "横型",
+        "sym_prompt": "記号プロンプト",
+        "sym_name": "シンボル名",
+        "text_pos": "テキストの位置",
+        "text_orient": "テキストの向き",
+        "selected_comp": "選択されたコンポーネント",
+        "loc_type": "場所のタイプ",
+        "no_conn_pts": "接続ポイントが見つかりません",
+        "select_comp": "コンポーネントを選択",
+        "show": "公演",
+        "cur_name": "現在の名前",
+        "wire_name": "ワイヤー名",
+        "tube_name": "チューブ名",
+        "hide_wire_name": "ワイヤー名を非表示",
+        "hide_tube_name": "チューブ名を隠す",
+        "hose_name": "ホース名",
+        "hide_hose_name": "ホース名を隠す",
+        "click_hose": "場所を表示するにはホース名をクリックしてください",
+        "click_wire": "ワイヤ名をクリックして場所を表示します",
+        "location": "ロケーション",
+        "ref": "参照",
+        "refs": "参考文献",
+        "no_name": "ノーネーム",
+        "shapes": "形",
+        "exists_wires": "既存のワイヤー名",
+        "exists_tubes": "既存のチューブ名",
+        "exists_hoses": "既存のホース名",
+        "set_no_name": "NoNameに設定",
+        "click_tube": "場所を表示するには、チューブ名をクリックしてください",
+        "component": "成分",
+        "hide_desc": "説明を非表示",
+        "all_shapes": "すべての形",
+        "this_shape": "この形",
+        "set_pin_names": "ピン名を設定する",
+        "use_page_prefix": "ページ接頭辞を使用",
+        "show_pin": "ピン名を表示",
+        "use_panel_prefix": "パネル接頭辞を使用",
+        "hide_ref": "参照を非表示",
+        "selected_ref": "選択した参照の形状",
+        "ref_not_found": "参照が見つかりません",
+        "incorrect_pin": "ピンの数が正しくありません",
+        "locate_ref": "リファレンスを見つける",
+        "edit_pin": "ピンセットを編集",
+        "del_pin": "ピンセットを削除",
+        "add_pin": "新しいピンセット",
+        "hide_pin": "ピン名を非表示にする",
+        "select_pin": "ピンセットを選択します。 （右クリックでその他のオプション）",
+        "no_shape_for_ref": "参照用の形状が見つかりません@@",
+        "loc_col": "列に位置を配置します",
+        "connector": "コネクタ",
+        "width": "幅",
+        "close": "閉じる",
+        "max_inc": "マックス。インクリメント",
+        "plc_point": "最初のポイント",
+        "num_points": "ポイント数",
+        "plc_mod": "PLCモジュール",
+        "spacing": "間隔",
+        "save_as_new_comp": "新しいコンポーネントとして保存",
+        "disable_pl": "パイロットライトを非表示",
+        "top": "上",
+        "bottom": "底",
+        "grouping": "グルーピング",
+        "gen_layout": "レイアウトを生成",
+        "manage_comps": "コンポーネントを管理する",
+        "left": "左",
+        "right": "正しい",
+        "ref_pos": "基準位置",
+        "qty_pos": "数量ポジション",
+        "save_comp": "変更をコンポーネントデータに保存しますか？",
+        "group": "グループ",
+        "panel": "パネル",
+        "scan_terms": "スキャンターミナル",
+        "no_comp": "コンポーネントが見つかりません",
+        "renum_list": "端子の番号を変更",
+        "gen_lay_new_page": "新しいページに生成",
+        "gen_term_lists": "端子台リストの生成",
+        "gen_tlist": "端子台リストを生成",
+        "insert_data": "すべてのデータを図面に挿入",
+        "term_per_row": "行あたりの端子",
+        "hide_tblock_txt": "端子台参照を非表示",
+        "get_wire_link": "ワイヤーリンクを取得する",
+        "start_num": "開始番号",
+        "create_tblock": "表題欄を作成する",
+        "name_label": "ワイヤー名-場所",
+        "available_link": "利用可能なリンク",
+        "wire_link": "ワイヤーリンク",
+        "show_all": "すべてのリンクを表示",
+        "create_tdata": "表題欄データを挿入する",
+        "suffix_char": "サフィックス文字（オプション、コンマ区切り）",
+        "prompt": "促す",
+        "def_val": "デフォルト値",
+        "no_shape": "形状を選択してください",
+        "gen_tblock": "表題欄を生成しています",
+        "loc_info_3": "要件の長さと間隔",
+        "loc_format_help": "例：/3.A5",
+        "dup_names": "重複するデータ名",
+        "loc_info_1": "エレクトラは、形状の位置に基づいてリストします",
+        "loc_info_2": "非表示のグリッドで、グリッドの開始を設定します",
+        "dup_names_mssg": "グループ化されたタイトルブロックには、重複したデータ名を持つブロックが含まれています。\nグループ化を解除して編集し、すべてのブロックが一意のデータ名を持つようにしてください。",
+        "general_options": "一般的なオプション",
+        "conn_dot": "ワイヤーの接続ドットを自動管理",
+        "ref_pop_up": "ドロップ時のポップアップ参照ウィンドウ",
+        "auto_resize": "自動で/ mm / cm /メートルのサイズ変更",
+        "wire_propagation": "自動ワイヤー伝搬および検出",
+        "straighten_wire": "ワイヤーを自動的に調整してまっすぐにする",
+        "enable_panel_prefix": "参照のパネル接頭辞を有効にする",
+        "term_split_wire": "端子を落とすときにワイヤーを分割する",
+        "units_help": "受け入れます、cm、mm、px",
+        "ask_create_cable": "利用可能なケーブルコアがないときにアクションを求めるポップアップ",
+        "page_prefix_ref": "参照で有効にする",
+        "auto_rename": "自動名前変更",
+        "placement_offset": "初期配置オフセット",
+        "wire_sep": "ワイヤー用セパレーター",
+        "page_prefix": "ページ接頭辞",
+        "page_prefix_wires": "ワイヤーで有効にする",
+        "sym_split_wire": "シンボルをドロップするときにワイヤーを分割する",
+        "wire_sep_help": "区切り文字に数値を含めることはできません。 0-9",
+        "auto_placement": "レイアウトシンボルをレールに自動的に配置する",
+        "renum_lzone": "ラダーゾーン内を移動すると、シンボル/ワイヤに自動的に番号を付け直します",
+        "from": "から",
+        "to": "に",
+        "select_all": "すべて選択",
+        "mat_ref_report": "資料参考レポート",
+        "listing": "上場",
+        "cross_ref": "相互参照レポート",
+        "generating_report": "レポートを生成しています",
+        "bom_report": "部品表",
+        "wire_tab": "線名/記号参照",
+        "tube_tab": "チューブ名/ホース名",
+        "saved_comp": "保存されたコンポーネント",
+        "exporting_report": "レポートのエクスポート",
+        "generating_layout": "レイアウトの生成",
+        "get_syms_info": "シンボル情報を取得する",
+        "no_shape_selected": "形状が選択されていません",
+        "creating_prefab": "プレハブ回路の作成",
+        "single_sym": "単一の記号が選択されました。より多くのシンボルが必要です。",
+        "reuse_existing": "既存のレポートを再利用する",
+        "remove_existing": "既存のレポートを削除して新しいレポートを生成する",
+        "ignore_existing": "既存のレポートを無視または保持して、新しいレポートを生成する",
+        "previous": "前",
+        "tubes": "チューブ",
+        "scanning": "走査",
+        "separator": "セパレーター",
+        "location_format": "場所の形式",
+        "hoses": "ホース",
+        "invalid_prefix": "無効なページ接頭辞",
+        "wires": "ワイヤー",
+        "document_options_help": "Electraは、非表示のグリッドに基づいて形状の場所をリストし、グリッドの開始の長さと間隔を要件に設定します",
+        "comp_db_help": "コンポーネントからカテゴリにドラッグアンドドロップして、コンポーネントを整理します。 <br/>その他のオプションについては、コンポーネントを右クリックしてください。",
+        "create_layout_sym": "レイアウト記号を作成する",
+        "cable_info": "ケーブル情報",
+        "hosing_info": "住宅情報",
+        "tubing_info": "チューブ情報",
+        "core_names": "コア名",
+        "insert_horizontal_menu": "水平/垂直メニューの挿入",
+        "is_circle": "形状は円です",
+        "duplicate_laysym_name": "同じ名前のレイアウトシンボルが既に存在します。もう一度お試しください",
+        "error_layout_sym": "選択した形状はレイアウト記号または通常の形状ではありません",
+        "invalid_prefix_content": "無効なページ番号。 <br/>この図形のページプレフィックスは自動的に更新されません。",
+        "cable": "ケーブル",
+        "insert": "インサート",
+        "connect_to": "に接続します",
+        "hosing": "ホース",
+        "core_name": "コア名",
+        "filter_by": "フィルター",
+        "cores": "コア",
+        "tubing": "チューブ",
+        "gauge": "サイズ/ゲージ",
+        "core_names_help": "カンマ区切り、例：赤、黄、青",
+        "none": "無し",
+        "cable_db": "ケーブルデータベース",
+        "delete_cable": "ケーブルを削除",
+        "show_only": "表示のみ",
+        "edit_cable": "ケーブルを編集",
+        "hose_db": "収納データベース",
+        "tube_db": "チューブデータベース",
+        "new_cable": "新しいケーブル",
+        "save_new_cable": "新しいケーブルとして保存",
+        "view_edit": "表示/編集",
+        "arrange": "アレンジ",
+        "confirm_del_cable": "消去してもよろしいですか @@？",
+        "new_hosing": "新しいホース",
+        "edit_tubing": "チューブを編集する",
+        "edit_hosing": "ホースを編集",
+        "delete_tubing": "チューブを削除する",
+        "new_tubing": "新しいチューブ",
+        "delete_hosing": "ホースを削除",
+        "save_new_hosing": "新しいホースとして保存",
+        "save_new_tubing": "新しいチューブとして保存",
+        "invalid_core": "無効なコア名",
+        "removing": "削除しています",
+        "updating_db": "データベースの更新",
+        "rung_height": "ラングの高さ",
+        "set_numbers": "セット番号",
+        "set_ladder_zone": "ラダーゾーンの設定",
+        "arrange_cores": "コアを配置する",
+        "invalid_cable_name": "ケーブル名は空にできません",
+        "core_list_label": "コア名ワイヤー名-場所",
+        "arrange_cores_help": "ワイヤをドラッグアンドドロップして配置します。 <br/>上にドラッグして削除します。 <br/>上から左にドラッグして挿入します。",
+        "first_step": "最初の一歩",
+        "rung_width": "横幅",
+        "steps": "手順",
+        "first_rung": "最初のラング",
+        "getting_connections": "接続リストを取得しています",
+        "rung_count_horiz": "ラング数（水平）",
+        "assign_wire_core": "現在のワイヤーをコアに割り当ててください",
+        "rung_count_vert": "ラング数（縦）",
+        "rung_increment": "ラングの増分",
+        "rung_count_error": "ラングカウント値が無効です。ラングカウントは2以上である必要があります",
+        "comp_id": "コンポーネントID",
+        "hose_id": "ホースID",
+        "remove_cable": "ケーブルを外す",
+        "cable_id": "ケーブルID",
+        "assign_new_cable": "新しいケーブルを割り当てる",
+        "tube_id": "チューブID",
+        "getting_cable": "ケーブル情報を取得する",
+        "save_wire": "変更をワイヤーに保存しますか？",
+        "always_new_cable": "これを再度尋ねないで、常に新しいケーブルを割り当ててください",
+        "no_more_core": "ワイヤーに割り当てられたケーブルには、使用可能なコアがありません。 <br/>新しいケーブルを割り当てるか、ケーブルを削除してください。",
+        "wire": "ワイヤー",
+        "tube": "チューブ",
+        "hose": "ホース",
+        "cable_ref": "ケーブル参照レポート",
+        "hide_default_tubing": "デフォルトのチューブを非表示",
+        "hide_default_hosing": "デフォルトのホースを隠す",
+        "hide_default_cable": "デフォルトのケーブルを非表示",
+        "cable_info_as_col": "ケーブル情報を列として表示",
+        "tubing_info_as_col": "チューブ情報を列として表示する",
+        "hosing_info_as_col": "収納情報を列として表示",
+        "connections_report": "接続レポート",
+        "cable_gauge": "ケーブルサイズ/ゲージ",
+        "hosing_ref": "住宅参照レポート",
+        "tubing_ref": "チューブ参考レポート",
+        "all_core_names": "すべてのコア名",
+        "num_of_cores": "コア数",
+        "tubing_gauge": "チューブサイズ/ゲージ",
+        "tubing_bom": "チューブ部品表（BOM）レポート",
+        "cable_bom": "ケーブル部品表（BOM）レポート",
+        "hosing_bom": "収納部品表（BOM）レポート",
+        "cable_length": "ケーブルの長さ",
+        "amount": "量",
+        "hosing_length": "ハウジングの長さ",
+        "hose_loc": "ホース位置",
+        "cable_name": "ケーブル名",
+        "tubing_name": "チューブ名",
+        "wire_loc": "ワイヤーの位置",
+        "tube_loc": "チューブの場所",
+        "tubing_length": "チューブの長さ",
+        "hosing_gauge": "ホースサイズ/ゲージ",
+        "pin_name": "ピン名",
+        "to_ref": "への参照）",
+        "hosing_name": "ハウジング名",
+        "core_no": "コア番号",
+        "scan_connections": "接続のスキャン",
+        "to_loc": "ロケーション（To）",
+        "from_ref": "参照（From）",
+        "from_pin": "ピン名（From）",
+        "from_loc": "場所（から）",
+        "to_pin": "ピン名（To）",
+        "invalid_symtype": "無効なシンボルタイプ",
+        "insert_name": "名前を挿入",
+        "err_layshape_hose": "選択した形状はホースです。ホースをレイアウト形状にすることはできません",
+        "err_layshape_tube": "選択した形状はチューブです。チューブをレイアウト形状にすることはできません",
+        "err_layshape_wire": "選択した形状はワイヤーです。ワイヤーをレイアウト形状にすることはできません",
+        "err_layshape_symbol": "選択した形状はシンボルです。シンボルをレイアウト形状にすることはできません",
+        "err_layshape_terminal": "選択した形状は端子です。端子をレイアウト形状にすることはできません",
+        "insert_wire": "次のワイヤー名の挿入を確認してください（他のすべてのワイヤーは元に戻ります）。 <br/><br/>",
+        "insert_tube": "次のチューブ名の挿入を確認してください（他のすべてのチューブは元に戻ります）。 <br/><br/>",
+        "insert_hose": "次のホース名を挿入することを確認してください（他のホースはすべて元に戻ります）。 <br/><br/>",
+        "edit": "編集する",
+        "reading_comp": "読み取りコンポーネント",
+        "search_layout": "検索レイアウト",
+        "export_format": "エクスポート形式",
+        "searching": "探す",
+        "no_stencil_id": "ステンシルIDを入力してください",
+        "error_pin": "オプションにピンを入力してください",
+        "tsv": "タブ区切り値（* .tsv）",
+        "error_connects_pin": "ピンと接続ポイントは同じ数でなければなりません",
+        "csv": "カンマ区切り値（* .csv）"
     },
     "list": {
         "sv": "スウェーデン語",
         "ja": "日本語",
         "fr": "フランス語",
-        "en": "英語"
+        "en": "英語",
+        "zh-TW": "繁体字中国語",
+        "zh-CN": "簡体字中国語"
     },
     "page": {
-        "s1": "1：1（デフォルト）",
         "a4": "A4：297mm×210mm",
         "px": "ピクセル",
         "a0": "A0：1189mm×841mm",
@@ -411,19 +764,12 @@
         "a2": "A2：594mm×420mm",
         "a5": "A5：210mm×148mm",
         "a3": "A3：420mm×297mm",
-        "s50": "1：50",
-        "s10": "1：10",
-        "s25": "1：25",
-        "s200": "1：200",
-        "s100": "1：100",
-        "s500": "1：500",
         "size": "サイズ",
         "folio": "フォリオ：13インチx 8.5インチ",
         "legal": "法的：14インチx 8.5インチ",
         "units": "Measurement units",
         "scale": "規模",
         "width": "幅",
-        "s1000": "1：1000",
         "custom": "カスタム",
         "ledger": "元帳：17インチx 11インチ",
         "letter": "レター：11インチx 8.5インチ",
@@ -543,7 +889,6 @@
         "manage": "アクセスを管理する",
         "unlock": "形状のロックを解除する",
         "forward": "前に持っていく",
-        "jump_to": "移動：",
         "new_doc": "新しい図面",
         "publish": "公開する",
         "cousine": "カウシン",
@@ -713,7 +1058,30 @@
         "maintain_events": "イベントを維持する",
         "maintain_structure": "構造を維持する",
         "embed_fonts": "フォントを埋め込む",
-        "show_hidden": "非表示の図形を表示する"
+        "show_hidden": "非表示の図形を表示する",
+        "tubing_ref_report": "チューブ参考レポート",
+        "create_tdata": "表題欄データを挿入する",
+        "create_tblock": "表題欄を作成する",
+        "hosing_ref_report": "住宅参照レポート",
+        "mat_ref_report": "資料参考レポート",
+        "cable_ref_report": "ケーブル参照レポート",
+        "cross_ref": "相互参照レポート",
+        "cable_bom_report": "ケーブル部品表（BOM）レポート",
+        "bom_report": "部品表（BOM）レポート",
+        "tubing_bom_report": "チューブ部品表（BOM）レポート",
+        "cable_db": "ケーブルデータベース",
+        "comp_db": "コンポーネントデータベース",
+        "hosing_db": "収納データベース",
+        "tubing_db": "チューブデータベース",
+        "hydraulic_connections_report": "油圧接続レポート",
+        "manage_tubing": "チューブを管理する",
+        "manage_cable": "ケーブルを管理する",
+        "electrical_connections_report": "電気接続レポート",
+        "pneumatic_connections_report": "空気圧接続レポート",
+        "hosing_bom_report": "収納部品表（BOM）レポート",
+        "manage_hosing": "保管を管理する",
+        "view_edit": "表示および編集",
+        "export_as_tsv": "TSVとしてエクスポート"
     },
     "login": {
         "or": "または",
@@ -768,7 +1136,9 @@
         "signup_microsoft": "Microsoftにサインアップする",
         "registered_other_provider": "このメールはすでに@@に登録されています。リダイレクト",
         "access_contacts": "連絡先リストへのアクセスを許可して、チームと図面を簡単に共有できます",
-        "social_no_email": "この@@アカウントにはメールがありません。 <br/>メールまたは別のアカウントでサインアップしてください。"
+        "social_no_email": "この@@アカウントにはメールがありません。 <br/>メールまたは別のアカウントでサインアップしてください。",
+        "saml": "SAMLでサインイン",
+        "signup_saml": "SAMLでサインアップする"
     },
     "slack": {
         "add": "スラックに加える",
@@ -892,7 +1262,15 @@
         "upload_completed": "正常にアップロードされました",
         "invalid_type": "無効なファイルタイプ",
         "uploading": "アップロードしています",
-        "disabled_upload": "アップロードが無効になっています。現在のアップロードが完了したら、もう一度アップロードしてください。"
+        "disabled_upload": "アップロードが無効になっています。現在のアップロードが完了したら、もう一度アップロードしてください。",
+        "display_name": "表示名",
+        "id_management": "ID管理",
+        "sso_url": "SSO URL",
+        "provider_id": "プロバイダーID",
+        "idp_id": "IdPエンティティID",
+        "callback_url": "コールバックURL",
+        "x509": "X.509証明書",
+        "rp_id": "RS / SPエンティティID"
     },
     "noti": {
         "left": "%% left Team @@。",
@@ -1186,7 +1564,17 @@
         "latest_version_updated": "最新バージョンに更新しました！",
         "new_version_downloaded": "新しいバージョンがダウンロードされました。アプリケーションを再起動して、更新を適用します。",
         "update_measure_tool": "Ü測定ツールの更新",
-        "update_auto_loc": "自動位置情報の更新"
+        "update_auto_loc": "自動位置情報の更新",
+        "inserting_name": "名前を挿入する",
+        "prefab_create": "プレハブ回路が作成されます",
+        "login_to_save_comp": "カスタムコンポーネントをデータベースに保存するにはログインしてください",
+        "cannot_edit_term_block": "端子台を編集するには、ログインする必要があります。",
+        "license_expired_banner": "試用版/ライセンスの有効期限が切れています。 <a href='./../../pricing'>今すぐ購読！</a>",
+        "license_expired": "試用版/ライセンスの有効期限が切れています。 Electra Cloudの生産性向上ツールは無効になります。",
+        "update_layouts": "レイアウトの更新",
+        "update_linkage": "リンケージの更新",
+        "update_lzone": "ラダーゾーンの更新",
+        "import_drawing": "図面をインポートしています。数分かかる場合があります"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
@@ -1209,7 +1597,6 @@
         "undo.icon": "元に戻す（Ctrl + Z）",
         "grid.icon": "グリッドビュー",
         "list.icon": "リストビュー",
-        "save.icon": "左にドラッグ＆ドロップすると保存できます",
         "pref.icon": "設定",
         "redo.icon": "やり直し<br>（Ctrl-Y）",
         "noti.icon": "通知",
@@ -1305,7 +1692,8 @@
             "draw_conn_verti.icon": "エルボーコネクタ",
             "draw_conn_line.icon": "ストレートコネクタ",
             "draw_conn_points.icon": "接続ポイント",
-            "draw_conn_jump.icon": "ジャンプコネクタ"
+            "draw_conn_jump.icon": "ジャンプコネクタ",
+            "draw_conn_ljump.icon": "ストレートジャンプコネクター"
         },
         "custom_gradient.icon": "左にドラッグ＆ドロップすると保存できます",
         "Playlist.tip": "動画再生リスト",
@@ -1318,7 +1706,6 @@
         "Remove.tip": "削除する",
         "Save.tip": "セーブ",
         "edit_profile.icon": "プロファイル編集",
-        "plug_main.icon": "プラグイン",
         "fit_to_drawing.tip": "幅と高さを増やして余白を追加する",
         "new_page.icon": "新しいページ",
         "cursor.icon": "ポインタ、パンツール<br>（Ctrl-1）",
@@ -1346,7 +1733,19 @@
         "file.icon": "環境設定",
         "export.icon": "書き出す",
         "view.icon": "見る",
-        "share.icon": "シェア"
+        "share.icon": "シェア",
+        "create_layout_sym.icon": "レイアウト記号を作成する",
+        "comp_db.icon": "コンポーネントデータベース",
+        "options.icon": "ドキュメントオプション",
+        "create_schem.icon": "回路図シンボルを作成する",
+        "edit_info.icon": "確認リンクは<br>以前のメールに送信されます。",
+        "set_public": {
+            "label": "インターネット上の誰でも検索してアクセスできます"
+        },
+        "title_blocks.icon": "表題欄",
+        "generate_layout.icon": "レイアウトを生成",
+        "manage_comps.icon": "コンポーネントを管理する",
+        "electra_export.icon": "レポートをエクスポートする"
     },
     "preload": {
         "slack": "優れたコラボレーションのためにVectaとSlackを統合",
@@ -1389,11 +1788,21 @@
         "text-effects": "テキストに影、ベベル、ぼかし効果を追加します",
         "dark-theme-vecta": "ダークテーマを表示してダークモードを有効にします",
         "duplicate-shape": "Ctrl + Dキーを押して、選択した図形のプロパティに変更を適用します",
-        "dark-theme-electra": "ダークテーマを表示してダークモードを有効にします"
+        "dark-theme-electra": "ダークテーマを表示してダークモードを有効にします",
+        "jump-connector": "ジャンプコネクタを追加してラインを区別",
+        "symbol-search": "Vectaの成長するシンボルライブラリでシンボルを検索する",
+        "version-history": "バージョン履歴を使用して、図面の変更を追跡します",
+        "create-and-invite-team": "メンバーを招待して、チームをElectraで稼働させる",
+        "chat": "Vectaのエディターでチームメイトとすぐにチャット",
+        "dxf-import-and-export": "DXFをElectraにインポートしてエクスポートする",
+        "terminal-list": "端末の使用と生成はElectraで簡単です",
+        "generate-layout": "シングルクリックでパネルレイアウトを自動生成",
+        "drag-and-drop": "Electraは単純なドラッグアンドドロップで動作し、トレーニングは必要ありません",
+        "generate-report": "ElectraでBOMおよびその他のレポートを簡単に生成して時間を節約",
+        "create-symbol": "シンボルの作成を使用して、インテリジェンスとデータをカスタムシンボルに自動的に挿入します"
     },
     "verify": {
         "resend": "確認メールを再送信",
-        "update": "更新",
         "failed": "確認に失敗しました",
         "confirm": "メールアドレスを確認してください",
         "landing": "Vecta.ioへ",
@@ -1490,359 +1899,24 @@
         "stencil_cat": "ステンシルカテゴリ（カンマで区切ってください）",
         "symbol_desc": "説明",
         "confirm_del": "<br /> <br />このステンシルを削除してもよろしいですか？",
-        "revert_icon": "元に戻す",
         "find_symbols": "記号を見つける",
         "icon_preview": "プレビュー",
         "stencil_name": "ステンシル名",
         "stencil_desc": "ステンシル記述",
         "total_results": "表示される@@結果の",
         "load_stencils": "ステンシルの読み込み中...",
-        "stencil_5": {
-            "desc": "Amazon Webサービス：Analytics",
-            "name": "AWS Analytics",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_2": {
-            "desc": "異なるサイズのビジネスモデルキャンバス",
-            "name": "ビジネスモデルキャンバス"
-        },
         "no_edit_symbol": "このシンボルを編集する権限がありません。",
         "public_stencil": "公開 - 誰でもシンボルにアクセスできます",
         "stencil_access": "ステンシルアクセス",
         "delete_stencil": "ステンシルを削除",
-        "stencil_8": {
-            "name": "AWSビジネスの生産性",
-            "desc": "Amazon Webサービス：ビジネス生産性",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_9": {
-            "name": "AWS計算",
-            "desc": "Amazon Webサービス：計算",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
         "create_stencil": "ステンシルを作成する",
-        "stencil_0": {
-            "name": "フローチャート",
-            "desc": "一般的なフローチャートのシンボル",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_4": {
-            "name": "Google Cloud Platform",
-            "desc": "Googleクラウドプラットフォームのシンボル",
-            "cat": [
-                "Google"
-            ]
-        },
         "no_drop_symbol": "保存された検索ステンシルにシンボルを保存することはできません。",
-        "stencil_6": {
-            "name": "AWSアプリケーションサービス",
-            "desc": "Amazon Webサービス：アプリケーションサービス",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_7": {
-            "desc": "Amazon Webサービス：人工知能",
-            "name": "AWS人工知能",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_1": {
-            "desc": "カラフルな音符記号",
-            "name": "カラフルなノート",
-            "cat": [
-                "人、旗、文書"
-            ]
-        },
-        "stencil_3": {
-            "desc": "Googleの商品シンボル",
-            "name": "Google",
-            "cat": [
-                "Google"
-            ]
-        },
         "not_updateable": "ステンシルが更新されません",
-        "stencil_21": {
-            "desc": "Amazon Webサービス：オンデマンドの労働力",
-            "name": "AWS On Demand Workforce",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_32": {
-            "name": "Microsoft Intune",
-            "desc": "Microsoft Azure：Intune",
-            "cat": [
-                "マイクロソフト"
-            ]
-        },
-        "stencil_19": {
-            "name": "AWSモバイルサービス",
-            "desc": "Amazon Webサービス：モバイルサービス",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_36": {
-            "name": "ネットワークインフラ",
-            "desc": "ネットワークインフラストラクチャシンボル",
-            "cat": [
-                "コンピュータとネットワーク"
-            ]
-        },
-        "stencil_37": {
-            "desc": "基本的なネットワークシンボル",
-            "name": "基本的なネットワーク",
-            "cat": [
-                "コンピュータとネットワーク"
-            ]
-        },
-        "stencil_20": {
-            "name": "AWSネットワーク＆コンテンツ配信",
-            "desc": "Amazon Web Services：ネットワークとコンテンツ配信",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_25": {
-            "name": "ウェブ技術",
-            "desc": "一般的なWebテクノロジーのシンボル",
-            "cat": [
-                "コンピュータとネットワーク"
-            ]
-        },
-        "stencil_31": {
-            "name": "マイクロソフトエンタープライズ",
-            "desc": "Microsoft Azure：エンタープライズ",
-            "cat": [
-                "マイクロソフト"
-            ]
-        },
         "creating_search": "ステンシルの作成...",
-        "stencil_17": {
-            "desc": "Amazon Webサービス：メッセージング",
-            "name": "AWSメッセージング",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_38": {
-            "name": "コンピュータとモニタ",
-            "desc": "表示装置",
-            "cat": [
-                "コンピュータとネットワーク"
-            ]
-        },
-        "stencil_14": {
-            "desc": "Amazon Webサービス：一般",
-            "name": "AWS全般",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_27": {
-            "name": "Microsoft Azure Mono",
-            "desc": "Microsoft Azure：モノクロ記号",
-            "cat": [
-                "マイクロソフト"
-            ]
-        },
-        "stencil_13": {
-            "desc": "Amazon Webサービス：ゲーム開発",
-            "name": "AWSゲーム開発",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_10": {
-            "name": "AWSデータベース",
-            "desc": "Amazon Webサービス：データベース",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_40": {
-            "desc": "UMLアクティビティ図",
-            "name": "UMLの活動",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_28": {
-            "name": "マイクロソフトアズールカラー",
-            "desc": "Microsoft Azure：色の記号",
-            "cat": [
-                "マイクロソフト"
-            ]
-        },
-        "stencil_34": {
-            "desc": "",
-            "name": "人",
-            "cat": [
-                "人、旗、文書"
-            ]
-        },
-        "stencil_15": {
-            "name": "AWSインターネットオブシチュエーション",
-            "desc": "Amazon Webサービス：物のインターネット",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_18": {
-            "name": "AWSの移行",
-            "desc": "Amazon Webサービス：移行",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
         "no_edit_stencil": "このステンシルを編集する権限がありません。",
-        "stencil_44": {
-            "desc": "棒グラフ表現",
-            "name": "棒グラフ",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_24": {
-            "name": "AWSストレージ",
-            "desc": "Amazon Webサービス：ストレージ",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_45": {
-            "name": "組織図",
-            "desc": "組織内の位置や職務の関係を示す組織の構造のグラフィック表現。",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_43": {
-            "desc": "論理的または数学的関係の表現",
-            "name": "ベンダイアグラム",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_47": {
-            "name": "心理図",
-            "desc": "アイデアとコンセプトのグラフィック表現"
-        },
-        "stencil_48": {
-            "desc": "セルの行と列の表現",
-            "name": "テーブル"
-        },
-        "stencil_33": {
-            "desc": "Microsoft Azure：Office製品",
-            "name": "Microsoft Office製品",
-            "cat": [
-                "マイクロソフト"
-            ]
-        },
-        "stencil_26": {
-            "desc": "カラフルな文書とフォルダシンボル",
-            "name": "カラフルな文書とフォルダ",
-            "cat": [
-                "人、旗、文書"
-            ]
-        },
-        "stencil_12": {
-            "name": "AWSデベロッパーツール",
-            "desc": "Amazon Webサービス：開発ツール",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_41": {
-            "name": "UMLクラス",
-            "desc": "UMLクラス図",
-            "cat": [
-                "チャートと図"
-            ]
-        },
         "untitled_symbol": "無題のシンボル",
         "private_stencil": "プライベート - あなたまたはあなたのチームだけがシンボルにアクセスできます",
-        "stencil_29": {
-            "desc": "Microsoft Azure：仮想マシン",
-            "name": "Microsoft仮想マシン",
-            "cat": [
-                "マイクロソフト"
-            ]
-        },
         "symbol_no_exist": "以下の項目は設定できません。シンボルはもはや存在しないかもしれません。あるいは、あなたはそれにアクセスする許可を持っていません。",
-        "stencil_22": {
-            "name": "AWS SDK",
-            "desc": "Amazon Webサービス：ソフトウェア開発キット",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_16": {
-            "name": "AWS管理ツール",
-            "desc": "Amazon Webサービス：管理ツール",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_39": {
-            "name": "UMLのユースケース",
-            "desc": "UMLユースケース図",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_35": {
-            "desc": "コンテナとして機能するブロック",
-            "name": "コンテナ",
-            "cat": [
-                "人、旗、文書"
-            ]
-        },
-        "stencil_42": {
-            "desc": "UMLエンティティ関係図",
-            "name": "UMLエンティティの関係",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_46": {
-            "desc": "条件またはイベントに基づいてパスを調整できるUML決定点。",
-            "name": "UMLゲートウェイ",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_30": {
-            "desc": "Microsoft Azure：システムセンター",
-            "name": "Microsoft Systems Center",
-            "cat": [
-                "マイクロソフト"
-            ]
-        },
-        "stencil_23": {
-            "desc": "Amazon Webサービス：アイデンティティとコンプライアンス",
-            "name": "AWSセキュリティのアイデンティティとコンプライアンス",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_11": {
-            "name": "AWSデスクトップアプリストリーミング",
-            "desc": "Amazon Webサービス：デスクトップアプリケーションのストリーミング",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
         "untitled_stencil": "無題のステンシル",
         "no_delete_symbol": "このシンボルを削除する権限はありません。",
         "login_make_symbol": "シンボルを作成するにはログインしてください。",
@@ -1855,1422 +1929,118 @@
             "name": "測定ツール",
             "desc": "測定ツール"
         },
-        "stencil_50": {
-            "name": "マテリアルデザインパレット",
-            "desc": "マテリアルデザインからインスパイアされたカラーパレット",
-            "cat": [
-                "Google"
-            ]
-        },
         "open_all": "すべてのステンシルを開く",
         "stencil_51": {
             "name": "タイトルブロック",
             "desc": "タイトルブロックのテンプレート"
         },
-        "stencil_52": {
-            "name": "AWS Contact Center",
-            "desc": "Amazon Webサービス：コンタクトセンター",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
-        "stencil_53": {
-            "name": "AWSコンテナ",
-            "desc": "Amazon Webサービス：コンテナ",
-            "cat": [
-                "Amazon Webサービス"
-            ]
-        },
         "no_share_stencil": "このステンシルを共有する権限がありません。",
-        "stencil_54": {
-            "name": "写真の組織図",
-            "desc": "画像ホルダー付きの組織図のコンテナのリスト",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_55": {
-            "name": "セリフフォント",
-            "desc": "印刷媒体に適したフォント",
-            "cat": [
-                "グーグル"
-            ]
-        },
-        "stencil_56": {
-            "name": "San Serifフォント",
-            "desc": "デジタルスクリーン用の好ましいフォント。",
-            "cat": [
-                "グーグル"
-            ]
-        },
-        "stencil_57": {
-            "name": "固定幅フォント",
-            "desc": "タイプライティングに適したフォント。",
-            "cat": [
-                "グーグル"
-            ]
-        },
-        "stencil_58": {
-            "name": "手書き用フォント",
-            "desc": "ブランディング、デザイン作品、印刷媒体に最適なフォント",
-            "cat": [
-                "グーグル"
-            ]
-        },
-        "stencil_59": {
-            "name": "表示用フォント",
-            "desc": "Preferred fonts for branding, design artworks and printed medium",
-            "cat": [
-                "グーグル"
-            ]
-        },
-        "stencil_60": {
-            "name": "Cisco Application Control Engine",
-            "desc": "アプリケーション制御エンジン -  ACE XML Gateway",
-            "cat": [
-                "シスコ"
-            ]
-        },
-        "stencil_61": {
-            "name": "Cisco UC500シリーズ",
-            "desc": "中小企業向けCisco Unified Communications 500シリーズ",
-            "cat": [
-                "シスコ"
-            ]
-        },
-        "stencil_62": {
-            "name": "シスコセキュリティステルスウォッチ",
-            "desc": "シスコセキュリティステルスウォッチのシンボル",
-            "cat": [
-                "シスコ"
-            ]
-        },
-        "stencil_63": {
-            "name": "Cisco SAFEのアーキテクチャ",
-            "desc": "Cisco SAFEのアーキテクチャシンボル",
-            "cat": [
-                "シスコ"
-            ]
-        },
         "sym_update_failed": "<br />存在しないか、許可がないために、一部のシンボルが更新されません。",
         "all_saved": "すべてのステンシル変更を保存",
-        "stencil_65": {
-            "name": "ソーシャルメディア",
-            "desc": "有名なソーシャルメディアのアイコンのコレクション"
-        },
-        "stencil_66": {
-            "name": "世界の国旗",
-            "desc": "SVGフォーマットの世界の国旗の大規模なコレクション",
-            "cat": [
-                "人、旗、文書"
-            ]
-        },
-        "stencil_67": {
-            "name": "間取り図",
-            "desc": "カスタマイズ可能な平面図記号"
-        },
         "stencil_68": {
             "name": "アバター",
-            "desc": "アバター",
-            "cat": [
-                "人、旗、文書"
-            ]
+            "desc": "アバター"
         },
         "stencil_69": {
             "name": "コメント",
-            "desc": "コメントはレイヤーに割り当てられるため、エクスポート/印刷中に表示をカスタマイズできます",
-            "cat": [
-                "人、旗、文書"
-            ]
-        },
-        "stencil_70": {
-            "name": "ドーナツチャート",
-            "desc": "ドーナツグラフ表示",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_64": {
-            "name": "ソーシャルメディア（シャドウ）",
-            "desc": "ソーシャルメディアのアイコンのコレクション"
-        },
-        "stencil_71": {
-            "name": "ゲージとメーター",
-            "desc": "インタラクティブゲージとメーター"
+            "desc": "コメントはレイヤーに割り当てられるため、エクスポート/印刷中に表示をカスタマイズできます"
         },
         "free_svg_symbols": "無料のSVGシンボル",
         "request_symbols_title": "シンボル請求",
         "request_symbols": "シンボルをリクエスト",
-        "stencil_72": {
-            "name": "Brands 0 - 9",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://www.vectorlogo.zone/"
-        },
-        "stencil_73": {
-            "name": "ブランドAA  -  AO",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://www.vectorlogo.zone/"
-        },
-        "stencil_74": {
-            "name": "Brands AP - AZ",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_75": {
-            "name": "Brands BA - BZ",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_76": {
-            "name": "Brands CA - CL",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://www.vectorlogo.zone/"
-        },
-        "stencil_77": {
-            "name": "ブランドCM  -  CZ",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://www.vectorlogo.zone/"
-        },
-        "stencil_78": {
-            "name": "Brands DA - DZ",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_79": {
-            "name": "Brands EA - EZ",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_80": {
-            "name": "Brands FA - FZ",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_81": {
-            "name": "ブランドGA  -  GN",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_82": {
-            "name": "Brands GO - GZ",
-            "desc": "",
-            "cat": [
-                "ブランドロゴ"
-            ],
-            "credit_name": "ベクトルロゴゾーン",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_105": {
-            "name": "ワイヤフレームブラウザ",
-            "desc": "",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_106": {
-            "name": "ワイヤフレームアンドロイド",
-            "desc": "",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_107": {
-            "name": "ワイヤーフレームiPhone",
-            "desc": "",
-            "cat": [
-                "チャートと図"
-            ]
-        },
-        "stencil_83": {
-            "name": "Brands HA - HZ"
-        },
-        "stencil_84": {
-            "name": "Brands IA - IZ"
-        },
-        "stencil_85": {
-            "name": "Brands JA - JZ"
-        },
-        "stencil_86": {
-            "name": "Brands KA - KZ"
-        },
-        "stencil_87": {
-            "name": "ブランドLA  -  LZ"
-        },
-        "stencil_88": {
-            "name": "Brands MA - MZ"
-        },
-        "stencil_89": {
-            "name": "Brands NA - NZ"
-        },
-        "stencil_90": {
-            "name": "Brands OA - OZ"
-        },
-        "stencil_91": {
-            "name": "Brands PA - PI"
-        },
-        "stencil_92": {
-            "name": "ブランドPJ  -  PZ"
-        },
-        "stencil_93": {
-            "name": "Brands QA - QZ"
-        },
-        "stencil_94": {
-            "name": "Brands RA - RZ"
-        },
-        "stencil_95": {
-            "name": "ブランドSA  -  SM"
-        },
-        "stencil_96": {
-            "name": "Brands SN - SZ"
-        },
-        "stencil_97": {
-            "name": "Brands TA - TH"
-        },
-        "stencil_98": {
-            "name": "Brands TI - TZ"
-        },
-        "stencil_99": {
-            "name": "Brands UA - UZ"
-        },
-        "stencil_100": {
-            "name": "Brands VA - VZ"
-        },
-        "stencil_101": {
-            "name": "Brands WA - WZ"
-        },
-        "stencil_102": {
-            "name": "Brands XA - XZ"
-        },
-        "stencil_103": {
-            "name": "Brands YA - YZ"
-        },
-        "stencil_104": {
-            "name": "Brands ZA - ZZ"
-        },
-        "stencil_108": {
-            "name": "Activities - Arts Crafts",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_109": {
-            "name": "アクティビティ - 賞メダル",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_110": {
-            "name": "アクティビティ - イベント",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_111": {
-            "name": "アクティビティ - ゲーム",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_112": {
-            "name": "アクティビティ - スポーツ",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_113": {
-            "name": "Animals Nature - Animal Amphibian",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_114": {
-            "name": "動物自然 - 動物の鳥",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_115": {
-            "name": "動物自然 - 動物のバグ",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_116": {
-            "name": "動物自然 - 動物哺乳類",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_117": {
-            "name": "Animals Nature - Animal Marine",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_118": {
-            "name": "Animals Nature - Animal Reptile",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_119": {
-            "name": "動物自然 - 植物の花",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_120": {
-            "name": "動物自然 - 植物その他",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_121": {
-            "name": "コンポーネント - ヘアスタイル",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_122": {
-            "name": "Component - Skin Tone",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_123": {
-            "name": "Openmoji  - 動物ネイチャー",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_124": {
-            "name": "Extras Openmoji - Brand",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_125": {
-            "name": "その他のOpenmoji  -  Emergency",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_126": {
-            "name": "Extras Openmoji - Food Drink",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_127": {
-            "name": "Openmoji  - インタラクション",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_128": {
-            "name": "Extras Openmoji - Objects",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_129": {
-            "name": "Openmoji  - 人",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_130": {
-            "name": "Openmoji  - テクノロジー",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_131": {
-            "name": "Extras Openmoji - Travel Places",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_132": {
-            "name": "その他のOpenmoji  -  Ui Element",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_133": {
-            "name": "Unicode  - シンボルその他",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_134": {
-            "name": "国旗 - 国旗",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_135": {
-            "name": "フラグ - フラグ",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_136": {
-            "name": "フラグ - 細分化フラグ",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_137": {
-            "name": "フードドリンク - 食器",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_138": {
-            "name": "食べ物飲み物 - 飲み物",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_139": {
-            "name": "フードドリンク - フードアジア",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_140": {
-            "name": "Food Drink - Food Fruit",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_141": {
-            "name": "フードドリンク - フードマリン",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_142": {
-            "name": "フードドリンク - 調理済み食品",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_143": {
-            "name": "フードドリンク - フードスウィート",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_144": {
-            "name": "Food Drink - Food Vegetable",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_145": {
-            "name": "Objects - Book Paper",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_146": {
-            "name": "オブジェクト - 服",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_147": {
-            "name": "オブジェクト - コンピュータ",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_148": {
-            "name": "オブジェクト - 世帯",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_149": {
-            "name": "オブジェクト - 光ビデオ",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_150": {
-            "name": "Objects - Lock",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_151": {
-            "name": "Objects - Mail",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_152": {
-            "name": "オブジェクト - 医療",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_153": {
-            "name": "Objects - Money",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_154": {
-            "name": "オブジェクト - 音楽",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_155": {
-            "name": "Objects - Musical Instrument",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_156": {
-            "name": "オブジェクト - オフィス",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_157": {
-            "name": "Objects - Other Object",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_158": {
-            "name": "オブジェクト - 電話",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_159": {
-            "name": "オブジェクト - 科学",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_160": {
-            "name": "Objects - Sound",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_161": {
-            "name": "オブジェクト - ツール",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_162": {
-            "name": "Objects - Writing",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_163": {
-            "name": "人体 - ボディパーツ",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_164": {
-            "name": "人体 - 家族",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_165": {
-            "name": "People Body - Hand Fingers Closed",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_166": {
-            "name": "人体 - 手指を開く",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_167": {
-            "name": "人体 - 手指の一部",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_168": {
-            "name": "人体 - ハンドプロップ",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_169": {
-            "name": "人体 - ハンドシングルフィンガー",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_170": {
-            "name": "人体 - 手",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_171": {
-            "name": "People Body - Person",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_172": {
-            "name": "人体 - 人の活動",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_173": {
-            "name": "人の体 - 人のファンタジー",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_174": {
-            "name": "人体 - 人のジェスチャー",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_175": {
-            "name": "People Body - Person Resting",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_176": {
-            "name": "人体 - 人の役割",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_177": {
-            "name": "People Body - Person Sport",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_178": {
-            "name": "人体 - 人のシンボル",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_179": {
-            "name": "スマイリーエモーション - 猫の顔",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_180": {
-            "name": "Smileys Emotion - Emotion",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_181": {
-            "name": "スマイリーエモーション - フェイスアフェクション",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_182": {
-            "name": "スマイリーエモーション - 気になる顔",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_183": {
-            "name": "Smileys Emotion - Face Costume",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_184": {
-            "name": "スマイリーエモーション - フェイスグラス",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_185": {
-            "name": "スマイリーエモーション - フェイスハンド",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_186": {
-            "name": "スマイリーエモーション - フェイスハット",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_187": {
-            "name": "スマイリーエモーション - ネガティブフェイス",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_188": {
-            "name": "スマイリーエモーション - フェイスニュートラル懐疑的",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_189": {
-            "name": "Smileys Emotion - Face Sleepy",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_190": {
-            "name": "スマイリーエモーション - 顔の笑顔",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_191": {
-            "name": "Smileys Emotion - Face Tongue",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_192": {
-            "name": "Smileys Emotion - Face Unwell",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_193": {
-            "name": "スマイリーエモーション - モンキーフェイス",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_194": {
-            "name": "シンボル - 英数字",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_195": {
-            "name": "記号 - 矢印",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_196": {
-            "name": "Symbols - Av Symbol",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_197": {
-            "name": "シンボル - 性別",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_198": {
-            "name": "Symbols - Geometric",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_199": {
-            "name": "Symbols - Keycap",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_200": {
-            "name": "シンボル - その他のシンボル",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_201": {
-            "name": "シンボル - 宗教",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_202": {
-            "name": "Symbols - Transport Sign",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_203": {
-            "name": "記号 - 警告",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_204": {
-            "name": "シンボル - ゾディアック",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_205": {
-            "name": "旅行場所 - ホテル",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_206": {
-            "name": "旅行場所 - プレースビル",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_207": {
-            "name": "Travel Places - Place Geographic",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_208": {
-            "name": "Travel Places - Place Map",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_209": {
-            "name": "Travel Places - Place Other",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_210": {
-            "name": "Travel Places - Place Religious",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_211": {
-            "name": "旅行場所 - スカイ天気",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_212": {
-            "name": "旅行場所 - タイム",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_213": {
-            "name": "旅行場所 - トランスポートエア",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_214": {
-            "name": "旅行地 - 交通の便",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_215": {
-            "name": "Travel Places - Transport Water",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_238": {
-            "name": "コンピュータブランド",
-            "desc": "",
-            "cat": [
-                "コンピュータとネットワーク"
-            ]
-        },
-        "stencil_239": {
-            "name": "ファイルフォーマット",
-            "desc": "一般的なファイル形式のリスト",
-            "cat": [
-                "人、旗、文書"
-            ]
-        },
-        "stencil_241": {
-            "name": "Ciscoネットワークトポロジアイコン白黒",
-            "desc": "",
-            "cat": [
-                "シスコ"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "シスコ"
-        },
-        "stencil_240": {
-            "name": "Ciscoネットワークトポロジアイコン3015",
-            "desc": "",
-            "cat": [
-                "シスコ"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "シスコ"
-        },
-        "stencil_242": {
-            "name": "CiscoワイヤレスIW 3700",
-            "desc": "",
-            "cat": [
-                "シスコ"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "シスコ"
-        },
-        "stencil_243": {
-            "name": "Cisco VGシリーズゲートウェイ",
-            "desc": "",
-            "cat": [
-                "シスコ"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "シスコ"
-        },
-        "stencil_244": {
-            "name": "Cisco Unified IP Phone 7800および8800シリーズ",
-            "desc": "",
-            "cat": [
-                "Cisco"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "Cisco"
-        },
         "sym_copied": "コピーされたシンボル",
         "getting_stencils": "ステンシルを入手する",
         "drop_symbol": "ドロップシンボル",
         "show_more": "もっと見せる",
         "login_save_symbol": "サインインしてシンボルを保存してください。",
         "stencil_223": {
-            "desc": "ワイヤー"
+            "desc": "ワイヤー",
+            "name": "ワイヤー"
         },
         "stencil_224": {
             "name": "JIC / NFPAシンボル",
             "desc": "JIC / NFPAシンボル"
         },
         "stencil_226": {
-            "desc": "電子記号"
+            "desc": "電子記号",
+            "name": "エレクトロニクスシンボル"
         },
         "stencil_225": {
-            "desc": "IECシンボル"
+            "desc": "IECシンボル",
+            "name": "IEC記号"
         },
         "stencil_227": {
-            "desc": "IEC電源、メーター、変圧器、モーター"
+            "desc": "IEC電源、メーター、変圧器、モーター",
+            "name": "IEC電力、メーター、変圧器、モーター"
         },
         "stencil_229": {
-            "desc": "単線記号"
+            "desc": "単線記号",
+            "name": "単線記号"
         },
         "stencil_230": {
-            "desc": "パネルレイアウトシンボル"
+            "desc": "パネルレイアウトシンボル",
+            "name": "レイアウト"
         },
         "stencil_231": {
-            "desc": "3Dパネルレイアウトシンボル"
+            "desc": "3Dパネルレイアウトシンボル",
+            "name": "レイアウト3D"
         },
         "stencil_228": {
-            "desc": "IECアイソレータ、ディスコネクタ、ヒューズ、コンタクタ、過負荷"
+            "desc": "IECアイソレータ、ディスコネクタ、ヒューズ、コンタクタ、過負荷",
+            "name": "IECアイソレータ、ディスコネクタ、ヒューズ、コンタクタ、過負荷"
         },
         "stencil_233": {
-            "desc": "空気圧バルブ"
+            "desc": "空気圧バルブ",
+            "cat": [
+                "空気圧"
+            ],
+            "name": "空気圧バルブ"
         },
         "stencil_236": {
-            "desc": "油圧バルブ"
+            "desc": "油圧バルブ",
+            "cat": [
+                "油圧"
+            ],
+            "name": "油圧バルブ"
         },
         "stencil_235": {
-            "desc": "油圧その他"
+            "desc": "油圧その他",
+            "cat": [
+                "油圧"
+            ],
+            "name": "その他の油圧"
         },
         "stencil_232": {
-            "desc": "空気圧ポンプ、シリンダー、モーター"
+            "desc": "空気圧ポンプ、シリンダー、モーター",
+            "cat": [
+                "空気圧"
+            ],
+            "name": "空気圧ポンプ、シリンダー、モーター"
         },
         "stencil_237": {
-            "desc": "油圧ポンプ、シリンダー、モーター"
+            "desc": "油圧ポンプ、シリンダー、モーター",
+            "cat": [
+                "油圧"
+            ],
+            "name": "油圧ポンプ、シリンダー、モーター"
         },
         "stencil_247": {
-            "desc": "既製の回路"
+            "desc": "既製の回路",
+            "name": "プレハブ回路"
         },
         "stencil_234": {
-            "desc": "空気圧その他"
+            "desc": "空気圧その他",
+            "cat": [
+                "空気圧"
+            ],
+            "name": "空気圧その他"
+        },
+        "credits_to": "クレジット",
+        "credits_link": "クレジットリンク",
+        "saving_stencils": "ステンシルの保存",
+        "stencil_246": {
+            "name": "報告書",
+            "desc": "エレクトラレポート"
         }
     },
     "plugin": {
@@ -3307,33 +2077,7 @@
             "name": "こんにちは世界",
             "desc": "絵にこんにちは、 \"作成者の名前\"を印刷してください"
         },
-        "plugin_1": {
-            "name": "テーブルへのTSV",
-            "desc": "ドロップされたtsvファイルからテーブルを作成する",
-            "cat": [
-                "レポート"
-            ]
-        },
-        "plugin_2": {
-            "name": "ツリーへのJSON",
-            "desc": "ドロップされたJSONファイルをツリービューに変換する",
-            "cat": [
-                "レポート"
-            ]
-        },
-        "plugin_3": {
-            "name": "フラクタルツリーを描く",
-            "desc": "フラクタルツリーを作成する"
-        },
-        "plugin_4": {
-            "name": "散乱体",
-            "desc": "選択した図形を無作為に図面に配布する"
-        },
         "create_plugin": "プラグインの作成",
-        "plugin_5": {
-            "name": "削り器",
-            "desc": "あなたの図形を最も近いグリッドにスナップする"
-        },
         "plugin_6": {
             "name": "折れ線グラフ",
             "desc": "入力データに応じて線グラフ/曲線グラフをプロットする",
@@ -3348,67 +2092,35 @@
                 "チャート"
             ]
         },
-        "plugin_8": {
-            "name": "マテリアルデザインアイコン",
-            "desc": "Material.ioアイコンのリストからアイコンを選択してインポートする",
-            "cat": [
-                "アイコン"
-            ]
-        },
-        "plugin_9": {
-            "name": "フォント驚くばかりのアイコン",
-            "desc": "フォント驚くばかりのアイコンのリストからアイコンを選択してインポートする（無料）",
-            "cat": [
-                "アイコン"
-            ]
-        },
-        "plugin_11": {
-            "name": "転置",
-            "desc": "一群の図形を転置する"
-        },
         "plugin_10": {
             "name": "分度器",
-            "desc": "円を描く分度器を描く"
+            "desc": "円を描く分度器を描く",
+            "cat": [
+                "生産性ツール"
+            ]
         },
         "plugin_12": {
             "name": "スペーサー",
-            "desc": "形状の間にスペースを入れてください。"
-        },
-        "plugin_13": {
-            "name": "スプリッタ",
-            "desc": "四角形または四角形を指定された数の列、行およびそれぞれの溝に分割します。",
+            "desc": "形状の間にスペースを入れてください。",
             "cat": [
-                "一般"
+                "生産性ツール"
             ]
         },
         "plugin_15": {
             "name": "箇条書きリスト",
-            "desc": "テキストリストに箇条書きを追加する"
+            "desc": "テキストリストに箇条書きを追加する",
+            "cat": [
+                "生産性ツール"
+            ]
         },
         "success_refresh": "プラグインが正常に更新されました。",
         "fail_refresh": "プラグインはもう存在しません。",
-        "plugin_16": {
-            "name": "コロプレスの地図",
-            "desc": "統計値に従ってJSONデータを網掛けの比率に変換"
-        },
-        "plugin_17": {
-            "name": "テーブル",
-            "desc": "入力された行数と列数に基づいてテーブルを作成します。"
-        },
-        "plugin_18": {
-            "name": "ポリゴン",
-            "desc": "辺数の入力に基づいて多角形を作成します"
-        },
-        "plugin_19": {
-            "name": "グロー効果",
-            "desc": "グロー効果のある楕円を作成する",
-            "cat": [
-                "全般"
-            ]
-        },
         "personal_plugins": "個人用プラグイン",
         "team_plugins": "チームプラグイン",
-        "public_plugins": "公開プラグイン"
+        "public_plugins": "公開プラグイン",
+        "personal": "個人的な",
+        "team": "チーム",
+        "public": "公衆"
     },
     "dialog": {
         "help_title": "Vectaヘルプ",
@@ -3509,7 +2221,19 @@
         "err_5": "無効なライセンスが検出されました。シリアルキーを再度有効にしてください。",
         "region_restriction": "地域制限",
         "license_region_specific": "この地域固有のライセンスでは、購入した地域での使用のみが許可されます。購入地域外では、すべての機能が利用できなくなります。",
-        "expired": "期限切れ"
+        "expired": "期限切れ",
+        "trial_mode": "トライアルモード",
+        "activate": "活性化",
+        "activated": "ライセンス認証済み",
+        "deactivate": "非アクティブ化",
+        "activation": "ライセンス認証",
+        "deactivation": "ライセンスの非アクティブ化",
+        "deactivated": "ライセンスが無効になりました",
+        "enter_serial_number": "シリアル番号を入力してください",
+        "err_1": "入力したキーは無効です。",
+        "trial_left": "現在、試用モードです。ライセンスは@@日後に期限切れになります",
+        "license_expired": "試用版/ライセンスの期限切れ",
+        "license_expired_desc": "試用版/ライセンスの有効期限が切れています。生産性向上ツールは無効になります。"
     },
     "videos": {
         "hnx0KutWDa0": {
@@ -3543,6 +2267,72 @@
         "X0p1JNrcWGI": {
             "title": "Electra Cloudによる自動ワイヤー名検出とワイヤー名伝搬",
             "desc": "Electra Cloudを使用すると、ワイヤー名の自動検出とワイヤー名の割り当てが簡単です。これらの仕組みをご覧ください。"
+        },
+        "UsXqhNtEGfg": {
+            "title": "Electra Cloudクイックデモ",
+            "desc": "世界初のクラウドベースの電気CADソフトウェアであるElectra Cloudの15分のデモ。"
         }
+    },
+    "templates_dev": {
+        "-LoxxvRqk_lWbHufxTdS": {
+            "desc": "IEC図面",
+            "cat": [
+                "回路図"
+            ],
+            "name": "IEC図面"
+        },
+        "-Loxn7-CtNjHfsPo42wA": {
+            "desc": "JIC図面",
+            "cat": [
+                "回路図"
+            ],
+            "name": "JIC図面"
+        }
+    },
+    "templates": {
+        "-Loxpy4vEMNvGpXMIT8k": {
+            "name": "JIC図面",
+            "desc": "JIC図面",
+            "cat": [
+                "回路図"
+            ]
+        },
+        "-Loxq8iCdBBrJNuBMX-F": {
+            "desc": "IEC図面",
+            "name": "IEC図面",
+            "cat": [
+                "回路図"
+            ]
+        },
+        "-LoxqWnpmATjjX8sjiRH": {
+            "cat": [
+                "回路図"
+            ],
+            "name": "油圧ドローイング",
+            "desc": "油圧ドローイング"
+        },
+        "-LoxqnRmMJ13M6IJ4y04": {
+            "cat": [
+                "回路図"
+            ],
+            "desc": "空気圧図面",
+            "name": "空気圧図面"
+        }
+    },
+    "tools": {
+        "options": "資料<br />オプション",
+        "generate_layout": "生む<br />レイアウト",
+        "electra_tools": "ツール",
+        "create_schem": "作成する<br />シンボル",
+        "title_blocks": "題名<br />ブロック",
+        "manage_comps": "管理する<br />部品",
+        "create_layout_sym": "作成する<br />レイアウト記号",
+        "manage_wirings": "管理する<br />配線",
+        "manage_db": "管理する<br />データベース",
+        "comp_db": "成分<br />データベース",
+        "create_layout": "作成する<br />レイアウト",
+        "electra_import": "インポート",
+        "prefab": "プレハブ<br />回路",
+        "electra_export": "書き出す<br />報告する"
     }
 }
