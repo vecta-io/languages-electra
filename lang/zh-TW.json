@@ -196,7 +196,8 @@
         "title_blocks.icon": "標題塊",
         "manage_comps.icon": "管理組件",
         "generate_layout.icon": "生成佈局",
-        "electra_export.icon": "導出報告"
+        "electra_export.icon": "導出報告",
+        "page_up.icon": "上一頁"
     },
     "mssg": {
         "sending": "正在發送",
@@ -311,7 +312,10 @@
         "signin_link": "登錄鏈接",
         "signin_link_sent": "發送登錄鏈接到",
         "registered_other_provider": "此電子郵件已經通過@@註冊。 正在重新導向",
-        "access_contacts": "允許訪問您的聯繫人列表以便輕鬆共享團隊和繪圖"
+        "access_contacts": "允許訪問您的聯繫人列表以便輕鬆共享團隊和繪圖",
+        "signup_saml": "使用SAML註冊",
+        "saml": "使用SAML登錄",
+        "social_no_email": "該@@帳戶沒有電子郵件。 <br/>請使用電子郵件或其他帳戶進行註冊。"
     },
     "signup": {
         "not_found": "未找到帳戶",
@@ -560,7 +564,15 @@
         "invalid_type": "無效文件類型 ",
         "valid_message": "可接受的文件類型為PDF",
         "uploading": "正在上傳中",
-        "disabled_upload": "禁止上傳。請在當前上傳完成後再次上傳"
+        "disabled_upload": "禁止上傳。請在當前上傳完成後再次上傳",
+        "display_name": "顯示名稱",
+        "id_management": "身份管理",
+        "provider_id": "提供商ID",
+        "sso_url": "SSO URL",
+        "callback_url": "回調網址",
+        "x509": "X.509證書",
+        "idp_id": "IdP實體ID",
+        "rp_id": "RS / SP實體ID"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
@@ -753,7 +765,6 @@
         "untitled_layer": "無標題圖層",
         "untitled_version": "無標題版本",
         "untitled_menu": "無標題菜單",
-        "untitled_pa​​ge": "無標題頁面",
         "optional_layer_name": "圖層名稱(可選)",
         "init": "閱讀繪圖",
         "last_modified": "最後修改",
@@ -818,10 +829,6 @@
         "round_to": "精度： ",
         "decimals": "小數",
         "remove_CDATA": "刪除CDATA",
-        "embed_fonts": "嵌入的字體",
-        "maintain_id": "維護ID",
-        "maintain_class": "維持類",
-        "maintain_structure": "維護結構",
         "view_access": "您只能對此繪圖<br />進行查看",
         "view_template": "您只能對此模板<br />進行查看",
         "view": "查看",
@@ -1287,7 +1294,6 @@
         "create_layout_sym": "創建佈局符號",
         "error_layout_sym": "所選的形狀不是佈局符號或正常形狀",
         "duplicate_laysym_name": "已經有名稱的佈局符號。請重試",
-        "insert_horizo​​ntal_menu": "插入水平/垂直菜單",
         "is_circle": "形狀為一個圓圈",
         "cable_info": "電纜信息",
         "tubing_info": "管子信息",
@@ -1426,7 +1432,9 @@
         "generating_toc": "生成目錄",
         "img_upload_progress": "正在上傳圖片（##％）...",
         "import_img": "正在導入圖片...",
-        "dimension": "尺寸"
+        "dimension": "尺寸",
+        "untitled_page": "無標題頁面",
+        "insert_horizontal_menu": "插入水平/垂直菜單"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -2259,7 +2267,11 @@
         "unlimited": "無限",
         "region_restriction": "區域限制",
         "license_region_specific": "此特定於區域的許可證僅允許在購買區域使用。在購買區域之外，所有功能將不可用",
-        "expired": "已過期"
+        "expired": "已過期",
+        "trial_mode": "試用模式",
+        "license_expired": "試用版/許可證已過期",
+        "trial_left": "您目前處於試用模式。您的許可將在@@天后過期",
+        "license_expired_desc": "試用版/許可證已過期。生產力工具將被禁用。"
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
