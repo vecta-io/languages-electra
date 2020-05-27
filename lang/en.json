@@ -289,8 +289,6 @@
         "signup_github": "Sign up with Github",
         "microsoft": "Sign in with Microsoft",
         "signup_microsoft": "Sign up with Microsoft",
-        "saml": "Sign in with SAML",
-        "signup_saml": "Sign up with SAML",
         "signup_cancel": "No thanks",
         "network_failed": "Are you connected to the Internet? Please check your connection and try again.",
         "user_disabled": "Your account has been disabled. If you think this is a mistake, please contact <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>.",
@@ -562,15 +560,7 @@
         "invalid_type": "Invalid file type ",
         "valid_message": "Acceptable file types are PDF.",
         "uploading": "Uploading",
-        "disabled_upload": "Upload disabled. Please upload again when the current upload has completed.",
-        "display_name": "Display Name",
-        "id_management": "ID Management",
-        "provider_id": "Provider ID",
-        "idp_id": "IdP entity ID",
-        "sso_url": "SSO URL",
-        "x509": "X.509 Certificates",
-        "rp_id": "RS/SP entity ID",
-        "callback_url": "Callback URL"
+        "disabled_upload": "Upload disabled. Please upload again when the current upload has completed."
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
