@@ -313,8 +313,6 @@
         "signin_link_sent": "发送登录链接到",
         "registered_other_provider": "此电子邮件已经通过@@注册。 正在重新导向",
         "access_contacts": "允许访问您的联系人列表以便轻松共享团队和绘图",
-        "saml": "使用SAML登录",
-        "signup_saml": "使用SAML注册",
         "social_no_email": "该@@帐户没有电子邮件。 <br/>请使用电子邮件或其他帐户进行注册。"
     },
     "signup": {
@@ -564,15 +562,7 @@
         "invalid_type": "无效文件类型 ",
         "valid_message": "可接受的文件类型为PDF",
         "uploading": "正在上传中",
-        "disabled_upload": "禁止上传。请在当前上传完成后再次上传",
-        "display_name": "显示名称",
-        "provider_id": "提供商ID",
-        "sso_url": "SSO URL",
-        "idp_id": "IdP实体ID",
-        "x509": "X.509证书",
-        "rp_id": "RS / SP实体ID",
-        "id_management": "身份管理",
-        "callback_url": "回调网址"
+        "disabled_upload": "禁止上传。请在当前上传完成后再次上传"
     },
     "noti": {
         "same_day": "注意：公告将在其创建的同一天开始",
