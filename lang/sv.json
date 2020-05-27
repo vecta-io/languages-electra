@@ -361,12 +361,8 @@
         "upload": "Ladda upp",
         "upload_custom_fonts": "Ladda upp teckensnitt",
         "svg_invalid": "SVG-filen är ogiltig",
-        "activate": "Aktivera",
-        "deactivate": "Avaktivera",
         "make_copy": "Göra en kopia",
         "update": "Uppdatering",
-        "enter_serial_number": "Ange ditt serienummer",
-        "invalid_key": "Ogiltig nyckel anges",
         "loading": "Läser in",
         "days_left": "dagar kvar",
         "trial": "Rättegång",
@@ -393,7 +389,361 @@
         "import_img": "Importerar bild ...",
         "img_upload_progress": "Laddar upp bild (##%) ...",
         "dimension": "Dimensionera",
-        "auto_rename_help": "Välj för att behålla originalnamnet, avmarkera att byta namn, <br /> eller avbryt för att behålla alla originalnamn"
+        "auto_rename_help": "Välj för att behålla originalnamnet, avmarkera att byta namn, <br /> eller avbryt för att behålla alla originalnamn",
+        "revert": "Återgå",
+        "stencil": "Stencil",
+        "electrical": "Elektrisk",
+        "hydraulic": "Hydraulisk",
+        "pneumatic": "Pneumatisk",
+        "terminal": "Terminal",
+        "glow": "Glöd",
+        "sorting_shapes": "Sortera former",
+        "upload_font_noti": "Endast fil med .woff-förlängning är tillåten",
+        "slogan": "Molnbaserad elektrisk CAD-programvara",
+        "sort_by": "Sortera efter",
+        "category": "Kategori",
+        "comp_db": "Komponentdatabas",
+        "sort": "Sortera",
+        "all_pages": "Alla sidor",
+        "this_page": "Denna sida",
+        "del_comp": "Radera komponent",
+        "edit_comp": "Redigera komponent",
+        "add_comp": "Lägg till ny komponent",
+        "updating_comp": "Uppdaterar komponenten",
+        "add_to": "Lägg till",
+        "add_cat": "Lägg till Kategori",
+        "updating_cat": "Uppdaterar kategorin",
+        "removing_comp": "Ta bort komponenten",
+        "removing_cat": "Tar bort kategorin",
+        "rem_cat_comp": "Ta bort komponenten från kategorin",
+        "edit_cat": "Redigera kategori",
+        "confirm_del_cat": "Är du säker på att du vill ta bort den här kategorin?",
+        "confirm_del_comp": "Är du säker på att du vill ta bort den här komponenten?",
+        "confirm_del_cat_comp": "Är du säker på att du vill ta bort denna komponent från kategorin?",
+        "cat_name": "kategori namn",
+        "supplier": "Leverantör",
+        "brand": "varumärke",
+        "model": "Modell",
+        "order_no": "Beställningsnr",
+        "rating": "Betyg",
+        "del_cat": "Radera kategori",
+        "create_layout": "Skapa layout-symbol",
+        "get_layouts": "Få layoutformer",
+        "cat_comp_existed": "Komponenten finns redan i kategorin",
+        "price": "Pris",
+        "layout": "Layout",
+        "remarks": "Anmärkningar",
+        "quantity": "Kvantitet",
+        "symbol": "Symbol",
+        "diameter": "Diameter",
+        "help_dimension": "Accepterar alla större enheter. T.ex. 2 mm, 2 tum, 2 cm etc.",
+        "layshape": "Layoutform",
+        "include_layout": "Inkludera komponent i layouten",
+        "comp_name": "Komponentnamn",
+        "no_desc": "Ingen beskrivning",
+        "add": "Lägg till",
+        "select": "Välj",
+        "show_all_comp": "Visa allt",
+        "default_ref": "Standardreferens",
+        "pin": "Pin-namn",
+        "get_comp": "Få komponenter",
+        "default_verti": "Vertikal som standard",
+        "insert_sym_menu": "Sätt i horisontell / vertikal meny",
+        "symbol_type": "Symboltyp",
+        "invalid_value": "Ogiltigt värde",
+        "create_sym": "Skapa symbol",
+        "desc_text": "Beskrivningstext",
+        "invalid_default_ref": "Noll längd eller tomma strängar är inte tillåtna för standardreferens",
+        "search_comp": "Sök komponenter",
+        "add_pin_names": "Vill du lägga till pin-namn för den här symbolen?",
+        "generate_symbol": "Genererar symbol",
+        "combine_shapes": "Valda flera former. Vill du kombinera dem i en form?",
+        "invalid_size": "Ogiltiga storlekar. Enheter med giltiga storlekar är 10mm, 20in, 30cm etc.",
+        "invalid_sym_name": "Noll längd eller tomma strängar är inte tillåtna för symbolnamn",
+        "generate": "Generera",
+        "sym_priority": "Prioritet",
+        "select_comp": "Välj komponent",
+        "selected_comp": "Vald komponent",
+        "loc_type": "Plats Typ",
+        "no_conn_pts": "Inga anslutningspunkter hittades",
+        "text_orient": "Textorientering",
+        "generate_all": "Generera alla",
+        "text_pos": "Text Position",
+        "help_pin_names": "t.ex. 13, 23, 33. Separata namn på stiftuppsättningar med komma.",
+        "verti": "Vertikal",
+        "horiz": "Horisontell",
+        "cur_name": "Nuvarande namn",
+        "sym_name": "Symbolnamn",
+        "wire_name": "Trådnamn",
+        "hide_tube_name": "Dölj rörens namn",
+        "sym_prompt": "Symbolprompt",
+        "hide_wire_name": "Dölj trådnamn",
+        "tube_name": "Tube-namn",
+        "hose_name": "Slangens namn",
+        "show": "Visa",
+        "location": "Plats",
+        "exists_wires": "Befintliga trådnamn",
+        "hide_hose_name": "Dölj slangens namn",
+        "click_tube": "Klicka på ett rörnamn för att visa plats",
+        "click_hose": "Klicka på ett slangnamn för att visa plats",
+        "set_no_name": "Ställ in på NoName",
+        "click_wire": "Klicka på ett trådnamn för att visa plats",
+        "exists_tubes": "Befintliga rörnamn",
+        "exists_hoses": "Befintliga slangnamn",
+        "ref": "Referens",
+        "no_name": "Inget namn",
+        "component": "Komponent",
+        "shapes": "former",
+        "refs": "referenser",
+        "selected_ref": "Former för vald referens",
+        "hide_ref": "Dölj referens",
+        "all_shapes": "Alla former",
+        "hide_desc": "Dölj beskrivning",
+        "this_shape": "Den här formen",
+        "incorrect_pin": "Felaktigt antal stift",
+        "select_pin": "Välj stiftuppsättning. (Högerklicka för fler alternativ)",
+        "set_pin_names": "Ställ in pin-namn",
+        "show_pin": "Visa pin-namn",
+        "use_panel_prefix": "Använd panelprefix",
+        "use_page_prefix": "Använd sidprefix",
+        "edit_pin": "Redigera stiftuppsättning",
+        "add_pin": "Ny stiftuppsättning",
+        "hide_pin": "Dölj stiftnamn",
+        "del_pin": "Radera stiftuppsättningen",
+        "connector": "Connector",
+        "max_inc": "Max. Ökning",
+        "loc_col": "Ordna platser i kolumn (er)",
+        "disable_pl": "Dölj pilots",
+        "ref_not_found": "Hänvisning hittades inte",
+        "num_points": "Antal poäng",
+        "locate_ref": "Leta reda på referens",
+        "plc_mod": "PLC-modul",
+        "no_shape_for_ref": "Ingen form hittades för referens @@",
+        "plc_point": "Inledande punkt",
+        "spacing": "Mellanrum",
+        "left": "Vänster",
+        "right": "Höger",
+        "close": "Stänga",
+        "top": "Topp",
+        "width": "Bredd",
+        "bottom": "Botten",
+        "save_as_new_comp": "Spara som ny komponent",
+        "save_comp": "Spara ändringar av komponentdata?",
+        "ref_pos": "Referensposition",
+        "manage_comps": "Hantera komponenter",
+        "panel": "Panel",
+        "group": "Grupp",
+        "gen_layout": "Generera layout",
+        "grouping": "gruppera",
+        "gen_tlist": "Skapa lista över terminalblock",
+        "no_comp": "Ingen komponent hittades",
+        "gen_lay_new_page": "Generera till ny sida",
+        "qty_pos": "Kvantitetsposition",
+        "insert_data": "Sätt in alla data i ritningen",
+        "wire_link": "Trådlänk",
+        "hide_tblock_txt": "Dölj referens för terminalblock",
+        "scan_terms": "Skanna terminaler",
+        "available_link": "Tillgänglig länk",
+        "suffix_char": "Suffix-tecken (valfritt, kommaseparerad)",
+        "start_num": "Startnummer",
+        "get_wire_link": "Få trådlänkar",
+        "renum_list": "Renummer terminaler",
+        "gen_term_lists": "Generera listan över terminalblock",
+        "term_per_row": "Terminaler per rad",
+        "def_val": "Standardvärde",
+        "prompt": "Prompt",
+        "show_all": "Visa alla länkar",
+        "gen_tblock": "Generera titelblock",
+        "no_shape": "Välj en form",
+        "name_label": "Trådnamn - plats",
+        "create_tblock": "Skapa titelblock",
+        "dup_names": "Dupliserat datanamn",
+        "create_tdata": "Infoga titelblockdata",
+        "dup_names_mssg": "Gruppat titelblock innehåller block med duplicerade datanamn.\nGruppera och redigera så att alla block har unika datanamn.",
+        "general_options": "Generella val",
+        "loc_info_3": "längd och avstånd till dina krav",
+        "loc_info_2": "Ställ in rutnätet på ett osynligt rutnät",
+        "term_split_wire": "Dela kablar när du tappar terminaler",
+        "units_help": "Accepterar i, cm, mm, px",
+        "loc_format_help": "Exempel: /3.A5",
+        "wire_propagation": "Automatisk trådutbredning och detektion",
+        "auto_resize": "Automatisk storlek i / mm / cm / meter",
+        "ref_pop_up": "Popupreferensfönster vid släpp",
+        "loc_info_1": "Electra kommer att lista formplatser baserade",
+        "ask_create_cable": "Pop-up för att be om åtgärder när det inte finns någon kabelkärna tillgänglig",
+        "straighten_wire": "Justera och räta trådarna automatiskt",
+        "conn_dot": "Hantera automatiskt anslutningsprickor för ledningar",
+        "page_prefix": "Sidprefix",
+        "renum_lzone": "Byt automatiskt om symboler / ledningar när de flyttas inom stegezon",
+        "page_prefix_ref": "Aktivera på referenser",
+        "sym_split_wire": "Dela kablar när du tappar symboler",
+        "page_prefix_wires": "Aktivera på ledningar",
+        "enable_panel_prefix": "Aktivera panelprefix på referenser",
+        "wire_sep": "Separator för tråd",
+        "to": "Till",
+        "from": "Från",
+        "auto_placement": "Lägg automatiskt layoutsymboler på rälsen",
+        "mat_ref_report": "Materialreferensrapport",
+        "cross_ref": "Korsreferensrapport",
+        "tube_tab": "Rörnamn / Slangnamn",
+        "wire_sep_help": "Separator kan inte ha numeriska värden, t.ex. 0-9",
+        "auto_rename": "Auto Rename",
+        "placement_offset": "Startplacering förskjuten",
+        "wire_tab": "Trådnamn / symbolreferenser",
+        "select_all": "Välj alla",
+        "listing": "Lista",
+        "generating_layout": "Genererar layout",
+        "reuse_existing": "Återanvänd befintliga rapporter",
+        "generating_report": "Genererar rapport",
+        "get_syms_info": "Få symbolinformation",
+        "exporting_report": "Exporterar rapport",
+        "bom_report": "Materialräkning",
+        "ignore_existing": "Ignorera eller behålla befintliga rapporter och generera nya",
+        "remove_existing": "Ta bort befintliga rapporter och generera nya",
+        "scanning": "Läser in",
+        "separator": "Separator",
+        "wires": "trådar",
+        "single_sym": "Enkel symbol vald. Mer symboler krävs.",
+        "location_format": "Platsformat",
+        "saved_comp": "Sparad komponent",
+        "no_shape_selected": "Ingen form vald",
+        "comp_db_help": "Dra och släpp från komponenter till kategori för att organisera komponenter. <br/> Högerklicka på komponenter för fler alternativ.",
+        "creating_prefab": "Skapa Prefab Circuit",
+        "document_options_help": "Electra kommer att lista formplatser baserade på ett osynligt rutnät, ställa in startlängden och avståndet till dina krav",
+        "create_layout_sym": "Skapa layoutsymbol",
+        "tubes": "rör",
+        "previous": "Tidigare",
+        "hoses": "slangar",
+        "invalid_prefix": "Ogiltigt sidprefix",
+        "invalid_prefix_content": "Ogiltigt sidnummer. <br/> Sidprefixet för denna form kommer inte att uppdateras automatiskt.",
+        "is_circle": "Form är en cirkel",
+        "duplicate_laysym_name": "Det finns redan layout-symbol med namnet. Var god försök igen",
+        "error_layout_sym": "Den valda formen är inte layoutsymbol eller normal form",
+        "insert_horizontal_menu": "Sätt in horisontell / vertikal meny",
+        "connect_to": "Koppla till",
+        "cable": "Kabel",
+        "cores": "kärnor",
+        "cable_info": "Kabelinformation",
+        "tubing_info": "Rörinformation",
+        "hosing_info": "Slanginformation",
+        "core_name": "Kärnnamn",
+        "core_names": "Kärnnamn",
+        "core_names_help": "Kommaseparerade, t.ex. röd, gul, blå",
+        "gauge": "Storlek / mätare",
+        "none": "Ingen",
+        "filter_by": "Filtrera efter",
+        "insert": "Föra in",
+        "show_only": "Visa endast",
+        "tubing": "Rör",
+        "hosing": "spolning",
+        "view_edit": "Visa / Redigera",
+        "cable_db": "Kabeldatabas",
+        "tube_db": "Slangdatabas",
+        "hose_db": "Slangdatabas",
+        "new_hosing": "Ny hosing",
+        "new_cable": "Ny kabel",
+        "delete_tubing": "Ta bort slangen",
+        "save_new_cable": "Spara som ny kabel",
+        "delete_cable": "Ta bort kabeln",
+        "new_tubing": "Nytt slang",
+        "edit_cable": "Redigera kabel",
+        "edit_tubing": "Redigera slangen",
+        "save_new_tubing": "Spara som nytt slang",
+        "edit_hosing": "Redigera hosing",
+        "arrange": "Ordna",
+        "confirm_del_cable": "Är du säker att du vill radera @@?",
+        "removing": "Ta bort",
+        "delete_hosing": "Radera skötsel",
+        "invalid_cable_name": "Kabelnamnet kan inte tömmas",
+        "save_new_hosing": "Spara som ny hosing",
+        "arrange_cores": "Ordna kärnor",
+        "invalid_core": "Ogiltigt kärnnamn",
+        "core_list_label": "Kärnnamn Trådnamn - plats",
+        "updating_db": "Uppdatering av databasen",
+        "steps": "Steg",
+        "first_step": "Första steget",
+        "rung_width": "Rungbredd",
+        "set_numbers": "Ställ in siffror",
+        "set_ladder_zone": "Ställ in stegezon",
+        "first_rung": "Första gången",
+        "rung_count_horiz": "Rung Count (Horisontellt)",
+        "arrange_cores_help": "Dra och släpp kablar för att ordna. <br/> Dra till ovan för att ta bort. <br/> Dra från ovan till vänster för att infoga.",
+        "rung_height": "Rung höjd",
+        "rung_count_vert": "Rung Count (vertikal)",
+        "save_wire": "Spara ändringar i tråd?",
+        "tube_id": "Tube ID",
+        "comp_id": "Komponent-ID",
+        "hose_id": "Slang-ID",
+        "assign_wire_core": "Vänligen tilldela den aktuella ledningen till en kärna",
+        "getting_cable": "Få kabelinformation",
+        "getting_connections": "Få anslutningslista",
+        "rung_increment": "Rung Increment",
+        "cable_id": "Kabel-ID",
+        "rung_count_error": "Ogiltigt värde för ringningsräkning, räknarantalet måste vara minst 2",
+        "wire": "Tråd",
+        "tube": "Rör",
+        "hose": "Slang",
+        "assign_new_cable": "Tilldela ny kabel",
+        "no_more_core": "Kabeln tilldelad kabeln har inte mer tillgänglig kärna. <br/> Välj att tilldela en ny kabel eller ta bort kabel.",
+        "hide_default_cable": "Dölj standardkabel",
+        "always_new_cable": "Fråga inte detta igen och tilldela alltid ny kabel",
+        "hide_default_tubing": "Dölj standardslangen",
+        "hide_default_hosing": "Dölj standardpost",
+        "remove_cable": "Ta bort kabeln",
+        "hosing_ref": "Slangreferensrapport",
+        "cable_ref": "Kabelreferensrapport",
+        "tubing_info_as_col": "Visa rörinformation som kolumner",
+        "cable_info_as_col": "Visa kabelinformation som kolumner",
+        "hosing_info_as_col": "Visa husinformation som kolumner",
+        "tubing_ref": "Referensrapport för slangar",
+        "cable_bom": "Kabelräkning av material (BOM) -rapport",
+        "tubing_bom": "Rapport om materialrör (BOM)",
+        "hosing_bom": "Rapport om materialhantering (BOM)",
+        "connections_report": "Anslutningsrapport",
+        "cable_length": "Kabellängd",
+        "amount": "Belopp",
+        "cable_gauge": "Kabelstorlek / mätare",
+        "tubing_length": "Slanglängd",
+        "tubing_gauge": "Rörstorlek / mätare",
+        "num_of_cores": "Antal kärnor",
+        "hosing_gauge": "Slangstorlek / mätare",
+        "hosing_length": "Slanglängd",
+        "all_core_names": "Alla kärnnamn",
+        "wire_loc": "Ledningsplats",
+        "to_ref": "Hänvisning till)",
+        "cable_name": "Kabelnamn",
+        "core_no": "Kärnnr.",
+        "hosing_name": "Slangnamn",
+        "from_loc": "Plats (Från)",
+        "from_pin": "Pin name (Från)",
+        "tube_loc": "Rörplats",
+        "hose_loc": "Slangplats",
+        "from_ref": "Referens (från)",
+        "tubing_name": "Slangens namn",
+        "pin_name": "Pin-namn",
+        "err_layshape_symbol": "Den valda formen är en symbol. En symbol kan inte vara en layoutform",
+        "to_loc": "Plats (till)",
+        "scan_connections": "Skanna anslutningar",
+        "err_layshape_tube": "Valt form är ett rör. Ett rör kan inte vara en layoutform",
+        "err_layshape_terminal": "Den valda formen är en terminal. En terminal kan inte vara en layoutform",
+        "err_layshape_hose": "Den valda formen är en slang. En slang kan inte vara en layoutform",
+        "err_layshape_wire": "Den valda formen är en tråd. En tråd kan inte vara en layoutform",
+        "insert_wire": "Bekräfta att du sätter in följande trådnamn (alla andra flyttas tillbaka): <br/><br/>",
+        "to_pin": "Pin-namn (till)",
+        "searching": "Sökande",
+        "edit": "Redigera",
+        "insert_name": "Infoga namn",
+        "search_layout": "Söklayout",
+        "invalid_symtype": "Ogiltig symboltyp",
+        "no_stencil_id": "Vänligen ange stencil-ID",
+        "error_connects_pin": "Stift och anslutningspunkter bör ha samma belopp",
+        "error_pin": "Vänligen ange stift i alternativen",
+        "insert_hose": "Bekräfta att du sätter in följande slangnamn (alla andra flyttas tillbaka): <br/><br/>",
+        "insert_tube": "Bekräfta att du sätter in följande rörnamn (alla andra flyttas tillbaka): <br/><br/>",
+        "reading_comp": "Läskomponent",
+        "tsv": "Tabeller Separerade värden (* .tsv)",
+        "export_format": "Exportera format",
+        "csv": "Kommaseparerade värden (* .csv)"
     },
     "drop": {
         "in": "tum",
@@ -432,7 +782,6 @@
         "commit": "Begå",
         "refresh": "Uppdatera",
         "twitter": "Dela via Twitter",
-        "jump_to": "Hoppa till:",
         "publish": "Publicera",
         "members": "Hantera medlemmar",
         "restore": "Återställ",
@@ -452,7 +801,6 @@
         "align_top": "Toppjustera",
         "hide_grid": "Dölj rutnät",
         "edit_icon": "Redigera ikon",
-        "helvetica": "Helvetica",
         "edit_link": "Redigera hyperlänk (er)",
         "show_grid": "Visa rutnät",
         "align_left": "Vänsterjustera",
@@ -506,7 +854,6 @@
         "move_to_trash": "Flytta till papperskorgen",
         "close_stencil": "Stänga",
         "show_sym_name": "Visa symbolnamn",
-        "update_preview": "Uppdatera förhandsvisning",
         "import_stencil": "Importera",
         "export_stencil": "Exportera",
         "show_properties": "Visa egenskaper",
@@ -601,7 +948,32 @@
         "embed_fonts": "Bädda in teckensnitt",
         "maintain_structure": "Underhålla strukturen",
         "maintain_events": "Underhålla händelser",
-        "show_hidden": "Visa dolda former"
+        "show_hidden": "Visa dolda former",
+        "create_tdata": "Infoga titelblockdata",
+        "create_tblock": "Skapa titelblock",
+        "mat_ref_report": "Materialreferensrapport",
+        "new_layer": "Nytt lager",
+        "cross_ref": "Korsreferensrapport",
+        "export_icon": "Exportera ikonen",
+        "hosing_ref_report": "Slangreferensrapport",
+        "cable_ref_report": "Kabelreferensrapport",
+        "tubing_ref_report": "Referensrapport för slangar",
+        "cable_bom_report": "Materialrapport för kabel (BOM)",
+        "hosing_bom_report": "Rapport om materialhantering (BOM)",
+        "electrical_connections_report": "Rapport om elektriska anslutningar",
+        "hydraulic_connections_report": "Rapportering om hydrauliska anslutningar",
+        "pneumatic_connections_report": "Pneumatiska anslutningar rapporterar",
+        "tubing_bom_report": "Rapport om materialrör (BOM)",
+        "bom_report": "Materialrapport (BOM) -rapport",
+        "hosing_db": "Slangdatabas",
+        "tubing_db": "Slangdatabas",
+        "cable_db": "Kabeldatabas",
+        "comp_db": "Komponentdatabas",
+        "view_edit": "Visa och redigera",
+        "manage_tubing": "Hantera slangar",
+        "export_as_tsv": "Exportera som TSV",
+        "manage_cable": "Hantera kablar",
+        "manage_hosing": "Hantera hosing"
     },
     "page": {
         "mm": "Millimeter",
@@ -614,19 +986,11 @@
         "a2": "A2: 594 mm x 420 mm",
         "a4": "A4: 297 mm x 210 mm",
         "a1": "A1: 841 mm x 594 mm",
-        "s1": "1: 1 (standard)",
-        "s50": "1: 50",
-        "s25": "1: 25",
-        "s10": "1: 10",
         "size": "Storlek",
-        "s200": "1: 200",
-        "s500": "1: 500",
-        "s100": "1: 100",
         "scale": "Skala",
         "width": "Bredd",
         "units": "Mätenheter",
         "folio": "Folio: 13 in x 8.5 in",
-        "s1000": "1: 1000",
         "legal": "Legal: 14 in x 8.5 in",
         "ledger": "Ledger: 17 in x 11 in",
         "height": "Höjd",
@@ -715,7 +1079,9 @@
         "en": "Engelska",
         "ja": "japansk",
         "sv": "Svenska",
-        "fr": "franska"
+        "fr": "franska",
+        "zh-CN": "Förenklad kinesiska",
+        "zh-TW": "Traditionell kinesiska"
     },
     "login": {
         "or": "Eller",
@@ -767,7 +1133,12 @@
         "signup_microsoft": "Registrera dig med Microsoft",
         "registered_other_provider": "Det här e-postmeddelandet är redan registrerat hos @@. Redirecting",
         "access_contacts": "Tillåt åtkomst till din kontaktlista för enkel delning av team och ritningar",
-        "social_no_email": "Detta @@-konto har inte e-post. <br/> Registrera dig med ett e-postmeddelande eller annat konto."
+        "social_no_email": "Detta @@-konto har inte e-post. <br/> Registrera dig med ett e-postmeddelande eller annat konto.",
+        "saml": "Logga in med SAML",
+        "signup_saml": "Registrera dig med SAML",
+        "signup_title_nano": "Nano Beta Registrera dig",
+        "reset_title_nano": "Nano Beta återställer lösenord",
+        "signin_title_nano": "Nano Beta Logga in"
     },
     "dash": {
         "dash": "Hem",
@@ -855,7 +1226,16 @@
         "valid_message": "Godkända filtyper är PDF.",
         "upload_completed": "uppladdad",
         "uploading": "uppladdning",
-        "disabled_upload": "Uppladdning inaktiverad. Ladda upp igen när den nuvarande uppladdningen har slutförts."
+        "disabled_upload": "Uppladdning inaktiverad. Ladda upp igen när den nuvarande uppladdningen har slutförts.",
+        "display_name": "Visningsnamn",
+        "id_management": "ID-hantering",
+        "provider_id": "Leverantörs-ID",
+        "idp_id": "IdP-enhetens ID",
+        "sso_url": "SSO URL",
+        "rp_id": "RS / SP-enhets-ID",
+        "x509": "X.509 certifikat",
+        "callback_url": "URL för återuppringning",
+        "refreshing": "Uppfriskande"
     },
     "noti": {
         "deny": "Neka",
@@ -1117,7 +1497,17 @@
         "new_version_downloaded": "En ny version har laddats ner. Starta om programmet för att tillämpa uppdateringarna.",
         "latest_version_updated": "Du har uppdaterat till den senaste versionen!",
         "update_measure_tool": "Ü uppdatera mätverktyg",
-        "update_auto_loc": "Uppdatering av AutoLocations"
+        "update_auto_loc": "Uppdatering av AutoLocations",
+        "license_expired_banner": "Test / licens har gått ut. <a href='./../../pricing'>Prenumerera nu!</a>",
+        "cannot_edit_term_block": "Du måste vara inloggad för att redigera terminalblock.",
+        "login_to_save_comp": "Logga in för att spara din anpassade komponent i databasen",
+        "license_expired": "Test / licens har gått ut. Produktivitetsverktyg från Electra Cloud kommer att inaktiveras.",
+        "prefab_create": "Prefab-kretsen skapas",
+        "import_drawing": "Det kan ta några minuter att importera ritning",
+        "update_layouts": "Uppdaterar layouter",
+        "inserting_name": "Infoga namn",
+        "update_linkage": "Uppdatering av länkar",
+        "update_lzone": "Uppdatering av stegezoner"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
@@ -1242,14 +1632,23 @@
         "text-effects": "Lägg till skugga, avfasning eller suddighetseffekt i din text",
         "dark-theme-vecta": "Visa mörkt tema för att aktivera mörkt läge",
         "duplicate-shape": "Ctrl + D för att tillämpa ändringarna på egenskaperna för den valda formen",
-        "dark-theme-electra": "Visa mörkt tema för att aktivera mörkt läge"
+        "dark-theme-electra": "Visa mörkt tema för att aktivera mörkt läge",
+        "symbol-search": "Sök efter symboler i Vektas växande symbolbibliotek",
+        "create-and-invite-team": "Bjud in medlemmar att få ditt team igång i Electra",
+        "create-symbol": "Använd Skapa symbol för att automatiskt infoga intelligens och data i din anpassade symbol",
+        "generate-report": "Generera enkelt BOM och andra rapporter i Electra för att spara tid",
+        "version-history": "Använd versionshistorik för att hålla reda på förändringar i din ritning",
+        "chat": "Chatta med dina lagkamrater direkt i Vecta's redaktör",
+        "generate-layout": "Generera automatiskt panellayout med ett enda klick",
+        "drag-and-drop": "Electra arbetar med enkel dra och släpp, ingen utbildning krävs",
+        "dxf-import-and-export": "Importera DXF till Electra och exportera från den",
+        "terminal-list": "Att använda och generera terminaler är ett ögonblick i Electra"
     },
     "tips": {
         "Lock.tip": "Stencil låst",
         "undo.icon": "Ångra <br> (Ctrl-Z)",
         "grid.icon": "Rutnät",
         "bold.icon": "Fetstil",
-        "save.icon": "Dra och släpp till vänster för att spara",
         "redo.icon": "Göra om <br> (Ctrl-Y)",
         "noti.icon": "Notifiering",
         "list.icon": "Listvy",
@@ -1344,7 +1743,8 @@
             "draw_conn_verti.icon": "Armbågeanslutning",
             "draw_conn_line.icon": "Rak kontakt",
             "draw_conn_points.icon": "Anslutningspunkt",
-            "draw_conn_jump.icon": "Hoppkontakt"
+            "draw_conn_jump.icon": "Hoppkontakt",
+            "draw_conn_ljump.icon": "Rakt hoppkontakt"
         },
         "preserve_ratio.icon": "Lås / Lås upp bredd och höjd",
         "draw_textblock.icon": "Rita, flytta, ändra storlek på eller rotera text <br> (Ctrl-5)",
@@ -1360,7 +1760,6 @@
         "Remove.tip": "Avlägsna",
         "Save.tip": "Spara",
         "edit_profile.icon": "Redigera profil",
-        "plug_main.icon": "plugins",
         "fit_to_drawing.tip": "Öka bredden och höjden för att lägga till marginalen",
         "new_page.icon": "Ny sida",
         "cursor.icon": "Pekare, panverktyg <br> (Ctrl-1)",
@@ -1388,12 +1787,23 @@
         "view.icon": "Se",
         "export.icon": "Exportera",
         "share.icon": "Dela med sig",
-        "file.icon": "Inställningar"
+        "file.icon": "Inställningar",
+        "edit_info.icon": "En bekräftelseslänk kommer <br> skickas till ditt tidigare e-postmeddelande.",
+        "create_schem.icon": "Skapa schematisk symbol",
+        "set_public": {
+            "label": "Vem som helst på internet kan hitta och komma åt"
+        },
+        "comp_db.icon": "Komponentdatabas",
+        "create_layout_sym.icon": "Skapa layoutsymbol",
+        "generate_layout.icon": "Generera layout",
+        "title_blocks.icon": "Titelblock",
+        "electra_export.icon": "Exportrapport",
+        "manage_comps.icon": "Hantera komponenter",
+        "options.icon": "Dokumentalternativ"
     },
     "verify": {
         "failed": "Verifiering misslyckades",
         "resend": "Skicka om bekräftelse mail",
-        "update": "Uppdatera",
         "landing": "Gå till Vecta.io",
         "confirm": "Bekräfta din emailadress",
         "verifying": "Verifierar",
@@ -1413,7 +1823,8 @@
         "email_signin_retry": "Uppdatera och försök igen.",
         "email_signin_retry_success": "Logga in e-post skickat. Kolla in din e-post för inloggningslänk.",
         "pending_status": "Ditt konto väntar för närvarande på godkännande.",
-        "pending_message": "Ett bekräftelsemeddelande skickas när det har godkänts"
+        "pending_message": "Ett bekräftelsemeddelande skickas när det har godkänts",
+        "landing_nano": "Gå till Nano"
     },
     "signup": {
         "failed": "Registrering misslyckades",
@@ -1482,359 +1893,24 @@
         "save_search": "Spara sökning",
         "symbol_tags": "Taggar (Separate med komma)",
         "symbol_name": "Namn",
-        "revert_icon": "Återgå",
         "stencil_name": "Stencil namn",
         "find_symbols": "Hitta symboler",
         "stencil_desc": "Stencil beskrivning",
         "icon_preview": "Förhandsvisning",
         "load_stencils": "Laddar stenciler...",
         "total_results": "av @ angivna resultat",
-        "stencil_2": {
-            "desc": "Affärsmodellduk i olika storlekar",
-            "name": "Business Model Canvas"
-        },
-        "stencil_1": {
-            "name": "Färgglada anteckningar",
-            "desc": "Färgglada noter symboler",
-            "cat": [
-                "People, flags & documents"
-            ]
-        },
-        "stencil_6": {
-            "name": "AWS Application Services",
-            "desc": "Amazon Web Services: Applikationstjänster",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
         "public_stencil": "Offentlig - Vem som helst har tillgång till symboler",
-        "stencil_4": {
-            "desc": "Google Cloud Platform Symboler",
-            "name": "Google Cloud Platform",
-            "cat": [
-                "Google"
-            ]
-        },
         "create_stencil": "Skapa stencil",
         "stencil_access": "Stencil Access",
         "no_drop_symbol": "Du kan inte spara en symbol i den sparade sökstenen.",
         "not_updateable": "Stencil inte uppdaterad",
-        "stencil_7": {
-            "name": "AWS Artificial Intelligence",
-            "desc": "Amazon Web Services: Konstgjord intelligens",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
         "delete_stencil": "Radera stencil",
-        "stencil_8": {
-            "desc": "Amazon Web Services: Affärsproduktivitet",
-            "name": "AWS Business Productivity",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_0": {
-            "desc": "Generella flödesschema symboler",
-            "name": "Flödesschema",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_9": {
-            "name": "AWS Beräkna",
-            "desc": "Amazon Web Services: Beräkna",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_3": {
-            "name": "Google",
-            "desc": "Googles produktsymboler",
-            "cat": [
-                "Google"
-            ]
-        },
         "no_edit_symbol": "Du har inte behörighet att redigera denna symbol.",
-        "stencil_5": {
-            "desc": "Amazon Web Services: Analytics",
-            "name": "AWS Analytics",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_42": {
-            "name": "UML Entity-förhållande",
-            "desc": "UML Entity Relationship Diagramming",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_12": {
-            "name": "AWS Developer Tools",
-            "desc": "Amazon Web Services: Utvecklarverktyg",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_30": {
-            "desc": "Microsoft Azure: Systems center",
-            "name": "Microsoft Systems Center",
-            "cat": [
-                "Microsoft"
-            ]
-        },
-        "stencil_22": {
-            "desc": "Amazon Web Services: Programvaruutvecklingssatser",
-            "name": "AWS SDKs",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_41": {
-            "name": "UML-klass",
-            "desc": "UML-klassdiagrammering",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_23": {
-            "name": "AWS Security Identity & Compliance",
-            "desc": "Amazon Web Services: Identitet och överensstämmelse",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_32": {
-            "name": "Microsoft Intune",
-            "desc": "Microsoft Azure: Intune",
-            "cat": [
-                "Microsoft"
-            ]
-        },
-        "stencil_20": {
-            "desc": "Amazon Web Services: Nätverk och innehållsleverans",
-            "name": "AWS Networking & Content Delivery",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_15": {
-            "desc": "Amazon Web Services: Internet av saker",
-            "name": "AWS Internet av saker",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_14": {
-            "name": "AWS General",
-            "desc": "Amazon Web Services: Allmänt",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
         "symbol_no_exist": "Det gick inte att ställa in följande objekt. Symbolen kan inte längre existera, eller <br /> du har inte behörighet att komma åt den.",
-        "stencil_34": {
-            "name": "människor",
-            "desc": "",
-            "cat": [
-                "People, flags & documents"
-            ]
-        },
-        "stencil_24": {
-            "desc": "Amazon Web Services: Lagring",
-            "name": "AWS Storage",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_43": {
-            "desc": "En representation av logiska eller matematiska relationer",
-            "name": "Venn Diagram",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_26": {
-            "name": "Färgrika dokument och mappar",
-            "desc": "Färgglada dokument- och mappsymboler",
-            "cat": [
-                "Människor, flaggor och dokument"
-            ]
-        },
-        "stencil_13": {
-            "desc": "Amazon Web Services: Spelutveckling",
-            "name": "AWS Game Development",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_40": {
-            "name": "UML-aktivitet",
-            "desc": "UML Aktivitetsdiagrammering",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
         "private_stencil": "Privat - Endast du eller ditt team kan komma åt symboler",
-        "stencil_27": {
-            "desc": "Microsoft Azure: Svartvita symboler",
-            "name": "Microsoft Azure Mono",
-            "cat": [
-                "Microsoft"
-            ]
-        },
-        "stencil_11": {
-            "desc": "Amazon Web Services: Stöd för stationär program",
-            "name": "AWS Desktop App Streaming",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_25": {
-            "desc": "Allmänna webbteknologisymboler",
-            "name": "Webteknologier",
-            "cat": [
-                "Datorer och nätverk"
-            ]
-        },
-        "stencil_16": {
-            "name": "AWS Management Tools",
-            "desc": "Amazon Web Services: Managementverktyg",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_28": {
-            "desc": "Microsoft Azure: Färg symboler",
-            "name": "Microsoft Azure Color",
-            "cat": [
-                "Microsoft"
-            ]
-        },
-        "stencil_47": {
-            "desc": "En grafisk representation av idéer och begrepp",
-            "name": "Mind map"
-        },
         "no_edit_stencil": "Du har inte behörighet att redigera denna stencil.",
-        "stencil_33": {
-            "name": "Microsoft Office Products",
-            "desc": "Microsoft Azure: Kontorsprodukter",
-            "cat": [
-                "Microsoft"
-            ]
-        },
-        "stencil_19": {
-            "name": "AWS Mobile Services",
-            "desc": "Amazon Web Services: Mobila tjänster",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_39": {
-            "desc": "UML Använd fallscheman",
-            "name": "UML Användningsfall",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_10": {
-            "desc": "Amazon Web Services: Databas",
-            "name": "AWS-databasen",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_48": {
-            "name": "tabeller",
-            "desc": "En representation av rader och kolumner av celler"
-        },
-        "stencil_17": {
-            "name": "AWS Messaging",
-            "desc": "Amazon Web Services: Meddelanden",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_35": {
-            "name": "behållare",
-            "desc": "Block som fungerar som behållare",
-            "cat": [
-                "Människor, flaggor och dokument"
-            ]
-        },
-        "stencil_44": {
-            "desc": "Bar diagram representation",
-            "name": "Stapeldiagram",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_36": {
-            "desc": "Symboler för nätverksinfrastruktur",
-            "name": "Nätverksinfrastruktur",
-            "cat": [
-                "Datorer och nätverk"
-            ]
-        },
         "untitled_symbol": "Namnlös symbol",
-        "stencil_45": {
-            "name": "Organisationsschema",
-            "desc": "En grafisk representation av en organisations struktur som visar relationerna mellan positionerna eller jobben inom den.",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_38": {
-            "desc": "Displayenheter",
-            "name": "Datorer och skärmar",
-            "cat": [
-                "Datorer och nätverk"
-            ]
-        },
-        "stencil_18": {
-            "name": "AWS-migrering",
-            "desc": "Amazon Web Services: Migration",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
         "creating_search": "Skapa stencil ...",
-        "stencil_46": {
-            "name": "UML Gateway",
-            "desc": "UML-beslutspunkt som kan justera sökvägen baserat på villkor eller händelser.",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_21": {
-            "name": "AWS On Demand Workforce",
-            "desc": "Amazon Web Services: On-demand arbetskraft",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_29": {
-            "name": "Microsoft virtuella maskiner",
-            "desc": "Microsoft Azure: Virtuella maskiner",
-            "cat": [
-                "Microsoft"
-            ]
-        },
-        "stencil_31": {
-            "desc": "Microsoft Azure: Enterprise",
-            "name": "Microsoft Enterprise",
-            "cat": [
-                "Microsoft"
-            ]
-        },
-        "stencil_37": {
-            "name": "Basic Network",
-            "desc": "Grundläggande nätverkssymboler",
-            "cat": [
-                "Datorer och nätverk"
-            ]
-        },
         "no_delete_symbol": "Du har inte behörighet att radera den här symbolen.",
         "untitled_stencil": "Namnlös stencil",
         "login_make_symbol": "Logga in för att skapa en symbol.",
@@ -1847,1420 +1923,118 @@
             "name": "Mätverktyg",
             "desc": "Verktyg för mätningar"
         },
-        "stencil_50": {
-            "name": "Material designpaletter",
-            "desc": "Färgpaletter inspirerade av Material Design",
-            "cat": [
-                "Google"
-            ]
-        },
         "open_all": "Öppna alla stenciler",
         "stencil_51": {
             "name": "Titelblock",
             "desc": "Mallar för titelblock"
         },
-        "stencil_52": {
-            "name": "AWS Contact Center",
-            "desc": "Amazon Web Services: Kontaktcenter",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
-        "stencil_53": {
-            "name": "AWS Containrar",
-            "desc": "Amazon Web Services: Containrar",
-            "cat": [
-                "Amazon Web Services"
-            ]
-        },
         "no_share_stencil": "Du har inte behörighet att dela denna stencil.",
-        "stencil_54": {
-            "name": "Foto Organisationskarta",
-            "desc": "En lista över behållare för organisationsscheman med bildhållare",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_55": {
-            "name": "Serif typsnitt",
-            "desc": "Föredragna typsnitt för tryckt medium",
-            "cat": [
-                "Google"
-            ]
-        },
-        "stencil_56": {
-            "name": "San Serif typsnitt",
-            "desc": "Föredragna teckensnitt för digital skärm.",
-            "cat": [
-                "Google"
-            ]
-        },
-        "stencil_57": {
-            "name": "Monospace typsnitt",
-            "desc": "Föredragna teckensnitt för skrivskrivning.",
-            "cat": [
-                "Google"
-            ]
-        },
-        "stencil_58": {
-            "name": "Teckensnitt för handstil",
-            "desc": "Föredragna teckensnitt för branding, design konstverk och tryckt medium",
-            "cat": [
-                "Google"
-            ]
-        },
-        "stencil_59": {
-            "name": "Teckensnitt för visning",
-            "desc": "Föredragna teckensnitt för branding, design konstverk och tryckt medium",
-            "cat": [
-                "Google"
-            ]
-        },
-        "stencil_60": {
-            "name": "Cisco Application Control Engine",
-            "desc": "Application Control Engine-ACE XML Gateway",
-            "cat": [
-                "Cisco"
-            ]
-        },
-        "stencil_61": {
-            "name": "Cisco UC500-serien",
-            "desc": "Cisco Unified Communications 500 Series för småföretag",
-            "cat": [
-                "Cisco"
-            ]
-        },
-        "stencil_62": {
-            "name": "Cisco Security Stealthwatch",
-            "desc": "Cisco Security Stealthwatch-symboler",
-            "cat": [
-                "Cisco"
-            ]
-        },
-        "stencil_63": {
-            "name": "Cisco SAFE Architectural",
-            "desc": "Cisco SAFE Arkitektoniska symboler",
-            "cat": [
-                "Cisco"
-            ]
-        },
         "sym_update_failed": "Vissa symboler är inte uppdaterade eftersom de <br /> inte längre existerar, eller du har inte behörighet.",
         "all_saved": "Alla stenciler ändras sparade",
-        "stencil_65": {
-            "name": "Sociala media",
-            "desc": "En samling välkända sociala medierikoner"
-        },
-        "stencil_66": {
-            "name": "Flaggor av världen",
-            "desc": "Stor samling av världs flaggor i SVG-format",
-            "cat": [
-                "Människor, flaggor och dokument"
-            ]
-        },
-        "stencil_67": {
-            "name": "Golv planer",
-            "desc": "Anpassningsbara planritningssymboler"
-        },
         "stencil_68": {
             "name": "Avatars",
-            "desc": "Avatars",
-            "cat": [
-                "Människor, flaggor och dokument"
-            ]
+            "desc": "Avatars"
         },
         "stencil_69": {
             "name": "kommentarer",
-            "desc": "Kommentarer tilldelas lager, så att du kan anpassa dess synlighet under export / utskrift",
-            "cat": [
-                "Människor, flaggor och dokument"
-            ]
-        },
-        "stencil_70": {
-            "name": "Donut Diagram",
-            "desc": "Donut Chart representation",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_64": {
-            "name": "Sociala medier (skugga)",
-            "desc": "Samling av ikoner för sociala medier",
-            "cat": [
-                "odefinierad"
-            ]
-        },
-        "stencil_71": {
-            "cat": [
-                "odefinierad"
-            ],
-            "name": "Mätare och mätare",
-            "desc": "Interactive gauges and meters"
+            "desc": "Kommentarer tilldelas lager, så att du kan anpassa dess synlighet under export / utskrift"
         },
         "free_svg_symbols": "Gratis SVG-symboler",
         "request_symbols_title": "Begäran om symboler",
         "request_symbols": "Begär symboler",
-        "stencil_72": {
-            "name": "Varumärken 0 - 9",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://www.vectorlogo.zone/"
-        },
-        "stencil_73": {
-            "name": "Varumärken AA - AO",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://www.vectorlogo.zone/"
-        },
-        "stencil_74": {
-            "name": "Brands AP - AZ",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_75": {
-            "name": "Brands BA - BZ",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_76": {
-            "name": "Varumärken CA - CL",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://www.vectorlogo.zone/"
-        },
-        "stencil_77": {
-            "name": "Varumärken CM - CZ",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://www.vectorlogo.zone/"
-        },
-        "stencil_78": {
-            "name": "Brands DA - DZ",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_79": {
-            "name": "Brands EA - EZ",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_80": {
-            "name": "Brands FA - FZ",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_81": {
-            "name": "Varumärken GA - GN",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_82": {
-            "name": "Brands GO - GZ",
-            "desc": "",
-            "cat": [
-                "Varumärkeslogotyp"
-            ],
-            "credit_name": "Vector Logo Zone",
-            "credit_link": "https://vectorlogo.zone/"
-        },
-        "stencil_105": {
-            "name": "Wireframe Browser",
-            "desc": "",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_106": {
-            "name": "Wireframe Android",
-            "desc": "",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_107": {
-            "name": "Wireframe iPhone",
-            "desc": "",
-            "cat": [
-                "Diagram och diagram"
-            ]
-        },
-        "stencil_83": {
-            "name": "Brands HA - HZ"
-        },
-        "stencil_84": {
-            "name": "Varumärken IA - IZ"
-        },
-        "stencil_85": {
-            "name": "Brands JA - JZ"
-        },
-        "stencil_86": {
-            "name": "Varumärken KA - KZ"
-        },
-        "stencil_87": {
-            "name": "Brands LA - LZ"
-        },
-        "stencil_88": {
-            "name": "Brands MA - MZ"
-        },
-        "stencil_89": {
-            "name": "Varumärken NA - NZ"
-        },
-        "stencil_90": {
-            "name": "Varumärken OA - OZ"
-        },
-        "stencil_91": {
-            "name": "Brands PA - PI"
-        },
-        "stencil_92": {
-            "name": "Varumärken PJ - PZ"
-        },
-        "stencil_93": {
-            "name": "Brands QA - QZ"
-        },
-        "stencil_94": {
-            "name": "Varumärken RA - RZ"
-        },
-        "stencil_95": {
-            "name": "Varumärken SA - SM"
-        },
-        "stencil_96": {
-            "name": "Brands SN - SZ"
-        },
-        "stencil_97": {
-            "name": "Brands TA - TH"
-        },
-        "stencil_98": {
-            "name": "Varumärken TI - TZ"
-        },
-        "stencil_99": {
-            "name": "Brands UA - UZ"
-        },
-        "stencil_100": {
-            "name": "Varumärken VA - VZ"
-        },
-        "stencil_101": {
-            "name": "Brands WA - WZ"
-        },
-        "stencil_102": {
-            "name": "Varumärken XA - XZ"
-        },
-        "stencil_103": {
-            "name": "Brands YA - YZ"
-        },
-        "stencil_104": {
-            "name": "Varumärken ZA - ZZ"
-        },
-        "stencil_108": {
-            "name": "Aktiviteter - Konsthantverk",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_109": {
-            "name": "Aktiviteter - Prismedalj",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_110": {
-            "name": "Aktiviteter - Evenemang",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_111": {
-            "name": "Aktiviteter - Spel",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_112": {
-            "name": "Aktiviteter - Sport",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_113": {
-            "name": "Djur Natur - Animal amfibier",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_114": {
-            "name": "Djur Nature - Animal Bird",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_115": {
-            "name": "Djur Nature - Animal Bug",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_116": {
-            "name": "Animals Nature - Animal Mammal",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_117": {
-            "name": "Animals Nature - Animal Marine",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_118": {
-            "name": "Djur Natur - Animal Reptile",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_119": {
-            "name": "Djur Natur - Växtblomma",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_120": {
-            "name": "Animals Nature - Plant Other",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_121": {
-            "name": "Komponent - Hårstil",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_122": {
-            "name": "Komponent - Hudton",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_123": {
-            "name": "Extras Openmoji - Djur Natur",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_124": {
-            "name": "Extras Openmoji - Brand",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_125": {
-            "name": "Extras Openmoji - Emergency",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_126": {
-            "name": "Extra Openmoji - Mat Dryck",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_127": {
-            "name": "Extra Openmoji - Interaktion",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_128": {
-            "name": "Extras Openmoji - Objekt",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_129": {
-            "name": "Extras Openmoji - People",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_130": {
-            "name": "Extras Openmoji - Teknik",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_131": {
-            "name": "Extras Openmoji - Travel Places",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_132": {
-            "name": "Extras Openmoji - Ui Element",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_133": {
-            "name": "Extras Unicode - Symbol Other",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_134": {
-            "name": "Flaggor - Land Flagga",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_135": {
-            "name": "Flaggor - Flagga",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_136": {
-            "name": "Flaggor - Indelningsflagg",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_137": {
-            "name": "Mat Dryck - Porslin",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_138": {
-            "name": "Mat Dryck - Dricka",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_139": {
-            "name": "Mat Dryck - Mat Asiatisk",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_140": {
-            "name": "Mat Dryck - Mat Frukt",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_141": {
-            "name": "Mat Dryck - Mat Marine",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_142": {
-            "name": "Mat Dryck - Matberedd",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_143": {
-            "name": "Mat Dryck - Mat söt",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_144": {
-            "name": "Mat Dryck - Mat Vegetabiliska",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_145": {
-            "name": "Objekt - Boka papper",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_146": {
-            "name": "Objekt - Kläder",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_147": {
-            "name": "Objects - Computer",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_148": {
-            "name": "Objekt - Hushåll",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_149": {
-            "name": "Objekt - Light Video",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_150": {
-            "name": "Objekt - Lås",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_151": {
-            "name": "Objects - Mail",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_152": {
-            "name": "Objekt - Medicin",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_153": {
-            "name": "Objekt - pengar",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_154": {
-            "name": "Objekt - Musik",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_155": {
-            "name": "Objekt - Musikinstrument",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_156": {
-            "name": "Objekt - Kontor",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_157": {
-            "name": "Objekt - annat objekt",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_158": {
-            "name": "Objekt - Telefon",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_159": {
-            "name": "Objekt - Vetenskap",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_160": {
-            "name": "Objekt - Ljud",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_161": {
-            "name": "Objekt - Verktyg",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_162": {
-            "name": "Objects - Writing",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_163": {
-            "name": "People Body - Body Parts",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_164": {
-            "name": "Människor Kropp - Familj",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_165": {
-            "name": "People Body - Hand Fingers Closed",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_166": {
-            "name": "Folk Kropp - Hand Fingrar Öppna",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_167": {
-            "name": "Människor Kropp - Hand Fingers Delvis",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_168": {
-            "name": "People Body - Hand Prop",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_169": {
-            "name": "People Body - Hand Single Finger",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_170": {
-            "name": "People Body - Hands",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_171": {
-            "name": "People Body - Person",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_172": {
-            "name": "People Body - Person Activity",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_173": {
-            "name": "People Body - Person Fantasy",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_174": {
-            "name": "People Body - Person Gesture",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_175": {
-            "name": "People Body - Person Resting",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_176": {
-            "name": "People Body - Person Role",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_177": {
-            "name": "People Body - Person Sport",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_178": {
-            "name": "Människor Kropp - Person Symbol",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_179": {
-            "name": "Smileys Emotion - Cat Face",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_180": {
-            "name": "Smileys Emotion - Emotion",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_181": {
-            "name": "Smileys Emotion - Face Affection",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_182": {
-            "name": "Smileys Emotion - Face Concerned",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_183": {
-            "name": "Smileys Emotion - Face Costume",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_184": {
-            "name": "Smileys Emotion - Face Glasses",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_185": {
-            "name": "Smileys Emotion - Face Hand",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_186": {
-            "name": "Smileys Emotion - Face Hat",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_187": {
-            "name": "Smileys Emotion - Face Negative",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_188": {
-            "name": "Smileys Emotion - Face Neutral Skeptical",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_189": {
-            "name": "Smileys Emotion - Face Sleepy",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_190": {
-            "name": "Smileys Emotion - Face Smiling",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_191": {
-            "name": "Smileys Emotion - Face Tongue",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_192": {
-            "name": "Smileys Emotion - Face Unwell",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_193": {
-            "name": "Smileys Emotion - Monkey Face",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_194": {
-            "name": "Symbols - Alphanum",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_195": {
-            "name": "Symbols - Arrow",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_196": {
-            "name": "Symbols - Av Symbol",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_197": {
-            "name": "Symbols - Gender",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_198": {
-            "name": "Symboler - Geometrisk",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_199": {
-            "name": "Symbols - Keycap",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_200": {
-            "name": "Symbols - Other Symbol",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_201": {
-            "name": "Symboler - Religion",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_202": {
-            "name": "Symbols - Transport Sign",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_203": {
-            "name": "Symbols - Warning",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_204": {
-            "name": "Symbols - Zodiac",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_205": {
-            "name": "Travel Places - Hotel",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_206": {
-            "name": "Travel Places - Place Building",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_207": {
-            "name": "Travel Places - Place Geographic",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_208": {
-            "name": "Travel Places - Place Map",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_209": {
-            "name": "Travel Places - Place Other",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_210": {
-            "name": "Travel Places - Place Religious",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_211": {
-            "name": "Travel Places - Sky Weather",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_212": {
-            "name": "Resor Platser - Tid",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_213": {
-            "name": "Travel Places - Transport Air",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_214": {
-            "name": "Travel Places - Transport Ground",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_215": {
-            "name": "Travel Places - Transport Water",
-            "desc": "",
-            "cat": [
-                "OpenMoji"
-            ],
-            "credit_name": "OpenMoji",
-            "credit_link": "https://openmoji.org/"
-        },
-        "stencil_238": {
-            "name": "Computer Brands",
-            "desc": "",
-            "cat": [
-                "Datorer och nätverk"
-            ]
-        },
-        "stencil_239": {
-            "name": "File formats",
-            "desc": "List of common file formats",
-            "cat": [
-                "Människor, flaggor och dokument"
-            ]
-        },
-        "attachment": "Attachment",
-        "stencil_241": {
-            "name": "Cisco Network Topology Icons Black And White",
-            "desc": "",
-            "cat": [
-                "Cisco"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "Cisco"
-        },
-        "stencil_240": {
-            "name": "Cisco Network Topology Icons 3015",
-            "desc": "",
-            "cat": [
-                "Cisco"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "Cisco"
-        },
-        "stencil_242": {
-            "name": "Cisco Wireless IW 3700",
-            "desc": "",
-            "cat": [
-                "Cisco"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "Cisco"
-        },
-        "stencil_244": {
-            "name": "Cisco Unified IP-telefon 7800 och 8800-serien",
-            "desc": "",
-            "cat": [
-                "Cisco"
-            ],
-            "credit_link": "https://cisco.com/",
-            "credit_name": "Cisco"
-        },
         "sym_copied": "Symbol kopierad",
         "getting_stencils": "Få stencils",
         "drop_symbol": "Släpp symbol",
         "show_more": "Visa mer",
         "login_save_symbol": "Logga in för att spara din symbol.",
         "stencil_223": {
-            "desc": "trådar"
+            "desc": "trådar",
+            "name": "trådar"
         },
         "stencil_225": {
-            "desc": "IEC-symboler"
+            "desc": "IEC-symboler",
+            "name": "IEC-symboler"
         },
         "stencil_229": {
-            "desc": "Enkla linjesymboler"
+            "desc": "Enkla linjesymboler",
+            "name": "Enlinjesymboler"
         },
         "stencil_226": {
-            "desc": "Elektroniska symboler"
+            "desc": "Elektroniska symboler",
+            "name": "Elektroniska symboler"
         },
         "stencil_224": {
             "desc": "JIC / NFPA-symboler",
             "name": "JIC / NFPA-symboler"
         },
         "stencil_228": {
-            "desc": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar"
+            "desc": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar",
+            "name": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar"
         },
         "stencil_232": {
-            "desc": "Pneumatiska pumpar, cylindrar och motorer"
+            "desc": "Pneumatiska pumpar, cylindrar och motorer",
+            "cat": [
+                "Pneumatisk"
+            ],
+            "name": "Pneumatiska pumpar, cylindrar och motorer"
         },
         "stencil_230": {
-            "desc": "Symboler för panellayout"
+            "desc": "Symboler för panellayout",
+            "name": "Layout"
         },
         "stencil_231": {
-            "desc": "Symboler för 3D-panellayout"
+            "desc": "Symboler för 3D-panellayout",
+            "name": "Layout 3D"
         },
         "stencil_227": {
-            "desc": "IEC Power, Meters, Transformers, Motors"
+            "desc": "IEC Power, Meters, Transformers, Motors",
+            "name": "IEC Power, Meters, Transformers, Motors"
         },
         "stencil_234": {
-            "desc": "Pneumatisk Diverse"
+            "desc": "Pneumatisk Diverse",
+            "cat": [
+                "Pneumatisk"
+            ],
+            "name": "Pneumatiska övriga"
         },
         "stencil_233": {
-            "desc": "Pneumatiska ventiler"
+            "desc": "Pneumatiska ventiler",
+            "cat": [
+                "Pneumatisk"
+            ],
+            "name": "Pneumatiska ventiler"
         },
         "stencil_235": {
-            "desc": "Hydraulisk Diverse"
+            "desc": "Hydraulisk Diverse",
+            "cat": [
+                "Hydraulisk"
+            ],
+            "name": "Hydrauliska övriga"
         },
         "stencil_247": {
-            "desc": "Färdiga kretsar"
+            "desc": "Färdiga kretsar",
+            "name": "Prefab Circuits"
         },
         "stencil_237": {
-            "desc": "Hydrauliska pumpar, cylindrar och motorer"
+            "desc": "Hydrauliska pumpar, cylindrar och motorer",
+            "cat": [
+                "Hydraulisk"
+            ],
+            "name": "Hydrauliska pumpar, cylindrar och motorer"
         },
         "stencil_236": {
-            "desc": "Hydrauliska ventiler"
+            "desc": "Hydrauliska ventiler",
+            "cat": [
+                "Hydraulisk"
+            ],
+            "name": "Hydrauliska ventiler"
+        },
+        "saving_stencils": "Spara stenciler",
+        "credits_to": "Krediter till",
+        "credits_link": "Kreditlänk",
+        "stencil_246": {
+            "name": "rapporter",
+            "desc": "Electra rapporterar"
         }
     },
     "integrate": {
@@ -3303,33 +2077,7 @@
             "name": "Hej världen",
             "desc": "Skriv ut Hej, \"skaparens namn\" i ritningen"
         },
-        "plugin_1": {
-            "name": "TSV till bordet",
-            "desc": "Skapa ett bord från en tsv-fil som har tappat bort",
-            "cat": [
-                "rapporter"
-            ]
-        },
-        "plugin_2": {
-            "name": "JSON till träd",
-            "desc": "Konvertera en tappad JSON-fil till trädvy",
-            "cat": [
-                "rapporter"
-            ]
-        },
-        "plugin_3": {
-            "name": "Rita fraktalträd",
-            "desc": "Skapa ett fraktalträd"
-        },
-        "plugin_4": {
-            "name": "spridare",
-            "desc": "Slumpmässigt fördela utvalda former i din ritning"
-        },
         "create_plugin": "Skapa plugin",
-        "plugin_5": {
-            "name": "Pennvässare",
-            "desc": "Snap dina teckens former till närmaste galler"
-        },
         "plugin_6": {
             "name": "Linjediagram",
             "desc": "Skriv en linje / kurvdiagram enligt ingående data",
@@ -3344,67 +2092,35 @@
                 "diagram"
             ]
         },
-        "plugin_8": {
-            "name": "Material Design ikoner",
-            "desc": "Markera och importera ikoner från en lista med material.io-ikoner",
-            "cat": [
-                "ikoner"
-            ]
-        },
-        "plugin_9": {
-            "name": "Teckensnitt Fantastiska ikoner",
-            "desc": "Markera och importera ikoner från en lista med Font Awesome ikoner (gratis)",
-            "cat": [
-                "ikoner"
-            ]
-        },
-        "plugin_11": {
-            "name": "införliva",
-            "desc": "Transponera en grupp av former"
-        },
         "plugin_10": {
             "name": "Protractor",
-            "desc": "Rita en graderare med en cirkel"
+            "desc": "Rita en graderare med en cirkel",
+            "cat": [
+                "Produktivitetsverktyg"
+            ]
         },
         "plugin_12": {
             "name": "spacer",
-            "desc": "Lägg mellanslag mellan former."
-        },
-        "plugin_13": {
-            "name": "Splitter",
-            "desc": "Dela en rektangel eller kvadrat i angivet antal kolumner, rad och respektive rännor.",
+            "desc": "Lägg mellanslag mellan former.",
             "cat": [
-                "Allmän"
+                "Produktivitetsverktyg"
             ]
         },
         "plugin_15": {
             "name": "Bullet List",
-            "desc": "Lägg till kulor i textlistan"
+            "desc": "Lägg till kulor i textlistan",
+            "cat": [
+                "Produktivitetsverktyg"
+            ]
         },
         "success_refresh": "Plugin uppdateras med framgång.",
         "fail_refresh": "Plugin finns inte längre.",
-        "plugin_16": {
-            "name": "Choropleth Map",
-            "desc": "Konvertera JSON-data till skuggad andel enligt statistiska värden"
-        },
-        "plugin_17": {
-            "name": "tabeller",
-            "desc": "Skapar tabeller baserat på antal rader och kolumner"
-        },
-        "plugin_18": {
-            "name": "Polygon",
-            "desc": "Skapar polygon baserat på antal sidor input"
-        },
-        "plugin_19": {
-            "name": "Glödseffekt",
-            "desc": "Skapa en ellips med glödseffekt",
-            "cat": [
-                "Allmän"
-            ]
-        },
         "personal_plugins": "Personliga plugins",
         "team_plugins": "Team plugins",
-        "public_plugins": "Offentliga plugins"
+        "public_plugins": "Offentliga plugins",
+        "personal": "Personlig",
+        "team": "Team",
+        "public": "offentlig"
     },
     "dialog": {
         "help_title": "Vecta Hjälp",
@@ -3505,7 +2221,19 @@
         "err_5": "Ogiltig licens har upptäckts. Vänligen aktivera din seriell nyckel.",
         "region_restriction": "Regionbegränsning",
         "license_region_specific": "Den här landsspecifika licensen tillåter endast användning i köpningsområdet. Alla funktioner kommer inte att vara tillgängliga utanför inköpsområdet.",
-        "expired": "utgånget"
+        "expired": "utgånget",
+        "deactivate": "Avaktivera",
+        "activate": "Aktivera",
+        "activated": "Licens aktiverad",
+        "enter_serial_number": "Ange ditt serienummer",
+        "deactivated": "Licensen inaktiverad",
+        "trial_mode": "Testläge",
+        "activation": "Licensaktivering",
+        "deactivation": "Licensavaktivering",
+        "trial_left": "Du är för närvarande i provläge. Din licens upphör om @@ dagar",
+        "license_expired": "Test / licens har gått ut",
+        "err_1": "Ogiltig knapp anges.",
+        "license_expired_desc": "Test / licens har gått ut. Produktivitetsverktyg kommer att inaktiveras."
     },
     "videos": {
         "hnx0KutWDa0": {
@@ -3539,6 +2267,72 @@
         "AtNeKm_Y138": {
             "desc": "Skapa dina egna symboler, spara det och använd dem om och om igen. Dela det med ditt team och institutionalisera anpassade symboler genom hela företaget. Lär dig hur du gör det genom att titta på videon nedan.",
             "title": "Skapa dina egna anpassade symboler med Electra Cloud"
+        },
+        "UsXqhNtEGfg": {
+            "title": "Electra Cloud Quick Demo",
+            "desc": "En snabb 15-minuters demo av Electra Cloud, världens första molnbaserade elektriska CAD-programvara."
         }
+    },
+    "templates_dev": {
+        "-Loxn7-CtNjHfsPo42wA": {
+            "desc": "JIC Ritning",
+            "name": "JIC Ritning",
+            "cat": [
+                "Schematiska ritningar"
+            ]
+        },
+        "-LoxxvRqk_lWbHufxTdS": {
+            "cat": [
+                "Schematiska ritningar"
+            ],
+            "name": "IEC-ritning",
+            "desc": "IEC-ritning"
+        }
+    },
+    "templates": {
+        "-Loxpy4vEMNvGpXMIT8k": {
+            "name": "JIC Ritning",
+            "desc": "JIC Ritning",
+            "cat": [
+                "Schematiska ritningar"
+            ]
+        },
+        "-Loxq8iCdBBrJNuBMX-F": {
+            "cat": [
+                "Schematiska ritningar"
+            ],
+            "desc": "IEC-ritning",
+            "name": "IEC-ritning"
+        },
+        "-LoxqWnpmATjjX8sjiRH": {
+            "name": "Hydraulisk ritning",
+            "desc": "Hydraulisk ritning",
+            "cat": [
+                "Schematiska ritningar"
+            ]
+        },
+        "-LoxqnRmMJ13M6IJ4y04": {
+            "cat": [
+                "Schematiska ritningar"
+            ],
+            "desc": "Pneumatisk ritning",
+            "name": "Pneumatisk ritning"
+        }
+    },
+    "tools": {
+        "create_schem": "Skapa <br /> Symbol",
+        "generate_layout": "Generera <br /> Layout",
+        "comp_db": "Komponent <br /> Databas",
+        "options": "Dokumentera <br /> alternativ",
+        "create_layout_sym": "Skapa <br /> Layout-symbol",
+        "create_layout": "Skapa <br /> Layout",
+        "electra_import": "Importera",
+        "manage_comps": "Hantera <br /> Komponenter",
+        "electra_export": "Exportera <br /> Rapportera",
+        "title_blocks": "Titel <br /> Blocks",
+        "manage_wirings": "Hantera <br /> ledningar",
+        "prefab": "Prefab <br /> Krets",
+        "electra_tools": "Verktyg",
+        "manage_db": "Hantera <br /> databaser"
     }
 }
