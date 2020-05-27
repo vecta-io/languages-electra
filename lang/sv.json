@@ -1134,8 +1134,6 @@
         "registered_other_provider": "Det här e-postmeddelandet är redan registrerat hos @@. Redirecting",
         "access_contacts": "Tillåt åtkomst till din kontaktlista för enkel delning av team och ritningar",
         "social_no_email": "Detta @@-konto har inte e-post. <br/> Registrera dig med ett e-postmeddelande eller annat konto.",
-        "saml": "Logga in med SAML",
-        "signup_saml": "Registrera dig med SAML",
         "signup_title_nano": "Nano Beta Registrera dig",
         "reset_title_nano": "Nano Beta återställer lösenord",
         "signin_title_nano": "Nano Beta Logga in"
@@ -1227,14 +1225,6 @@
         "upload_completed": "uppladdad",
         "uploading": "uppladdning",
         "disabled_upload": "Uppladdning inaktiverad. Ladda upp igen när den nuvarande uppladdningen har slutförts.",
-        "display_name": "Visningsnamn",
-        "id_management": "ID-hantering",
-        "provider_id": "Leverantörs-ID",
-        "idp_id": "IdP-enhetens ID",
-        "sso_url": "SSO URL",
-        "rp_id": "RS / SP-enhets-ID",
-        "x509": "X.509 certifikat",
-        "callback_url": "URL för återuppringning",
         "refreshing": "Uppfriskande"
     },
     "noti": {
