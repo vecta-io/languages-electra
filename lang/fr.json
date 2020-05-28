@@ -1136,7 +1136,9 @@
         "signup_microsoft": "Inscrivez-vous avec Microsoft",
         "registered_other_provider": "Cet e-mail est déjà enregistré avec @@. Redirection",
         "access_contacts": "Autorisez l'accès à votre liste de contacts pour un partage facile des équipes et des dessins",
-        "social_no_email": "Ce compte @@ n&#39;a pas d&#39;e-mail. <br/> Veuillez vous inscrire avec un e-mail ou un autre compte."
+        "social_no_email": "Ce compte @@ n&#39;a pas d&#39;e-mail. <br/> Veuillez vous inscrire avec un e-mail ou un autre compte.",
+        "saml": "Connectez-vous avec SAML",
+        "signup_saml": "Inscrivez-vous avec SAML"
     },
     "noti": {
         "deny": "Nier",
@@ -1317,7 +1319,15 @@
         "valid_message": "Les types de fichiers acceptables sont PDF.",
         "upload_completed": "téléchargé avec succès",
         "uploading": "Téléchargement",
-        "disabled_upload": "Téléchargement désactivé. Veuillez télécharger à nouveau une fois le téléchargement en cours terminé."
+        "disabled_upload": "Téléchargement désactivé. Veuillez télécharger à nouveau une fois le téléchargement en cours terminé.",
+        "provider_id": "ID du fournisseur",
+        "callback_url": "URL de rappel",
+        "id_management": "Gestion des identifiants",
+        "sso_url": "URL SSO",
+        "display_name": "Afficher un nom",
+        "rp_id": "ID d'entité RS / SP",
+        "x509": "Certificats X.509",
+        "idp_id": "ID d'entité IdP"
     },
     "access": {
         "and": "et",
