@@ -1136,7 +1136,9 @@
         "signup_microsoft": "Microsoftにサインアップする",
         "registered_other_provider": "このメールはすでに@@に登録されています。リダイレクト",
         "access_contacts": "連絡先リストへのアクセスを許可して、チームと図面を簡単に共有できます",
-        "social_no_email": "この@@アカウントにはメールがありません。 <br/>メールまたは別のアカウントでサインアップしてください。"
+        "social_no_email": "この@@アカウントにはメールがありません。 <br/>メールまたは別のアカウントでサインアップしてください。",
+        "signup_saml": "SAMLでサインアップする",
+        "saml": "SAMLでサインイン"
     },
     "slack": {
         "add": "スラックに加える",
@@ -1260,7 +1262,15 @@
         "upload_completed": "正常にアップロードされました",
         "invalid_type": "無効なファイルタイプ",
         "uploading": "アップロードしています",
-        "disabled_upload": "アップロードが無効になっています。現在のアップロードが完了したら、もう一度アップロードしてください。"
+        "disabled_upload": "アップロードが無効になっています。現在のアップロードが完了したら、もう一度アップロードしてください。",
+        "id_management": "ID管理",
+        "rp_id": "RS / SPエンティティID",
+        "sso_url": "SSO URL",
+        "idp_id": "IdPエンティティID",
+        "provider_id": "プロバイダーID",
+        "callback_url": "コールバックURL",
+        "display_name": "表示名",
+        "x509": "X.509証明書"
     },
     "noti": {
         "left": "%% left Team @@。",
