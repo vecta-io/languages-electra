@@ -313,7 +313,9 @@
         "signin_link_sent": "發送登錄鏈接到",
         "registered_other_provider": "此電子郵件已經通過@@註冊。 正在重新導向",
         "access_contacts": "允許訪問您的聯繫人列表以便輕鬆共享團隊和繪圖",
-        "social_no_email": "該@@帳戶沒有電子郵件。 <br/>請使用電子郵件或其他帳戶進行註冊。"
+        "social_no_email": "該@@帳戶沒有電子郵件。 <br/>請使用電子郵件或其他帳戶進行註冊。",
+        "signup_saml": "使用SAML註冊",
+        "saml": "使用SAML登錄"
     },
     "signup": {
         "not_found": "未找到帳戶",
@@ -562,7 +564,15 @@
         "invalid_type": "無效文件類型 ",
         "valid_message": "可接受的文件類型為PDF",
         "uploading": "正在上傳中",
-        "disabled_upload": "禁止上傳。請在當前上傳完成後再次上傳"
+        "disabled_upload": "禁止上傳。請在當前上傳完成後再次上傳",
+        "provider_id": "提供商ID",
+        "idp_id": "IdP實體ID",
+        "id_management": "身份管理",
+        "callback_url": "回調網址",
+        "sso_url": "SSO URL",
+        "display_name": "顯示名稱",
+        "x509": "X.509證書",
+        "rp_id": "RS / SP實體ID"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
