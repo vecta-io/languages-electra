@@ -1136,7 +1136,9 @@
         "social_no_email": "Detta @@-konto har inte e-post. <br/> Registrera dig med ett e-postmeddelande eller annat konto.",
         "signup_title_nano": "Nano Beta Registrera dig",
         "reset_title_nano": "Nano Beta återställer lösenord",
-        "signin_title_nano": "Nano Beta Logga in"
+        "signin_title_nano": "Nano Beta Logga in",
+        "saml": "Logga in med SAML",
+        "signup_saml": "Registrera dig med SAML"
     },
     "dash": {
         "dash": "Hem",
@@ -1225,7 +1227,15 @@
         "upload_completed": "uppladdad",
         "uploading": "uppladdning",
         "disabled_upload": "Uppladdning inaktiverad. Ladda upp igen när den nuvarande uppladdningen har slutförts.",
-        "refreshing": "Uppfriskande"
+        "refreshing": "Uppfriskande",
+        "x509": "X.509 certifikat",
+        "provider_id": "Leverantörs-ID",
+        "callback_url": "URL för återuppringning",
+        "idp_id": "IdP-enhetens ID",
+        "sso_url": "SSO URL",
+        "rp_id": "RS / SP-enhets-ID",
+        "id_management": "ID-hantering",
+        "display_name": "Visningsnamn"
     },
     "noti": {
         "deny": "Neka",
