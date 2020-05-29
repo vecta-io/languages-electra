@@ -2334,5 +2334,9 @@
         "prefab": "Prefab <br /> Krets",
         "electra_tools": "Verktyg",
         "manage_db": "Hantera <br /> databaser"
+    },
+    "partner": {
+        "partner": "Partner",
+        "validating": "validera"
     }
 }
