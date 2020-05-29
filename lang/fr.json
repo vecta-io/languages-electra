@@ -2334,5 +2334,9 @@
         "electra_import": "Importation",
         "electra_export": "Exportation <br /> rapport",
         "prefab": "Préfabriqué <br /> Circuit"
+    },
+    "partner": {
+        "validating": "Valider",
+        "partner": "Partenaire"
     }
 }
