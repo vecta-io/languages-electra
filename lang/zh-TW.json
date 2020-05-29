@@ -2334,5 +2334,9 @@
         "prefab": "預製<br />電路",
         "electra_import": "導入",
         "electra_export": "導出<br />報告"
+    },
+    "partner": {
+        "partner": "夥伴",
+        "validating": "證實"
     }
 }
