@@ -2272,6 +2272,10 @@
         "license_expired": "Trial / License expired",
         "license_expired_desc": "Trial / License expired. Productivity tools will be disabled."
     },
+    "partner": {
+        "partner": "Partner",
+        "validating": "Validating"
+    },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
             "name": "JIC Drawing",
