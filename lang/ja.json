@@ -2334,5 +2334,9 @@
         "electra_import": "インポート",
         "prefab": "プレハブ<br />回路",
         "electra_export": "書き出す<br />報告する"
+    },
+    "partner": {
+        "partner": "相棒",
+        "validating": "検証中"
     }
 }
