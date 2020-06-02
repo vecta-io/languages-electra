@@ -576,7 +576,7 @@
         "ask_create_cable": "利用可能なケーブルコアがないときにアクションを求めるポップアップ",
         "page_prefix_ref": "参照で有効にする",
         "auto_rename": "自動名前変更",
-        "placement_offset": "初期配置オフセット",
+        "placement_offset": "配置オフセット",
         "wire_sep": "ワイヤー用セパレーター",
         "page_prefix": "ページ接頭辞",
         "page_prefix_wires": "ワイヤーで有効にする",
@@ -1081,7 +1081,12 @@
         "hosing_bom_report": "収納部品表（BOM）レポート",
         "manage_hosing": "保管を管理する",
         "view_edit": "表示および編集",
-        "export_as_tsv": "TSVとしてエクスポート"
+        "export_as_tsv": "TSVとしてエクスポート",
+        "format_painter": "フォーマットペインタ",
+        "color_painter": "カラーペインター",
+        "formula_painter": "フォーミュラペインター",
+        "json_painter": "ジェイソンペインター",
+        "size_painter": "サイズペインター"
     },
     "login": {
         "or": "または",
@@ -1685,7 +1690,7 @@
         "pause_record.icon": "マクロを一時停止する",
         "round_corner.icon": "角丸",
         "draw_textblock.icon": "描画、移動、サイズ変更、<br />またはテキストの回転（Ctrl-5）",
-        "format_painter.icon": "フォーマット、色、または数式の作成者<br>（Ctrl-7）",
+        "format_painter.icon": "フォーマット、色、 <br>式、サイズまたは<br> jsonペインター<br> （Ctrl-7）",
         "preserve_ratio.icon": "ロック/アンロックの幅と高さ",
         "draw_connector.icon": "コネクタを描画する<br>（Ctrl-6）",
         "draw_connector.menu": {
