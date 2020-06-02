@@ -588,7 +588,7 @@
         "tube_tab": "Rörnamn / Slangnamn",
         "wire_sep_help": "Separator kan inte ha numeriska värden, t.ex. 0-9",
         "auto_rename": "Auto Rename",
-        "placement_offset": "Startplacering förskjuten",
+        "placement_offset": "Placering offset",
         "wire_tab": "Trådnamn / symbolreferenser",
         "select_all": "Välj alla",
         "listing": "Lista",
@@ -973,7 +973,12 @@
         "manage_tubing": "Hantera slangar",
         "export_as_tsv": "Exportera som TSV",
         "manage_cable": "Hantera kablar",
-        "manage_hosing": "Hantera hosing"
+        "manage_hosing": "Hantera hosing",
+        "color_painter": "Färgmålare",
+        "size_painter": "Storleksmålare",
+        "formula_painter": "Formelmålare",
+        "format_painter": "Formatera målare",
+        "json_painter": "Json målare"
     },
     "page": {
         "mm": "Millimeter",
@@ -1748,7 +1753,7 @@
         },
         "preserve_ratio.icon": "Lås / Lås upp bredd och höjd",
         "draw_textblock.icon": "Rita, flytta, ändra storlek på eller rotera text <br> (Ctrl-5)",
-        "format_painter.icon": "Formatera, färg eller bildformelare <br> (Ctrl-7)",
+        "format_painter.icon": "Format, färg, <br> formel, storlek eller <br> json målare <br> (Ctrl-7)",
         "custom_gradient.icon": "Dra och släpp till vänster för att spara",
         "Playlist.tip": "Videospellista",
         "Minimize.tip": "Minimera",
