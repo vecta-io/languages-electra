@@ -76,7 +76,7 @@
             "draw_conn_ljump.icon": "直跳連接器",
             "draw_conn_points.icon": "連接點"
         },
-        "format_painter.icon": "格式、顏色, <br>公式或<br>對像簡譜漆匠<br>(Ctrl-7)",
+        "format_painter.icon": "格式，顏色， <br>配方，大小或<br> json畫家<br> （Ctrl-7）",
         "undo.icon": "撤消<br>(Ctrl-Z)",
         "redo.icon": "重做<br>(Ctrl-Y)",
         "line_weight.icon": "線寬",
@@ -1257,7 +1257,7 @@
         "wire_sep": "電線分隔符",
         "wire_sep_help": "分隔符不能有數字值，例如0-9",
         "auto_placement": "將佈局符號自動放置在軌道上",
-        "placement_offset": "初始放置位置偏移",
+        "placement_offset": "放置偏移",
         "auto_rename": "自動重命名",
         "wire_tab": "電線名稱/符號引用",
         "tube_tab": "管子名稱/軟管名稱",
@@ -1664,7 +1664,12 @@
         "manage_hosing": "管理軟管",
         "view_edit": "“查看和編輯",
         "export_as_tsv": "導出為TSV",
-        "show_hidden": "顯示隱藏的形狀"
+        "show_hidden": "顯示隱藏的形狀",
+        "format_painter": "格式畫家",
+        "formula_painter": "配方畫家",
+        "json_painter": "傑森畫家",
+        "color_painter": "彩色畫家",
+        "size_painter": "大小畫家"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
