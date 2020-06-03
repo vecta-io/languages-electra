@@ -1569,7 +1569,8 @@
         "import_drawing": "L'importation d'un dessin peut prendre quelques minutes",
         "update_linkage": "Mise à jour des liens",
         "license_expired_banner": "Version d&#39;essai / licence expirée. <a href='./../../pricing'>Abonnez-vous maintenant!</a>",
-        "license_expired": "Version d'essai / licence expirée. Les outils de productivité d'Electra Cloud seront désactivés."
+        "license_expired": "Version d'essai / licence expirée. Les outils de productivité d'Electra Cloud seront désactivés.",
+        "import_stencil": "L'importation du pochoir peut prendre quelques minutes"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
@@ -2336,7 +2337,7 @@
         "options": "Document <br /> Les options",
         "create_layout_sym": "Créer <br /> Symbole de mise en page",
         "manage_db": "Gérer <br /> Bases de données",
-        "electra_import": "Importation",
+        "electra_import": "Importation <br /> rapport",
         "electra_export": "Exportation <br /> rapport",
         "prefab": "Préfabriqué <br /> Circuit"
     },
