@@ -258,7 +258,8 @@
         "update_layouts": "正在更新佈局",
         "update_wireIEC": "正在更新電線IEC",
         "update_auto_loc": "正在更新自動位置",
-        "update_measure_tool": "正在升級測量工具"
+        "update_measure_tool": "正在升級測量工具",
+        "import_stencil": "導入模具，可能需要幾分鐘"
     },
     "login": {
         "collab": "在線",
@@ -2337,7 +2338,7 @@
         "electra_tools": "工具",
         "create_layout": "創建<br />佈局",
         "prefab": "預製<br />電路",
-        "electra_import": "導入",
+        "electra_import": "進口<br />報告",
         "electra_export": "導出<br />報告"
     },
     "partner": {
