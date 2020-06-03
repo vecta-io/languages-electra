@@ -251,6 +251,7 @@
         "login_to_save_comp": "Please login to save your custom component to database",
         "inserting_name": "Inserting name",
         "import_drawing": "Importing drawing, may take a few minutes ",
+        "import_stencil": "Importing stencil, may take a few minutes ",
         "update_linkage": "Updating linkages",
         "update_lzone": "Updating Ladder Zones",
         "update_layouts": "Updating layouts",
@@ -2340,7 +2341,7 @@
         "electra_tools": "Tools",
         "create_layout": "Create<br /> Layout",
         "prefab": "Prefab <br /> Circuit",
-        "electra_import": "Import",
+        "electra_import": "Import <br /> Report",
         "electra_export": "Export <br /> Report"
     }
 }
