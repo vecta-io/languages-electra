@@ -1512,7 +1512,8 @@
         "update_layouts": "Uppdaterar layouter",
         "inserting_name": "Infoga namn",
         "update_linkage": "Uppdatering av länkar",
-        "update_lzone": "Uppdatering av stegezoner"
+        "update_lzone": "Uppdatering av stegezoner",
+        "import_stencil": "Det kan ta några minuter att importera stencil"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
@@ -2331,7 +2332,7 @@
         "options": "Dokumentera <br /> alternativ",
         "create_layout_sym": "Skapa <br /> Layout-symbol",
         "create_layout": "Skapa <br /> Layout",
-        "electra_import": "Importera",
+        "electra_import": "Importera <br /> Rapportera",
         "manage_comps": "Hantera <br /> Komponenter",
         "electra_export": "Exportera <br /> Rapportera",
         "title_blocks": "Titel <br /> Blocks",
