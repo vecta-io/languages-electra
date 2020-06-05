@@ -259,7 +259,8 @@
         "update_wireIEC": "正在更新电线IEC",
         "update_auto_loc": "正在更新自动位置",
         "update_measure_tool": "正在升级测量工具",
-        "import_stencil": "导入模具，可能需要几分钟"
+        "import_stencil": "导入模具，可能需要几分钟",
+        "update_cable_tag": "更新电缆标签"
     },
     "login": {
         "collab": "在线",
@@ -1435,7 +1436,8 @@
         "generating_toc": "生成目录",
         "img_upload_progress": "正在上传图片（##％）...",
         "import_img": "正在导入图片...",
-        "dimension": "尺寸"
+        "dimension": "尺寸",
+        "all_fields_required": "除位置字段外，所有字段都必须用作导入文件。"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -2338,8 +2340,8 @@
         "electra_tools": "工具",
         "create_layout": "创建<br />布局",
         "prefab": "预制<br />电路",
-        "electra_import": "进口<br />报告",
-        "electra_export": "导出<br />报告"
+        "electra_import": "进口<br />报告书",
+        "electra_export": "出口<br />报告书"
     },
     "partner": {
         "partner": "伙伴",
