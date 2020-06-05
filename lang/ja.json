@@ -743,7 +743,8 @@
         "error_pin": "オプションにピンを入力してください",
         "tsv": "タブ区切り値（* .tsv）",
         "error_connects_pin": "ピンと接続ポイントは同じ数でなければなりません",
-        "csv": "カンマ区切り値（* .csv）"
+        "csv": "カンマ区切り値（* .csv）",
+        "all_fields_required": "場所フィールドを除くすべてのフィールドをインポートファイルとして使用する必要があります。"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1580,7 +1581,8 @@
         "update_linkage": "リンケージの更新",
         "update_lzone": "ラダーゾーンの更新",
         "import_drawing": "図面をインポートしています。数分かかる場合があります",
-        "import_stencil": "ステンシルのインポートには数分かかる場合があります"
+        "import_stencil": "ステンシルのインポートには数分かかる場合があります",
+        "update_cable_tag": "ケーブルタグの更新"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
@@ -2337,9 +2339,9 @@
         "manage_db": "管理する<br />データベース",
         "comp_db": "成分<br />データベース",
         "create_layout": "作成する<br />レイアウト",
-        "electra_import": "インポート<br />報告する",
+        "electra_import": "インポート<br />報告書",
         "prefab": "プレハブ<br />回路",
-        "electra_export": "書き出す<br />報告する"
+        "electra_export": "書き出す<br />報告書"
     },
     "partner": {
         "partner": "相棒",
