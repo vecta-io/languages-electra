@@ -257,7 +257,8 @@
         "update_layouts": "Updating layouts",
         "update_wireIEC": "Updating wire IEC",
         "update_auto_loc": "Updating AutoLocations",
-        "update_measure_tool": "Üpdating measurement tools"
+        "update_measure_tool": "Üpdating measurement tools",
+        "update_cable_tag": "Updating cable tags"
     },
     "login": {
         "collab": "Online",
@@ -1279,6 +1280,7 @@
         "reuse_existing": "Reuse existing reports",
         "remove_existing": "Remove existing reports and generate new",
         "ignore_existing": "Ignore or keep existing reports and generate new",
+        "all_fields_required": "ALL fields are required to be used as import file, except for Location field.",
         "generating_layout": "Generating Layout",
         "creating_prefab": "Creating Prefab Circuit",
         "single_sym": "Single symbol selected. Required more symbols.",
@@ -2341,7 +2343,7 @@
         "electra_tools": "Tools",
         "create_layout": "Create<br /> Layout",
         "prefab": "Prefab <br /> Circuit",
-        "electra_import": "Import <br /> Report",
-        "electra_export": "Export <br /> Report"
+        "electra_import": "Import <br /> Reports",
+        "electra_export": "Export <br /> Reports"
     }
 }
