@@ -743,7 +743,8 @@
         "reading_comp": "Läskomponent",
         "tsv": "Tabeller Separerade värden (* .tsv)",
         "export_format": "Exportera format",
-        "csv": "Kommaseparerade värden (* .csv)"
+        "csv": "Kommaseparerade värden (* .csv)",
+        "all_fields_required": "ALLA fält måste användas som importfil, med undantag för platsfält."
     },
     "drop": {
         "in": "tum",
@@ -1513,7 +1514,8 @@
         "inserting_name": "Infoga namn",
         "update_linkage": "Uppdatering av länkar",
         "update_lzone": "Uppdatering av stegezoner",
-        "import_stencil": "Det kan ta några minuter att importera stencil"
+        "import_stencil": "Det kan ta några minuter att importera stencil",
+        "update_cable_tag": "Uppdaterar kabel taggar"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
@@ -2332,9 +2334,9 @@
         "options": "Dokumentera <br /> alternativ",
         "create_layout_sym": "Skapa <br /> Layout-symbol",
         "create_layout": "Skapa <br /> Layout",
-        "electra_import": "Importera <br /> Rapportera",
+        "electra_import": "Importera <br /> rapporter",
         "manage_comps": "Hantera <br /> Komponenter",
-        "electra_export": "Exportera <br /> Rapportera",
+        "electra_export": "Exportera <br /> rapporter",
         "title_blocks": "Titel <br /> Blocks",
         "manage_wirings": "Hantera <br /> ledningar",
         "prefab": "Prefab <br /> Krets",
