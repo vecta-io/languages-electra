@@ -743,7 +743,8 @@
         "reading_comp": "Composant lecture",
         "error_pin": "Veuillez fournir des épingles dans les options",
         "csv": "Valeurs séparées par des virgules (* .csv)",
-        "tsv": "Valeurs séparées par des tabulations (* .tsv)"
+        "tsv": "Valeurs séparées par des tabulations (* .tsv)",
+        "all_fields_required": "TOUS les champs doivent être utilisés comme fichier d'importation, à l'exception du champ Emplacement."
     },
     "page": {
         "cm": "Centimètre",
@@ -1570,7 +1571,8 @@
         "update_linkage": "Mise à jour des liens",
         "license_expired_banner": "Version d&#39;essai / licence expirée. <a href='./../../pricing'>Abonnez-vous maintenant!</a>",
         "license_expired": "Version d'essai / licence expirée. Les outils de productivité d'Electra Cloud seront désactivés.",
-        "import_stencil": "L'importation du pochoir peut prendre quelques minutes"
+        "import_stencil": "L'importation du pochoir peut prendre quelques minutes",
+        "update_cable_tag": "Mise à jour des étiquettes de câble"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
@@ -2337,8 +2339,8 @@
         "options": "Document <br /> Les options",
         "create_layout_sym": "Créer <br /> Symbole de mise en page",
         "manage_db": "Gérer <br /> Bases de données",
-        "electra_import": "Importation <br /> rapport",
-        "electra_export": "Exportation <br /> rapport",
+        "electra_import": "Importation <br /> Rapports",
+        "electra_export": "Exportation <br /> Rapports",
         "prefab": "Préfabriqué <br /> Circuit"
     },
     "partner": {
