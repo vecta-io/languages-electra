@@ -1935,19 +1935,19 @@
         "fail_refresh": "Le symbole n'existe plus.",
         "stencil_49": {
             "name": "Outils de mesure",
-            "desc": "Outils pour les mesures"
+            "desc": "Symboles de mesure utilisés dans la conception des circuits électriques, pneumatiques et hydrauliques"
         },
         "open_all": "Ouvrir tous les pochoirs",
         "stencil_51": {
             "name": "Blocs de titre",
-            "desc": "Modèles pour le cartouche"
+            "desc": "Modèles de symboles pour les cartouches, normalement utilisés pour créer des cartouches pour les symboles électriques, pneumatiques et hydrauliques"
         },
         "no_share_stencil": "Vous n'êtes pas autorisé à partager ce gabarit.",
         "sym_update_failed": "Certains symboles ne sont pas mis à jour car ils <br /> n'existent plus ou vous n'êtes pas autorisé.",
         "all_saved": "Toutes les modifications de gabarit enregistrées",
         "stencil_68": {
             "name": "Avatars",
-            "desc": "Avatars"
+            "desc": "Avatars pour l'utilisation dans Electra Cloud comme avatars de profil"
         },
         "stencil_69": {
             "name": "commentaires",
@@ -1962,82 +1962,82 @@
         "show_more": "Montre plus",
         "login_save_symbol": "Veuillez vous connecter pour enregistrer votre symbole.",
         "stencil_229": {
-            "desc": "Symboles d'une seule ligne",
+            "desc": "Symboles à une seule ligne symboles électriques utilisés pour représenter divers appareils électriques destinés à la conception schématique électrique",
             "name": "Symboles sur une seule ligne"
         },
         "stencil_227": {
-            "desc": "Puissance IEC, compteurs, transformateurs, moteurs",
+            "desc": "Symboles CEI électriques (CEI 60617 / BS 3939) utilisés pour représenter les transformateurs, les moteurs et les compteurs à utiliser dans les schémas électriques",
             "name": "Puissance IEC, compteurs, transformateurs, moteurs"
         },
         "stencil_230": {
-            "desc": "Symboles de disposition du panneau",
+            "desc": "Symboles de disposition de panneau utilisés dans les schémas électriques pour désigner la disposition de divers composants dans un panneau électrique",
             "name": "Disposition"
         },
         "stencil_226": {
-            "desc": "Symboles électroniques",
+            "desc": "Symboles électroniques standard utilisés pour représenter divers dispositifs tels que des résistances, des transistors, des batteries, des condensateurs et des inductances à utiliser dans les diagrammes électroniques",
             "name": "Symboles électroniques"
         },
         "stencil_223": {
-            "desc": "Fils",
+            "desc": "Divers fils utilisés dans la conception de circuits électriques pour une utilisation dans un logiciel de CAO pour permettre aux utilisateurs de faire rapidement des schémas électriques",
             "name": "Fils"
         },
         "stencil_225": {
-            "desc": "Symboles CEI",
+            "desc": "Symboles CEI électriques standard également connus sous le nom de CEI 60617 (norme britannique BS 3939) utilisés pour représenter divers dispositifs, y compris les voyants, relais, minuteries et commutateurs pour une utilisation dans des schémas électriques.",
             "name": "Symboles CEI"
         },
         "stencil_228": {
-            "desc": "Isolateurs, sectionneurs, fusibles, contacteurs, surcharges IEC",
+            "desc": "Symboles électriques CEI 60617 / BS 3939 représentant des isolateurs, sectionneurs, fusibles, cContacteurs et surcharges pour utilisation dans le dessin de circuits électriques",
             "name": "Isolateurs, sectionneurs, fusibles, contacteurs, surcharges IEC"
         },
         "stencil_224": {
             "name": "Symboles JIC / NFPA",
-            "desc": "Symboles JIC / NFPA"
+            "desc": "Symboles JIC / NFPA électriques standard utilisés pour représenter les contacteurs, les surcharges thermiques, les moteurs et les transformateurs à utiliser dans les schémas électriques"
         },
         "stencil_231": {
-            "desc": "Symboles de disposition du panneau 3D",
+            "desc": "Symboles de disposition de panneau 3D utilisés dans les schémas électriques pour représenter l'affichage et la disposition du panneau avant",
             "name": "Layout 3D"
         },
         "stencil_233": {
-            "desc": "Vannes pneumatiques",
+            "desc": "Symboles des vannes pneumatiques, y compris 3/2 voies, 5/2 voies et autres dispositifs utilisés dans la conception des dessins de circuits pneumatiques",
             "cat": [
                 "Pneumatique"
             ],
             "name": "Vannes pneumatiques"
         },
         "stencil_232": {
-            "desc": "Pompes, cylindres et moteurs pneumatiques",
+            "desc": "Pompes pneumatiques, cylindres et symboles de moteur utilisés dans la conception des dessins de circuits pneumatiques",
             "cat": [
                 "Pneumatique"
             ],
             "name": "Pompes, cylindres et moteurs pneumatiques"
         },
         "stencil_236": {
-            "desc": "Valves hydrauliques",
+            "desc": "Symboles des vannes hydrauliques, y compris 3/2 voies, 5/2 voies et autres dispositifs utilisés dans la conception des dessins de circuits hydrauliques",
             "cat": [
                 "Hydraulique"
             ],
             "name": "Valves hydrauliques"
         },
         "stencil_237": {
-            "desc": "Pompes, cylindres et moteurs hydrauliques",
+            "desc": "Pompes hydrauliques, cylindres et symboles de moteur utilisés dans la conception des dessins de circuits hydrauliques",
             "cat": [
                 "Hydraulique"
             ],
             "name": "Pompes, cylindres et moteurs hydrauliques"
         },
         "stencil_235": {
-            "desc": "Divers hydraulique",
+            "desc": "Divers symboles et dispositifs hydrauliques utilisés dans la conception des circuits hydrauliques",
             "name": "Divers hydraulique",
             "cat": [
                 "Hydraulique"
             ]
         },
         "stencil_247": {
-            "desc": "Circuits prêts à l'emploi",
+            "desc": "Circuits électriques prêts à l'emploi pour les dessins CAO électriques",
             "name": "Circuits préfabriqués"
         },
         "stencil_234": {
-            "desc": "Pneumatique Divers",
+            "desc": "Divers symboles et dispositifs pneumatiques utilisés dans la conception de circuits pneumatiques",
             "cat": [
                 "Pneumatique"
             ],
@@ -2048,7 +2048,7 @@
         "credits_to": "Crédits à",
         "stencil_246": {
             "name": "Rapports",
-            "desc": "Rapports Electra"
+            "desc": "Divers symboles de rapport dans Electra Cloud qui peuvent être utilisés pour générer des rapports de dessin"
         }
     },
     "plugin": {
