@@ -1929,19 +1929,19 @@
         "fail_refresh": "Symbolen finns inte längre.",
         "stencil_49": {
             "name": "Mätverktyg",
-            "desc": "Verktyg för mätningar"
+            "desc": "Mätningssymboler som används vid design av elektriska, pneumatiska och hydrauliska kretsar"
         },
         "open_all": "Öppna alla stenciler",
         "stencil_51": {
             "name": "Titelblock",
-            "desc": "Mallar för titelblock"
+            "desc": "Mallar symboler för titelblock, vanligtvis används för att skapa titelblock för elektriska, pneumatiska och hydrauliska symboler"
         },
         "no_share_stencil": "Du har inte behörighet att dela denna stencil.",
         "sym_update_failed": "Vissa symboler är inte uppdaterade eftersom de <br /> inte längre existerar, eller du har inte behörighet.",
         "all_saved": "Alla stenciler ändras sparade",
         "stencil_68": {
             "name": "Avatars",
-            "desc": "Avatars"
+            "desc": "Avatarer för användning i Electra Cloud som profilavatarer"
         },
         "stencil_69": {
             "name": "kommentarer",
@@ -1956,82 +1956,82 @@
         "show_more": "Visa mer",
         "login_save_symbol": "Logga in för att spara din symbol.",
         "stencil_223": {
-            "desc": "trådar",
+            "desc": "Olika kablar som används i design av elektriska kretsar för användning i CAD-programvara för att låta användare snabbt göra elektriska scheman",
             "name": "trådar"
         },
         "stencil_225": {
-            "desc": "IEC-symboler",
+            "desc": "Standardelektriska IEC-symboler, även kända som IEC 60617 (British Standard BS 3939) som används för att representera olika enheter inklusive pilotljus, reläer, tidtagare och brytare för användning i elektriska schematiska diagram",
             "name": "IEC-symboler"
         },
         "stencil_229": {
-            "desc": "Enkla linjesymboler",
+            "desc": "Enlinjesymboler elektriska symboler som används för att representera olika elektriska apparater för användning i elektrisk schematisk design",
             "name": "Enlinjesymboler"
         },
         "stencil_226": {
-            "desc": "Elektroniska symboler",
+            "desc": "Standardelektroniska symboler som används för att representera olika enheter såsom motstånd, transistorer, batterier, kondensatorer och induktorer för användning i elektroniska diagram",
             "name": "Elektroniska symboler"
         },
         "stencil_224": {
-            "desc": "JIC / NFPA-symboler",
+            "desc": "Standard elektriska JIC / NFPA-symboler som används för att representera kontaktorer, termiska överbelastningar, motorer och transformatorer för användning i elektriska schematiska diagram",
             "name": "JIC / NFPA-symboler"
         },
         "stencil_228": {
-            "desc": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar",
+            "desc": "Elektriska IEC 60617 / BS 3939-symboler som representerar isolatorer, frånkopplare, säkringar, cKontaktorer och överbelastningar för användning vid ritning av elektriska kretsar",
             "name": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar"
         },
         "stencil_232": {
-            "desc": "Pneumatiska pumpar, cylindrar och motorer",
+            "desc": "Pneumatiska pumpar, cylindrar och motorsymboler som används vid utformningen av pneumatiska kretsritningar",
             "cat": [
                 "Pneumatisk"
             ],
             "name": "Pneumatiska pumpar, cylindrar och motorer"
         },
         "stencil_230": {
-            "desc": "Symboler för panellayout",
+            "desc": "Panelllayoutsymboler som används i elektriska scheman för att beteckna layouten för olika komponenter i en elektrisk panel",
             "name": "Layout"
         },
         "stencil_231": {
-            "desc": "Symboler för 3D-panellayout",
+            "desc": "3D-panellayout-symboler som används i elektriska scheman för att representera frontpanelens display och layout",
             "name": "Layout 3D"
         },
         "stencil_227": {
-            "desc": "IEC Power, Meters, Transformers, Motors",
+            "desc": "Elektriska IEC-symboler (IEC 60617 / BS 3939) som används för att representera transformatorer, motorer och mätare för användning i elektriska schematiska diagram",
             "name": "IEC Power, Meters, Transformers, Motors"
         },
         "stencil_234": {
-            "desc": "Pneumatisk Diverse",
+            "desc": "Diverse pneumatiska symboler och enheter som används i pneumatisk kretsdesign",
             "cat": [
                 "Pneumatisk"
             ],
             "name": "Pneumatiska övriga"
         },
         "stencil_233": {
-            "desc": "Pneumatiska ventiler",
+            "desc": "Pneumatiska ventilsymboler inklusive 3/2 sätt, 5/2 sätt och andra anordningar som används vid utformningen av pneumatiska kretsritningar",
             "cat": [
                 "Pneumatisk"
             ],
             "name": "Pneumatiska ventiler"
         },
         "stencil_235": {
-            "desc": "Hydraulisk Diverse",
+            "desc": "Övriga hydrauliska symboler och enheter som används vid konstruktion av hydraulkretsar",
             "cat": [
                 "Hydraulisk"
             ],
             "name": "Hydrauliska övriga"
         },
         "stencil_247": {
-            "desc": "Färdiga kretsar",
+            "desc": "Färdiga elektriska kretsar för användning i elektriska CAD-ritningar",
             "name": "Prefab Circuits"
         },
         "stencil_237": {
-            "desc": "Hydrauliska pumpar, cylindrar och motorer",
+            "desc": "Hydrauliska pumpar, cylindrar och motorsymboler som används vid utformningen av hydrauliska kretsritningar",
             "cat": [
                 "Hydraulisk"
             ],
             "name": "Hydrauliska pumpar, cylindrar och motorer"
         },
         "stencil_236": {
-            "desc": "Hydrauliska ventiler",
+            "desc": "Hydrauliska ventilsymboler inklusive 3/2-vägar, 5/2-vägar och andra anordningar som används för konstruktion av hydrauliska kretsritningar",
             "cat": [
                 "Hydraulisk"
             ],
@@ -2042,7 +2042,7 @@
         "credits_link": "Kreditlänk",
         "stencil_246": {
             "name": "rapporter",
-            "desc": "Electra rapporterar"
+            "desc": "Olika rapportsymboler i Electra Cloud som kan användas för att generera i ritningsrapporter"
         }
     },
     "integrate": {
