@@ -1731,101 +1731,101 @@
         "credits_link": "Credits link",
         "stencil_223": {
             "name": "Wires",
-            "desc": "Wires"
+            "desc": "Various wires used in electrical circuit design for usages in CAD software to allow users to quickly make electrical schematics"
         },
         "stencil_224": {
             "name": "JIC / NFPA Symbols",
-            "desc": "JIC / NFPA symbols"
+            "desc": "Standard electrical JIC / NFPA symbols used to represent contactors, thermal overloads, motors and transformers for usage in electrical schematic diagrams"
         },
         "stencil_225": {
             "name": "IEC Symbols",
-            "desc": "IEC Symbols"
+            "desc": "Standard electrical IEC symbols also known as IEC 60617 (British Standard BS 3939) used to represent various devices including pilot lights, relays, timers and switches for usage in electrical schematic diagrams"
         },
         "stencil_226": {
             "name": "Electronic Symbols",
-            "desc": "Electronic symbols"
+            "desc": "Standard electronic symbols used to represent various devices such as resistors, transistors, batteries, capacitors and inductors for usage in electronic diagrams"
         },
         "stencil_227": {
             "name": "IEC Power, Meters, Transformers, Motors",
-            "desc": "IEC Power, Meters, Transformers, Motors"
+            "desc": "Electrical IEC symbols (IEC 60617 / BS 3939) used to represent transformers, motors and meters for usage in electrical schematic diagrams"
         },
         "stencil_228": {
             "name": "IEC Isolators, Disconnectors, Fuses, Contactors, Overloads",
-            "desc": "IEC Isolators, Disconnectors, Fuses, Contactors, Overloads"
+            "desc": "Electrical IEC 60617 / BS 3939 symbols representing isolators, disconnectors, fuses,cContactors and overloads for usage in drawing electrical circuits"
         },
         "stencil_229": {
             "name": "Single Line Symbols",
-            "desc": "Single line symbols"
+            "desc": "Single line symbols electrical symbols used to represent various electrical devices for usages in electrical schematic design"
         },
         "stencil_230": {
             "name": "Layout",
-            "desc": "Panel layout symbols"
+            "desc": "Panel layout symbols used in electrical schematics to denote the layout of various components in an electrical panel"
         },
         "stencil_231": {
             "name": "Layout 3D",
-            "desc": "3D Panel Layout symbols"
+            "desc": "3D Panel Layout symbols used in electrical schematics to represent front panel display and layout"
         },
         "stencil_232": {
             "name": "Pneumatic Pumps, Cylinders and Motors",
-            "desc": "Pneumatic Pumps, Cylinders and Motors",
+            "desc": "Pneumatic pumps, cylinders and motor symbols used in the design of pneumatic circuit drawings",
             "cat": [
                 "Pneumatic"
             ]
         },
         "stencil_233": {
             "name": "Pneumatic Valves",
-            "desc": "Pneumatic Valves",
+            "desc": "Pneumatic valves symbols including 3/2 ways, 5/2 ways and other devices used in the design of pneumatic circuit drawings",
             "cat": [
                 "Pneumatic"
             ]
         },
         "stencil_234": {
             "name": "Pneumatic Misc",
-            "desc": "Pneumatic Miscellaneous",
+            "desc": "Miscellaneous pneumatic symbols and devices used in pneumatic circuit design",
             "cat": [
                 "Pneumatic"
             ]
         },
         "stencil_235": {
             "name": "Hydraulic Misc",
-            "desc": "Hydraulic Miscellaneous",
+            "desc": "Miscellaneous hydraulic symbols and devices used in hydraulic circuit design",
             "cat": [
                 "Hydraulic"
             ]
         },
         "stencil_236": {
             "name": "Hydraulic Valves",
-            "desc": "Hydraulic Valves",
+            "desc": "Hydraulic valves symbols including 3/2 ways, 5/2 ways and other devices used in the design of hydraulic circuit drawings",
             "cat": [
                 "Hydraulic"
             ]
         },
         "stencil_237": {
             "name": "Hydraulic Pumps, Cylinders and Motors",
-            "desc": "Hydraulic Pumps, Cylinders and Motors",
+            "desc": "Hydraulic pumps, cylinders and motor symbols used in the design of hydraulic circuit drawings",
             "cat": [
                 "Hydraulic"
             ]
         },
         "stencil_49": {
             "name": "Measurement tools",
-            "desc": "Tools for measurements"
+            "desc": "Measurement symbols used in design of electrical, pneumatic and hydraulic circuits"
         },
         "stencil_51": {
             "name": "Title blocks",
-            "desc": "Templates for title block"
+            "desc": "Templates symbols for title blocks, normally used to create title blocks for electrical, pneumatic and hydraulic symbols"
         },
         "stencil_246": {
             "name": "Reports",
-            "desc": "Electra reports"
+            "desc": "Various report symbols in Electra Cloud that can be used to generate in drawing reports"
         },
         "stencil_247": {
             "name": "Prefab Circuits",
-            "desc": "Ready made circuits"
+            "desc": "Ready made electrical circuits for usage in electrical CAD drawings"
         },
         "stencil_68": {
             "name": "Avatars",
-            "desc": "Avatars"
+            "desc": "Avatars fofr usage in Electra Cloud as profile avatars"
         },
         "stencil_69": {
             "name": "Comments",
