@@ -1964,7 +1964,7 @@
         "all_saved": "すべてのステンシル変更を保存",
         "stencil_68": {
             "name": "アバター",
-            "desc": "Electra Cloudでのアバターのプロファイルアバターとしての使用"
+            "desc": "Electra Cloudでプロファイルアバターとして使用するアバター"
         },
         "stencil_69": {
             "name": "コメント",
