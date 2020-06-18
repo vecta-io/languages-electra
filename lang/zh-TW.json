@@ -1454,7 +1454,8 @@
         "invalid_qty": "無效數量數據",
         "invalid_layout_shp": "無效的佈局形狀數據",
         "import_finished": "導入完成後，您現在可以關閉此對話框。",
-        "invalid_mat_ref": "錯誤：無效的材料參考報告文件。"
+        "invalid_mat_ref": "錯誤：無效的材料參考報告文件。",
+        "set_label": "設置標籤位置"
     },
     "drop": {
         "maintain_id": "維護ID",
