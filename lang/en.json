@@ -911,7 +911,7 @@
         "endSize": "EndArrowSize",
         "increment": "Increment",
         "rounded": "Rounded",
-        "exporting_image": "Hold tight, exporting",
+        "exporting": "Exporting",
         "diagram_team": "Diagramming for teams",
         "export_records": "Export Records",
         "export_svg": "Export SVG",
