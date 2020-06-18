@@ -1454,7 +1454,8 @@
         "import_finished": "导入完成后，您现在可以关闭此对话框。",
         "init_compo_pages": "初始化组件并加载页面",
         "error_upload_file": "错误：请上传文件。",
-        "reading_file": "正在读取档案...（@@％）"
+        "reading_file": "正在读取档案...（@@％）",
+        "set_label": "设置标签位置"
     },
     "drop": {
         "maintain_id": "维护ID",
