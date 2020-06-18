@@ -912,7 +912,6 @@
         "endSize": "终点箭头大小",
         "increment": "增量",
         "rounded": "圆",
-        "exporting_image": "正在导出中",
         "diagram_team": "图表团队",
         "export_records": "导出记录",
         "export_svg": "导出SVG",
@@ -1455,7 +1454,8 @@
         "init_compo_pages": "初始化组件并加载页面",
         "error_upload_file": "错误：请上传文件。",
         "reading_file": "正在读取档案...（@@％）",
-        "set_label": "设置标签位置"
+        "set_label": "设置标签位置",
+        "exporting": "出口"
     },
     "drop": {
         "maintain_id": "维护ID",
