@@ -182,7 +182,6 @@
         "items_restored": "Restauré avec succès",
         "help_linestyle": "Format: tirets (px) espaces (px) [répéter]. Par exemple: 5 5.",
         "multiple_shapes": "Plusieurs formes sélectionnées",
-        "exporting_image": "Tenez-vous bien, exportez",
         "custom_fontsize": "Taille de police personnalisée",
         "untitled_folder": "Dossier sans titre",
         "unsaved_changes": "Vous avez des modifications non enregistrées",
@@ -762,7 +761,8 @@
         "error_upload_file": "Erreur: veuillez télécharger un fichier.",
         "invalid_mat_ref": "Erreur: pas un fichier de rapport de référence de matériau valide.",
         "invalid_group": "Données de groupe non valides",
-        "set_label": "Définir la position de l'étiquette"
+        "set_label": "Définir la position de l'étiquette",
+        "exporting": "Exportation"
     },
     "page": {
         "cm": "Centimètre",
