@@ -185,7 +185,6 @@
         "current_version": "現行版",
         "commit_and_load": "コミットしてロードする",
         "untitled_folder": "無題のフォルダ",
-        "exporting_image": "引き締め、輸出",
         "multiple_shapes": "選択した複数の図形",
         "has_sent_invite": "あなたは以前にこれらのメンバーを招待しています。",
         "wrong_file_type": "Vectaは現在このファイルタイプを受け入れていません。 （サポートされているタイプ：png、jpeg、gif、svg）",
@@ -762,7 +761,8 @@
         "processed": "処理済み",
         "invalid_mat_ref": "エラー：有効な材料参照レポートファイルではありません。",
         "import_finished": "インポートが完了しました。このダイアログを閉じることができます。",
-        "set_label": "ラベルの位置を設定"
+        "set_label": "ラベルの位置を設定",
+        "exporting": "輸出"
     },
     "list": {
         "sv": "スウェーデン語",
