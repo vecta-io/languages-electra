@@ -761,7 +761,8 @@
         "invalid_mat_ref": "Fel: Inte en giltig materialreferensrapportfil.",
         "error_upload_file": "Fel: Ladda upp en fil.",
         "reading_file": "Läser fil ... (@@%)",
-        "import_finished": "Importen är klar, du kan nu stänga den här dialogrutan."
+        "import_finished": "Importen är klar, du kan nu stänga den här dialogrutan.",
+        "set_label": "Ställ in etikettposition"
     },
     "drop": {
         "in": "tum",
