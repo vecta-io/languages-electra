@@ -1455,7 +1455,9 @@
         "error_upload_file": "错误：请上传文件。",
         "reading_file": "正在读取档案...（@@％）",
         "set_label": "设置标签位置",
-        "exporting": "出口"
+        "exporting": "出口",
+        "loading_pages": "载入页面",
+        "json": "JavaScript对象符号（* .json）"
     },
     "drop": {
         "maintain_id": "维护ID",
