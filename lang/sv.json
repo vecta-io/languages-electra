@@ -762,7 +762,9 @@
         "reading_file": "Läser fil ... (@@%)",
         "import_finished": "Importen är klar, du kan nu stänga den här dialogrutan.",
         "set_label": "Ställ in etikettposition",
-        "exporting": "exportera"
+        "exporting": "exportera",
+        "loading_pages": "Laddar sidor",
+        "json": "JavaScript Object Notation (* .json)"
     },
     "drop": {
         "in": "tum",
