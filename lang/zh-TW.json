@@ -1455,7 +1455,9 @@
         "import_finished": "導入完成後，您現在可以關閉此對話框。",
         "invalid_mat_ref": "錯誤：無效的材料參考報告文件。",
         "set_label": "設置標籤位置",
-        "exporting": "出口"
+        "exporting": "出口",
+        "loading_pages": "載入頁面",
+        "json": "JavaScript對象符號（* .json）"
     },
     "drop": {
         "maintain_id": "維護ID",
