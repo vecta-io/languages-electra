@@ -762,7 +762,9 @@
         "invalid_mat_ref": "Erreur: pas un fichier de rapport de référence de matériau valide.",
         "invalid_group": "Données de groupe non valides",
         "set_label": "Définir la position de l'étiquette",
-        "exporting": "Exportation"
+        "exporting": "Exportation",
+        "loading_pages": "Chargement des pages",
+        "json": "Notation d'objet JavaScript (* .json)"
     },
     "page": {
         "cm": "Centimètre",
