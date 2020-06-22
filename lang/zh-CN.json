@@ -197,7 +197,8 @@
         "manage_comps.icon": "管理组件",
         "generate_layout.icon": "生成布局",
         "electra_export.icon": "导出报告",
-        "page_up.icon": "上一页"
+        "page_up.icon": "上一页",
+        "print.icon": "打印"
     },
     "mssg": {
         "sending": "正在发送",
@@ -1457,7 +1458,8 @@
         "set_label": "设置标签位置",
         "exporting": "出口",
         "loading_pages": "载入页面",
-        "json": "JavaScript对象符号（* .json）"
+        "json": "JavaScript对象符号（* .json）",
+        "include_in_layout": "包含在布局中"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -1930,6 +1932,10 @@
             "cat": [
                 "效能工具"
             ]
+        },
+        "plugin_3": {
+            "name": "绘制分形树",
+            "desc": "创建分形树"
         }
     },
     "page": {
