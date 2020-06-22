@@ -78,6 +78,7 @@
         "zoom_fit.icon": "Zoom to fit page",
         "pages.icon": "View another page",
         "view.icon": "View",
+        "print.icon": "Print",
         "export.icon": "Export",
         "share.icon": "Share",
         "file.icon": "Preferences",
@@ -1124,6 +1125,7 @@
         "dimension": "Dimension",
         "help_dimension": "Accepts all major units. E.g. 2 mm, 2 in, 2 cm etc.",
         "include_layout": "Include Component in Layout",
+        "include_in_layout": "Included in layout",
         "quantity": "Quantity",
         "symbol": "Symbol",
         "pin": "Pin name",
@@ -1894,6 +1896,10 @@
         "plugin_0": {
             "name": "Hello World",
             "desc": "Print Hello,\"creator's name\" in drawing"
+        },
+        "plugin_3": {
+            "name": "Draw fractal tree",
+            "desc": "Create a fractal tree"
         },
         "plugin_6": {
             "name": "Line chart",
