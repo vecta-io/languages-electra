@@ -1827,8 +1827,7 @@
         "create_layout_sym.icon": "Créer un symbole de disposition",
         "manage_comps.icon": "Gérer les composants",
         "create_schem.icon": "Créer un symbole schématique",
-        "comp_db.icon": "Base de données des composants",
-        "print.icon": "Impression"
+        "comp_db.icon": "Base de données des composants"
     },
     "signup": {
         "failed": "L'inscription a échoué",
@@ -2149,11 +2148,7 @@
         "public_plugins": "Plugins publics",
         "personal": "Personnel",
         "public": "Publique",
-        "team": "Équipe",
-        "plugin_3": {
-            "name": "Dessiner un arbre fractal",
-            "desc": "Créer un arbre fractal"
-        }
+        "team": "Équipe"
     },
     "dialog": {
         "help_title": "Aide Vecta",
