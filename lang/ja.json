@@ -764,7 +764,8 @@
         "set_label": "ラベルの位置を設定",
         "exporting": "輸出",
         "loading_pages": "ページを読み込んでいます",
-        "json": "JavaScriptオブジェクト表記（* .json）"
+        "json": "JavaScriptオブジェクト表記（* .json）",
+        "include_in_layout": "レイアウトに含まれる"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1773,7 +1774,8 @@
         "title_blocks.icon": "表題欄",
         "generate_layout.icon": "レイアウトを生成",
         "manage_comps.icon": "コンポーネントを管理する",
-        "electra_export.icon": "レポートをエクスポートする"
+        "electra_export.icon": "レポートをエクスポートする",
+        "print.icon": "印刷する"
     },
     "preload": {
         "slack": "優れたコラボレーションのためにVectaとSlackを統合",
@@ -2148,7 +2150,11 @@
         "public_plugins": "公開プラグイン",
         "personal": "個人的な",
         "team": "チーム",
-        "public": "公衆"
+        "public": "公衆",
+        "plugin_3": {
+            "desc": "フラクタルツリーを作成する",
+            "name": "フラクタルツリーを描く"
+        }
     },
     "dialog": {
         "help_title": "Vectaヘルプ",
