@@ -1827,7 +1827,8 @@
         "title_blocks.icon": "Titelblock",
         "electra_export.icon": "Exportrapport",
         "manage_comps.icon": "Hantera komponenter",
-        "options.icon": "Dokumentalternativ"
+        "options.icon": "Dokumentalternativ",
+        "print.icon": "Skriva ut"
     },
     "verify": {
         "failed": "Verifiering misslyckades",
@@ -2148,7 +2149,11 @@
         "public_plugins": "Offentliga plugins",
         "personal": "Personlig",
         "team": "Team",
-        "public": "offentlig"
+        "public": "offentlig",
+        "plugin_3": {
+            "desc": "Skapa ett fraktaltree",
+            "name": "Rita fraktalträd"
+        }
     },
     "dialog": {
         "help_title": "Vecta Hjälp",
