@@ -78,7 +78,6 @@
         "zoom_fit.icon": "Zoom to fit page",
         "pages.icon": "View another page",
         "view.icon": "View",
-        "print.icon": "Print",
         "export.icon": "Export",
         "share.icon": "Share",
         "file.icon": "Preferences",
@@ -1895,10 +1894,6 @@
         "plugin_0": {
             "name": "Hello World",
             "desc": "Print Hello,\"creator's name\" in drawing"
-        },
-        "plugin_3": {
-            "name": "Draw fractal tree",
-            "desc": "Create a fractal tree"
         },
         "plugin_6": {
             "name": "Line chart",
