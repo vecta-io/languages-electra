@@ -197,8 +197,7 @@
         "manage_comps.icon": "管理組件",
         "generate_layout.icon": "生成佈局",
         "electra_export.icon": "導出報告",
-        "page_up.icon": "上一頁",
-        "print.icon": "打印"
+        "page_up.icon": "上一頁"
     },
     "mssg": {
         "sending": "正在發送",
@@ -1931,10 +1930,6 @@
             "cat": [
                 "效能工具"
             ]
-        },
-        "plugin_3": {
-            "name": "繪製分形樹",
-            "desc": "創建分形樹"
         }
     },
     "page": {
