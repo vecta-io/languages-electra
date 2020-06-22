@@ -1773,8 +1773,7 @@
         "title_blocks.icon": "表題欄",
         "generate_layout.icon": "レイアウトを生成",
         "manage_comps.icon": "コンポーネントを管理する",
-        "electra_export.icon": "レポートをエクスポートする",
-        "print.icon": "印刷する"
+        "electra_export.icon": "レポートをエクスポートする"
     },
     "preload": {
         "slack": "優れたコラボレーションのためにVectaとSlackを統合",
@@ -2149,11 +2148,7 @@
         "public_plugins": "公開プラグイン",
         "personal": "個人的な",
         "team": "チーム",
-        "public": "公衆",
-        "plugin_3": {
-            "name": "フラクタルツリーを描く",
-            "desc": "フラクタルツリーを作成する"
-        }
+        "public": "公衆"
     },
     "dialog": {
         "help_title": "Vectaヘルプ",
