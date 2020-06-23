@@ -2098,7 +2098,7 @@
         "resizable-arrow": "Unlimited sizing for your line ends (arrows) in Shape properties",
         "import-dxf": "Import amazing DXF with just drag and drop",
         "text-effects": "Add shadow, bevel or blur effect to your text",
-        "duplicate-shape": "Ctrl+D to apply the changes on properties of the selected shape",
+        "duplicate-shape": "Press Ctrl-D to apply recent property changes to current shape",
         "dark-theme-vecta": "Show dark theme to activate dark mode",
         "create-and-invite-team": "Invite members to get your team up and running in Electra",
         "create-symbol": "Use Create Symbol to automatically insert intelligence and data into your custom symbol",
