@@ -1100,7 +1100,8 @@
         "formula_painter": "Peintre de formule",
         "color_painter": "Peintre couleur",
         "format_painter": "Format peintre",
-        "json_painter": "Peintre Json"
+        "json_painter": "Peintre Json",
+        "download_stencil": "Télécharger le pochoir"
     },
     "list": {
         "en": "Anglais",
@@ -1821,15 +1822,17 @@
         "share.icon": "Partager",
         "export.icon": "Exportation",
         "file.icon": "Préférences",
-        "electra_export.icon": "Rapport d'exportation",
+        "electra_export.icon": "Exporter des rapports",
         "generate_layout.icon": "Générer la mise en page",
         "options.icon": "Options de document",
         "title_blocks.icon": "Blocs de titre",
         "create_layout_sym.icon": "Créer un symbole de disposition",
         "manage_comps.icon": "Gérer les composants",
         "create_schem.icon": "Créer un symbole schématique",
-        "comp_db.icon": "Base de données des composants",
-        "print.icon": "Impression"
+        "print.icon": "Impression",
+        "electra_import.icon": "Importer des rapports",
+        "manage_wirings.icon": "Gérer les câblages",
+        "manage_db.icon": "Gérer les bases de données"
     },
     "signup": {
         "failed": "L'inscription a échoué",
@@ -2071,7 +2074,9 @@
         "stencil_246": {
             "name": "Rapports",
             "desc": "Divers symboles de rapport dans Electra Cloud qui peuvent être utilisés pour générer des rapports de dessin"
-        }
+        },
+        "downloading_stencil": "Téléchargement du pochoir ...",
+        "no_symbols_download": "Aucun symbole à télécharger"
     },
     "plugin": {
         "no_exist": "Impossible de définir les éléments suivants. Le plugin n'existe peut-être plus, ou <br /> vous n'avez pas la permission d'y accéder.",
