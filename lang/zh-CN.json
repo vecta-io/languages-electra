@@ -191,14 +191,16 @@
         "ListCustomMenu.tip": "列表自定义菜单",
         "create_schem.icon": "创建原理图符号",
         "create_layout_sym.icon": "创建布局符号",
-        "comp_db.icon": "组件数据库",
         "options.icon": "文档选项",
         "title_blocks.icon": "标题块",
         "manage_comps.icon": "管理组件",
         "generate_layout.icon": "生成布局",
-        "electra_export.icon": "导出报告",
+        "electra_export.icon": "汇出报告",
         "page_up.icon": "上一页",
-        "print.icon": "打印"
+        "print.icon": "打印",
+        "manage_wirings.icon": "管理接线",
+        "electra_import.icon": "汇入报告",
+        "manage_db.icon": "管理数据库"
     },
     "mssg": {
         "sending": "正在发送",
@@ -1694,7 +1696,8 @@
         "color_painter": "彩色画家",
         "json_painter": "杰森画家",
         "size_painter": "大小画家",
-        "formula_painter": "配方画家"
+        "formula_painter": "配方画家",
+        "download_stencil": "下载模具"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
@@ -1853,7 +1856,9 @@
         "stencil_69": {
             "name": "评论",
             "desc": "注释已分配给图层，因此您可以在导出/打印期间自定义其可见性"
-        }
+        },
+        "no_symbols_download": "没有可供下载的符号",
+        "downloading_stencil": "正在下载模具..."
     },
     "plugin": {
         "plugins": "插件",
