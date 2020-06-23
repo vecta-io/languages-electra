@@ -191,12 +191,14 @@
         "ListCustomMenu.tip": "List custom menu",
         "create_schem.icon": "Create schematic symbol",
         "create_layout_sym.icon": "Create layout symbol",
-        "comp_db.icon": "Component database",
+        "manage_db.icon": "Manage databases",
         "options.icon": "Document options",
         "title_blocks.icon": "Title blocks",
         "manage_comps.icon": "Manage components",
         "generate_layout.icon": "Generate layout",
-        "electra_export.icon": "Export report"
+        "electra_export.icon": "Export reports",
+        "electra_import.icon": "Import reports",
+        "manage_wirings.icon": "Manage wirings"
     },
     "mssg": {
         "sending": "Sending",
@@ -1569,6 +1571,7 @@
         "show_sym_name": "Show icon names",
         "hide_sym_name": "Hide icon names",
         "edit_stencil": "Edit stencil",
+        "download_stencil": "Download stencil",
         "export_icon": "Export Icon",
         "export_stencil": "Export",
         "import_stencil": "Import",
@@ -1751,6 +1754,8 @@
         "saving_stencils": "Saving stencils",
         "credits_to": "Credits to",
         "credits_link": "Credits link",
+        "downloading_stencil": "Downloading stencil...",
+        "no_symbols_download": "No symbols to download",
         "stencil_223": {
             "name": "Wires",
             "desc": "Various wires used in electrical circuit design for usages in CAD software to allow users to quickly make electrical schematics"
