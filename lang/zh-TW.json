@@ -1282,7 +1282,7 @@
         "no_shape_selected": "未選擇形狀",
         "saved_comp": "已保存組件",
         "scanning": "正在掃描",
-        "document_options_help": "戀父將列表形狀的地點基於一種無形的網格，設置柵開始的長度和間隔到你的要求",
+        "document_options_help": "Electra會基於無形的網格將所有形狀的位置列出，請根據需求設置網格的初始長度和間隔",
         "separator": "分離器",
         "location_format": "位置格式",
         "comp_db_help": "從組件拖放到類別以組織組件。<br/>右鍵單擊組件以獲取更多選項",
