@@ -1817,7 +1817,7 @@
         "import-dxf": "ドラッグアンドドロップするだけで素晴らしいDXFをインポート",
         "text-effects": "テキストに影、ベベル、ぼかし効果を追加します",
         "dark-theme-vecta": "ダークテーマを表示してダークモードを有効にします",
-        "duplicate-shape": "Ctrl + Dキーを押して、選択した図形のプロパティに変更を適用します",
+        "duplicate-shape": "Ctrl-Dを押して、最近のプロパティの変更を現在の形状に適用します",
         "dark-theme-electra": "ダークテーマを表示してダークモードを有効にします",
         "jump-connector": "ジャンプコネクタを追加してラインを区別",
         "symbol-search": "Vectaの成長するシンボルライブラリでシンボルを検索する",
