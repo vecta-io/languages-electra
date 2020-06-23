@@ -931,7 +931,7 @@
         "import_svg": "正在導入SVG ...",
         "import_dxf": "正在導入DXF ...",
         "export_dxf": "正在導出DXF ...",
-        "export_dwg": "出口到圖軟件...",
+        "export_dwg": "導出到圖軟件...",
         "exported_dwg": "已導出DWG。請啟用瀏覽器中的彈出窗口以進行下載",
         "import_drawing": "正在導入繪圖，可能需要幾分鐘...",
         "import_stencil": "正在導入模具，可能需要幾分鐘...",
@@ -1456,7 +1456,7 @@
         "import_finished": "導入完成後，您現在可以關閉此對話框。",
         "invalid_mat_ref": "錯誤：無效的材料參考報告文件。",
         "set_label": "設置標籤位置",
-        "exporting": "出口",
+        "exporting": "導出中",
         "loading_pages": "載入頁面",
         "json": "JavaScript對象符號（* .json）",
         "include_in_layout": "包含在佈局中"
@@ -2366,8 +2366,8 @@
         "electra_tools": "工具",
         "create_layout": "創建<br />佈局",
         "prefab": "預製<br />電路",
-        "electra_import": "進口<br />報告書",
-        "electra_export": "出口<br />報告書"
+        "electra_import": "導入<br />報告書",
+        "electra_export": "導出<br />報告書"
     },
     "partner": {
         "partner": "夥伴",
