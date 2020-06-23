@@ -2099,7 +2099,7 @@
         "resizable-arrow": "形状属性中的线端（箭头）大小不受限制",
         "import-dxf": "只需拖放即可导入惊人的DXF",
         "text-effects": "为您的文本添加阴影，斜角或模糊效果",
-        "duplicate-shape": "Ctrl + D将更改应用于所选形状的属性",
+        "duplicate-shape": "按Ctrl-D将最近的属性更改应用于当前形状",
         "dark-theme-vecta": "显示黑暗主题以激活黑暗模式",
         "create-and-invite-team": "邀请成员让您的团队在Electra中建立并运行",
         "create-symbol": "使用创建符号将情报和数据自动插入到您的自定义符号中",
