@@ -932,7 +932,7 @@
         "import_svg": "正在导入SVG ...",
         "import_dxf": "正在导入DXF ...",
         "export_dxf": "正在导出DXF ...",
-        "export_dwg": "出口到图软件...",
+        "export_dwg": "导出DWG...",
         "exported_dwg": "已导出DWG。请启用浏览器中的弹出窗口以进行下载",
         "import_drawing": "正在导入绘图，可能需要几分钟...",
         "import_stencil": "正在导入模具，可能需要几分钟...",
@@ -1441,9 +1441,9 @@
         "status": "状态",
         "file": "文件",
         "found_mat_ref": "找到有效的材料参考报告@@。",
-        "import_mat_ref": "进口材料参考",
+        "import_mat_ref": "导入材料参考",
         "loading_storage": "从存储中加载数据",
-        "processed": "处理",
+        "processed": "已处理",
         "warning": "警告",
         "invalid_qty": "无效数量数据",
         "invalid_group": "无效的组数据",
@@ -1456,8 +1456,8 @@
         "error_upload_file": "错误：请上传文件。",
         "reading_file": "正在读取档案...（@@％）",
         "set_label": "设置标签位置",
-        "exporting": "出口",
-        "loading_pages": "载入页面",
+        "exporting": "导出中",
+        "loading_pages": "正在载入页面",
         "json": "JavaScript对象符号（* .json）",
         "include_in_layout": "包含在布局中"
     },
@@ -2366,8 +2366,8 @@
         "electra_tools": "工具",
         "create_layout": "创建<br />布局",
         "prefab": "预制<br />电路",
-        "electra_import": "进口<br />报告书",
-        "electra_export": "出口<br />报告书"
+        "electra_import": "导入<br />报告书",
+        "electra_export": "导出<br />报告书"
     },
     "partner": {
         "partner": "伙伴",
