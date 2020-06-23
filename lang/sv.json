@@ -1000,7 +1000,8 @@
         "size_painter": "Storleksmålare",
         "formula_painter": "Formelmålare",
         "format_painter": "Formatera målare",
-        "json_painter": "Json målare"
+        "json_painter": "Json målare",
+        "download_stencil": "Ladda ner stencil"
     },
     "page": {
         "mm": "Millimeter",
@@ -1822,14 +1823,16 @@
         "set_public": {
             "label": "Vem som helst på internet kan hitta och komma åt"
         },
-        "comp_db.icon": "Komponentdatabas",
         "create_layout_sym.icon": "Skapa layoutsymbol",
         "generate_layout.icon": "Generera layout",
         "title_blocks.icon": "Titelblock",
-        "electra_export.icon": "Exportrapport",
+        "electra_export.icon": "Exportera rapporter",
         "manage_comps.icon": "Hantera komponenter",
         "options.icon": "Dokumentalternativ",
-        "print.icon": "Skriva ut"
+        "print.icon": "Skriva ut",
+        "electra_import.icon": "Importera rapporter",
+        "manage_wirings.icon": "Hantera ledningar",
+        "manage_db.icon": "Hantera databaser"
     },
     "verify": {
         "failed": "Verifiering misslyckades",
@@ -2065,7 +2068,9 @@
         "stencil_246": {
             "name": "rapporter",
             "desc": "Olika rapportsymboler i Electra Cloud som kan användas för att generera i ritningsrapporter"
-        }
+        },
+        "downloading_stencil": "Hämtar stencil ...",
+        "no_symbols_download": "Inga symboler att ladda ner"
     },
     "integrate": {
         "error": "Något har gått fel ...",
