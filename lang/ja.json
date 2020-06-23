@@ -1108,7 +1108,8 @@
         "color_painter": "カラーペインター",
         "formula_painter": "フォーミュラペインター",
         "json_painter": "ジェイソンペインター",
-        "size_painter": "サイズペインター"
+        "size_painter": "サイズペインター",
+        "download_stencil": "ステンシルをダウンロード"
     },
     "login": {
         "or": "または",
@@ -1764,7 +1765,6 @@
         "view.icon": "見る",
         "share.icon": "シェア",
         "create_layout_sym.icon": "レイアウト記号を作成する",
-        "comp_db.icon": "コンポーネントデータベース",
         "options.icon": "ドキュメントオプション",
         "create_schem.icon": "回路図シンボルを作成する",
         "edit_info.icon": "確認リンクは<br>以前のメールに送信されます。",
@@ -1775,7 +1775,10 @@
         "generate_layout.icon": "レイアウトを生成",
         "manage_comps.icon": "コンポーネントを管理する",
         "electra_export.icon": "レポートをエクスポートする",
-        "print.icon": "印刷する"
+        "print.icon": "印刷する",
+        "manage_db.icon": "データベースを管理する",
+        "electra_import.icon": "レポートをインポートする",
+        "manage_wirings.icon": "配線を管理する"
     },
     "preload": {
         "slack": "優れたコラボレーションのためにVectaとSlackを統合",
@@ -2071,7 +2074,9 @@
         "stencil_246": {
             "name": "報告書",
             "desc": "図面レポートで生成するために使用できるElectra Cloudのさまざまなレポートシンボル"
-        }
+        },
+        "no_symbols_download": "ダウンロードするシンボルはありません",
+        "downloading_stencil": "ステンシルをダウンロードしています..."
     },
     "plugin": {
         "no_exist": "以下の項目は設定できません。プラグインはもう存在しないかもしれません。または、あなたはプラグインにアクセスする権限がありません。",
