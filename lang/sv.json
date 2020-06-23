@@ -1660,7 +1660,7 @@
         "import-dxf": "Importera fantastiska DXF med bara dra och släpp",
         "text-effects": "Lägg till skugga, avfasning eller suddighetseffekt i din text",
         "dark-theme-vecta": "Visa mörkt tema för att aktivera mörkt läge",
-        "duplicate-shape": "Ctrl + D för att tillämpa ändringarna på egenskaperna för den valda formen",
+        "duplicate-shape": "Tryck på Ctrl-D för att tillämpa senaste egendomsförändringar på aktuell form",
         "dark-theme-electra": "Visa mörkt tema för att aktivera mörkt läge",
         "symbol-search": "Sök efter symboler i Vektas växande symbolbibliotek",
         "create-and-invite-team": "Bjud in medlemmar att få ditt team igång i Electra",
