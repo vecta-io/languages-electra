@@ -1439,7 +1439,7 @@
         "insert_horizontal_menu": "插入水平/垂直菜單",
         "all_fields_required": "除位置字段外，所有字段都必須用作導入文件。",
         "found_mat_ref": "找到有效的材料參考報告@@。",
-        "import_mat_ref": "進口材料參考",
+        "import_mat_ref": "導入材料參考",
         "status": "狀態",
         "init_compo_pages": "初始化組件並加載頁面",
         "file": "文件",
