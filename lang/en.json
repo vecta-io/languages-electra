@@ -1460,7 +1460,8 @@
         "auto_wiring": "Auto wiring",
         "wire_sym_not_found": "The @@ symbol is not found. <br/>Please ensure the <b>%%</b> stencil is expanded or <br/>automatic wiring when dropping symbol is disabled in Document Options.",
         "generating_toc": "Generating table of contents",
-        "reuse_toc": "Do you want to reuse current TOC?"
+        "reuse_toc": "Do you want to reuse current TOC?",
+        "display_term_loc": "Display terminal location"
     },
     "drop": {
         "maintain_id": "Maintain ID",
