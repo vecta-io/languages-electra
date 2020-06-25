@@ -1461,7 +1461,8 @@
         "exporting": "导出中",
         "loading_pages": "正在载入页面",
         "json": "JavaScript对象符号（* .json）",
-        "include_in_layout": "包含在布局中"
+        "include_in_layout": "包含在布局中",
+        "display_term_loc": "显示终端位置"
     },
     "drop": {
         "maintain_id": "维护ID",
