@@ -1461,7 +1461,8 @@
         "exporting": "導出中",
         "loading_pages": "載入頁面",
         "json": "JavaScript對象符號（* .json）",
-        "include_in_layout": "包含在佈局中"
+        "include_in_layout": "包含在佈局中",
+        "display_term_loc": "顯示終端位置"
     },
     "drop": {
         "maintain_id": "維護ID",
