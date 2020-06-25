@@ -765,7 +765,8 @@
         "exporting": "exportera",
         "loading_pages": "Laddar sidor",
         "json": "JavaScript Object Notation (* .json)",
-        "include_in_layout": "Ingår i layouten"
+        "include_in_layout": "Ingår i layouten",
+        "display_term_loc": "Visa terminalplats"
     },
     "drop": {
         "in": "tum",
