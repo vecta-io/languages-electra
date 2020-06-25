@@ -765,7 +765,8 @@
         "exporting": "Exportation",
         "loading_pages": "Chargement des pages",
         "json": "Notation d'objet JavaScript (* .json)",
-        "include_in_layout": "Inclus dans la mise en page"
+        "include_in_layout": "Inclus dans la mise en page",
+        "display_term_loc": "Afficher l'emplacement du terminal"
     },
     "page": {
         "cm": "Centimètre",
