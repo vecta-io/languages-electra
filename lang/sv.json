@@ -766,7 +766,12 @@
         "loading_pages": "Laddar sidor",
         "json": "JavaScript Object Notation (* .json)",
         "include_in_layout": "Ingår i layouten",
-        "display_term_loc": "Visa terminalplats"
+        "display_term_loc": "Visa terminalplats",
+        "wire_bus": "Trådbuss",
+        "get_wire_bus": "Skaffa trådbussar",
+        "set_wire_bus": "Ställ in trådbuss",
+        "wire_spacing": "Trådavstånd",
+        "wires_number": "Antal ledningar"
     },
     "drop": {
         "in": "tum",
@@ -1264,7 +1269,9 @@
         "sso_url": "SSO URL",
         "rp_id": "RS / SP-enhets-ID",
         "id_management": "ID-hantering",
-        "display_name": "Visningsnamn"
+        "display_name": "Visningsnamn",
+        "request_trial_title": "Begäran om testförlängning",
+        "trial_extended": "Försök förlängs"
     },
     "noti": {
         "deny": "Neka",
@@ -2247,7 +2254,8 @@
         "beta": "Beta",
         "license": "Licens",
         "purchase_license": "Köp en licens",
-        "request_trial": "Begär testförlängning"
+        "request_trial": "Begär förlängning av rättegången",
+        "extend_trial": "Förläng rättegången"
     },
     "license": {
         "product_is_unlicensed": "Denna produkt är olicensierad",
@@ -2273,7 +2281,7 @@
         "trial_left": "Du är för närvarande i provläge. Din licens upphör om @@ dagar",
         "license_expired": "Test / licens har gått ut",
         "err_1": "Ogiltig knapp anges.",
-        "license_expired_desc": "Test / licens har gått ut. Produktivitetsverktyg kommer att inaktiveras."
+        "license_expired_desc": "Test / licens har löpt ut. Produktivitetsverktyg kommer att inaktiveras. <br> Släpp oss ett e-postmeddelande på support@radicasoftware.com för mer information."
     },
     "videos": {
         "hnx0KutWDa0": {
