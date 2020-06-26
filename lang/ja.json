@@ -766,7 +766,12 @@
         "loading_pages": "ページを読み込んでいます",
         "json": "JavaScriptオブジェクト表記（* .json）",
         "include_in_layout": "レイアウトに含まれる",
-        "display_term_loc": "端末の位置を表示"
+        "display_term_loc": "端末の位置を表示",
+        "set_wire_bus": "ワイヤーバスの設定",
+        "wire_spacing": "ワイヤー間隔",
+        "get_wire_bus": "ワイヤーバスの入手",
+        "wires_number": "ワイヤーの数",
+        "wire_bus": "ワイヤーバス"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1299,7 +1304,9 @@
         "provider_id": "プロバイダーID",
         "callback_url": "コールバックURL",
         "display_name": "表示名",
-        "x509": "X.509証明書"
+        "x509": "X.509証明書",
+        "request_trial_title": "試用延長のリクエスト",
+        "trial_extended": "試用期間が延長されました"
     },
     "noti": {
         "left": "%% left Team @@。",
@@ -2247,7 +2254,8 @@
         "license": "ライセンス",
         "beta": "ベータ",
         "purchase_license": "ライセンスを購入する",
-        "request_trial": "トライアル延長をリクエスト"
+        "request_trial": "試用期間の延長をリクエスト",
+        "extend_trial": "試用期間を延長する"
     },
     "license": {
         "product_is_unlicensed": "この製品はライセンスされていません",
@@ -2273,7 +2281,7 @@
         "err_1": "入力したキーは無効です。",
         "trial_left": "現在、試用モードです。ライセンスは@@日後に期限切れになります",
         "license_expired": "試用版/ライセンスの期限切れ",
-        "license_expired_desc": "試用版/ライセンスの有効期限が切れています。生産性向上ツールは無効になります。"
+        "license_expired_desc": "試用版/ライセンスの有効期限が切れています。生産性向上ツールは無効になります。 <br>詳細については、support @ radicasoftware.comまでメールをお送りください。"
     },
     "videos": {
         "hnx0KutWDa0": {
