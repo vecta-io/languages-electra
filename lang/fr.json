@@ -766,7 +766,12 @@
         "loading_pages": "Chargement des pages",
         "json": "Notation d'objet JavaScript (* .json)",
         "include_in_layout": "Inclus dans la mise en page",
-        "display_term_loc": "Afficher l'emplacement du terminal"
+        "display_term_loc": "Afficher l'emplacement du terminal",
+        "wires_number": "Nombre de fils",
+        "get_wire_bus": "Obtenir des bus filaires",
+        "wire_spacing": "Espacement des fils",
+        "set_wire_bus": "Définir le bus de fil",
+        "wire_bus": "Bus de fil"
     },
     "page": {
         "cm": "Centimètre",
@@ -1356,7 +1361,9 @@
         "display_name": "Afficher un nom",
         "rp_id": "ID d'entité RS / SP",
         "x509": "Certificats X.509",
-        "idp_id": "ID d'entité IdP"
+        "idp_id": "ID d'entité IdP",
+        "request_trial_title": "Demande de prolongation d'essai",
+        "trial_extended": "Essai prolongé"
     },
     "access": {
         "and": "et",
@@ -2247,7 +2254,8 @@
         "beta": "Bêta",
         "license": "Licence",
         "purchase_license": "Acheter une licence",
-        "request_trial": "Demander une extension d'essai"
+        "request_trial": "Demander une prolongation de l'essai",
+        "extend_trial": "Prolonger l'essai"
     },
     "license": {
         "activate": "Activer",
@@ -2273,7 +2281,7 @@
         "trial_mode": "Mode d'essai",
         "trial_left": "Vous êtes actuellement en mode d'essai. Votre licence expirera dans @@ jours",
         "license_expired": "Version d'essai / licence expirée",
-        "license_expired_desc": "Version d'essai / licence expirée. Les outils de productivité seront désactivés."
+        "license_expired_desc": "Version d&#39;essai / licence expirée. Les outils de productivité seront désactivés. <br> Veuillez nous envoyer un e-mail à support@radicasoftware.com pour plus d&#39;informations."
     },
     "videos": {
         "4y_1QqasHoA": {
