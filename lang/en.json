@@ -575,7 +575,9 @@
         "sso_url": "SSO URL",
         "x509": "X.509 Certificates",
         "rp_id": "RS/SP entity ID",
-        "callback_url": "Callback URL"
+        "callback_url": "Callback URL",
+        "request_trial_title": "Request for trial extension",
+        "trial_extended": "Trial extended"
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
@@ -1461,7 +1463,12 @@
         "wire_sym_not_found": "The @@ symbol is not found. <br/>Please ensure the <b>%%</b> stencil is expanded or <br/>automatic wiring when dropping symbol is disabled in Document Options.",
         "generating_toc": "Generating table of contents",
         "reuse_toc": "Do you want to reuse current TOC?",
-        "display_term_loc": "Display terminal location"
+        "display_term_loc": "Display terminal location",
+        "set_wire_bus": "Set Wire Bus",
+        "wire_spacing": "Wire Spacing",
+        "wires_number": "Number of Wires",
+        "get_wire_bus": "Getting wire buses",
+        "wire_bus": "Wire bus"
     },
     "drop": {
         "maintain_id": "Maintain ID",
@@ -2284,7 +2291,8 @@
         "remove_devices": "Remove all",
         "confirm_device": "Remove all devices from this serial key?",
         "purchase_license": "Purchase a license",
-        "request_trial": "Request trial extension"
+        "request_trial": "Request extend trial",
+        "extend_trial": "Extend trial"
     },
     "license": {
         "activate": "Activate",
@@ -2310,7 +2318,7 @@
         "trial_left": "You are currently in trial mode. Your license will expires in @@ days",
         "expired": "expired",
         "license_expired": "Trial / License expired",
-        "license_expired_desc": "Trial / License expired. Productivity tools will be disabled."
+        "license_expired_desc": "Trial / License expired. Productivity tools will be disabled. <br>Please drop us an email at support@radicasoftware.com for more information."
     },
     "partner": {
         "partner": "Partner",
