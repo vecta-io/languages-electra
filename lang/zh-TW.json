@@ -577,7 +577,9 @@
         "sso_url": "SSO URL",
         "display_name": "顯示名稱",
         "x509": "X.509證書",
-        "rp_id": "RS / SP實體ID"
+        "rp_id": "RS / SP實體ID",
+        "request_trial_title": "要求延長試用期",
+        "trial_extended": "試用期延長"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
@@ -1462,7 +1464,12 @@
         "loading_pages": "載入頁面",
         "json": "JavaScript對象符號（* .json）",
         "include_in_layout": "包含在佈局中",
-        "display_term_loc": "顯示終端位置"
+        "display_term_loc": "顯示終端位置",
+        "wire_spacing": "線距",
+        "wires_number": "線數",
+        "set_wire_bus": "設置電線總線",
+        "get_wire_bus": "乘坐巴士",
+        "wire_bus": "有線巴士"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -2285,7 +2292,8 @@
         "beta": "貝塔",
         "license": "執照",
         "request_trial": "要求延長試用期",
-        "purchase_license": "購買許可證"
+        "purchase_license": "購買許可證",
+        "extend_trial": "延長試用期"
     },
     "license": {
         "activate": "激活",
@@ -2311,7 +2319,7 @@
         "trial_mode": "試用模式",
         "license_expired": "試用版/許可證已過期",
         "trial_left": "您目前處於試用模式。您的許可將在@@天后過期",
-        "license_expired_desc": "試用版/許可證已過期。生產力工具將被禁用。"
+        "license_expired_desc": "試用版/許可證已過期。生產力工具將被禁用。 <br>請給我們發送電子郵件至support@radicasoftware.com了解更多信息。"
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
