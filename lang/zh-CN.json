@@ -577,7 +577,9 @@
         "rp_id": "RS / SP实体ID",
         "id_management": "身份管理",
         "display_name": "显示名称",
-        "callback_url": "回调网址"
+        "callback_url": "回调网址",
+        "request_trial_title": "要求延长试用期",
+        "trial_extended": "试用期延长"
     },
     "noti": {
         "same_day": "注意：公告将在其创建的同一天开始",
@@ -1462,7 +1464,12 @@
         "loading_pages": "正在载入页面",
         "json": "JavaScript对象符号（* .json）",
         "include_in_layout": "包含在布局中",
-        "display_term_loc": "显示终端位置"
+        "display_term_loc": "显示终端位置",
+        "get_wire_bus": "乘坐巴士",
+        "wires_number": "线数",
+        "wire_spacing": "线距",
+        "wire_bus": "有线巴士",
+        "set_wire_bus": "设置电线总线"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -2285,7 +2292,8 @@
         "license": "执照",
         "beta": "贝塔",
         "purchase_license": "购买许可证",
-        "request_trial": "要求延长试用期"
+        "request_trial": "要求延长试用期",
+        "extend_trial": "延长试用期"
     },
     "license": {
         "activate": "激活",
@@ -2310,7 +2318,7 @@
         "expired": "已过期",
         "license_expired": "试用版/许可证已过期",
         "trial_mode": "试用模式",
-        "license_expired_desc": "试用版/许可证已过期。生产力工具将被禁用。",
+        "license_expired_desc": "试用版/许可证已过期。生产力工具将被禁用。 <br>请给我们发送电子邮件至support@radicasoftware.com了解更多信息。",
         "trial_left": "您目前处于试用模式。您的许可将在@@天后过期"
     },
     "templates_dev": {
