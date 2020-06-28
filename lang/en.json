@@ -1728,7 +1728,7 @@
         "public_stencil": "Public - Anyone can access symbols",
         "private_stencil": "Private - Only you or your team can access symbols",
         "symbol_name": "Name",
-        "no_symbol": "Opps, no symbols found",
+        "no_symbol": "Oops, no symbols found",
         "symbol_desc": "Description",
         "delete_stencil": "Delete stencil",
         "removed": "Some stencils are not moved because it has been removed, or you are not allowed to begin with.",
