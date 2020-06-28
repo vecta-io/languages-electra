@@ -1729,7 +1729,7 @@
         "public_stencil": "公共-任何人都可以訪問符號",
         "private_stencil": "私人-只有您或您的團隊可以訪問符號",
         "symbol_name": "名稱",
-        "no_symbol": "糟糕，未找到符號",
+        "no_symbol": "糟糕，找不到符號",
         "symbol_desc": "描述",
         "delete_stencil": "刪除模具",
         "removed": "某些模具因為已被移走而未被移動，或者不允許您開始",
