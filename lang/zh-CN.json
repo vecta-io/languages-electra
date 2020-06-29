@@ -320,7 +320,8 @@
         "access_contacts": "允许访问您的联系人列表以便轻松共享团队和绘图",
         "social_no_email": "该@@帐户没有电子邮件。 <br/>请使用电子邮件或其他帐户进行注册。",
         "saml": "使用SAML登录",
-        "signup_saml": "使用SAML注册"
+        "signup_saml": "使用SAML注册",
+        "storage_disabled_title": "储存空间已停用"
     },
     "signup": {
         "not_found": "未找到帐户",
