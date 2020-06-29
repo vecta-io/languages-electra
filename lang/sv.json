@@ -1172,7 +1172,8 @@
         "reset_title_nano": "Nano Beta återställer lösenord",
         "signin_title_nano": "Nano Logga in",
         "saml": "Logga in med SAML",
-        "signup_saml": "Registrera dig med SAML"
+        "signup_saml": "Registrera dig med SAML",
+        "storage_disabled_title": "Lagring inaktiverad"
     },
     "dash": {
         "dash": "Hem",
