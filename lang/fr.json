@@ -1172,7 +1172,8 @@
         "access_contacts": "Autorisez l'accès à votre liste de contacts pour un partage facile des équipes et des dessins",
         "social_no_email": "Ce compte @@ n&#39;a pas d&#39;e-mail. <br/> Veuillez vous inscrire avec un e-mail ou un autre compte.",
         "saml": "Connectez-vous avec SAML",
-        "signup_saml": "Inscrivez-vous avec SAML"
+        "signup_saml": "Inscrivez-vous avec SAML",
+        "storage_disabled_title": "Stockage désactivé"
     },
     "noti": {
         "deny": "Nier",
