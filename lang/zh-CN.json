@@ -1228,7 +1228,7 @@
         "gen_term_lists": "正在生成接线盒清单",
         "renum_list": "重新编号端子",
         "start_num": "起始编号",
-        "suffix_char": "后缀字符（可选，逗号分隔）",
+        "suffix_char": "后缀字符",
         "hide_tblock_txt": "隐藏接线端子参考",
         "wire_link": "电线链接",
         "get_wire_link": "获取电线链接",
@@ -1470,7 +1470,8 @@
         "wires_number": "线数",
         "wire_spacing": "线距",
         "wire_bus": "有线巴士",
-        "set_wire_bus": "设置电线总线"
+        "set_wire_bus": "设置电线总线",
+        "suffix_char_mssg": "可选，逗号分隔"
     },
     "drop": {
         "maintain_id": "维护ID",
