@@ -553,7 +553,7 @@
         "get_wire_link": "Obtenir des liens filaires",
         "name_label": "Nom du fil - emplacement",
         "create_tblock": "Créer un cartouche",
-        "suffix_char": "Caractères de suffixe (facultatif, séparés par des virgules)",
+        "suffix_char": "Caractères de suffixe",
         "prompt": "Rapide",
         "gen_tblock": "Génération d'un cartouche",
         "dup_names": "Nom de données dupliqué",
@@ -771,7 +771,8 @@
         "get_wire_bus": "Obtenir des bus filaires",
         "wire_spacing": "Espacement des fils",
         "set_wire_bus": "Définir le bus de fil",
-        "wire_bus": "Bus de fil"
+        "wire_bus": "Bus de fil",
+        "suffix_char_mssg": "Facultatif, séparé par des virgules"
     },
     "page": {
         "cm": "Centimètre",
