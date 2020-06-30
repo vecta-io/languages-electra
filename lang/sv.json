@@ -543,7 +543,7 @@
         "hide_tblock_txt": "Dölj referens för terminalblock",
         "scan_terms": "Skanna terminaler",
         "available_link": "Tillgänglig länk",
-        "suffix_char": "Suffix-tecken (valfritt, kommaseparerad)",
+        "suffix_char": "Suffix-tecken",
         "start_num": "Startnummer",
         "get_wire_link": "Få trådlänkar",
         "renum_list": "Renummer terminaler",
@@ -771,7 +771,8 @@
         "get_wire_bus": "Skaffa trådbussar",
         "set_wire_bus": "Ställ in trådbuss",
         "wire_spacing": "Trådavstånd",
-        "wires_number": "Antal ledningar"
+        "wires_number": "Antal ledningar",
+        "suffix_char_mssg": "Valfritt, kommaseparerad"
     },
     "drop": {
         "in": "tum",
