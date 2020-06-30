@@ -1227,7 +1227,7 @@
         "gen_term_lists": "正在生成接線盒清單",
         "renum_list": "重新編號端子",
         "start_num": "起始編號",
-        "suffix_char": "後綴字符（可選，逗號分隔）",
+        "suffix_char": "後綴字符",
         "hide_tblock_txt": "隱藏接線端子參考",
         "wire_link": "電線鏈接",
         "get_wire_link": "獲取電線鏈接",
@@ -1470,7 +1470,8 @@
         "wires_number": "線數",
         "set_wire_bus": "設置電線總線",
         "get_wire_bus": "乘坐巴士",
-        "wire_bus": "有線巴士"
+        "wire_bus": "有線巴士",
+        "suffix_char_mssg": "可選，逗號分隔"
     },
     "drop": {
         "maintain_id": "維護ID",
