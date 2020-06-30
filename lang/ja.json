@@ -552,7 +552,7 @@
         "wire_link": "ワイヤーリンク",
         "show_all": "すべてのリンクを表示",
         "create_tdata": "表題欄データを挿入する",
-        "suffix_char": "サフィックス文字（オプション、コンマ区切り）",
+        "suffix_char": "サフィックス文字",
         "prompt": "促す",
         "def_val": "デフォルト値",
         "no_shape": "形状を選択してください",
@@ -771,7 +771,8 @@
         "wire_spacing": "ワイヤー間隔",
         "get_wire_bus": "ワイヤーバスの入手",
         "wires_number": "ワイヤーの数",
-        "wire_bus": "ワイヤーバス"
+        "wire_bus": "ワイヤーバス",
+        "suffix_char_mssg": "オプション、コンマ区切り"
     },
     "list": {
         "sv": "スウェーデン語",
