@@ -320,8 +320,7 @@
         "access_contacts": "允許訪問您的聯繫人列表以便輕鬆共享團隊和繪圖",
         "social_no_email": "該@@帳戶沒有電子郵件。 <br/>請使用電子郵件或其他帳戶進行註冊。",
         "signup_saml": "使用SAML註冊",
-        "saml": "使用SAML登錄",
-        "storage_disabled_title": "儲存空間已停用"
+        "saml": "使用SAML登錄"
     },
     "signup": {
         "not_found": "未找到帳戶",
@@ -1227,7 +1226,7 @@
         "gen_term_lists": "正在生成接線盒清單",
         "renum_list": "重新編號端子",
         "start_num": "起始編號",
-        "suffix_char": "後綴字符",
+        "suffix_char": "後綴字符（可選，逗號分隔）",
         "hide_tblock_txt": "隱藏接線端子參考",
         "wire_link": "電線鏈接",
         "get_wire_link": "獲取電線鏈接",
@@ -1470,8 +1469,7 @@
         "wires_number": "線數",
         "set_wire_bus": "設置電線總線",
         "get_wire_bus": "乘坐巴士",
-        "wire_bus": "有線巴士",
-        "suffix_char_mssg": "可選，逗號分隔"
+        "wire_bus": "有線巴士"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -1731,7 +1729,7 @@
         "public_stencil": "公共-任何人都可以訪問符號",
         "private_stencil": "私人-只有您或您的團隊可以訪問符號",
         "symbol_name": "名稱",
-        "no_symbol": "糟糕，找不到符號",
+        "no_symbol": "沒找到符號",
         "symbol_desc": "描述",
         "delete_stencil": "刪除模具",
         "removed": "某些模具因為已被移走而未被移動，或者不允許您開始",
