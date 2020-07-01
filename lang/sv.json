@@ -543,7 +543,7 @@
         "hide_tblock_txt": "Dölj referens för terminalblock",
         "scan_terms": "Skanna terminaler",
         "available_link": "Tillgänglig länk",
-        "suffix_char": "Suffix-tecken (valfritt, kommaseparerad)",
+        "suffix_char": "Suffix-tecken",
         "start_num": "Startnummer",
         "get_wire_link": "Få trådlänkar",
         "renum_list": "Renummer terminaler",
@@ -771,7 +771,8 @@
         "get_wire_bus": "Skaffa trådbussar",
         "set_wire_bus": "Ställ in trådbuss",
         "wire_spacing": "Trådavstånd",
-        "wires_number": "Antal ledningar"
+        "wires_number": "Antal ledningar",
+        "suffix_char_mssg": "Valfritt, kommaseparerad"
     },
     "drop": {
         "in": "tum",
@@ -1172,7 +1173,8 @@
         "reset_title_nano": "Nano Beta återställer lösenord",
         "signin_title_nano": "Nano Logga in",
         "saml": "Logga in med SAML",
-        "signup_saml": "Registrera dig med SAML"
+        "signup_saml": "Registrera dig med SAML",
+        "storage_disabled_title": "Lagring inaktiverad"
     },
     "dash": {
         "dash": "Hem",
@@ -1926,7 +1928,7 @@
         "stencils": "Stenciler",
         "no_exist": "Det gick inte att ställa in följande objekt. Stencilen kan inte längre existera, eller <br /> du har inte behörighet att komma åt det.",
         "importing": "Importerar data",
-        "no_symbol": "Opps, inga symboler hittade",
+        "no_symbol": "Hopps, inga symboler hittade",
         "stencil_cat": "Stencil kategori (Separate med komma)",
         "drop_shapes": "Släpp former här",
         "confirm_del": "Att radera en stencil är en icke-reversibel åtgärd. <br /> <br /> Är du säker på att du vill radera denna stencil?",
