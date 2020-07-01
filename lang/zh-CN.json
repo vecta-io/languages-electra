@@ -320,7 +320,8 @@
         "access_contacts": "允许访问您的联系人列表以便轻松共享团队和绘图",
         "social_no_email": "该@@帐户没有电子邮件。 <br/>请使用电子邮件或其他帐户进行注册。",
         "saml": "使用SAML登录",
-        "signup_saml": "使用SAML注册"
+        "signup_saml": "使用SAML注册",
+        "storage_disabled_title": "储存空间已停用"
     },
     "signup": {
         "not_found": "未找到帐户",
@@ -1227,7 +1228,7 @@
         "gen_term_lists": "正在生成接线盒清单",
         "renum_list": "重新编号端子",
         "start_num": "起始编号",
-        "suffix_char": "后缀字符（可选，逗号分隔）",
+        "suffix_char": "后缀字符",
         "hide_tblock_txt": "隐藏接线端子参考",
         "wire_link": "电线链接",
         "get_wire_link": "获取电线链接",
@@ -1469,7 +1470,8 @@
         "wires_number": "线数",
         "wire_spacing": "线距",
         "wire_bus": "有线巴士",
-        "set_wire_bus": "设置电线总线"
+        "set_wire_bus": "设置电线总线",
+        "suffix_char_mssg": "可选，逗号分隔"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -1729,7 +1731,7 @@
         "public_stencil": "公共-任何人都可以访问符号",
         "private_stencil": "私人-只有您或您的团队可以访问符号",
         "symbol_name": "名称",
-        "no_symbol": "没找到符号",
+        "no_symbol": "糟糕，找不到符号",
         "symbol_desc": "描述",
         "delete_stencil": "删除模具",
         "removed": "某些模具因为已被移走而未被移动，或者不允许您开始",
