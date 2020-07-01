@@ -553,7 +553,7 @@
         "get_wire_link": "Obtenir des liens filaires",
         "name_label": "Nom du fil - emplacement",
         "create_tblock": "Créer un cartouche",
-        "suffix_char": "Caractères de suffixe",
+        "suffix_char": "Caractères suffixes (facultatif, séparés par des virgules)",
         "prompt": "Rapide",
         "gen_tblock": "Génération d'un cartouche",
         "dup_names": "Nom de données dupliqué",
@@ -771,8 +771,7 @@
         "get_wire_bus": "Obtenir des bus filaires",
         "wire_spacing": "Espacement des fils",
         "set_wire_bus": "Définir le bus de fil",
-        "wire_bus": "Bus de fil",
-        "suffix_char_mssg": "Facultatif, séparé par des virgules"
+        "wire_bus": "Bus de fil"
     },
     "page": {
         "cm": "Centimètre",
@@ -1173,8 +1172,7 @@
         "access_contacts": "Autorisez l'accès à votre liste de contacts pour un partage facile des équipes et des dessins",
         "social_no_email": "Ce compte @@ n&#39;a pas d&#39;e-mail. <br/> Veuillez vous inscrire avec un e-mail ou un autre compte.",
         "saml": "Connectez-vous avec SAML",
-        "signup_saml": "Inscrivez-vous avec SAML",
-        "storage_disabled_title": "Stockage désactivé"
+        "signup_saml": "Inscrivez-vous avec SAML"
     },
     "noti": {
         "deny": "Nier",
@@ -1934,7 +1932,7 @@
         "stencils": "Pochoirs",
         "imported": "Importation de données terminée",
         "importing": "Importer des données",
-        "no_symbol": "Oups, aucun symbole trouvé",
+        "no_symbol": "Opps, aucun symbole trouvé",
         "save_search": "Enregistrer la recherche",
         "symbol_name": "prénom",
         "drop_shapes": "Déposer des formes ici",
