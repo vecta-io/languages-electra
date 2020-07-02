@@ -1471,7 +1471,8 @@
         "wire_spacing": "线距",
         "wire_bus": "有线巴士",
         "set_wire_bus": "设置电线总线",
-        "suffix_char_mssg": "可选，逗号分隔"
+        "suffix_char_mssg": "可选，逗号分隔",
+        "page_margin": "页边距"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -1707,7 +1708,9 @@
         "json_painter": "杰森画家",
         "size_painter": "大小画家",
         "formula_painter": "配方画家",
-        "download_stencil": "下载模具"
+        "download_stencil": "下载模具",
+        "show_page_margin": "显示页边距",
+        "hide_page_margin": "隐藏页边距"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
