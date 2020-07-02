@@ -772,7 +772,8 @@
         "set_wire_bus": "Ställ in trådbuss",
         "wire_spacing": "Trådavstånd",
         "wires_number": "Antal ledningar",
-        "suffix_char_mssg": "Valfritt, kommaseparerad"
+        "suffix_char_mssg": "Valfritt, kommaseparerad",
+        "page_margin": "Sidomarginal"
     },
     "drop": {
         "in": "tum",
@@ -1008,7 +1009,9 @@
         "formula_painter": "Formelmålare",
         "format_painter": "Formatera målare",
         "json_painter": "Json målare",
-        "download_stencil": "Ladda ner stencil"
+        "download_stencil": "Ladda ner stencil",
+        "hide_page_margin": "Dölj sidmarginal",
+        "show_page_margin": "Visa sidomarginal"
     },
     "page": {
         "mm": "Millimeter",
