@@ -772,7 +772,8 @@
         "wire_spacing": "Espacement des fils",
         "set_wire_bus": "Définir le bus de fil",
         "wire_bus": "Bus de fil",
-        "suffix_char_mssg": "Facultatif, séparé par des virgules"
+        "suffix_char_mssg": "Facultatif, séparé par des virgules",
+        "page_margin": "Marge de page"
     },
     "page": {
         "cm": "Centimètre",
@@ -1108,7 +1109,9 @@
         "color_painter": "Peintre couleur",
         "format_painter": "Format peintre",
         "json_painter": "Peintre Json",
-        "download_stencil": "Télécharger le pochoir"
+        "download_stencil": "Télécharger le pochoir",
+        "show_page_margin": "Afficher la marge de la page",
+        "hide_page_margin": "Masquer la marge de la page"
     },
     "list": {
         "en": "Anglais",
