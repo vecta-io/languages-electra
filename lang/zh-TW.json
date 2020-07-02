@@ -1471,7 +1471,8 @@
         "set_wire_bus": "設置電線總線",
         "get_wire_bus": "乘坐巴士",
         "wire_bus": "有線巴士",
-        "suffix_char_mssg": "可選，逗號分隔"
+        "suffix_char_mssg": "可選，逗號分隔",
+        "page_margin": "頁邊距"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -1707,7 +1708,9 @@
         "json_painter": "傑森畫家",
         "color_painter": "彩色畫家",
         "size_painter": "大小畫家",
-        "download_stencil": "下載模具"
+        "download_stencil": "下載模具",
+        "show_page_margin": "顯示頁邊距",
+        "hide_page_margin": "隱藏頁邊距"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
