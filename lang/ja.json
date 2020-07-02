@@ -772,7 +772,8 @@
         "get_wire_bus": "ワイヤーバスの入手",
         "wires_number": "ワイヤーの数",
         "wire_bus": "ワイヤーバス",
-        "suffix_char_mssg": "オプション、コンマ区切り"
+        "suffix_char_mssg": "オプション、コンマ区切り",
+        "page_margin": "ページ余白"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1116,7 +1117,9 @@
         "formula_painter": "フォーミュラペインター",
         "json_painter": "ジェイソンペインター",
         "size_painter": "サイズペインター",
-        "download_stencil": "ステンシルをダウンロード"
+        "download_stencil": "ステンシルをダウンロード",
+        "show_page_margin": "ページ余白を表示",
+        "hide_page_margin": "ページの余白を隠す"
     },
     "login": {
         "or": "または",
