@@ -670,7 +670,7 @@
         "rung_height": "Rung höjd",
         "rung_count_vert": "Rung Count (vertikal)",
         "save_wire": "Spara ändringar i tråd?",
-        "tube_id": "Tube ID",
+        "tube_id": "Rör-ID",
         "comp_id": "Komponent-ID",
         "hose_id": "Slang-ID",
         "assign_wire_core": "Vänligen tilldela den aktuella ledningen till en kärna",
