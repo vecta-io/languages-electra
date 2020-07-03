@@ -674,7 +674,7 @@
         "rung_increment": "ラングの増分",
         "rung_count_error": "ラングカウント値が無効です。ラングカウントは2以上である必要があります",
         "comp_id": "コンポーネントID",
-        "hose_id": "ホースID",
+        "hose_id": "ハウジングID",
         "remove_cable": "ケーブルを外す",
         "cable_id": "ケーブルID",
         "assign_new_cable": "新しいケーブルを割り当てる",
