@@ -1769,6 +1769,13 @@
         "credits_link": "Credits link",
         "downloading_stencil": "Downloading stencil...",
         "no_symbols_download": "No symbols to download",
+        "stencil_0": {
+            "name": "Flow Chart",
+            "desc": "General flow chart symbols",
+            "cat": [
+                "Charts and diagrams"
+            ]
+        },
         "stencil_223": {
             "name": "Wires",
             "desc": "Various wires used in electrical circuit design for usages in CAD software to allow users to quickly make electrical schematics"
