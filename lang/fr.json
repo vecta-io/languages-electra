@@ -2089,7 +2089,14 @@
             "desc": "Divers symboles de rapport dans Electra Cloud qui peuvent être utilisés pour générer des rapports de dessin"
         },
         "downloading_stencil": "Téléchargement du pochoir ...",
-        "no_symbols_download": "Aucun symbole à télécharger"
+        "no_symbols_download": "Aucun symbole à télécharger",
+        "stencil_0": {
+            "desc": "Symboles généraux de l'organigramme",
+            "cat": [
+                "Graphiques et diagrammes"
+            ],
+            "name": "Organigramme"
+        }
     },
     "plugin": {
         "no_exist": "Impossible de définir les éléments suivants. Le plugin n'existe peut-être plus, ou <br /> vous n'avez pas la permission d'y accéder.",
