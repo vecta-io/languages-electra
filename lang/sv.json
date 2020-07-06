@@ -2083,7 +2083,14 @@
             "desc": "Olika rapportsymboler i Electra Cloud som kan användas för att generera i ritningsrapporter"
         },
         "downloading_stencil": "Hämtar stencil ...",
-        "no_symbols_download": "Inga symboler att ladda ner"
+        "no_symbols_download": "Inga symboler att ladda ner",
+        "stencil_0": {
+            "cat": [
+                "Diagram och diagram"
+            ],
+            "name": "Flödesschema",
+            "desc": "Allmänna flödessymboler"
+        }
     },
     "integrate": {
         "error": "Något har gått fel ...",
