@@ -1871,7 +1871,14 @@
             "desc": "注释已分配给图层，因此您可以在导出/打印期间自定义其可见性"
         },
         "no_symbols_download": "没有可供下载的符号",
-        "downloading_stencil": "正在下载模具..."
+        "downloading_stencil": "正在下载模具...",
+        "stencil_0": {
+            "name": "流程图",
+            "cat": [
+                "图表"
+            ],
+            "desc": "一般流程图符号"
+        }
     },
     "plugin": {
         "plugins": "插件",
