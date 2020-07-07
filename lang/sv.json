@@ -773,7 +773,20 @@
         "wire_spacing": "Trådavstånd",
         "wires_number": "Antal ledningar",
         "suffix_char_mssg": "Valfritt, kommaseparerad",
-        "page_margin": "Sidomarginal"
+        "page_margin": "Sidomarginal",
+        "invalid_sym_drawing": "Fel: Inte giltiga symboler för ritning av rapportfil.",
+        "report_pins_not_match": "Varning: Antal stift i ritningen stämmer inte med rapporten för symbolen \"@@\".",
+        "import": "Importera",
+        "symbol_id_not_exist": "Varning: Symbol med unikt ID \"@@\" finns inte.",
+        "unique_id": "UniqueID (ändrar inte)",
+        "sym_drawing": "Symboler på ritning",
+        "invalid_report": "Fel: Inte en giltig rapportfil.",
+        "import_hoses_drawing": "Importera slangar på ritning",
+        "wires_drawing": "Trådar på ritning",
+        "import_tubes_drawing": "Importera rör på ritning",
+        "hoses_drawing": "Slangar på ritning",
+        "import_wires_drawing": "Importera ledningar på ritning",
+        "tubes_drawing": "Rör på ritning"
     },
     "drop": {
         "in": "tum",
@@ -1011,7 +1024,11 @@
         "json_painter": "Json målare",
         "download_stencil": "Ladda ner stencil",
         "hide_page_margin": "Dölj sidmarginal",
-        "show_page_margin": "Visa sidomarginal"
+        "show_page_margin": "Visa sidomarginal",
+        "tubes_drawing": "Rör på ritning",
+        "wires_drawing": "Trådar på ritning",
+        "sym_drawing": "Symboler på ritning",
+        "hoses_drawing": "Slangar på ritning"
     },
     "page": {
         "mm": "Millimeter",
