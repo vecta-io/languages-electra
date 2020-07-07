@@ -773,7 +773,20 @@
         "set_wire_bus": "Définir le bus de fil",
         "wire_bus": "Bus de fil",
         "suffix_char_mssg": "Facultatif, séparé par des virgules",
-        "page_margin": "Marge de page"
+        "page_margin": "Marge de page",
+        "invalid_sym_drawing": "Erreur: symboles non valides sur le fichier de rapport de dessin.",
+        "sym_drawing": "Symboles sur le dessin",
+        "import": "Importer",
+        "hoses_drawing": "Tuyaux sur dessin",
+        "import_wires_drawing": "Importer des fils sur le dessin",
+        "tubes_drawing": "Tubes sur dessin",
+        "wires_drawing": "Fils sur dessin",
+        "report_pins_not_match": "Avertissement: le nombre de broches dans le dessin ne correspond pas au rapport pour le symbole \"@@\".",
+        "unique_id": "UniqueID (ne pas modifier)",
+        "symbol_id_not_exist": "Avertissement: le symbole avec l'ID unique \"@@\" n'existe pas.",
+        "import_tubes_drawing": "Importer des tubes sur le dessin",
+        "invalid_report": "Erreur: pas un fichier de rapport valide.",
+        "import_hoses_drawing": "Importer des flexibles sur le dessin"
     },
     "page": {
         "cm": "Centimètre",
@@ -1111,7 +1124,11 @@
         "json_painter": "Peintre Json",
         "download_stencil": "Télécharger le pochoir",
         "show_page_margin": "Afficher la marge de la page",
-        "hide_page_margin": "Masquer la marge de la page"
+        "hide_page_margin": "Masquer la marge de la page",
+        "sym_drawing": "Symboles sur le dessin",
+        "tubes_drawing": "Tubes sur dessin",
+        "wires_drawing": "Fils sur dessin",
+        "hoses_drawing": "Tuyaux sur dessin"
     },
     "list": {
         "en": "Anglais",
