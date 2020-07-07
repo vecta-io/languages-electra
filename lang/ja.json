@@ -773,7 +773,20 @@
         "wires_number": "ワイヤーの数",
         "wire_bus": "ワイヤーバス",
         "suffix_char_mssg": "オプション、コンマ区切り",
-        "page_margin": "ページ余白"
+        "page_margin": "ページ余白",
+        "import": "インポート",
+        "sym_drawing": "描画上の記号",
+        "unique_id": "UniqueID（変更しないでください）",
+        "report_pins_not_match": "警告：図面内のピンの数が記号 \"@@\"のレポートと一致しません。",
+        "hoses_drawing": "描画用ホース",
+        "symbol_id_not_exist": "警告：一意のID \"@@\"を持つシンボルは存在しません。",
+        "invalid_sym_drawing": "エラー：図面レポートファイルの有効なシンボルではありません。",
+        "import_wires_drawing": "図面にワイヤーをインポート",
+        "wires_drawing": "線引き",
+        "tubes_drawing": "図面上のチューブ",
+        "import_hoses_drawing": "図面にホースをインポート",
+        "import_tubes_drawing": "図面にチューブをインポートする",
+        "invalid_report": "エラー：有効なレポートファイルではありません。"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1119,7 +1132,11 @@
         "size_painter": "サイズペインター",
         "download_stencil": "ステンシルをダウンロード",
         "show_page_margin": "ページ余白を表示",
-        "hide_page_margin": "ページの余白を隠す"
+        "hide_page_margin": "ページの余白を隠す",
+        "wires_drawing": "線引き",
+        "tubes_drawing": "図面上のチューブ",
+        "sym_drawing": "描画上の記号",
+        "hoses_drawing": "描画用ホース"
     },
     "login": {
         "or": "または",
