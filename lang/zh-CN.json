@@ -1472,7 +1472,20 @@
         "wire_bus": "有线巴士",
         "set_wire_bus": "设置电线总线",
         "suffix_char_mssg": "可选，逗号分隔",
-        "page_margin": "页边距"
+        "page_margin": "页边距",
+        "import": "进口",
+        "tubes_drawing": "绘图管",
+        "wires_drawing": "图纸上的电线",
+        "symbol_id_not_exist": "警告：唯一ID为“ @@”的符号不存在。",
+        "invalid_sym_drawing": "错误：工程图报告文件上的符号无效。",
+        "unique_id": "UniqueID（请勿修改）",
+        "hoses_drawing": "绘图软管",
+        "sym_drawing": "图纸上的符号",
+        "report_pins_not_match": "警告：工程图中的针脚数量与符号“ @@”的报告不匹配。",
+        "import_tubes_drawing": "在工程图上导入管",
+        "import_wires_drawing": "在工程图上导入导线",
+        "invalid_report": "错误：无效的报告文件。",
+        "import_hoses_drawing": "在工程图上导入软管"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -1710,7 +1723,11 @@
         "formula_painter": "配方画家",
         "download_stencil": "下载模具",
         "show_page_margin": "显示页边距",
-        "hide_page_margin": "隐藏页边距"
+        "hide_page_margin": "隐藏页边距",
+        "sym_drawing": "图纸上的符号",
+        "wires_drawing": "图纸上的电线",
+        "hoses_drawing": "绘图软管",
+        "tubes_drawing": "绘图管"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
