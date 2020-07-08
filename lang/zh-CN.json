@@ -1727,7 +1727,8 @@
         "sym_drawing": "图纸上的符号",
         "wires_drawing": "图纸上的电线",
         "hoses_drawing": "绘图软管",
-        "tubes_drawing": "绘图管"
+        "tubes_drawing": "绘图管",
+        "export": "出口"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
