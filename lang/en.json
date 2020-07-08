@@ -1572,6 +1572,7 @@
         "doc_setup": "Document setup",
         "doc_setup_info": "The title and description are used on your publication, and on social media.<br />Publishing drawings will make your content visible to anyone on the Internet.",
         "file_title": "Title",
+        "export": "Export",
         "export_pdf": "Export as PDF",
         "export_jpg": "Export as JPG",
         "export_png": "Export as PNG",
