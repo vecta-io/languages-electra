@@ -1136,8 +1136,7 @@
         "wires_drawing": "線引き",
         "tubes_drawing": "図面上のチューブ",
         "sym_drawing": "描画上の記号",
-        "hoses_drawing": "描画用ホース",
-        "export": "書き出す"
+        "hoses_drawing": "描画用ホース"
     },
     "login": {
         "or": "または",
