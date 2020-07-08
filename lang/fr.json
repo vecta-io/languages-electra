@@ -786,7 +786,8 @@
         "import_tubes_drawing": "Importer des tubes sur le dessin",
         "invalid_report": "Erreur: fichier de rapport non valide.",
         "import_hoses_drawing": "Importer des flexibles sur le dessin",
-        "edit_code": "Modifier le code"
+        "edit_code": "Modifier le code",
+        "untitled_file": "Fichier sans titre"
     },
     "page": {
         "cm": "Centimètre",
