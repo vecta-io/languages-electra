@@ -780,13 +780,13 @@
         "report_pins_not_match": "警告：図面内のピンの数が記号 \"@@\"のレポートと一致しません。",
         "hoses_drawing": "描画用ホース",
         "symbol_id_not_exist": "警告：一意のID \"@@\"を持つシンボルは存在しません。",
-        "invalid_sym_drawing": "エラー：図面レポートファイルの有効なシンボルではありません。",
         "import_wires_drawing": "図面にワイヤーをインポート",
         "wires_drawing": "線引き",
         "tubes_drawing": "図面上のチューブ",
         "import_hoses_drawing": "図面にホースをインポート",
         "import_tubes_drawing": "図面にチューブをインポートする",
-        "invalid_report": "エラー：有効なレポートファイルではありません。"
+        "invalid_report": "エラー：無効なレポートファイル。",
+        "edit_code": "コードを編集"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1136,7 +1136,8 @@
         "wires_drawing": "線引き",
         "tubes_drawing": "図面上のチューブ",
         "sym_drawing": "描画上の記号",
-        "hoses_drawing": "描画用ホース"
+        "hoses_drawing": "描画用ホース",
+        "export": "書き出す"
     },
     "login": {
         "or": "または",
@@ -1328,7 +1329,8 @@
         "display_name": "表示名",
         "x509": "X.509証明書",
         "request_trial_title": "試用延長のリクエスト",
-        "trial_extended": "試用期間が延長されました"
+        "trial_extended": "試用期間が延長されました",
+        "no_export": "空の図面はエクスポートできません。"
     },
     "noti": {
         "left": "%% left Team @@。",
