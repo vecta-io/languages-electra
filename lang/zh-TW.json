@@ -1486,7 +1486,8 @@
         "wires_drawing": "圖紙上的電線",
         "import_hoses_drawing": "在工程圖上導入軟管",
         "invalid_report": "錯誤：無效的報告文件。",
-        "edit_code": "編輯代碼"
+        "edit_code": "編輯代碼",
+        "untitled_file": "無標題文件"
     },
     "drop": {
         "maintain_id": "維護ID",
