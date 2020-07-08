@@ -774,19 +774,19 @@
         "wires_number": "Antal ledningar",
         "suffix_char_mssg": "Valfritt, kommaseparerad",
         "page_margin": "Sidomarginal",
-        "invalid_sym_drawing": "Fel: Inte giltiga symboler för ritning av rapportfil.",
         "report_pins_not_match": "Varning: Antal stift i ritningen stämmer inte med rapporten för symbolen \"@@\".",
         "import": "Importera",
         "symbol_id_not_exist": "Varning: Symbol med unikt ID \"@@\" finns inte.",
         "unique_id": "UniqueID (ändrar inte)",
         "sym_drawing": "Symboler på ritning",
-        "invalid_report": "Fel: Inte en giltig rapportfil.",
+        "invalid_report": "Fel: Ogiltig rapportfil.",
         "import_hoses_drawing": "Importera slangar på ritning",
         "wires_drawing": "Trådar på ritning",
         "import_tubes_drawing": "Importera rör på ritning",
         "hoses_drawing": "Slangar på ritning",
         "import_wires_drawing": "Importera ledningar på ritning",
-        "tubes_drawing": "Rör på ritning"
+        "tubes_drawing": "Rör på ritning",
+        "edit_code": "Redigera kod"
     },
     "drop": {
         "in": "tum",
@@ -1028,7 +1028,8 @@
         "tubes_drawing": "Rör på ritning",
         "wires_drawing": "Trådar på ritning",
         "sym_drawing": "Symboler på ritning",
-        "hoses_drawing": "Slangar på ritning"
+        "hoses_drawing": "Slangar på ritning",
+        "export": "Exportera"
     },
     "page": {
         "mm": "Millimeter",
@@ -1293,7 +1294,8 @@
         "id_management": "ID-hantering",
         "display_name": "Visningsnamn",
         "request_trial_title": "Begäran om testförlängning",
-        "trial_extended": "Försök förlängs"
+        "trial_extended": "Försök förlängs",
+        "no_export": "Du kan inte exportera en tom ritning."
     },
     "noti": {
         "deny": "Neka",
