@@ -580,7 +580,8 @@
         "x509": "X.509證書",
         "rp_id": "RS / SP實體ID",
         "request_trial_title": "要求延長試用期",
-        "trial_extended": "試用期延長"
+        "trial_extended": "試用期延長",
+        "no_export": "您不能導出空白圖形。"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
@@ -1475,7 +1476,6 @@
         "page_margin": "頁邊距",
         "import": "進口",
         "sym_drawing": "圖紙上的符號",
-        "invalid_sym_drawing": "錯誤：工程圖報告文件上的符號無效。",
         "report_pins_not_match": "警告：工程圖中的針腳數量與符號“ @@”的報告不匹配。",
         "unique_id": "UniqueID（請勿修改）",
         "symbol_id_not_exist": "警告：唯一ID為“ @@”的符號不存在。",
@@ -1485,7 +1485,8 @@
         "import_wires_drawing": "在工程圖上導入導線",
         "wires_drawing": "圖紙上的電線",
         "import_hoses_drawing": "在工程圖上導入軟管",
-        "invalid_report": "錯誤：無效的報告文件。"
+        "invalid_report": "錯誤：無效的報告文件。",
+        "edit_code": "編輯代碼"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -1727,7 +1728,8 @@
         "sym_drawing": "圖紙上的符號",
         "hoses_drawing": "繪圖軟管",
         "wires_drawing": "圖紙上的電線",
-        "tubes_drawing": "繪圖管"
+        "tubes_drawing": "繪圖管",
+        "export": "出口"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
