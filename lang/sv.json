@@ -1028,7 +1028,8 @@
         "tubes_drawing": "Rör på ritning",
         "wires_drawing": "Trådar på ritning",
         "sym_drawing": "Symboler på ritning",
-        "hoses_drawing": "Slangar på ritning"
+        "hoses_drawing": "Slangar på ritning",
+        "export": "Exportera"
     },
     "page": {
         "mm": "Millimeter",
