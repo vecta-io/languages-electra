@@ -786,7 +786,8 @@
         "hoses_drawing": "Slangar på ritning",
         "import_wires_drawing": "Importera ledningar på ritning",
         "tubes_drawing": "Rör på ritning",
-        "edit_code": "Redigera kod"
+        "edit_code": "Redigera kod",
+        "untitled_file": "Namnlös fil"
     },
     "drop": {
         "in": "tum",
