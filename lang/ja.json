@@ -786,7 +786,8 @@
         "import_hoses_drawing": "図面にホースをインポート",
         "import_tubes_drawing": "図面にチューブをインポートする",
         "invalid_report": "エラー：無効なレポートファイル。",
-        "edit_code": "コードを編集"
+        "edit_code": "コードを編集",
+        "untitled_file": "無題のファイル"
     },
     "list": {
         "sv": "スウェーデン語",
