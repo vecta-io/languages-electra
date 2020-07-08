@@ -1128,8 +1128,7 @@
         "sym_drawing": "Symboles sur le dessin",
         "tubes_drawing": "Tubes sur dessin",
         "wires_drawing": "Fils sur dessin",
-        "hoses_drawing": "Tuyaux sur dessin",
-        "export": "Exportation"
+        "hoses_drawing": "Tuyaux sur dessin"
     },
     "list": {
         "en": "Anglais",
