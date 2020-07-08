@@ -774,7 +774,6 @@
         "wire_bus": "Bus de fil",
         "suffix_char_mssg": "Facultatif, séparé par des virgules",
         "page_margin": "Marge de page",
-        "invalid_sym_drawing": "Erreur: symboles non valides sur le fichier de rapport de dessin.",
         "sym_drawing": "Symboles sur le dessin",
         "import": "Importer",
         "hoses_drawing": "Tuyaux sur dessin",
@@ -785,8 +784,9 @@
         "unique_id": "UniqueID (ne pas modifier)",
         "symbol_id_not_exist": "Avertissement: le symbole avec l'ID unique \"@@\" n'existe pas.",
         "import_tubes_drawing": "Importer des tubes sur le dessin",
-        "invalid_report": "Erreur: pas un fichier de rapport valide.",
-        "import_hoses_drawing": "Importer des flexibles sur le dessin"
+        "invalid_report": "Erreur: fichier de rapport non valide.",
+        "import_hoses_drawing": "Importer des flexibles sur le dessin",
+        "edit_code": "Modifier le code"
     },
     "page": {
         "cm": "Centimètre",
@@ -1128,7 +1128,8 @@
         "sym_drawing": "Symboles sur le dessin",
         "tubes_drawing": "Tubes sur dessin",
         "wires_drawing": "Fils sur dessin",
-        "hoses_drawing": "Tuyaux sur dessin"
+        "hoses_drawing": "Tuyaux sur dessin",
+        "export": "Exportation"
     },
     "list": {
         "en": "Anglais",
@@ -1385,7 +1386,8 @@
         "x509": "Certificats X.509",
         "idp_id": "ID d'entité IdP",
         "request_trial_title": "Demande de prolongation d'essai",
-        "trial_extended": "Essai prolongé"
+        "trial_extended": "Essai prolongé",
+        "no_export": "Vous ne pouvez pas exporter un dessin vide."
     },
     "access": {
         "and": "et",
