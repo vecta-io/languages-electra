@@ -1570,7 +1570,8 @@
         "update_linkage": "Uppdatering av länkar",
         "update_lzone": "Uppdatering av stegezoner",
         "import_stencil": "Det kan ta några minuter att importera stencil",
-        "update_cable_tag": "Uppdaterar kabel taggar"
+        "update_cable_tag": "Uppdaterar kabel taggar",
+        "max_page": "Endast 20 sidor är tillåtna i akademisk version."
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
