@@ -263,7 +263,8 @@
         "update_auto_loc": "正在更新自动位置",
         "update_measure_tool": "正在升级测量工具",
         "import_stencil": "导入模具，可能需要几分钟",
-        "update_cable_tag": "更新电缆标签"
+        "update_cable_tag": "更新电缆标签",
+        "max_page": "学术版仅允许使用20页。"
     },
     "login": {
         "collab": "在线",
