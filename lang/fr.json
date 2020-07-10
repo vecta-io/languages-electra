@@ -1627,7 +1627,8 @@
         "license_expired_banner": "Version d&#39;essai / licence expirée. <a href='./../../pricing'>Abonnez-vous maintenant!</a>",
         "license_expired": "Version d'essai / licence expirée. Les outils de productivité d'Electra Cloud seront désactivés.",
         "import_stencil": "L'importation du pochoir peut prendre quelques minutes",
-        "update_cable_tag": "Mise à jour des étiquettes de câble"
+        "update_cable_tag": "Mise à jour des étiquettes de câble",
+        "max_page": "Seules 20 pages sont autorisées en version académique."
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
