@@ -787,7 +787,8 @@
         "import_wires_drawing": "Importera ledningar på ritning",
         "tubes_drawing": "Rör på ritning",
         "edit_code": "Redigera kod",
-        "untitled_file": "Namnlös fil"
+        "untitled_file": "Namnlös fil",
+        "removing_cable_core": "Ta bort kabeln från kabelkärnan"
     },
     "drop": {
         "in": "tum",
