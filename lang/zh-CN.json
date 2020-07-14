@@ -1488,7 +1488,8 @@
         "invalid_report": "错误：无效的报告文件。",
         "import_hoses_drawing": "在工程图上导入软管",
         "edit_code": "编辑代码",
-        "untitled_file": "无标题文件"
+        "untitled_file": "无标题文件",
+        "removing_cable_core": "从电缆芯上取下电线"
     },
     "drop": {
         "maintain_id": "维护ID",
