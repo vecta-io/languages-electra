@@ -788,7 +788,9 @@
         "invalid_report": "エラー：無効なレポートファイル。",
         "edit_code": "コードを編集",
         "untitled_file": "無題のファイル",
-        "removing_cable_core": "ケーブルコアからのワイヤの取り外し"
+        "removing_cable_core": "ケーブルコアからのワイヤの取り外し",
+        "restart_prompt": "アプリケーションを再起動してください",
+        "comm_disc": "コミュニティディスカッション"
     },
     "list": {
         "sv": "スウェーデン語",
