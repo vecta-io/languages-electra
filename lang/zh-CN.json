@@ -1489,7 +1489,9 @@
         "import_hoses_drawing": "在工程图上导入软管",
         "edit_code": "编辑代码",
         "untitled_file": "无标题文件",
-        "removing_cable_core": "从电缆芯上取下电线"
+        "removing_cable_core": "从电缆芯上取下电线",
+        "restart_prompt": "请重新启动应用程序",
+        "comm_disc": "社区讨论"
     },
     "drop": {
         "maintain_id": "维护ID",
