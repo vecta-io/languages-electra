@@ -1487,7 +1487,8 @@
         "wire_spacing": "Wire Spacing",
         "wires_number": "Number of Wires",
         "get_wire_bus": "Getting wire buses",
-        "wire_bus": "Wire bus"
+        "wire_bus": "Wire bus",
+        "removing_cable_core": "Removing wire from cable core"
     },
     "drop": {
         "maintain_id": "Maintain ID",
