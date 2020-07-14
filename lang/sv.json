@@ -788,7 +788,9 @@
         "tubes_drawing": "Rör på ritning",
         "edit_code": "Redigera kod",
         "untitled_file": "Namnlös fil",
-        "removing_cable_core": "Ta bort kabeln från kabelkärnan"
+        "removing_cable_core": "Ta bort kabeln från kabelkärnan",
+        "restart_prompt": "Starta om programmet",
+        "comm_disc": "Gemenskapsdiskussion"
     },
     "drop": {
         "in": "tum",
