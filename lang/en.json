@@ -1089,6 +1089,7 @@
         "left": "Left",
         "page_margin": "Page Margin",
         "edit_code": "Edit code",
+        "comm_disc": "Community discussion",
         "slogan": "Cloud based Electrical CAD Software",
         "stencil": "Stencil",
         "electrical": "Electrical",
@@ -1488,7 +1489,8 @@
         "wires_number": "Number of Wires",
         "get_wire_bus": "Getting wire buses",
         "wire_bus": "Wire bus",
-        "removing_cable_core": "Removing wire from cable core"
+        "removing_cable_core": "Removing wire from cable core",
+        "restart_prompt": "Please restart the application"
     },
     "drop": {
         "maintain_id": "Maintain ID",
