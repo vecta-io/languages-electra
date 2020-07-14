@@ -787,7 +787,8 @@
         "import_tubes_drawing": "図面にチューブをインポートする",
         "invalid_report": "エラー：無効なレポートファイル。",
         "edit_code": "コードを編集",
-        "untitled_file": "無題のファイル"
+        "untitled_file": "無題のファイル",
+        "removing_cable_core": "ケーブルコアからのワイヤの取り外し"
     },
     "list": {
         "sv": "スウェーデン語",
