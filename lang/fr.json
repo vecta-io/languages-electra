@@ -787,7 +787,8 @@
         "invalid_report": "Erreur: fichier de rapport non valide.",
         "import_hoses_drawing": "Importer des flexibles sur le dessin",
         "edit_code": "Modifier le code",
-        "untitled_file": "Fichier sans titre"
+        "untitled_file": "Fichier sans titre",
+        "removing_cable_core": "Retrait du fil de l'âme du câble"
     },
     "page": {
         "cm": "Centimètre",
