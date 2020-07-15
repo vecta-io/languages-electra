@@ -509,6 +509,7 @@
         "team_created": "Welcome to your new team!",
         "name_your_team": "Team / Project name",
         "rename_fail": "Unable to rename file because you do not have required permissions",
+        "cannot_drop_file": "Unable to drop file because you do not have required permissions",
         "permission_changed": "Your access to this team was changed. Please refresh the team to see the changes.",
         "permission_removed": "Your access to this team was removed.",
         "refresh_team": "Access changed",
