@@ -1391,7 +1391,8 @@
         "idp_id": "ID d'entité IdP",
         "request_trial_title": "Demande de prolongation d'essai",
         "trial_extended": "Essai prolongé",
-        "no_export": "Vous ne pouvez pas exporter un dessin vide."
+        "no_export": "Vous ne pouvez pas exporter un dessin vide.",
+        "cannot_drop_file": "Impossible de supprimer le fichier car vous ne disposez pas des autorisations requises"
     },
     "access": {
         "and": "et",
