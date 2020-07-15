@@ -1334,7 +1334,8 @@
         "x509": "X.509証明書",
         "request_trial_title": "試用延長のリクエスト",
         "trial_extended": "試用期間が延長されました",
-        "no_export": "空の図面はエクスポートできません。"
+        "no_export": "空の図面はエクスポートできません。",
+        "cannot_drop_file": "必要な権限がないため、ファイルをドロップできません"
     },
     "noti": {
         "left": "%% left Team @@。",
