@@ -1299,7 +1299,8 @@
         "display_name": "Visningsnamn",
         "request_trial_title": "Begäran om testförlängning",
         "trial_extended": "Försök förlängs",
-        "no_export": "Du kan inte exportera en tom ritning."
+        "no_export": "Du kan inte exportera en tom ritning.",
+        "cannot_drop_file": "Det går inte att släppa filen eftersom du inte har behöriga behörigheter"
     },
     "noti": {
         "deny": "Neka",
