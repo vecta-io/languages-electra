@@ -582,7 +582,8 @@
         "callback_url": "回调网址",
         "request_trial_title": "要求延长试用期",
         "trial_extended": "试用期延长",
-        "no_export": "您不能导出空白图形。"
+        "no_export": "您不能导出空白图形。",
+        "cannot_drop_file": "无法删除文件，因为您没有必需的权限"
     },
     "noti": {
         "same_day": "注意：公告将在其创建的同一天开始",
