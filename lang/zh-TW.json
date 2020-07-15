@@ -582,7 +582,8 @@
         "rp_id": "RS / SP實體ID",
         "request_trial_title": "要求延長試用期",
         "trial_extended": "試用期延長",
-        "no_export": "您不能導出空白圖形。"
+        "no_export": "您不能導出空白圖形。",
+        "cannot_drop_file": "無法刪除文件，因為您沒有必需的權限"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
