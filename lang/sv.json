@@ -1033,7 +1033,9 @@
         "wires_drawing": "Trådar på ritning",
         "sym_drawing": "Symboler på ritning",
         "hoses_drawing": "Slangar på ritning",
-        "export": "Exportera"
+        "export": "Exportera",
+        "add_conn_pt": "Lägg till anslutningspunkt",
+        "del_conn_pt": "Ta bort anslutningspunkt"
     },
     "page": {
         "mm": "Millimeter",
