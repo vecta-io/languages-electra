@@ -1510,6 +1510,8 @@
         "unpin_drawing": "Unpin drawing",
         "tools": "Tools",
         "convert_path": "Convert to path",
+        "add_conn_pt": "Add connection point",
+        "del_conn_pt": "Delete connection point",
         "add_ctrl_pt": "Add control point",
         "refresh": "Refresh",
         "members": "Manage members",
