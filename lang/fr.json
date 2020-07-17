@@ -1133,9 +1133,7 @@
         "tubes_drawing": "Tubes sur dessin",
         "wires_drawing": "Fils sur dessin",
         "hoses_drawing": "Tuyaux sur dessin",
-        "export": "Exportation",
-        "add_conn_pt": "Ajouter un point de connexion",
-        "del_conn_pt": "Supprimer le point de connexion"
+        "export": "Exportation"
     },
     "list": {
         "en": "Anglais",
