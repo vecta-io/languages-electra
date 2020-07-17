@@ -1735,7 +1735,9 @@
         "hoses_drawing": "繪圖軟管",
         "wires_drawing": "圖紙上的電線",
         "tubes_drawing": "繪圖管",
-        "export": "出口"
+        "export": "出口",
+        "add_conn_pt": "添加連接點",
+        "del_conn_pt": "刪除連接點"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
