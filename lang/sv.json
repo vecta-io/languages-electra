@@ -790,7 +790,9 @@
         "untitled_file": "Namnlös fil",
         "removing_cable_core": "Ta bort kabeln från kabelkärnan",
         "restart_prompt": "Starta om programmet",
-        "comm_disc": "Gemenskapsdiskussion"
+        "comm_disc": "Gemenskapsdiskussion",
+        "categories": "kategorier",
+        "components": "Komponenter"
     },
     "drop": {
         "in": "tum",
