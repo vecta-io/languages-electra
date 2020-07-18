@@ -790,7 +790,9 @@
         "untitled_file": "Fichier sans titre",
         "removing_cable_core": "Retrait du fil de l'âme du câble",
         "restart_prompt": "Veuillez redémarrer l'application",
-        "comm_disc": "Discussion communautaire"
+        "comm_disc": "Discussion communautaire",
+        "components": "Composants",
+        "categories": "Catégories"
     },
     "page": {
         "cm": "Centimètre",
