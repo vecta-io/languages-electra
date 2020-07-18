@@ -1492,7 +1492,9 @@
         "untitled_file": "無標題文件",
         "removing_cable_core": "從電纜芯上取下電線",
         "comm_disc": "社區討論",
-        "restart_prompt": "請重新啟動應用程序"
+        "restart_prompt": "請重新啟動應用程序",
+        "components": "組件",
+        "categories": "分類目錄"
     },
     "drop": {
         "maintain_id": "維護ID",
