@@ -1492,7 +1492,9 @@
         "untitled_file": "无标题文件",
         "removing_cable_core": "从电缆芯上取下电线",
         "restart_prompt": "请重新启动应用程序",
-        "comm_disc": "社区讨论"
+        "comm_disc": "社区讨论",
+        "components": "组件",
+        "categories": "分类目录"
     },
     "drop": {
         "maintain_id": "维护ID",
