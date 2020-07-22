@@ -792,7 +792,13 @@
         "restart_prompt": "Veuillez redémarrer l'application",
         "comm_disc": "Discussion communautaire",
         "components": "Composants",
-        "categories": "Catégories"
+        "categories": "Catégories",
+        "insert_page": "Insérer une page",
+        "clear": "Clair",
+        "append_page": "Ajouter la page",
+        "select_cat": "Choisir une catégorie",
+        "search_cat": "Catégorie de recherche",
+        "click_edit": "Cliquez pour modifier"
     },
     "page": {
         "cm": "Centimètre",
