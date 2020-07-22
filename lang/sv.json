@@ -792,7 +792,13 @@
         "restart_prompt": "Starta om programmet",
         "comm_disc": "Gemenskapsdiskussion",
         "categories": "kategorier",
-        "components": "Komponenter"
+        "components": "Komponenter",
+        "insert_page": "Sätt in sidan",
+        "append_page": "Lägg till sidan",
+        "search_cat": "Sök kategori",
+        "click_edit": "Klicka för att ändra",
+        "select_cat": "Välj kategori",
+        "clear": "Klar"
     },
     "drop": {
         "in": "tum",
