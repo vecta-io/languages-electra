@@ -1494,7 +1494,13 @@
         "comm_disc": "社區討論",
         "restart_prompt": "請重新啟動應用程序",
         "components": "組件",
-        "categories": "分類目錄"
+        "categories": "分類目錄",
+        "insert_page": "插入頁面",
+        "select_cat": "選擇類別",
+        "clear": "明確",
+        "search_cat": "搜索類別",
+        "append_page": "追加頁面",
+        "click_edit": "點擊編輯"
     },
     "drop": {
         "maintain_id": "維護ID",
