@@ -798,7 +798,11 @@
         "search_cat": "検索カテゴリー",
         "insert_page": "ページを挿入",
         "clear": "晴れ",
-        "click_edit": "クリックして編集する"
+        "click_edit": "クリックして編集する",
+        "other": "その他の",
+        "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
+        "gdoc_link": "Googleドキュメントリンク",
+        "others": "その他"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1151,7 +1155,9 @@
         "hoses_drawing": "描画用ホース",
         "export": "書き出す",
         "add_conn_pt": "接続ポイントを追加",
-        "del_conn_pt": "接続ポイントを削除"
+        "del_conn_pt": "接続ポイントを削除",
+        "new_gdoc": "新しいGoogleドキュメント",
+        "paste_icon": "貼り付けアイコン"
     },
     "login": {
         "or": "または",
@@ -1330,10 +1336,7 @@
         "remove_template": "テンプレートの削除",
         "removed_template": "テンプレートを削除しました",
         "valid_message": "使用できるファイル形式はPDFです。",
-        "upload_completed": "正常にアップロードされました",
         "invalid_type": "無効なファイルタイプ",
-        "uploading": "アップロードしています",
-        "disabled_upload": "アップロードが無効になっています。現在のアップロードが完了したら、もう一度アップロードしてください。",
         "id_management": "ID管理",
         "rp_id": "RS / SPエンティティID",
         "sso_url": "SSO URL",
@@ -1345,7 +1348,12 @@
         "request_trial_title": "試用延長のリクエスト",
         "trial_extended": "試用期間が延長されました",
         "no_export": "空の図面はエクスポートできません。",
-        "cannot_drop_file": "必要な権限がないため、ファイルをドロップできません"
+        "cannot_drop_file": "必要な権限がないため、ファイルをドロップできません",
+        "create_gdoc": "Googleドキュメントを作成しています",
+        "gdoc_inavlid_link": "無効なGoogleドキュメントリンク",
+        "processing": "処理",
+        "upload_prog": "アップロードの進行状況",
+        "completed": "完成した"
     },
     "noti": {
         "left": "%% left Team @@。",
