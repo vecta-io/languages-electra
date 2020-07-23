@@ -567,11 +567,8 @@
         "applying_changes": "正在實行更改",
         "confirm_del": "確認刪除用戶",
         "confirm_del_mssg": "操作不可逆。繪圖，文件夾和團隊將移至管理團隊",
-        "upload_completed": "上傳成功",
         "invalid_type": "無效文件類型 ",
         "valid_message": "可接受的文件類型為PDF",
-        "uploading": "正在上傳中",
-        "disabled_upload": "禁止上傳。請在當前上傳完成後再次上傳",
         "provider_id": "提供商ID",
         "idp_id": "IdP實體ID",
         "id_management": "身份管理",
@@ -583,7 +580,12 @@
         "request_trial_title": "要求延長試用期",
         "trial_extended": "試用期延長",
         "no_export": "您不能導出空白圖形。",
-        "cannot_drop_file": "無法刪除文件，因為您沒有必需的權限"
+        "cannot_drop_file": "無法刪除文件，因為您沒有必需的權限",
+        "create_gdoc": "創建Google文檔",
+        "gdoc_inavlid_link": "無效的Google文檔鏈接",
+        "processing": "處理中",
+        "completed": "已完成",
+        "upload_prog": "上傳進度"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
@@ -1500,7 +1502,11 @@
         "clear": "明確",
         "search_cat": "搜索類別",
         "append_page": "追加頁面",
-        "click_edit": "點擊編輯"
+        "click_edit": "點擊編輯",
+        "gdoc_link": "Google Doc鏈接",
+        "other": "其他",
+        "others": "其他",
+        "gdoc_placeholder": "https://docs.google.com/document/sample/edit"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -1745,7 +1751,9 @@
         "tubes_drawing": "繪圖管",
         "export": "出口",
         "add_conn_pt": "添加連接點",
-        "del_conn_pt": "刪除連接點"
+        "del_conn_pt": "刪除連接點",
+        "new_gdoc": "新的Google文檔",
+        "paste_icon": "粘貼圖標"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
