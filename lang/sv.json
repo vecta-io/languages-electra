@@ -798,7 +798,11 @@
         "search_cat": "Sök kategori",
         "click_edit": "Klicka för att ändra",
         "select_cat": "Välj kategori",
-        "clear": "Klar"
+        "clear": "Klar",
+        "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
+        "others": "andra",
+        "gdoc_link": "Google Doc-länk",
+        "other": "Övrig"
     },
     "drop": {
         "in": "tum",
@@ -1043,7 +1047,9 @@
         "hoses_drawing": "Slangar på ritning",
         "export": "Exportera",
         "del_conn_pt": "Ta bort anslutningspunkt",
-        "add_conn_pt": "Lägg till anslutningspunkt"
+        "add_conn_pt": "Lägg till anslutningspunkt",
+        "new_gdoc": "Nytt Google-dokument",
+        "paste_icon": "Klistra in ikonen"
     },
     "page": {
         "mm": "Millimeter",
@@ -1295,9 +1301,6 @@
         "removed_template": "Mallen har tagits bort",
         "invalid_type": "ogiltig filtyp",
         "valid_message": "Godkända filtyper är PDF.",
-        "upload_completed": "uppladdad",
-        "uploading": "uppladdning",
-        "disabled_upload": "Uppladdning inaktiverad. Ladda upp igen när den nuvarande uppladdningen har slutförts.",
         "refreshing": "Uppfriskande",
         "x509": "X.509 certifikat",
         "provider_id": "Leverantörs-ID",
@@ -1310,7 +1313,12 @@
         "request_trial_title": "Begäran om testförlängning",
         "trial_extended": "Försök förlängs",
         "no_export": "Du kan inte exportera en tom ritning.",
-        "cannot_drop_file": "Det går inte att släppa filen eftersom du inte har behöriga behörigheter"
+        "cannot_drop_file": "Det går inte att släppa filen eftersom du inte har behöriga behörigheter",
+        "gdoc_inavlid_link": "Ogiltig Google doc-länk",
+        "completed": "Avslutad",
+        "processing": "bearbetning",
+        "create_gdoc": "Skapa Google-dokument",
+        "upload_prog": "Ladda upp framsteg"
     },
     "noti": {
         "deny": "Neka",
