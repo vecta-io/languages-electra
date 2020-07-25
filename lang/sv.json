@@ -16,7 +16,6 @@
         "text": "Text",
         "more": "Mer",
         "endy": "Endy",
-        "init": "Läser ritning",
         "fill": "Fylla",
         "endx": "EndX",
         "txty": "TxtY",
@@ -802,7 +801,9 @@
         "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "others": "andra",
         "gdoc_link": "Google Doc-länk",
-        "other": "Övrig"
+        "other": "Övrig",
+        "reading_drawing": "Läser ritning",
+        "generating_zip": "Genererar ZIP"
     },
     "drop": {
         "in": "tum",
