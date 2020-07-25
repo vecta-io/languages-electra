@@ -579,7 +579,7 @@
         "callback_url": "回调网址",
         "request_trial_title": "要求延长试用期",
         "trial_extended": "试用期延长",
-        "no_export": "您不能导出空白图形。",
+        "no_export": "您不能导出空图纸。",
         "cannot_drop_file": "无法删除文件，因为您没有必需的权限",
         "gdoc_inavlid_link": "无效的Google文档链接",
         "create_gdoc": "创建Google文档",
@@ -780,7 +780,6 @@
         "untitled_menu": "无标题菜单",
         "untitled_page": "无标题页面",
         "optional_layer_name": "图层名称(可选)",
-        "init": "阅读绘图",
         "last_modified": "最后修改",
         "file_name": "绘图标题",
         "folder_name": "文件夹标题",
@@ -1506,7 +1505,9 @@
         "gdoc_link": "Google Doc链接",
         "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "others": "其他",
-        "other": "其他"
+        "other": "其他",
+        "generating_zip": "生成ZIP",
+        "reading_drawing": "阅读图纸"
     },
     "drop": {
         "maintain_id": "维护ID",
