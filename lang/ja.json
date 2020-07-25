@@ -19,7 +19,6 @@
         "more": "もっと",
         "view": "ビュー",
         "txty": "TxtY",
-        "init": "図面を読む",
         "txtcy": "TxtCenterY",
         "end_x": "エンド",
         "txtcx": "TxtCenterX",
@@ -802,7 +801,9 @@
         "other": "その他の",
         "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "gdoc_link": "Googleドキュメントリンク",
-        "others": "その他"
+        "others": "その他",
+        "generating_zip": "ZIPを生成しています",
+        "reading_drawing": "図面を読む"
     },
     "list": {
         "sv": "スウェーデン語",
