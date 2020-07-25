@@ -579,7 +579,7 @@
         "rp_id": "RS / SP實體ID",
         "request_trial_title": "要求延長試用期",
         "trial_extended": "試用期延長",
-        "no_export": "您不能導出空白圖形。",
+        "no_export": "您不能導出空圖紙。",
         "cannot_drop_file": "無法刪除文件，因為您沒有必需的權限",
         "create_gdoc": "創建Google文檔",
         "gdoc_inavlid_link": "無效的Google文檔鏈接",
@@ -779,7 +779,6 @@
         "untitled_version": "無標題版本",
         "untitled_menu": "無標題菜單",
         "optional_layer_name": "圖層名稱(可選)",
-        "init": "閱讀繪圖",
         "last_modified": "最後修改",
         "file_name": "繪圖標題",
         "folder_name": "文件夾標題",
@@ -1506,7 +1505,9 @@
         "gdoc_link": "Google Doc鏈接",
         "other": "其他",
         "others": "其他",
-        "gdoc_placeholder": "https://docs.google.com/document/sample/edit"
+        "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
+        "reading_drawing": "閱讀圖紙",
+        "generating_zip": "生成ZIP"
     },
     "drop": {
         "maintain_id": "維護ID",
