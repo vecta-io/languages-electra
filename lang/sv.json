@@ -1599,7 +1599,10 @@
         "backup_loc": "Filplats",
         "backup_app": "Electra Cloud backup",
         "disconnect": "Internet frånkopplat. Se till att du har tillgång till internet för att säkerhetskopiera dina filer.",
-        "internet_status": "Internetstatus"
+        "internet_status": "Internetstatus",
+        "status": "Status",
+        "no_internet": "Ingen internetanslutning",
+        "last_backup": "Sista säkerhetskopia"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
