@@ -1656,7 +1656,10 @@
         "start_backup": "Démarrer la sauvegarde",
         "disconnect": "Internet déconnecté. Veuillez vous assurer que vous disposez d'un accès Internet pour sauvegarder vos fichiers.",
         "backup_loc": "Emplacement du fichier",
-        "internet_status": "Statut Internet"
+        "internet_status": "Statut Internet",
+        "no_internet": "Pas de connexion Internet",
+        "last_backup": "Dernière sauvegarde",
+        "status": "Statut"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
