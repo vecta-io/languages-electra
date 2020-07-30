@@ -265,10 +265,11 @@
         "import_stencil": "导入模具，可能需要几分钟",
         "update_cable_tag": "更新电缆标签",
         "max_page": "学术版仅允许使用20页。",
-        "backup_loc": "保存位置",
+        "backup_loc": "档案位置",
         "start_backup": "开始备份",
         "backup_app": "Electra云备份",
-        "disconnect": "互联网已断开连接。请确保您具有Internet访问权限来备份文件。"
+        "disconnect": "互联网已断开连接。请确保您具有Internet访问权限来备份文件。",
+        "internet_status": "网路状态"
     },
     "login": {
         "collab": "在线",
