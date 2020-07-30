@@ -269,7 +269,10 @@
         "start_backup": "開始備份",
         "backup_app": "Electra雲備份",
         "disconnect": "互聯網已斷開連接。請確保您具有Internet訪問權限來備份文件。",
-        "internet_status": "網路狀態"
+        "internet_status": "網路狀態",
+        "no_internet": "沒有網絡連接",
+        "last_backup": "上次備份",
+        "status": "狀態"
     },
     "login": {
         "collab": "在線",
