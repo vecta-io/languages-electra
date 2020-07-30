@@ -1662,10 +1662,11 @@
         "import_stencil": "ステンシルのインポートには数分かかる場合があります",
         "update_cable_tag": "ケーブルタグの更新",
         "max_page": "アカデミック版で許可されているのは20ページのみです。",
-        "backup_loc": "位置を保存",
-        "backup_app": "Electraクラウドバックアップ",
+        "backup_loc": "ファイルの場所",
+        "backup_app": "Electra Cloudバックアップ",
         "disconnect": "インターネットが切断されました。ファイルをバックアップするためにインターネットにアクセスできることを確認してください。",
-        "start_backup": "バックアップを開始"
+        "start_backup": "バックアップを開始",
+        "internet_status": "インターネットの状態"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
