@@ -1651,7 +1651,11 @@
         "license_expired": "Version d'essai / licence expirée. Les outils de productivité d'Electra Cloud seront désactivés.",
         "import_stencil": "L'importation du pochoir peut prendre quelques minutes",
         "update_cable_tag": "Mise à jour des étiquettes de câble",
-        "max_page": "Seules 20 pages sont autorisées en version académique."
+        "max_page": "Seules 20 pages sont autorisées en version académique.",
+        "backup_app": "Sauvegarde Electra Cloud",
+        "start_backup": "Démarrer la sauvegarde",
+        "disconnect": "Internet déconnecté. Veuillez vous assurer que vous disposez d'un accès Internet pour sauvegarder vos fichiers.",
+        "backup_loc": "Enregistrer l'emplacement"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
