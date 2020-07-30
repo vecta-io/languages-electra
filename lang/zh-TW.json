@@ -264,7 +264,11 @@
         "update_measure_tool": "正在升級測量工具",
         "import_stencil": "導入模具，可能需要幾分鐘",
         "update_cable_tag": "更新電纜標籤",
-        "max_page": "學術版僅允許使用20頁。"
+        "max_page": "學術版僅允許使用20頁。",
+        "backup_loc": "保存位置",
+        "start_backup": "開始備份",
+        "backup_app": "Electra雲備份",
+        "disconnect": "互聯網已斷開連接。請確保您具有Internet訪問權限來備份文件。"
     },
     "login": {
         "collab": "在線",
