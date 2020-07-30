@@ -1666,7 +1666,10 @@
         "backup_app": "Electra Cloudバックアップ",
         "disconnect": "インターネットが切断されました。ファイルをバックアップするためにインターネットにアクセスできることを確認してください。",
         "start_backup": "バックアップを開始",
-        "internet_status": "インターネットの状態"
+        "internet_status": "インターネットの状態",
+        "no_internet": "インターネットに接続されていません",
+        "status": "状態",
+        "last_backup": "最終バックアップ"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
