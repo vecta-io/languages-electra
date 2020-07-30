@@ -1594,7 +1594,11 @@
         "update_lzone": "Uppdatering av stegezoner",
         "import_stencil": "Det kan ta några minuter att importera stencil",
         "update_cable_tag": "Uppdaterar kabel taggar",
-        "max_page": "Endast 20 sidor är tillåtna i akademisk version."
+        "max_page": "Endast 20 sidor är tillåtna i akademisk version.",
+        "start_backup": "Starta säkerhetskopieringen",
+        "backup_loc": "Spara plats",
+        "backup_app": "Electra Cloud Backup",
+        "disconnect": "Internet frånkopplat. Se till att du har tillgång till internet för att säkerhetskopiera dina filer."
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
