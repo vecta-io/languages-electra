@@ -1655,7 +1655,8 @@
         "backup_app": "Sauvegarde Electra Cloud",
         "start_backup": "Démarrer la sauvegarde",
         "disconnect": "Internet déconnecté. Veuillez vous assurer que vous disposez d'un accès Internet pour sauvegarder vos fichiers.",
-        "backup_loc": "Enregistrer l'emplacement"
+        "backup_loc": "Emplacement du fichier",
+        "internet_status": "Statut Internet"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
