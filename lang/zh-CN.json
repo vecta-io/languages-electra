@@ -269,7 +269,10 @@
         "start_backup": "开始备份",
         "backup_app": "Electra云备份",
         "disconnect": "互联网已断开连接。请确保您具有Internet访问权限来备份文件。",
-        "internet_status": "网路状态"
+        "internet_status": "网路状态",
+        "status": "状态",
+        "last_backup": "上次备份",
+        "no_internet": "没有网络连接"
     },
     "login": {
         "collab": "在线",
