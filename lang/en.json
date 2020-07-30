@@ -262,12 +262,7 @@
         "update_wireIEC": "Updating wire IEC",
         "update_auto_loc": "Updating AutoLocations",
         "update_measure_tool": "Üpdating measurement tools",
-        "update_cable_tag": "Updating cable tags",
-        "start_backup": "Start backup",
-        "backup_loc": "File location",
-        "disconnect": "Internet disconnected. Please ensure you have internet access to backup your files.",
-        "backup_app": "Electra Cloud backup",
-        "internet_status": "Internet status"
+        "update_cable_tag": "Updating cable tags"
     },
     "login": {
         "collab": "Online",
