@@ -803,7 +803,12 @@
         "gdoc_link": "Googleドキュメントリンク",
         "others": "その他",
         "generating_zip": "ZIPを生成しています",
-        "reading_drawing": "図面を読む"
+        "reading_drawing": "図面を読む",
+        "start_backup": "バックアップを開始",
+        "backup_path": "バックアップパス",
+        "last_backup": "最終バックアップ",
+        "backup_app": "Electra Cloudバックアップ",
+        "disconnect": "インターネットが切断されました。ファイルをバックアップするためにインターネットにアクセスできることを確認してください。"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1662,14 +1667,7 @@
         "import_stencil": "ステンシルのインポートには数分かかる場合があります",
         "update_cable_tag": "ケーブルタグの更新",
         "max_page": "アカデミック版で許可されているのは20ページのみです。",
-        "backup_loc": "ファイルの場所",
-        "backup_app": "Electra Cloudバックアップ",
-        "disconnect": "インターネットが切断されました。ファイルをバックアップするためにインターネットにアクセスできることを確認してください。",
-        "start_backup": "バックアップを開始",
-        "internet_status": "インターネットの状態",
-        "no_internet": "インターネットに接続されていません",
-        "status": "状態",
-        "last_backup": "最終バックアップ"
+        "no_internet": "インターネット接続なし"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
@@ -2345,7 +2343,8 @@
         "err_1": "入力したキーは無効です。",
         "trial_left": "現在、試用モードです。ライセンスは@@日後に期限切れになります",
         "license_expired": "試用版/ライセンスの期限切れ",
-        "license_expired_desc": "試用版/ライセンスの有効期限が切れています。生産性向上ツールは無効になります。 <br>詳細については、support @ radicasoftware.comまでメールをお送りください。"
+        "license_expired_desc": "試用版/ライセンスの有効期限が切れています。生産性向上ツールは無効になります。 <br>詳細については、support @ radicasoftware.comまでメールをお送りください。",
+        "license_has_expired": "ライセンスの有効期限が切れています。ライセンスを更新してください。"
     },
     "videos": {
         "hnx0KutWDa0": {
