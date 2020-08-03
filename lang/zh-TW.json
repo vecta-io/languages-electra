@@ -265,14 +265,7 @@
         "import_stencil": "導入模具，可能需要幾分鐘",
         "update_cable_tag": "更新電纜標籤",
         "max_page": "學術版僅允許使用20頁。",
-        "backup_loc": "檔案位置",
-        "start_backup": "開始備份",
-        "backup_app": "Electra雲備份",
-        "disconnect": "互聯網已斷開連接。請確保您具有Internet訪問權限來備份文件。",
-        "internet_status": "網路狀態",
-        "no_internet": "沒有網絡連接",
-        "last_backup": "上次備份",
-        "status": "狀態"
+        "no_internet": "沒有網絡連接"
     },
     "login": {
         "collab": "在線",
@@ -1515,7 +1508,12 @@
         "others": "其他",
         "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "reading_drawing": "閱讀圖紙",
-        "generating_zip": "生成ZIP"
+        "generating_zip": "生成ZIP",
+        "start_backup": "開始備份",
+        "backup_path": "備份路徑",
+        "backup_app": "Electra雲備份",
+        "last_backup": "上次備份",
+        "disconnect": "互聯網已斷開連接。請確保您具有Internet訪問權限來備份文件。"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -2383,7 +2381,8 @@
         "trial_mode": "試用模式",
         "license_expired": "試用版/許可證已過期",
         "trial_left": "您目前處於試用模式。您的許可將在@@天后過期",
-        "license_expired_desc": "試用版/許可證已過期。生產力工具將被禁用。 <br>請給我們發送電子郵件至support@radicasoftware.com了解更多信息。"
+        "license_expired_desc": "試用版/許可證已過期。生產力工具將被禁用。 <br>請給我們發送電子郵件至support@radicasoftware.com了解更多信息。",
+        "license_has_expired": "您的許可證已過期。請續訂您的許可證。"
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
