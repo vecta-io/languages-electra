@@ -263,14 +263,7 @@
         "update_auto_loc": "Updating AutoLocations",
         "update_measure_tool": "Üpdating measurement tools",
         "update_cable_tag": "Updating cable tags",
-        "start_backup": "Start backup",
-        "backup_loc": "File location",
-        "disconnect": "Internet disconnected. Please ensure you have internet access to backup your files.",
-        "backup_app": "Electra Cloud backup",
-        "status": "Status",
-        "internet_status": "Internet status",
-        "last_backup": "Last backup",
-        "no_internet": "No internet connection"
+        "no_internet": "No Internet connection"
     },
     "login": {
         "collab": "Online",
@@ -1514,7 +1507,12 @@
         "get_wire_bus": "Getting wire buses",
         "wire_bus": "Wire bus",
         "removing_cable_core": "Removing wire from cable core",
-        "restart_prompt": "Please restart the application"
+        "restart_prompt": "Please restart the application",
+        "start_backup": "Start backup",
+        "backup_path": "Backup path",
+        "disconnect": "Internet disconnected. Please ensure you have Internet access to backup your files.",
+        "backup_app": "Electra Cloud backup",
+        "last_backup": "Last backup"
     },
     "drop": {
         "maintain_id": "Maintain ID",
@@ -2382,6 +2380,7 @@
         "trial_left": "You are currently in trial mode. Your license will expires in @@ days",
         "expired": "expired",
         "license_expired": "Trial / License expired",
+        "license_has_expired": "Your license has expired. Please renew your license.",
         "license_expired_desc": "Trial / License expired. Productivity tools will be disabled. <br>Please drop us an email at support@radicasoftware.com for more information."
     },
     "partner": {
