@@ -803,7 +803,12 @@
         "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "other": "autre",
         "reading_drawing": "Dessin de lecture",
-        "generating_zip": "Générer un ZIP"
+        "generating_zip": "Générer un ZIP",
+        "backup_path": "Chemin de sauvegarde",
+        "start_backup": "Démarrer la sauvegarde",
+        "disconnect": "Internet déconnecté. Veuillez vous assurer que vous disposez d'un accès Internet pour sauvegarder vos fichiers.",
+        "last_backup": "Dernière sauvegarde",
+        "backup_app": "Sauvegarde Electra Cloud"
     },
     "page": {
         "cm": "Centimètre",
@@ -1652,14 +1657,7 @@
         "import_stencil": "L'importation du pochoir peut prendre quelques minutes",
         "update_cable_tag": "Mise à jour des étiquettes de câble",
         "max_page": "Seules 20 pages sont autorisées en version académique.",
-        "backup_app": "Sauvegarde Electra Cloud",
-        "start_backup": "Démarrer la sauvegarde",
-        "disconnect": "Internet déconnecté. Veuillez vous assurer que vous disposez d'un accès Internet pour sauvegarder vos fichiers.",
-        "backup_loc": "Emplacement du fichier",
-        "internet_status": "Statut Internet",
-        "no_internet": "Pas de connexion Internet",
-        "last_backup": "Dernière sauvegarde",
-        "status": "Statut"
+        "no_internet": "Pas de connexion Internet"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
@@ -2345,7 +2343,8 @@
         "trial_mode": "Mode d'essai",
         "trial_left": "Vous êtes actuellement en mode d'essai. Votre licence expirera dans @@ jours",
         "license_expired": "Version d'essai / licence expirée",
-        "license_expired_desc": "Version d&#39;essai / licence expirée. Les outils de productivité seront désactivés. <br> Veuillez nous envoyer un e-mail à support@radicasoftware.com pour plus d&#39;informations."
+        "license_expired_desc": "Version d&#39;essai / licence expirée. Les outils de productivité seront désactivés. <br> Veuillez nous envoyer un e-mail à support@radicasoftware.com pour plus d&#39;informations.",
+        "license_has_expired": "Votre licence a expiré. Veuillez renouveler votre licence."
     },
     "videos": {
         "4y_1QqasHoA": {
