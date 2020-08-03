@@ -803,7 +803,12 @@
         "gdoc_link": "Google Doc-länk",
         "other": "Övrig",
         "reading_drawing": "Läser ritning",
-        "generating_zip": "Genererar ZIP"
+        "generating_zip": "Genererar ZIP",
+        "backup_path": "Säkerhetskopieringsväg",
+        "last_backup": "Sista säkerhetskopiering",
+        "start_backup": "Starta säkerhetskopieringen",
+        "backup_app": "Electra Cloud backup",
+        "disconnect": "Internet frånkopplat. Se till att du har tillgång till internet för att säkerhetskopiera dina filer."
     },
     "drop": {
         "in": "tum",
@@ -1595,14 +1600,7 @@
         "import_stencil": "Det kan ta några minuter att importera stencil",
         "update_cable_tag": "Uppdaterar kabel taggar",
         "max_page": "Endast 20 sidor är tillåtna i akademisk version.",
-        "start_backup": "Starta säkerhetskopieringen",
-        "backup_loc": "Filplats",
-        "backup_app": "Electra Cloud backup",
-        "disconnect": "Internet frånkopplat. Se till att du har tillgång till internet för att säkerhetskopiera dina filer.",
-        "internet_status": "Internetstatus",
-        "status": "Status",
-        "no_internet": "Ingen internetanslutning",
-        "last_backup": "Sista säkerhetskopia"
+        "no_internet": "Ingen internetanslutning"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
@@ -2345,7 +2343,8 @@
         "trial_left": "Du är för närvarande i provläge. Din licens upphör om @@ dagar",
         "license_expired": "Test / licens har gått ut",
         "err_1": "Ogiltig knapp anges.",
-        "license_expired_desc": "Test / licens har löpt ut. Produktivitetsverktyg kommer att inaktiveras. <br> Släpp oss ett e-postmeddelande på support@radicasoftware.com för mer information."
+        "license_expired_desc": "Test / licens har löpt ut. Produktivitetsverktyg kommer att inaktiveras. <br> Släpp oss ett e-postmeddelande på support@radicasoftware.com för mer information.",
+        "license_has_expired": "Din licens har gått ut. Förnya din licens."
     },
     "videos": {
         "hnx0KutWDa0": {
