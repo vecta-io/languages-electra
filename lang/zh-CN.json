@@ -265,13 +265,6 @@
         "import_stencil": "导入模具，可能需要几分钟",
         "update_cable_tag": "更新电缆标签",
         "max_page": "学术版仅允许使用20页。",
-        "backup_loc": "档案位置",
-        "start_backup": "开始备份",
-        "backup_app": "Electra云备份",
-        "disconnect": "互联网已断开连接。请确保您具有Internet访问权限来备份文件。",
-        "internet_status": "网路状态",
-        "status": "状态",
-        "last_backup": "上次备份",
         "no_internet": "没有网络连接"
     },
     "login": {
@@ -1515,7 +1508,12 @@
         "others": "其他",
         "other": "其他",
         "generating_zip": "生成ZIP",
-        "reading_drawing": "阅读图纸"
+        "reading_drawing": "阅读图纸",
+        "start_backup": "开始备份",
+        "backup_path": "备份路径",
+        "backup_app": "Electra云备份",
+        "last_backup": "上次备份",
+        "disconnect": "互联网已断开连接。请确保您具有Internet访问权限来备份文件。"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -2383,7 +2381,8 @@
         "license_expired": "试用版/许可证已过期",
         "trial_mode": "试用模式",
         "license_expired_desc": "试用版/许可证已过期。生产力工具将被禁用。 <br>请给我们发送电子邮件至support@radicasoftware.com了解更多信息。",
-        "trial_left": "您目前处于试用模式。您的许可将在@@天后过期"
+        "trial_left": "您目前处于试用模式。您的许可将在@@天后过期",
+        "license_has_expired": "您的许可证已过期。请续订您的许可证。"
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
