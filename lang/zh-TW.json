@@ -586,7 +586,8 @@
         "gdoc_inavlid_link": "無效的Google文檔鏈接",
         "processing": "處理中",
         "completed": "已完成",
-        "upload_prog": "上傳進度"
+        "upload_prog": "上傳進度",
+        "browse": "瀏覽"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
@@ -1760,7 +1761,8 @@
         "add_conn_pt": "添加連接點",
         "del_conn_pt": "刪除連接點",
         "new_gdoc": "新的Google文檔",
-        "paste_icon": "粘貼圖標"
+        "paste_icon": "粘貼圖標",
+        "upload_stencil": "導入模具"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
@@ -1928,7 +1930,10 @@
                 "圖表"
             ],
             "desc": "一般流程圖符號"
-        }
+        },
+        "upload_stencil_success": "模具上傳",
+        "upload_stencil_error": "上載模具時出錯",
+        "uploading_stencil": "正在上傳模具..."
     },
     "plugin": {
         "plugins": "插件",
