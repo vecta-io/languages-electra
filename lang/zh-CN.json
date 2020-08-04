@@ -586,7 +586,8 @@
         "create_gdoc": "创建Google文档",
         "processing": "处理中",
         "completed": "已完成",
-        "upload_prog": "上传进度"
+        "upload_prog": "上传进度",
+        "browse": "浏览"
     },
     "noti": {
         "same_day": "注意：公告将在其创建的同一天开始",
@@ -1760,7 +1761,8 @@
         "add_conn_pt": "添加连接点",
         "del_conn_pt": "删除连接点",
         "new_gdoc": "新的Google文档",
-        "paste_icon": "粘贴图标"
+        "paste_icon": "粘贴图标",
+        "upload_stencil": "导入模具"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
@@ -1928,7 +1930,10 @@
                 "图表"
             ],
             "desc": "一般流程图符号"
-        }
+        },
+        "upload_stencil_error": "上载模具时出错",
+        "upload_stencil_success": "模具上传",
+        "uploading_stencil": "正在上传模具..."
     },
     "plugin": {
         "plugins": "插件",
