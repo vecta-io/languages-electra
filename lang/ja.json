@@ -1163,7 +1163,8 @@
         "add_conn_pt": "接続ポイントを追加",
         "del_conn_pt": "接続ポイントを削除",
         "new_gdoc": "新しいGoogleドキュメント",
-        "paste_icon": "貼り付けアイコン"
+        "paste_icon": "貼り付けアイコン",
+        "upload_stencil": "ステンシルのインポート"
     },
     "login": {
         "or": "または",
@@ -1359,7 +1360,8 @@
         "gdoc_inavlid_link": "無効なGoogleドキュメントリンク",
         "processing": "処理",
         "upload_prog": "アップロードの進行状況",
-        "completed": "完成した"
+        "completed": "完成した",
+        "browse": "ブラウズ"
     },
     "noti": {
         "left": "%% left Team @@。",
@@ -2146,7 +2148,10 @@
             "cat": [
                 "チャートと図"
             ]
-        }
+        },
+        "uploading_stencil": "ステンシルをアップロードしています...",
+        "upload_stencil_success": "ステンシルをアップロードしました",
+        "upload_stencil_error": "ステンシルのアップロード中にエラーが発生しました"
     },
     "plugin": {
         "no_exist": "以下の項目は設定できません。プラグインはもう存在しないかもしれません。または、あなたはプラグインにアクセスする権限がありません。",
