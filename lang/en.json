@@ -584,7 +584,8 @@
         "rp_id": "RS/SP entity ID",
         "callback_url": "Callback URL",
         "request_trial_title": "Request for trial extension",
-        "trial_extended": "Trial extended"
+        "trial_extended": "Trial extended",
+        "browse": "Browse"
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
@@ -1630,6 +1631,7 @@
         "hide_sym_name": "Hide icon names",
         "edit_stencil": "Edit stencil",
         "download_stencil": "Download stencil",
+        "upload_stencil": "Import stencil",
         "export_icon": "Export Icon",
         "export_stencil": "Export",
         "import_stencil": "Import",
@@ -1819,6 +1821,9 @@
         "credits_link": "Credits link",
         "downloading_stencil": "Downloading stencil...",
         "no_symbols_download": "No symbols to download",
+        "uploading_stencil": "Uploading stencil...",
+        "upload_stencil_error": "Error uploading stencil",
+        "upload_stencil_success": "Stencil uploaded",
         "stencil_0": {
             "name": "Flow Chart",
             "desc": "General flow chart symbols",
