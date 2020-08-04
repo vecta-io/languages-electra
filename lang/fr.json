@@ -1155,7 +1155,8 @@
         "del_conn_pt": "Supprimer le point de connexion",
         "add_conn_pt": "Ajouter un point de connexion",
         "new_gdoc": "Nouveau document Google",
-        "paste_icon": "Icône Coller"
+        "paste_icon": "Icône Coller",
+        "upload_stencil": "Importer un pochoir"
     },
     "list": {
         "en": "Anglais",
@@ -1416,7 +1417,8 @@
         "processing": "En traitement",
         "create_gdoc": "Créer un document Google",
         "completed": "Terminé",
-        "upload_prog": "Télécharger la progression"
+        "upload_prog": "Télécharger la progression",
+        "browse": "Feuilleter"
     },
     "access": {
         "and": "et",
@@ -2146,7 +2148,10 @@
                 "Graphiques et diagrammes"
             ],
             "name": "Organigramme"
-        }
+        },
+        "uploading_stencil": "Téléchargement du pochoir ...",
+        "upload_stencil_success": "Pochoir téléchargé",
+        "upload_stencil_error": "Erreur lors du téléchargement du pochoir"
     },
     "plugin": {
         "no_exist": "Impossible de définir les éléments suivants. Le plugin n'existe peut-être plus, ou <br /> vous n'avez pas la permission d'y accéder.",
