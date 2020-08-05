@@ -808,7 +808,12 @@
         "backup_path": "バックアップパス",
         "last_backup": "最終バックアップ",
         "backup_app": "Electra Cloudバックアップ",
-        "disconnect": "インターネットが切断されました。ファイルをバックアップするためにインターネットにアクセスできることを確認してください。"
+        "disconnect": "インターネットが切断されました。ファイルをバックアップするためにインターネットにアクセスできることを確認してください。",
+        "backup_completed": "バックアップが完了しました",
+        "empty_drawing": "図面が空です",
+        "getting_drawing": "絵を描く",
+        "encounter_err": "遭遇エラー",
+        "checking_drawings": "所有図面の確認"
     },
     "list": {
         "sv": "スウェーデン語",
