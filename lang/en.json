@@ -1513,7 +1513,12 @@
         "backup_path": "Backup path",
         "disconnect": "Internet disconnected. Please ensure you have Internet access to backup your files.",
         "backup_app": "Electra Cloud backup",
-        "last_backup": "Last backup"
+        "last_backup": "Last backup",
+        "checking_drawings": "Checking owned drawings",
+        "backup_completed": "Backup completed",
+        "getting_drawing": "Getting drawing",
+        "empty_drawing": "Drawing is empty",
+        "encounter_err": "Encounter error"
     },
     "drop": {
         "maintain_id": "Maintain ID",
