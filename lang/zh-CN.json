@@ -1514,7 +1514,12 @@
         "backup_path": "备份路径",
         "backup_app": "Electra云备份",
         "last_backup": "上次备份",
-        "disconnect": "互联网已断开连接。请确保您具有Internet访问权限来备份文件。"
+        "disconnect": "互联网已断开连接。请确保您具有Internet访问权限来备份文件。",
+        "backup_completed": "备份完成",
+        "empty_drawing": "图纸是空的",
+        "encounter_err": "遇到错误",
+        "checking_drawings": "检查拥有的图纸",
+        "getting_drawing": "获取图纸"
     },
     "drop": {
         "maintain_id": "维护ID",
