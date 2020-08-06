@@ -813,7 +813,8 @@
         "empty_drawing": "図面が空です",
         "getting_drawing": "絵を描く",
         "encounter_err": "遭遇エラー",
-        "checking_drawings": "所有図面の確認"
+        "checking_drawings": "所有図面の確認",
+        "creator": "クリエーター"
     },
     "list": {
         "sv": "スウェーデン語",
