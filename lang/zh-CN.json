@@ -1939,7 +1939,8 @@
         },
         "upload_stencil_error": "上载模具时出错",
         "upload_stencil_success": "模具上传",
-        "uploading_stencil": "正在上传模具..."
+        "uploading_stencil": "正在上传模具...",
+        "no_file_chosen": "没有选中任何文件"
     },
     "plugin": {
         "plugins": "插件",
