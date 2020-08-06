@@ -813,7 +813,8 @@
         "backup_completed": "Sauvegarde terminée",
         "getting_drawing": "Obtenir le dessin",
         "empty_drawing": "Le dessin est vide",
-        "checking_drawings": "Vérification des dessins possédés"
+        "checking_drawings": "Vérification des dessins possédés",
+        "creator": "Créateur"
     },
     "page": {
         "cm": "Centimètre",
