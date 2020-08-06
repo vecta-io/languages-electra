@@ -1519,7 +1519,8 @@
         "getting_drawing": "獲取圖紙",
         "encounter_err": "遇到錯誤",
         "checking_drawings": "檢查擁有的圖紙",
-        "empty_drawing": "圖紙是空的"
+        "empty_drawing": "圖紙是空的",
+        "creator": "創作者"
     },
     "drop": {
         "maintain_id": "維護ID",
