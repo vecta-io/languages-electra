@@ -813,7 +813,8 @@
         "empty_drawing": "Ritningen är tom",
         "encounter_err": "Mötesfel",
         "checking_drawings": "Kontrollera ägda ritningar",
-        "getting_drawing": "Få ritning"
+        "getting_drawing": "Få ritning",
+        "creator": "Skapare"
     },
     "drop": {
         "in": "tum",
