@@ -1830,7 +1830,6 @@
         "uploading_stencil": "Uploading stencil...",
         "upload_stencil_error": "Error uploading stencil",
         "upload_stencil_success": "Stencil uploaded",
-        "no_file_chosen": "No file chosen",
         "stencil_0": {
             "name": "Flow Chart",
             "desc": "General flow chart symbols",
