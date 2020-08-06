@@ -2157,8 +2157,7 @@
         },
         "uploading_stencil": "Téléchargement du pochoir ...",
         "upload_stencil_success": "Pochoir téléchargé",
-        "upload_stencil_error": "Erreur lors du téléchargement du pochoir",
-        "no_file_chosen": "Aucun fichier choisi"
+        "upload_stencil_error": "Erreur lors du téléchargement du pochoir"
     },
     "plugin": {
         "no_exist": "Impossible de définir les éléments suivants. Le plugin n'existe peut-être plus, ou <br /> vous n'avez pas la permission d'y accéder.",
