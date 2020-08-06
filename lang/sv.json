@@ -2151,7 +2151,8 @@
         },
         "uploading_stencil": "Laddar upp stencil ...",
         "upload_stencil_error": "Fel vid uppladdning av stencil",
-        "upload_stencil_success": "Stencil laddat upp"
+        "upload_stencil_success": "Stencil laddat upp",
+        "no_file_chosen": "Ingen fil vald"
     },
     "integrate": {
         "error": "Något har gått fel ...",
