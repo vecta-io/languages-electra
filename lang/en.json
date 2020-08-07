@@ -1005,8 +1005,6 @@
         "go_ver": "Go to Version History",
         "go_undo": "Go to Undo History",
         "custom_menu": "Custom Menu",
-        "disabled": "Disabled",
-        "selected": "Selected",
         "no_menu": "No menus found",
         "cannot_open": "Opening a drawing through dropping the .SVG file is not supported in edit icon mode.",
         "image_cannot_copy": "Unable to copy the image over. The image no longer exist, or you do not have access to the image.",
@@ -1104,6 +1102,7 @@
         "comm_disc": "Community discussion",
         "others": "others",
         "other": "other",
+        "creator": "Creator",
         "slogan": "Cloud based Electrical CAD Software",
         "stencil": "Stencil",
         "electrical": "Electrical",
@@ -1229,9 +1228,6 @@
         "loc_col": "Arrange locations in column(s)",
         "ref_not_found": "Reference not found",
         "no_shape_for_ref": "No shape found for reference @@",
-        "hide_loc": "Hide location",
-        "select_loc_hide": "Select location to hide",
-        "chk_unchk_all": "Check / Uncheck all",
         "plc_mod": "PLC Module",
         "plc_point": "Initial Point",
         "connector": "Connector",
@@ -1518,7 +1514,12 @@
         "backup_path": "Backup path",
         "disconnect": "Internet disconnected. Please ensure you have Internet access to backup your files.",
         "backup_app": "Electra Cloud backup",
-        "last_backup": "Last backup"
+        "last_backup": "Last backup",
+        "checking_drawings": "Checking owned drawings",
+        "backup_completed": "Backup completed",
+        "getting_drawing": "Getting drawing",
+        "empty_drawing": "Drawing is empty",
+        "encounter_err": "Encounter error"
     },
     "drop": {
         "maintain_id": "Maintain ID",
@@ -1829,6 +1830,7 @@
         "uploading_stencil": "Uploading stencil...",
         "upload_stencil_error": "Error uploading stencil",
         "upload_stencil_success": "Stencil uploaded",
+        "no_file_chosen": "No file chosen",
         "stencil_0": {
             "name": "Flow Chart",
             "desc": "General flow chart symbols",
