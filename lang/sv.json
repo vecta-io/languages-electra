@@ -809,12 +809,11 @@
         "start_backup": "Starta säkerhetskopieringen",
         "backup_app": "Electra Cloud backup",
         "disconnect": "Internet frånkopplat. Se till att du har tillgång till internet för att säkerhetskopiera dina filer.",
-        "backup_completed": "Backup klar",
-        "empty_drawing": "Ritningen är tom",
-        "encounter_err": "Mötesfel",
-        "checking_drawings": "Kontrollera ägda ritningar",
-        "getting_drawing": "Få ritning",
-        "creator": "Skapare"
+        "hide_loc": "Göm platsen",
+        "selected": "Vald",
+        "disabled": "Inaktiverad",
+        "chk_unchk_all": "Markera / avmarkera alla",
+        "select_loc_hide": "Välj plats att dölja"
     },
     "drop": {
         "in": "tum",
@@ -2151,8 +2150,7 @@
         },
         "uploading_stencil": "Laddar upp stencil ...",
         "upload_stencil_error": "Fel vid uppladdning av stencil",
-        "upload_stencil_success": "Stencil laddat upp",
-        "no_file_chosen": "Ingen fil vald"
+        "upload_stencil_success": "Stencil laddat upp"
     },
     "integrate": {
         "error": "Något har gått fel ...",
