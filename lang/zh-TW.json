@@ -1515,12 +1515,11 @@
         "backup_app": "Electra雲備份",
         "last_backup": "上次備份",
         "disconnect": "互聯網已斷開連接。請確保您具有Internet訪問權限來備份文件。",
-        "backup_completed": "備份完成",
-        "getting_drawing": "獲取圖紙",
-        "encounter_err": "遇到錯誤",
-        "checking_drawings": "檢查擁有的圖紙",
-        "empty_drawing": "圖紙是空的",
-        "creator": "創作者"
+        "disabled": "殘障人士",
+        "hide_loc": "隱藏位置",
+        "selected": "已選",
+        "chk_unchk_all": "全部選中/取消選中",
+        "select_loc_hide": "選擇要隱藏的位置"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -1939,8 +1938,7 @@
         },
         "upload_stencil_success": "模具上傳",
         "upload_stencil_error": "上載模具時出錯",
-        "uploading_stencil": "正在上傳模具...",
-        "no_file_chosen": "沒有選中任何文件"
+        "uploading_stencil": "正在上傳模具..."
     },
     "plugin": {
         "plugins": "插件",
