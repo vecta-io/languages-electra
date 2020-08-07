@@ -809,12 +809,11 @@
         "last_backup": "最終バックアップ",
         "backup_app": "Electra Cloudバックアップ",
         "disconnect": "インターネットが切断されました。ファイルをバックアップするためにインターネットにアクセスできることを確認してください。",
-        "backup_completed": "バックアップが完了しました",
-        "empty_drawing": "図面が空です",
-        "getting_drawing": "絵を描く",
-        "encounter_err": "遭遇エラー",
-        "checking_drawings": "所有図面の確認",
-        "creator": "クリエーター"
+        "disabled": "無効",
+        "hide_loc": "場所を隠す",
+        "select_loc_hide": "非表示にする場所を選択",
+        "selected": "選択済み",
+        "chk_unchk_all": "すべてオン/オフ"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -2157,8 +2156,7 @@
         },
         "uploading_stencil": "ステンシルをアップロードしています...",
         "upload_stencil_success": "ステンシルをアップロードしました",
-        "upload_stencil_error": "ステンシルのアップロード中にエラーが発生しました",
-        "no_file_chosen": "ファイルが選択されていません"
+        "upload_stencil_error": "ステンシルのアップロード中にエラーが発生しました"
     },
     "plugin": {
         "no_exist": "以下の項目は設定できません。プラグインはもう存在しないかもしれません。または、あなたはプラグインにアクセスする権限がありません。",
