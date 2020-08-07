@@ -1608,8 +1608,7 @@
         "import_stencil": "Det kan ta några minuter att importera stencil",
         "update_cable_tag": "Uppdaterar kabel taggar",
         "max_page": "Endast 20 sidor är tillåtna i akademisk version.",
-        "no_internet": "Ingen internetanslutning",
-        "import_electra_drawing": "För att importera Electra-ritning, vänligen öppna en ny ritning och släpp SVG-filen."
+        "no_internet": "Ingen internetanslutning"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
