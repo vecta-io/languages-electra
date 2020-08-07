@@ -248,7 +248,6 @@
         "latest_version_updated": "You have updated to the latest version!",
         "new_version_downloaded": "A new version has been downloaded. Restart the application to apply the updates.",
         "max_page": "Only 20 pages are allowed in Academic version.",
-        "import_electra_drawing": "To import Electra drawing, please open a new drawing and drop the SVG file.",
         "cannot_edit_term_block": "You must be logged in to edit terminal block.",
         "prefab_create": "Prefab circuit is created",
         "license_expired": "Trial / License expired. Productivity tools from Electra Cloud will be disabled.",
