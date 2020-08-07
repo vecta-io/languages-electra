@@ -265,7 +265,8 @@
         "import_stencil": "导入模具，可能需要几分钟",
         "update_cable_tag": "更新电缆标签",
         "max_page": "学术版仅允许使用20页。",
-        "no_internet": "没有网络连接"
+        "no_internet": "没有网络连接",
+        "import_electra_drawing": "要导入Electra工程图，请打开一个新工程图并拖放SVG文件。"
     },
     "login": {
         "collab": "在线",
