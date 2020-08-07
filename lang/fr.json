@@ -1665,8 +1665,7 @@
         "import_stencil": "L'importation du pochoir peut prendre quelques minutes",
         "update_cable_tag": "Mise à jour des étiquettes de câble",
         "max_page": "Seules 20 pages sont autorisées en version académique.",
-        "no_internet": "Pas de connexion Internet",
-        "import_electra_drawing": "Pour importer un dessin Electra, ouvrez un nouveau dessin et déposez le fichier SVG."
+        "no_internet": "Pas de connexion Internet"
     },
     "email": {
         "remind": "vous a rappelé de rejoindre l'équipe",
