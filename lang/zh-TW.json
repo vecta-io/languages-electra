@@ -265,8 +265,7 @@
         "import_stencil": "導入模具，可能需要幾分鐘",
         "update_cable_tag": "更新電纜標籤",
         "max_page": "學術版僅允許使用20頁。",
-        "no_internet": "沒有網絡連接",
-        "import_electra_drawing": "要導入Electra工程圖，請打開一個新工程圖並拖放SVG文件。"
+        "no_internet": "沒有網絡連接"
     },
     "login": {
         "collab": "在線",
