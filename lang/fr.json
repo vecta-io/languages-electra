@@ -809,11 +809,12 @@
         "disconnect": "Internet déconnecté. Veuillez vous assurer que vous disposez d'un accès Internet pour sauvegarder vos fichiers.",
         "last_backup": "Dernière sauvegarde",
         "backup_app": "Sauvegarde Electra Cloud",
-        "disabled": "désactivé",
-        "selected": "Choisi",
-        "select_loc_hide": "Sélectionnez l'emplacement à masquer",
-        "hide_loc": "Masquer la position",
-        "chk_unchk_all": "Tout cocher / décocher"
+        "creator": "Créateur",
+        "encounter_err": "Erreur de rencontre",
+        "empty_drawing": "Le dessin est vide",
+        "checking_drawings": "Vérification des dessins possédés",
+        "backup_completed": "Sauvegarde terminée",
+        "getting_drawing": "Obtenir le dessin"
     },
     "page": {
         "cm": "Centimètre",
@@ -2156,7 +2157,8 @@
         },
         "uploading_stencil": "Téléchargement du pochoir ...",
         "upload_stencil_success": "Pochoir téléchargé",
-        "upload_stencil_error": "Erreur lors du téléchargement du pochoir"
+        "upload_stencil_error": "Erreur lors du téléchargement du pochoir",
+        "no_file_chosen": "Aucun fichier choisi"
     },
     "plugin": {
         "no_exist": "Impossible de définir les éléments suivants. Le plugin n'existe peut-être plus, ou <br /> vous n'avez pas la permission d'y accéder.",
