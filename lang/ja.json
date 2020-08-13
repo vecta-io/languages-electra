@@ -1105,8 +1105,8 @@
         "show_dev_mode": "開発者モードを表示",
         "hide_dev_mode": "Hide developer mode",
         "copy_symbol": "シンボルをコピー",
-        "paste_symbol": "シンボルを貼り付け",
-        "paste_symbol_prop": "名前、説明、タグを貼り付け",
+        "paste_symbol": "シンボル",
+        "paste_symbol_prop": "名前、説明、タグ",
         "perm_link": "パーマネントリンク",
         "flow_text": "フローテキスト",
         "unflow_text": "フロー解除テキスト",
@@ -1169,7 +1169,7 @@
         "add_conn_pt": "接続ポイントを追加",
         "del_conn_pt": "接続ポイントを削除",
         "new_gdoc": "新しいGoogleドキュメント",
-        "paste_icon": "貼り付けアイコン",
+        "paste_icon": "アイコン",
         "upload_stencil": "ステンシルのインポート"
     },
     "login": {
