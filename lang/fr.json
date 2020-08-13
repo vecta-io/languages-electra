@@ -1097,8 +1097,8 @@
         "show_dev_mode": "Afficher le mode développeur",
         "hide_dev_mode": "Masquer le mode développeur",
         "copy_symbol": "Symbole de copie",
-        "paste_symbol": "Coller le symbole",
-        "paste_symbol_prop": "Coller le nom, la description et les tags",
+        "paste_symbol": "symbole",
+        "paste_symbol_prop": "Nom, description et tags",
         "perm_link": "Lien permanent",
         "flow_text": "Flux de texte",
         "unflow_text": "Déballer le texte",
@@ -1161,7 +1161,7 @@
         "del_conn_pt": "Supprimer le point de connexion",
         "add_conn_pt": "Ajouter un point de connexion",
         "new_gdoc": "Nouveau document Google",
-        "paste_icon": "Icône Coller",
+        "paste_icon": "Icône",
         "upload_stencil": "Importer un pochoir"
     },
     "list": {
