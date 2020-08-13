@@ -1720,8 +1720,8 @@
         "show_dev_mode": "顯示開發模式",
         "hide_dev_mode": "隱藏開發模式",
         "copy_symbol": "複製符號",
-        "paste_symbol_prop": "粘貼名稱，描述和標籤",
-        "paste_symbol": "粘貼符號",
+        "paste_symbol_prop": "名稱，說明和標籤",
+        "paste_symbol": "符號",
         "perm_link": "永久鏈接",
         "save_as": "另存為",
         "save": "保存",
@@ -1768,7 +1768,7 @@
         "add_conn_pt": "添加連接點",
         "del_conn_pt": "刪除連接點",
         "new_gdoc": "新的Google文檔",
-        "paste_icon": "粘貼圖標",
+        "paste_icon": "圖標",
         "upload_stencil": "導入模具"
     },
     "stencil": {
