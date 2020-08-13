@@ -995,8 +995,8 @@
         "show_dev_mode": "Show developer mode",
         "hide_dev_mode": "Dölj utvecklarläge",
         "copy_symbol": "Kopiera symbol",
-        "paste_symbol": "Klistra in symbol",
-        "paste_symbol_prop": "Klistra in namn, beskrivning och taggar",
+        "paste_symbol": "Symbol",
+        "paste_symbol_prop": "Namn, beskrivning och taggar",
         "perm_link": "Permanent länk",
         "flow_text": "Flödetekst",
         "unflow_text": "Ta bort text",
@@ -1061,7 +1061,7 @@
         "del_conn_pt": "Ta bort anslutningspunkt",
         "add_conn_pt": "Lägg till anslutningspunkt",
         "new_gdoc": "Nytt Google-dokument",
-        "paste_icon": "Klistra in ikonen",
+        "paste_icon": "Ikon",
         "upload_stencil": "Importera stencil"
     },
     "page": {
