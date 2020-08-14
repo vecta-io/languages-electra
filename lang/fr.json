@@ -799,8 +799,6 @@
         "search_cat": "Catégorie de recherche",
         "click_edit": "Cliquez pour modifier",
         "others": "autres",
-        "gdoc_link": "Lien Google Doc",
-        "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "other": "autre",
         "reading_drawing": "Dessin de lecture",
         "generating_zip": "Générer un ZIP",
@@ -814,7 +812,15 @@
         "empty_drawing": "Le dessin est vide",
         "checking_drawings": "Vérification des dessins possédés",
         "backup_completed": "Sauvegarde terminée",
-        "getting_drawing": "Obtenir le dessin"
+        "getting_drawing": "Obtenir le dessin",
+        "hide_loc": "Masquer la position",
+        "auto": "Auto",
+        "selected": "Choisi",
+        "top_bottom": "Haut-bas",
+        "position_ref_desc": "Position de référence et description",
+        "select_loc_hide": "Sélectionnez l'emplacement à masquer",
+        "chk_unchk_all": "Tout cocher / décocher",
+        "disabled": "désactivé"
     },
     "page": {
         "cm": "Centimètre",
@@ -1160,7 +1166,6 @@
         "export": "Exportation",
         "del_conn_pt": "Supprimer le point de connexion",
         "add_conn_pt": "Ajouter un point de connexion",
-        "new_gdoc": "Nouveau document Google",
         "paste_icon": "Icône",
         "upload_stencil": "Importer un pochoir"
     },
@@ -1421,10 +1426,10 @@
         "cannot_drop_file": "Impossible de supprimer le fichier car vous ne disposez pas des autorisations requises",
         "gdoc_inavlid_link": "Lien vers la documentation Google non valide",
         "processing": "En traitement",
-        "create_gdoc": "Créer un document Google",
         "completed": "Terminé",
         "upload_prog": "Télécharger la progression",
-        "browse": "Feuilleter"
+        "browse": "Feuilleter",
+        "create_doc": "Créer un document"
     },
     "access": {
         "and": "et",
