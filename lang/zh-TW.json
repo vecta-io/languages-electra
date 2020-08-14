@@ -583,12 +583,12 @@
         "trial_extended": "試用期延長",
         "no_export": "您不能導出空圖紙。",
         "cannot_drop_file": "無法刪除文件，因為您沒有必需的權限",
-        "create_gdoc": "創建Google文檔",
         "gdoc_inavlid_link": "無效的Google文檔鏈接",
         "processing": "處理中",
         "completed": "已完成",
         "upload_prog": "上傳進度",
-        "browse": "瀏覽"
+        "browse": "瀏覽",
+        "create_doc": "建立文件"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
@@ -1505,10 +1505,8 @@
         "search_cat": "搜索類別",
         "append_page": "追加頁面",
         "click_edit": "點擊編輯",
-        "gdoc_link": "Google Doc鏈接",
         "other": "其他",
         "others": "其他",
-        "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "reading_drawing": "閱讀圖紙",
         "generating_zip": "生成ZIP",
         "start_backup": "開始備份",
@@ -1521,7 +1519,15 @@
         "backup_completed": "備份完成",
         "empty_drawing": "圖紙是空的",
         "getting_drawing": "獲取圖紙",
-        "encounter_err": "遇到錯誤"
+        "encounter_err": "遇到錯誤",
+        "hide_loc": "隱藏位置",
+        "disabled": "殘障人士",
+        "selected": "已選",
+        "auto": "汽車",
+        "select_loc_hide": "選擇要隱藏的位置",
+        "position_ref_desc": "參考和說明的位置",
+        "top_bottom": "上下",
+        "chk_unchk_all": "全部選中/取消選中"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -1767,7 +1773,6 @@
         "export": "出口",
         "add_conn_pt": "添加連接點",
         "del_conn_pt": "刪除連接點",
-        "new_gdoc": "新的Google文檔",
         "paste_icon": "圖標",
         "upload_stencil": "導入模具"
     },
