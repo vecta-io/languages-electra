@@ -584,11 +584,11 @@
         "no_export": "您不能导出空图纸。",
         "cannot_drop_file": "无法删除文件，因为您没有必需的权限",
         "gdoc_inavlid_link": "无效的Google文档链接",
-        "create_gdoc": "创建Google文档",
         "processing": "处理中",
         "completed": "已完成",
         "upload_prog": "上传进度",
-        "browse": "浏览"
+        "browse": "浏览",
+        "create_doc": "建立文件"
     },
     "noti": {
         "same_day": "注意：公告将在其创建的同一天开始",
@@ -1505,8 +1505,6 @@
         "click_edit": "点击编辑",
         "search_cat": "搜索类别",
         "select_cat": "选择类别",
-        "gdoc_link": "Google Doc链接",
-        "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "others": "其他",
         "other": "其他",
         "generating_zip": "生成ZIP",
@@ -1521,7 +1519,15 @@
         "empty_drawing": "图纸是空的",
         "getting_drawing": "获取图纸",
         "checking_drawings": "检查拥有的图纸",
-        "encounter_err": "遇到错误"
+        "encounter_err": "遇到错误",
+        "disabled": "残障人士",
+        "selected": "已选",
+        "hide_loc": "隐藏位置",
+        "auto": "汽车",
+        "chk_unchk_all": "全部选中/取消选中",
+        "top_bottom": "上下",
+        "position_ref_desc": "参考和说明的位置",
+        "select_loc_hide": "选择要隐藏的位置"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -1767,7 +1773,6 @@
         "export": "出口",
         "add_conn_pt": "添加连接点",
         "del_conn_pt": "删除连接点",
-        "new_gdoc": "新的Google文档",
         "paste_icon": "图标",
         "upload_stencil": "导入模具"
     },
