@@ -798,9 +798,7 @@
         "click_edit": "Klicka för att ändra",
         "select_cat": "Välj kategori",
         "clear": "Klar",
-        "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
         "others": "andra",
-        "gdoc_link": "Google Doc-länk",
         "other": "Övrig",
         "reading_drawing": "Läser ritning",
         "generating_zip": "Genererar ZIP",
@@ -814,7 +812,15 @@
         "checking_drawings": "Kontrollera ägda ritningar",
         "backup_completed": "Backup klar",
         "empty_drawing": "Ritningen är tom",
-        "encounter_err": "Mötesfel"
+        "encounter_err": "Mötesfel",
+        "disabled": "Inaktiverad",
+        "auto": "Bil",
+        "hide_loc": "Göm platsen",
+        "selected": "Vald",
+        "top_bottom": "Top-Bottom",
+        "chk_unchk_all": "Markera / avmarkera alla",
+        "position_ref_desc": "Referens- och beskrivningens position",
+        "select_loc_hide": "Välj plats att dölja"
     },
     "drop": {
         "in": "tum",
@@ -1060,7 +1066,6 @@
         "export": "Exportera",
         "del_conn_pt": "Ta bort anslutningspunkt",
         "add_conn_pt": "Lägg till anslutningspunkt",
-        "new_gdoc": "Nytt Google-dokument",
         "paste_icon": "Ikon",
         "upload_stencil": "Importera stencil"
     },
@@ -1330,9 +1335,9 @@
         "gdoc_inavlid_link": "Ogiltig Google doc-länk",
         "completed": "Avslutad",
         "processing": "bearbetning",
-        "create_gdoc": "Skapa Google-dokument",
         "upload_prog": "Ladda upp framsteg",
-        "browse": "Bläddra"
+        "browse": "Bläddra",
+        "create_doc": "Skapar dokument"
     },
     "noti": {
         "deny": "Neka",
