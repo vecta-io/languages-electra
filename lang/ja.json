@@ -799,8 +799,6 @@
         "clear": "晴れ",
         "click_edit": "クリックして編集する",
         "other": "その他の",
-        "gdoc_placeholder": "https://docs.google.com/document/sample/edit",
-        "gdoc_link": "Googleドキュメントリンク",
         "others": "その他",
         "generating_zip": "ZIPを生成しています",
         "reading_drawing": "図面を読む",
@@ -814,7 +812,15 @@
         "backup_completed": "バックアップが完了しました",
         "getting_drawing": "絵を描く",
         "encounter_err": "遭遇エラー",
-        "empty_drawing": "図面が空です"
+        "empty_drawing": "図面が空です",
+        "disabled": "無効",
+        "chk_unchk_all": "すべてオン/オフ",
+        "selected": "選択済み",
+        "hide_loc": "場所を非表示",
+        "top_bottom": "トップボトム",
+        "select_loc_hide": "非表示にする場所を選択",
+        "auto": "自動",
+        "position_ref_desc": "参照と説明の位置"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1168,7 +1174,6 @@
         "export": "書き出す",
         "add_conn_pt": "接続ポイントを追加",
         "del_conn_pt": "接続ポイントを削除",
-        "new_gdoc": "新しいGoogleドキュメント",
         "paste_icon": "アイコン",
         "upload_stencil": "ステンシルのインポート"
     },
@@ -1362,12 +1367,12 @@
         "trial_extended": "試用期間が延長されました",
         "no_export": "空の図面はエクスポートできません。",
         "cannot_drop_file": "必要な権限がないため、ファイルをドロップできません",
-        "create_gdoc": "Googleドキュメントを作成しています",
         "gdoc_inavlid_link": "無効なGoogleドキュメントリンク",
         "processing": "処理",
         "upload_prog": "アップロードの進行状況",
         "completed": "完成した",
-        "browse": "ブラウズ"
+        "browse": "ブラウズ",
+        "create_doc": "ドキュメントを作成しています"
     },
     "noti": {
         "left": "%% left Team @@。",
