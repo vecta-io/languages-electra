@@ -819,8 +819,8 @@
         "selected": "Vald",
         "top_bottom": "Top-Bottom",
         "chk_unchk_all": "Markera / avmarkera alla",
-        "position_ref_desc": "Referens- och beskrivningens position",
-        "select_loc_hide": "Välj plats att dölja"
+        "select_loc_hide": "Välj plats att dölja",
+        "ref_desc_position": "Referens- och beskrivningsposition"
     },
     "drop": {
         "in": "tum",
