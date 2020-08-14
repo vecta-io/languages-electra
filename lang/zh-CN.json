@@ -1526,8 +1526,8 @@
         "auto": "汽车",
         "chk_unchk_all": "全部选中/取消选中",
         "top_bottom": "上下",
-        "position_ref_desc": "参考和说明的位置",
-        "select_loc_hide": "选择要隐藏的位置"
+        "select_loc_hide": "选择要隐藏的位置",
+        "ref_desc_position": "参考和描述位置"
     },
     "drop": {
         "maintain_id": "维护ID",
