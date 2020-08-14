@@ -1241,7 +1241,7 @@
         "width": "Width",
         "auto": "Auto",
         "top_bottom": "Top-Bottom",
-        "position_ref_desc": "Position of reference and description",
+        "ref_desc_position": "Reference and description position",
         "spacing": "Spacing",
         "save_as_new_comp": "Save As New Component",
         "close": "Close",
