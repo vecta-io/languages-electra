@@ -817,10 +817,10 @@
         "auto": "Auto",
         "selected": "Choisi",
         "top_bottom": "Haut-bas",
-        "position_ref_desc": "Position de référence et description",
         "select_loc_hide": "Sélectionnez l'emplacement à masquer",
         "chk_unchk_all": "Tout cocher / décocher",
-        "disabled": "désactivé"
+        "disabled": "désactivé",
+        "ref_desc_position": "Position de référence et description"
     },
     "page": {
         "cm": "Centimètre",
