@@ -820,7 +820,7 @@
         "top_bottom": "トップボトム",
         "select_loc_hide": "非表示にする場所を選択",
         "auto": "自動",
-        "position_ref_desc": "参照と説明の位置"
+        "ref_desc_position": "参照と説明の位置"
     },
     "list": {
         "sv": "スウェーデン語",
