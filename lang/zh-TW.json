@@ -1525,9 +1525,9 @@
         "selected": "已選",
         "auto": "汽車",
         "select_loc_hide": "選擇要隱藏的位置",
-        "position_ref_desc": "參考和說明的位置",
         "top_bottom": "上下",
-        "chk_unchk_all": "全部選中/取消選中"
+        "chk_unchk_all": "全部選中/取消選中",
+        "ref_desc_position": "參考和描述位置"
     },
     "drop": {
         "maintain_id": "維護ID",
