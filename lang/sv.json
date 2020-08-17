@@ -2158,7 +2158,343 @@
         "uploading_stencil": "Laddar upp stencil ...",
         "upload_stencil_error": "Fel vid uppladdning av stencil",
         "upload_stencil_success": "Stencil laddat upp",
-        "no_file_chosen": "Ingen fil vald"
+        "no_file_chosen": "Ingen fil vald",
+        "stencil_36": {
+            "cat": [
+                "Datorer och nätverk"
+            ],
+            "name": "Nätinfrastruktur",
+            "desc": "Nätverksinfrastruktursymboler"
+        },
+        "stencil_25": {
+            "cat": [
+                "Datorer och nätverk"
+            ],
+            "name": "Web Technologies",
+            "desc": "Allmänna webbteknologisymboler"
+        },
+        "stencil_72": {
+            "desc": "",
+            "name": "Varumärken 0 - 9",
+            "credit_link": "https://www.vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ]
+        },
+        "stencil_37": {
+            "cat": [
+                "Datorer och nätverk"
+            ],
+            "desc": "Grundläggande nätverkssymboler",
+            "name": "Grundläggande nätverk"
+        },
+        "stencil_38": {
+            "cat": [
+                "Datorer och nätverk"
+            ],
+            "desc": "Visa enheter",
+            "name": "Datorer och bildskärmar"
+        },
+        "stencil_71": {
+            "name": "Spår och mätare",
+            "desc": "Interaktiva mätare och mätare"
+        },
+        "stencil_74": {
+            "desc": "",
+            "name": "Märken AP - AZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_73": {
+            "credit_link": "https://www.vectorlogo.zone/",
+            "desc": "",
+            "name": "Märken AA - AO",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_76": {
+            "desc": "",
+            "name": "Varumärken CA - CL",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://www.vectorlogo.zone/"
+        },
+        "stencil_75": {
+            "desc": "",
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "name": "Märken BA - BZ"
+        },
+        "stencil_77": {
+            "desc": "",
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://www.vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "name": "Varumärken CM - CZ"
+        },
+        "stencil_78": {
+            "desc": "",
+            "name": "Varumärken DA - DZ",
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ]
+        },
+        "stencil_79": {
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "desc": "",
+            "credit_name": "Vector Logo Zone",
+            "name": "Varumärken EA - EZ"
+        },
+        "stencil_80": {
+            "desc": "",
+            "name": "Varumärken FA - FZ",
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ]
+        },
+        "stencil_82": {
+            "desc": "",
+            "name": "Varumärken GO - GZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_81": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "desc": "",
+            "name": "Märken GA - GN"
+        },
+        "stencil_84": {
+            "desc": "",
+            "name": "Varumärken IA - IZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ]
+        },
+        "stencil_83": {
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "name": "Märken HA - HZ"
+        },
+        "stencil_85": {
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "Vector Logo Zone",
+            "name": "Varumärken JA - JZ"
+        },
+        "stencil_86": {
+            "desc": "",
+            "name": "Varumärken KA - KZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_88": {
+            "desc": "",
+            "name": "Märken MA - MZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ]
+        },
+        "stencil_87": {
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "name": "Varumärken LA - LZ"
+        },
+        "stencil_90": {
+            "desc": "",
+            "name": "Varumärken OA - OZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ]
+        },
+        "stencil_89": {
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "Märken NA - NZ"
+        },
+        "stencil_92": {
+            "desc": "",
+            "name": "Varumärken PJ - PZ",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_91": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "desc": "",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "name": "Varumärken PA - PI"
+        },
+        "stencil_94": {
+            "desc": "",
+            "name": "Varumärken RA - RZ",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_93": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "desc": "",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "name": "Varumärken QA - QZ"
+        },
+        "stencil_96": {
+            "desc": "",
+            "name": "Varumärken SN - SZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_95": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "desc": "",
+            "name": "Märken SA - SM"
+        },
+        "stencil_98": {
+            "desc": "",
+            "name": "Varumärken TI - TZ",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_97": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "desc": "",
+            "name": "Märken TA - TH"
+        },
+        "stencil_100": {
+            "desc": "",
+            "name": "Varumärken VA - VZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_99": {
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "name": "Varumärken UA - UZ"
+        },
+        "stencil_101": {
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "name": "Varumärken WA - WZ"
+        },
+        "stencil_102": {
+            "desc": "",
+            "name": "Varumärken XA - XZ",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_103": {
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "desc": "",
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "Varumärken YA - YZ"
+        },
+        "stencil_104": {
+            "desc": "",
+            "name": "Varumärken ZA - ZZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Märkeslogotyp"
+            ],
+            "credit_name": "Vector Logo Zone"
+        },
+        "stencil_238": {
+            "cat": [
+                "Datorer och nätverk"
+            ],
+            "desc": "",
+            "name": "Datormärken"
+        }
     },
     "integrate": {
         "error": "Något har gått fel ...",
