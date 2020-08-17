@@ -1844,6 +1844,335 @@
                 "Charts and diagrams"
             ]
         },
+        "stencil_25": {
+            "name": "Web Technologies",
+            "desc": "General web technology symbols",
+            "cat": [
+                "Computers and Network"
+            ]
+        },
+        "stencil_36": {
+            "name": "Network Infrastructure",
+            "desc": "Network infrastructure symbols",
+            "cat": [
+                "Computers and Network"
+            ]
+        },
+        "stencil_37": {
+            "name": "Basic Network",
+            "desc": "Basic Network Symbols",
+            "cat": [
+                "Computers and Network"
+            ]
+        },
+        "stencil_38": {
+            "name": "Computers and Monitors",
+            "desc": "Display Devices",
+            "cat": [
+                "Computers and Network"
+            ]
+        },
+        "stencil_71": {
+            "name": "Gauge and Meters",
+            "desc": "Interactive gauges and meters"
+        },
+        "stencil_72": {
+            "name": "Brands 0 - 9",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://www.vectorlogo.zone/"
+        },
+        "stencil_73": {
+            "name": "Brands AA - AO",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://www.vectorlogo.zone/"
+        },
+        "stencil_74": {
+            "name": "Brands AP - AZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_75": {
+            "name": "Brands BA - BZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_76": {
+            "name": "Brands CA - CL",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://www.vectorlogo.zone/"
+        },
+        "stencil_77": {
+            "name": "Brands CM - CZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://www.vectorlogo.zone/"
+        },
+        "stencil_78": {
+            "name": "Brands DA - DZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_79": {
+            "name": "Brands EA - EZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_80": {
+            "name": "Brands FA - FZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_81": {
+            "name": "Brands GA - GN",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_82": {
+            "name": "Brands GO - GZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_83": {
+            "name": "Brands HA - HZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_84": {
+            "name": "Brands IA - IZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_85": {
+            "name": "Brands JA - JZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_86": {
+            "name": "Brands KA - KZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_87": {
+            "name": "Brands LA - LZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_88": {
+            "name": "Brands MA - MZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_89": {
+            "name": "Brands NA - NZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_90": {
+            "name": "Brands OA - OZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_91": {
+            "name": "Brands PA - PI",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_92": {
+            "name": "Brands PJ - PZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_93": {
+            "name": "Brands QA - QZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_94": {
+            "name": "Brands RA - RZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_95": {
+            "name": "Brands SA - SM",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_96": {
+            "name": "Brands SN - SZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_97": {
+            "name": "Brands TA - TH",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_98": {
+            "name": "Brands TI - TZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_99": {
+            "name": "Brands UA - UZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_100": {
+            "name": "Brands VA - VZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_101": {
+            "name": "Brands WA - WZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_102": {
+            "name": "Brands XA - XZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_103": {
+            "name": "Brands YA - YZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_104": {
+            "name": "Brands ZA - ZZ",
+            "desc": "",
+            "cat": [
+                "Brands Logo"
+            ],
+            "credit_name": "Vector Logo Zone",
+            "credit_link": "https://vectorlogo.zone/"
+        },
         "stencil_223": {
             "name": "Wires",
             "desc": "Various wires used in electrical circuit design for usages in CAD software to allow users to quickly make electrical schematics"
@@ -1920,6 +2249,13 @@
             "desc": "Hydraulic pumps, cylinders and motor symbols used in the design of hydraulic circuit drawings",
             "cat": [
                 "Hydraulic"
+            ]
+        },
+        "stencil_238": {
+            "name": "Computer Brands",
+            "desc": "",
+            "cat": [
+                "Computers and Network"
             ]
         },
         "stencil_49": {
