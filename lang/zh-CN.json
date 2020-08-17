@@ -1946,7 +1946,343 @@
         "upload_stencil_error": "上载模具时出错",
         "upload_stencil_success": "模具上传",
         "uploading_stencil": "正在上传模具...",
-        "no_file_chosen": "没有选中任何文件"
+        "no_file_chosen": "没有选中任何文件",
+        "stencil_25": {
+            "desc": "通用网络技术符号",
+            "cat": [
+                "电脑与网络"
+            ],
+            "name": "网络技术"
+        },
+        "stencil_36": {
+            "name": "网络基础设施",
+            "cat": [
+                "电脑与网络"
+            ],
+            "desc": "网络基础架构符号"
+        },
+        "stencil_37": {
+            "cat": [
+                "电脑与网络"
+            ],
+            "name": "基本网络",
+            "desc": "基本网络符号"
+        },
+        "stencil_38": {
+            "cat": [
+                "电脑与网络"
+            ],
+            "desc": "显示装置",
+            "name": "电脑和显示器"
+        },
+        "stencil_71": {
+            "desc": "交互式仪表",
+            "name": "量规"
+        },
+        "stencil_73": {
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_link": "https://www.vectorlogo.zone/",
+            "name": "品牌AA-AO"
+        },
+        "stencil_72": {
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "name": "品牌0-9",
+            "credit_link": "https://www.vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ]
+        },
+        "stencil_75": {
+            "credit_name": "矢量徽标区",
+            "desc": "",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌BA-BZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_74": {
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "品牌AP-AZ"
+        },
+        "stencil_77": {
+            "credit_link": "https://www.vectorlogo.zone/",
+            "credit_name": "矢量徽标区",
+            "desc": "",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌CM-CZ"
+        },
+        "stencil_76": {
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_link": "https://www.vectorlogo.zone/",
+            "desc": "",
+            "name": "品牌CA-CL"
+        },
+        "stencil_79": {
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_name": "矢量徽标区",
+            "desc": "",
+            "name": "品牌EA-EZ"
+        },
+        "stencil_78": {
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_name": "矢量徽标区",
+            "name": "品牌DA-DZ"
+        },
+        "stencil_81": {
+            "credit_name": "矢量徽标区",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "desc": "",
+            "name": "品牌GA-GN"
+        },
+        "stencil_80": {
+            "credit_name": "矢量徽标区",
+            "desc": "",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "品牌FA-FZ"
+        },
+        "stencil_83": {
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_name": "矢量徽标区",
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "name": "品牌HA-HZ"
+        },
+        "stencil_82": {
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌GO-GZ"
+        },
+        "stencil_85": {
+            "desc": "",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_name": "矢量徽标区",
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "品牌JA-JZ"
+        },
+        "stencil_84": {
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "name": "品牌IA-IZ"
+        },
+        "stencil_87": {
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌LA-LZ"
+        },
+        "stencil_86": {
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "矢量徽标区",
+            "desc": "",
+            "name": "品牌KA-KZ"
+        },
+        "stencil_89": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "矢量徽标区",
+            "desc": "",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌NA-NZ"
+        },
+        "stencil_88": {
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "name": "品牌MA-MZ"
+        },
+        "stencil_91": {
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "品牌PA-PI"
+        },
+        "stencil_90": {
+            "credit_name": "矢量徽标区",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "desc": "",
+            "name": "品牌OA-OZ"
+        },
+        "stencil_93": {
+            "credit_name": "矢量徽标区",
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌质量检查-QZ"
+        },
+        "stencil_92": {
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_name": "矢量徽标区",
+            "name": "品牌PJ-PZ"
+        },
+        "stencil_95": {
+            "credit_name": "矢量徽标区",
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌SA-SM"
+        },
+        "stencil_94": {
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "name": "品牌RA-RZ"
+        },
+        "stencil_96": {
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌SN-SZ"
+        },
+        "stencil_97": {
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌TA-TH"
+        },
+        "stencil_99": {
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "name": "品牌UA-UZ"
+        },
+        "stencil_98": {
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "credit_name": "矢量徽标区",
+            "desc": "",
+            "name": "品牌TI-TZ"
+        },
+        "stencil_101": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "矢量徽标区",
+            "cat": [
+                "品牌徽标"
+            ],
+            "desc": "",
+            "name": "品牌WA-WZ"
+        },
+        "stencil_100": {
+            "cat": [
+                "品牌徽标"
+            ],
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "矢量徽标区",
+            "name": "品牌VA-VZ"
+        },
+        "stencil_103": {
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌YA-YZ"
+        },
+        "stencil_102": {
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "name": "品牌XA-XZ"
+        },
+        "stencil_104": {
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "品牌徽标"
+            ],
+            "desc": "",
+            "credit_name": "矢量徽标区",
+            "name": "品牌ZA-ZZ"
+        },
+        "stencil_238": {
+            "desc": "",
+            "cat": [
+                "电脑与网络"
+            ],
+            "name": "电脑品牌"
+        }
     },
     "plugin": {
         "plugins": "插件",
