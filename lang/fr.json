@@ -2164,7 +2164,343 @@
         "uploading_stencil": "Téléchargement du pochoir ...",
         "upload_stencil_success": "Pochoir téléchargé",
         "upload_stencil_error": "Erreur lors du téléchargement du pochoir",
-        "no_file_chosen": "Aucun fichier choisi"
+        "no_file_chosen": "Aucun fichier choisi",
+        "stencil_25": {
+            "desc": "Symboles généraux de la technologie Web",
+            "name": "Technologies Web",
+            "cat": [
+                "Ordinateurs et réseau"
+            ]
+        },
+        "stencil_37": {
+            "cat": [
+                "Ordinateurs et réseau"
+            ],
+            "name": "Réseau de base",
+            "desc": "Symboles de base du réseau"
+        },
+        "stencil_36": {
+            "cat": [
+                "Ordinateurs et réseau"
+            ],
+            "name": "Infrastructure de réseau",
+            "desc": "Symboles d'infrastructure réseau"
+        },
+        "stencil_38": {
+            "name": "Ordinateurs et moniteurs",
+            "desc": "Appareils d'affichage",
+            "cat": [
+                "Ordinateurs et réseau"
+            ]
+        },
+        "stencil_72": {
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://www.vectorlogo.zone/",
+            "name": "Marques 0-9",
+            "desc": "",
+            "credit_name": "Zone de logo vectoriel"
+        },
+        "stencil_71": {
+            "desc": "Jauges et compteurs interactifs",
+            "name": "Jauge et mètres"
+        },
+        "stencil_73": {
+            "name": "Marques AA - AO",
+            "credit_link": "https://www.vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "desc": "",
+            "cat": [
+                "Logo des marques"
+            ]
+        },
+        "stencil_74": {
+            "desc": "",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "Marques AP - AZ"
+        },
+        "stencil_75": {
+            "name": "Marques BA - BZ",
+            "credit_name": "Zone de logo vectoriel",
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Logo des marques"
+            ]
+        },
+        "stencil_76": {
+            "credit_link": "https://www.vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "desc": "",
+            "name": "Marques CA - CL"
+        },
+        "stencil_77": {
+            "name": "Marques CM - CZ",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://www.vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "Zone de logo vectoriel"
+        },
+        "stencil_78": {
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "name": "Marques DA - DZ"
+        },
+        "stencil_79": {
+            "name": "Marques EA - EZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_name": "Zone de logo vectoriel",
+            "desc": ""
+        },
+        "stencil_80": {
+            "cat": [
+                "Logo des marques"
+            ],
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "name": "Marques FA - FZ"
+        },
+        "stencil_81": {
+            "name": "Marques GA - GN",
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_name": "Zone de logo vectoriel"
+        },
+        "stencil_82": {
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_name": "Zone de logo vectoriel",
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "name": "Marques GO - GZ"
+        },
+        "stencil_83": {
+            "name": "Marques HA - HZ",
+            "credit_name": "Zone de logo vectoriel",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Logo des marques"
+            ],
+            "desc": ""
+        },
+        "stencil_84": {
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "name": "Marques IA - IZ"
+        },
+        "stencil_85": {
+            "name": "Marques JA - JZ",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": ""
+        },
+        "stencil_86": {
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "desc": "",
+            "name": "Marques KA - KZ"
+        },
+        "stencil_87": {
+            "name": "Marques LA - LZ",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "Zone de logo vectoriel"
+        },
+        "stencil_88": {
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_name": "Zone de logo vectoriel",
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "name": "Marques MA - MZ"
+        },
+        "stencil_89": {
+            "name": "Marques NA - NZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "desc": "",
+            "cat": [
+                "Logo des marques"
+            ]
+        },
+        "stencil_90": {
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "name": "Marques OA - OZ"
+        },
+        "stencil_91": {
+            "name": "Marques PA - PI",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Logo des marques"
+            ],
+            "desc": "",
+            "credit_name": "Zone de logo vectoriel"
+        },
+        "stencil_92": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "desc": "",
+            "name": "Marques PJ - PZ"
+        },
+        "stencil_93": {
+            "name": "Marques QA - QZ",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": ""
+        },
+        "stencil_94": {
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_name": "Zone de logo vectoriel",
+            "desc": "",
+            "name": "Marques RA - RZ"
+        },
+        "stencil_95": {
+            "name": "Marques SA - SM",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "desc": ""
+        },
+        "stencil_96": {
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "desc": "",
+            "name": "Marques SN - SZ"
+        },
+        "stencil_97": {
+            "name": "Marques TA - TH",
+            "cat": [
+                "Logo des marques"
+            ],
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel"
+        },
+        "stencil_98": {
+            "desc": "",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "Marques TI - TZ"
+        },
+        "stencil_99": {
+            "name": "Marques UA - UZ",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Logo des marques"
+            ],
+            "desc": "",
+            "credit_name": "Zone de logo vectoriel"
+        },
+        "stencil_100": {
+            "credit_name": "Zone de logo vectoriel",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "Logo des marques"
+            ],
+            "desc": "",
+            "name": "Marques VA - VZ"
+        },
+        "stencil_101": {
+            "name": "Marques WA - WZ",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": ""
+        },
+        "stencil_102": {
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel",
+            "cat": [
+                "Logo des marques"
+            ],
+            "name": "Marques XA - XZ"
+        },
+        "stencil_103": {
+            "name": "Marques YA - YZ",
+            "desc": "",
+            "cat": [
+                "Logo des marques"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "Zone de logo vectoriel"
+        },
+        "stencil_104": {
+            "credit_name": "Zone de logo vectoriel",
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "cat": [
+                "Logo des marques"
+            ],
+            "name": "Marques ZA - ZZ"
+        },
+        "stencil_238": {
+            "name": "Marques d'ordinateurs",
+            "cat": [
+                "Ordinateurs et réseau"
+            ],
+            "desc": ""
+        }
     },
     "plugin": {
         "no_exist": "Impossible de définir les éléments suivants. Le plugin n'existe peut-être plus, ou <br /> vous n'avez pas la permission d'y accéder.",
