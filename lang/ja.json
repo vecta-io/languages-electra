@@ -2164,7 +2164,343 @@
         "uploading_stencil": "ステンシルをアップロードしています...",
         "upload_stencil_success": "ステンシルをアップロードしました",
         "upload_stencil_error": "ステンシルのアップロード中にエラーが発生しました",
-        "no_file_chosen": "ファイルが選択されていません"
+        "no_file_chosen": "ファイルが選択されていません",
+        "stencil_36": {
+            "name": "ネットワークインフラ",
+            "cat": [
+                "コンピュータとネットワーク"
+            ],
+            "desc": "ネットワークインフラストラクチャシンボル"
+        },
+        "stencil_37": {
+            "name": "基本ネットワーク",
+            "desc": "基本的なネットワークシンボル",
+            "cat": [
+                "コンピュータとネットワーク"
+            ]
+        },
+        "stencil_25": {
+            "desc": "一般的なウェブ技術のシンボル",
+            "cat": [
+                "コンピュータとネットワーク"
+            ],
+            "name": "ウェブテクノロジー"
+        },
+        "stencil_72": {
+            "desc": "",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランド0-9",
+            "credit_link": "https://www.vectorlogo.zone/"
+        },
+        "stencil_38": {
+            "cat": [
+                "コンピュータとネットワーク"
+            ],
+            "desc": "ディスプレイデバイス",
+            "name": "コンピューターとモニター"
+        },
+        "stencil_71": {
+            "desc": "インタラクティブなゲージとメーター",
+            "name": "ゲージとメーター"
+        },
+        "stencil_74": {
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "name": "ブランドAP-AZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_73": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "desc": "",
+            "name": "ブランドAA-AO",
+            "credit_link": "https://www.vectorlogo.zone/"
+        },
+        "stencil_76": {
+            "credit_name": "ベクトルロゴゾーン",
+            "desc": "",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "name": "ブランドCA-CL",
+            "credit_link": "https://www.vectorlogo.zone/"
+        },
+        "stencil_75": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "desc": "",
+            "name": "ブランドBA-BZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_78": {
+            "desc": "",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドDA-DZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_77": {
+            "credit_link": "https://www.vectorlogo.zone/",
+            "desc": "",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドCM-CZ"
+        },
+        "stencil_79": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドEA-EZ"
+        },
+        "stencil_80": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドFA-FZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_82": {
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "name": "ブランドGO-GZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_81": {
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "ブランドGA-GN"
+        },
+        "stencil_83": {
+            "credit_name": "ベクトルロゴゾーン",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "name": "ブランドHA-HZ"
+        },
+        "stencil_84": {
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "name": "ブランドIA-IZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_86": {
+            "desc": "",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドKA-KZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_85": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドJA-JZ"
+        },
+        "stencil_88": {
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "name": "ブランドMA-MZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_87": {
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "name": "ブランドLA-LZ"
+        },
+        "stencil_90": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドOA-OZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_89": {
+            "desc": "",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドNA-NZ"
+        },
+        "stencil_92": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドPJ-PZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_91": {
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "desc": "",
+            "name": "ブランドPA-PI"
+        },
+        "stencil_94": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "desc": "",
+            "name": "ブランドRA-RZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_93": {
+            "credit_link": "https://vectorlogo.zone/",
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "name": "ブランドQA-QZ"
+        },
+        "stencil_96": {
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "name": "ブランドSN-SZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_95": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドSA-SM"
+        },
+        "stencil_97": {
+            "credit_name": "ベクトルロゴゾーン",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "name": "ブランドTA-TH",
+            "desc": ""
+        },
+        "stencil_98": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドTI-TZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_100": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "credit_name": "ベクトルロゴゾーン",
+            "name": "ブランドVA-VZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_99": {
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "credit_name": "ベクトルロゴゾーン",
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "name": "ブランドUA-UZ"
+        },
+        "stencil_102": {
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "name": "ブランドXA-XZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_101": {
+            "credit_name": "ベクトルロゴゾーン",
+            "desc": "",
+            "credit_link": "https://vectorlogo.zone/",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "name": "ブランドWA-WZ"
+        },
+        "stencil_104": {
+            "credit_name": "ベクトルロゴゾーン",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "desc": "",
+            "name": "ブランドZA-ZZ",
+            "credit_link": "https://vectorlogo.zone/"
+        },
+        "stencil_103": {
+            "credit_name": "ベクトルロゴゾーン",
+            "credit_link": "https://vectorlogo.zone/",
+            "desc": "",
+            "cat": [
+                "ブランドロゴ"
+            ],
+            "name": "ブランドYA-YZ"
+        },
+        "stencil_238": {
+            "cat": [
+                "コンピュータとネットワーク"
+            ],
+            "desc": "",
+            "name": "コンピュータブランド"
+        }
     },
     "plugin": {
         "no_exist": "以下の項目は設定できません。プラグインはもう存在しないかもしれません。または、あなたはプラグインにアクセスする権限がありません。",
