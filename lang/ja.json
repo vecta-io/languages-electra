@@ -820,7 +820,10 @@
         "top_bottom": "トップボトム",
         "select_loc_hide": "非表示にする場所を選択",
         "auto": "自動",
-        "ref_desc_position": "参照と説明の位置"
+        "ref_desc_position": "参照と説明の位置",
+        "message": "メッセージ",
+        "err_object": "エラーオブジェクト",
+        "uncaught_error": "エラーを再現する手順とこのメッセージのスクリーンショットを電子メールで送信してください。 <br/> support@radicasoftware.com。親切に図面を更新してください。"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -2698,7 +2701,8 @@
         "trial_left": "現在、試用モードです。ライセンスは@@日後に期限切れになります",
         "license_expired": "試用版/ライセンスの期限切れ",
         "license_expired_desc": "試用版/ライセンスの有効期限が切れています。生産性向上ツールは無効になります。 <br>詳細については、support @ radicasoftware.comまでメールをお送りください。",
-        "license_has_expired": "ライセンスの有効期限が切れています。ライセンスを更新してください。"
+        "license_has_expired": "ライセンスの有効期限が切れています。ライセンスを更新してください。",
+        "err_6": "サーバーに接続できません。"
     },
     "videos": {
         "hnx0KutWDa0": {
