@@ -1178,7 +1178,8 @@
         "add_conn_pt": "接続ポイントを追加",
         "del_conn_pt": "接続ポイントを削除",
         "paste_icon": "アイコン",
-        "upload_stencil": "ステンシルのインポート"
+        "upload_stencil": "ステンシルのインポート",
+        "close_all_stencils": "すべてのステンシルを閉じる"
     },
     "login": {
         "or": "または",
