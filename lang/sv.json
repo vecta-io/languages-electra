@@ -1070,7 +1070,8 @@
         "del_conn_pt": "Ta bort anslutningspunkt",
         "add_conn_pt": "Lägg till anslutningspunkt",
         "paste_icon": "Ikon",
-        "upload_stencil": "Importera stencil"
+        "upload_stencil": "Importera stencil",
+        "close_all_stencils": "Stäng alla stenciler"
     },
     "page": {
         "mm": "Millimeter",
