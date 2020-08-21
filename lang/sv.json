@@ -820,7 +820,10 @@
         "top_bottom": "Top-Bottom",
         "chk_unchk_all": "Markera / avmarkera alla",
         "select_loc_hide": "Välj plats att dölja",
-        "ref_desc_position": "Referens- och beskrivningsposition"
+        "ref_desc_position": "Referens- och beskrivningsposition",
+        "uncaught_error": "Skicka e-post till stegen för att återge felet och skärmdumpen av detta meddelande till <br/> support@radicasoftware.com. Uppdatera ritningen.",
+        "message": "Meddelande",
+        "err_object": "Felobjekt"
     },
     "drop": {
         "in": "tum",
@@ -2698,7 +2701,8 @@
         "license_expired": "Test / licens har gått ut",
         "err_1": "Ogiltig knapp anges.",
         "license_expired_desc": "Test / licens har löpt ut. Produktivitetsverktyg kommer att inaktiveras. <br> Släpp oss ett e-postmeddelande på support@radicasoftware.com för mer information.",
-        "license_has_expired": "Din licens har gått ut. Förnya din licens."
+        "license_has_expired": "Din licens har gått ut. Förnya din licens.",
+        "err_6": "Kunde ej ansluta till servern."
     },
     "videos": {
         "hnx0KutWDa0": {
