@@ -1527,7 +1527,10 @@
         "select_loc_hide": "選擇要隱藏的位置",
         "top_bottom": "上下",
         "chk_unchk_all": "全部選中/取消選中",
-        "ref_desc_position": "參考和描述位置"
+        "ref_desc_position": "參考和描述位置",
+        "message": "信息",
+        "uncaught_error": "請通過電子郵件將重現錯誤的步驟和此消息的屏幕截圖發送給<br/> support@radicasoftware.com。請刷新圖形。",
+        "err_object": "錯誤對象"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -2736,7 +2739,8 @@
         "license_expired": "試用版/許可證已過期",
         "trial_left": "您目前處於試用模式。您的許可將在@@天后過期",
         "license_expired_desc": "試用版/許可證已過期。生產力工具將被禁用。 <br>請給我們發送電子郵件至support@radicasoftware.com了解更多信息。",
-        "license_has_expired": "您的許可證已過期。請續訂您的許可證。"
+        "license_has_expired": "您的許可證已過期。請續訂您的許可證。",
+        "err_6": "無法連接到服務器。"
     },
     "templates_dev": {
         "-Loxn7-CtNjHfsPo42wA": {
