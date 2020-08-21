@@ -820,7 +820,10 @@
         "select_loc_hide": "Sélectionnez l'emplacement à masquer",
         "chk_unchk_all": "Tout cocher / décocher",
         "disabled": "désactivé",
-        "ref_desc_position": "Position de référence et description"
+        "ref_desc_position": "Position de référence et description",
+        "uncaught_error": "Veuillez envoyer par e-mail les étapes pour reproduire l&#39;erreur et la capture d&#39;écran de ce message à <br/> support@radicasoftware.com. Veuillez rafraîchir le dessin.",
+        "message": "Message",
+        "err_object": "Objet d'erreur"
     },
     "page": {
         "cm": "Centimètre",
@@ -2698,7 +2701,8 @@
         "trial_left": "Vous êtes actuellement en mode d'essai. Votre licence expirera dans @@ jours",
         "license_expired": "Version d'essai / licence expirée",
         "license_expired_desc": "Version d&#39;essai / licence expirée. Les outils de productivité seront désactivés. <br> Veuillez nous envoyer un e-mail à support@radicasoftware.com pour plus d&#39;informations.",
-        "license_has_expired": "Votre licence a expiré. Veuillez renouveler votre licence."
+        "license_has_expired": "Votre licence a expiré. Veuillez renouveler votre licence.",
+        "err_6": "Impossible de se connecter au serveur."
     },
     "videos": {
         "4y_1QqasHoA": {
