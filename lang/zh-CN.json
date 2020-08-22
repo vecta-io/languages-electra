@@ -1777,8 +1777,7 @@
         "add_conn_pt": "添加连接点",
         "del_conn_pt": "删除连接点",
         "paste_icon": "图标",
-        "upload_stencil": "导入模具",
-        "close_all_stencils": "关闭所有模具"
+        "upload_stencil": "导入模具"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
