@@ -1170,8 +1170,7 @@
         "del_conn_pt": "Supprimer le point de connexion",
         "add_conn_pt": "Ajouter un point de connexion",
         "paste_icon": "Icône",
-        "upload_stencil": "Importer un pochoir",
-        "close_all_stencils": "Fermer tous les pochoirs"
+        "upload_stencil": "Importer un pochoir"
     },
     "list": {
         "en": "Anglais",
