@@ -1604,6 +1604,7 @@
         "source_stencil": "Open containing stencil",
         "collapse_stencil": "Collapse stencil",
         "collapse_all_stencils": "Collapse all stencils",
+        "close_all_stencils": "Close all stencils",
         "symbols_size": "Icon size",
         "edit": "Edit",
         "edit_icon": "Edit icon",
