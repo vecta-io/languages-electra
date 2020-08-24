@@ -2498,6 +2498,13 @@
             ],
             "desc": "",
             "name": "Datormärken"
+        },
+        "stencil_261": {
+            "desc": "databaser",
+            "name": "databaser",
+            "cat": [
+                "Datorer och nätverk"
+            ]
         }
     },
     "integrate": {
