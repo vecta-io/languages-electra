@@ -1876,6 +1876,22 @@
                 "Computers and Network"
             ]
         },
+        "stencil_49": {
+            "name": "Measurement tools",
+            "desc": "Measurement symbols used in design of electrical, pneumatic and hydraulic circuits"
+        },
+        "stencil_51": {
+            "name": "Title blocks",
+            "desc": "Templates symbols for title blocks, normally used to create title blocks for electrical, pneumatic and hydraulic symbols"
+        },
+        "stencil_68": {
+            "name": "Avatars",
+            "desc": "Avatars for usage in Electra Cloud as profile avatars"
+        },
+        "stencil_69": {
+            "name": "Comments",
+            "desc": "Comments are assigned to layers, so you can customize its visibility during exporting/printing"
+        },
         "stencil_71": {
             "name": "Gauge and Meters",
             "desc": "Interactive gauges and meters"
@@ -2262,14 +2278,6 @@
                 "Computers and Network"
             ]
         },
-        "stencil_49": {
-            "name": "Measurement tools",
-            "desc": "Measurement symbols used in design of electrical, pneumatic and hydraulic circuits"
-        },
-        "stencil_51": {
-            "name": "Title blocks",
-            "desc": "Templates symbols for title blocks, normally used to create title blocks for electrical, pneumatic and hydraulic symbols"
-        },
         "stencil_246": {
             "name": "Reports",
             "desc": "Various report symbols in Electra Cloud that can be used to generate in drawing reports"
@@ -2278,13 +2286,12 @@
             "name": "Prefab Circuits",
             "desc": "Ready made electrical circuits for usage in electrical CAD drawings"
         },
-        "stencil_68": {
-            "name": "Avatars",
-            "desc": "Avatars for usage in Electra Cloud as profile avatars"
-        },
-        "stencil_69": {
-            "name": "Comments",
-            "desc": "Comments are assigned to layers, so you can customize its visibility during exporting/printing"
+        "stencil_261": {
+            "name": "Databases",
+            "desc": "Databases",
+            "cat": [
+                "Computers and Network"
+            ]
         }
     },
     "plugin": {
