@@ -2286,6 +2286,13 @@
             "credit_link": "https://vectorlogo.zone/",
             "credit_name": "矢量徽標區",
             "name": "品牌ZA-ZZ"
+        },
+        "stencil_261": {
+            "desc": "資料庫",
+            "name": "資料庫",
+            "cat": [
+                "電腦與網絡"
+            ]
         }
     },
     "plugin": {
