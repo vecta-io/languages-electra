@@ -1972,7 +1972,8 @@
             },
             "custom_key_incre": "Ställ in steg",
             "connector_curve": "Storlek på anslutningskurvan",
-            "show_stencil_bar": "Visa alltid stencil-rullningsfältet"
+            "show_stencil_bar": "Visa alltid stencil-rullningsfältet",
+            "auto_launch": "Starta appen automatiskt vid start"
         },
         "receive_noti": "Meddela mig när en lagmedlem:",
         "files": {
@@ -2505,6 +2506,10 @@
             "cat": [
                 "Datorer och nätverk"
             ]
+        },
+        "stencil_262": {
+            "desc": "Logotyper för automations- och kontrollföretag",
+            "name": "Automation varumärken"
         }
     },
     "integrate": {
