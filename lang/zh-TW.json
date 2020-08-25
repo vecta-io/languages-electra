@@ -2293,6 +2293,10 @@
             "cat": [
                 "電腦與網絡"
             ]
+        },
+        "stencil_262": {
+            "desc": "自動化和控制公司的徽標",
+            "name": "自動化品牌"
         }
     },
     "plugin": {
@@ -2578,7 +2582,8 @@
             "connector_curve": "連接曲線大小",
             "new_mssg": "收到聊天消息",
             "new_user": "合作者加入了編輯",
-            "show_stencil_bar": "始終顯示模具滾動條"
+            "show_stencil_bar": "始終顯示模具滾動條",
+            "auto_launch": "啟動時自動啟動應用"
         },
         "noti": {
             "push": "啟用桌面通知",
