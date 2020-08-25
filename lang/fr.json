@@ -1973,7 +1973,8 @@
             },
             "custom_key_incre": "Définir l'incrément",
             "connector_curve": "Taille de la courbe du connecteur",
-            "show_stencil_bar": "Toujours afficher la barre de défilement du pochoir"
+            "show_stencil_bar": "Toujours afficher la barre de défilement du pochoir",
+            "auto_launch": "Lancement automatique de l'application au démarrage"
         },
         "files": {
             "sten": "Chemin des pochoirs:",
@@ -2511,6 +2512,10 @@
                 "Ordinateurs et réseau"
             ],
             "name": "Bases de données"
+        },
+        "stencil_262": {
+            "desc": "Logos pour les entreprises d'automatisation et de contrôle",
+            "name": "Marques d'automatisation"
         }
     },
     "plugin": {
