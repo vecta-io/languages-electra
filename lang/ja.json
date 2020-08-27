@@ -823,8 +823,7 @@
         "ref_desc_position": "参照と説明の位置",
         "message": "メッセージ",
         "uncaught_error": "エラーを再現する手順とこのメッセージのスクリーンショットを電子メールで送信してください。 <br/> support@radicasoftware.com。親切に図面を更新してください。",
-        "err_object": "エラーオブジェクト",
-        "auto_renumbering_label": "シンボル/ワイヤの名前を自動的に変更する"
+        "err_object": "エラーオブジェクト"
     },
     "list": {
         "sv": "スウェーデン語",
