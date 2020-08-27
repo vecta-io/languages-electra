@@ -1298,7 +1298,6 @@
         "renum_lzone": "Automatically renumber symbols/wires when moved within ladder zone",
         "sym_split_wire": "Split wires when dropping symbols",
         "auto_wiring_label": "Automatically wire symbols on drop",
-        "auto_renumbering_label": "Automatically rename symbols/wire",
         "page_prefix": "Page Prefix",
         "page_prefix_ref": "Enable on references",
         "page_prefix_wires": "Enable on wires",
