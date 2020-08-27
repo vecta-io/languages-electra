@@ -823,7 +823,8 @@
         "ref_desc_position": "Position de référence et description",
         "uncaught_error": "Veuillez envoyer par e-mail les étapes pour reproduire l&#39;erreur et la capture d&#39;écran de ce message à <br/> support@radicasoftware.com. Veuillez rafraîchir le dessin.",
         "message": "Message",
-        "err_object": "Objet d'erreur"
+        "err_object": "Objet d'erreur",
+        "auto_renumbering_label": "Renommer automatiquement les symboles / fils"
     },
     "page": {
         "cm": "Centimètre",
