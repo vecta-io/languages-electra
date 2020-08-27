@@ -823,8 +823,7 @@
         "ref_desc_position": "Referens- och beskrivningsposition",
         "uncaught_error": "Skicka e-post till stegen för att återge felet och skärmdumpen av detta meddelande till <br/> support@radicasoftware.com. Uppdatera ritningen.",
         "message": "Meddelande",
-        "err_object": "Felobjekt",
-        "auto_renumbering_label": "Byt automatiskt namn på symboler / tråd"
+        "err_object": "Felobjekt"
     },
     "drop": {
         "in": "tum",
