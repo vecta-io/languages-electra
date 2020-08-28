@@ -1072,7 +1072,8 @@
         "add_conn_pt": "Lägg till anslutningspunkt",
         "paste_icon": "Ikon",
         "upload_stencil": "Importera stencil",
-        "close_all_stencils": "Stäng alla stenciler"
+        "close_all_stencils": "Stäng alla stenciler",
+        "open_as_new_drawing": "Öppna som ny ritning"
     },
     "page": {
         "mm": "Millimeter",
