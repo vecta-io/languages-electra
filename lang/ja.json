@@ -1180,7 +1180,8 @@
         "del_conn_pt": "接続ポイントを削除",
         "paste_icon": "アイコン",
         "upload_stencil": "ステンシルのインポート",
-        "close_all_stencils": "すべてのステンシルを閉じる"
+        "close_all_stencils": "すべてのステンシルを閉じる",
+        "open_as_new_drawing": "新しい図面として開く"
     },
     "login": {
         "or": "または",
