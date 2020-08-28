@@ -1752,6 +1752,7 @@
         "reset_ratio": "Reset ratio",
         "make_default": "Make Default",
         "remove_default": "Remove Default",
+        "open_as_new_drawing": "Open as New Drawing",
         "create_tdata": "Insert title block data",
         "create_tblock": "Create title block",
         "cross_ref": "Cross reference report",
