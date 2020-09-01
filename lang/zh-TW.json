@@ -1531,8 +1531,7 @@
         "message": "信息",
         "uncaught_error": "請通過電子郵件將重現錯誤的步驟和此消息的屏幕截圖發送給<br/> support@radicasoftware.com。請刷新圖形。",
         "err_object": "錯誤對象",
-        "auto_renumbering_label": "自動重命名符號/導線",
-        "err_layshape_pipe": "選定的形狀是管道。管道不能為佈局形狀"
+        "auto_renumbering_label": "自動重命名符號/導線"
     },
     "drop": {
         "maintain_id": "維護ID",
