@@ -824,7 +824,8 @@
         "message": "メッセージ",
         "uncaught_error": "エラーを再現する手順とこのメッセージのスクリーンショットを電子メールで送信してください。 <br/> support@radicasoftware.com。親切に図面を更新してください。",
         "err_object": "エラーオブジェクト",
-        "auto_renumbering_label": "シンボル/ワイヤの名前を自動的に変更する"
+        "auto_renumbering_label": "シンボル/ワイヤの名前を自動的に変更する",
+        "err_layshape_pipe": "選択した形状はパイプです。パイプをレイアウト形状にすることはできません"
     },
     "list": {
         "sv": "スウェーデン語",
