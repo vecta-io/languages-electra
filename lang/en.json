@@ -1485,7 +1485,6 @@
         "err_layshape_wire": "Selected shape is a wire. A wire cannot be a layout shape",
         "err_layshape_tube": "Selected shape is a tube. A tube cannot be a layout shape",
         "err_layshape_hose": "Selected shape is a hose. A hose cannot be a layout shape",
-        "err_layshape_pipe": "Selected shape is a pipe. A pipe cannot be a layout shape",
         "err_layshape_terminal": "Selected shape is a terminal. A terminal cannot be a layout shape",
         "insert_wire": "Please confirm inserting the following wire name (all others will be moved back): <br/> <br/>",
         "insert_tube": "Please confirm inserting the following tube name (all others will be moved back): <br/> <br/>",
