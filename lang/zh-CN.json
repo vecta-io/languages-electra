@@ -1531,7 +1531,7 @@
         "uncaught_error": "请通过电子邮件将重现错误的步骤和此消息的屏幕截图发送给<br/> support@radicasoftware.com。请刷新图形。",
         "message": "信息",
         "err_object": "错误对象",
-        "auto_renumbering_label": "自动重命名符号/导线",
+        "auto_renumbering_label": "使用智能编号而不显示弹出窗口",
         "err_layshape_pipe": "选定的形状是管道。管道不能为布局形状"
     },
     "drop": {
