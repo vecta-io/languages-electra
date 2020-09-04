@@ -1976,7 +1976,8 @@
             "custom_key_incre": "Ställ in steg",
             "connector_curve": "Storlek på anslutningskurvan",
             "show_stencil_bar": "Visa alltid stencil-rullningsfältet",
-            "auto_launch": "Starta appen automatiskt vid start"
+            "auto_launch": "Starta appen automatiskt vid start",
+            "disable_touch_mode": "Inaktivera automatiskt pekskärmsläge"
         },
         "receive_noti": "Meddela mig när en lagmedlem:",
         "files": {
