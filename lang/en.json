@@ -2585,6 +2585,7 @@
             "new_mssg": "Chat message is received",
             "new_user": "Collaborator joins editing",
             "show_stencil_bar": "Always show stencil scroll bar",
+            "disable_touch_mode": "Disable automatic touch screen mode",
             "auto_launch": "Auto-launch app on startup"
         },
         "noti": {
