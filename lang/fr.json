@@ -824,7 +824,7 @@
         "uncaught_error": "Veuillez envoyer par e-mail les étapes pour reproduire l&#39;erreur et la capture d&#39;écran de ce message à <br/> support@radicasoftware.com. Veuillez rafraîchir le dessin.",
         "message": "Message",
         "err_object": "Objet d'erreur",
-        "auto_renumbering_label": "Renommer automatiquement les symboles / fils",
+        "auto_renumbering_label": "Utilisez une numérotation intelligente sans popup",
         "err_layshape_pipe": "La forme sélectionnée est un tuyau. Un tuyau ne peut pas être une forme de disposition"
     },
     "page": {
