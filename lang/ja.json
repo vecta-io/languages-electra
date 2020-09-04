@@ -1976,7 +1976,8 @@
             "custom_key_incre": "増分を設定",
             "connector_curve": "コネクタ曲線サイズ",
             "show_stencil_bar": "常にステンシルスクロールバーを表示する",
-            "auto_launch": "起動時にアプリを自動起動"
+            "auto_launch": "起動時にアプリを自動起動",
+            "disable_touch_mode": "自動タッチスクリーンモードを無効にする"
         },
         "receive_noti": "チームメンバー：",
         "files": {
