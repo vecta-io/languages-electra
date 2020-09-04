@@ -2586,7 +2586,8 @@
             "new_mssg": "收到聊天消息",
             "new_user": "合作者加入了編輯",
             "show_stencil_bar": "始終顯示模具滾動條",
-            "auto_launch": "啟動時自動啟動應用"
+            "auto_launch": "啟動時自動啟動應用",
+            "disable_touch_mode": "禁用自動觸摸屏模式"
         },
         "noti": {
             "push": "啟用桌面通知",
