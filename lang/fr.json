@@ -1977,7 +1977,8 @@
             "custom_key_incre": "Définir l'incrément",
             "connector_curve": "Taille de la courbe du connecteur",
             "show_stencil_bar": "Toujours afficher la barre de défilement du pochoir",
-            "auto_launch": "Lancement automatique de l'application au démarrage"
+            "auto_launch": "Lancement automatique de l'application au démarrage",
+            "disable_touch_mode": "Désactiver le mode d'écran tactile automatique"
         },
         "files": {
             "sten": "Chemin des pochoirs:",
