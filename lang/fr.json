@@ -825,7 +825,8 @@
         "message": "Message",
         "err_object": "Objet d'erreur",
         "auto_renumbering_label": "Utilisez une numérotation intelligente sans popup",
-        "err_layshape_pipe": "La forme sélectionnée est un tuyau. Un tuyau ne peut pas être une forme de disposition"
+        "err_layshape_pipe": "La forme sélectionnée est un tuyau. Un tuyau ne peut pas être une forme de disposition",
+        "schedule_auto_backup": "Planifier une sauvegarde automatique"
     },
     "page": {
         "cm": "Centimètre",
@@ -1182,7 +1183,8 @@
         "ja": "Japonais",
         "fr": "français",
         "zh-TW": "Chinois traditionnel",
-        "zh-CN": "Chinois simplifié"
+        "zh-CN": "Chinois simplifié",
+        "it": "italien"
     },
     "login": {
         "or": "OU",
