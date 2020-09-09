@@ -1532,7 +1532,8 @@
         "message": "信息",
         "err_object": "错误对象",
         "auto_renumbering_label": "使用智能编号而不显示弹出窗口",
-        "err_layshape_pipe": "选定的形状是管道。管道不能为布局形状"
+        "err_layshape_pipe": "选定的形状是管道。管道不能为布局形状",
+        "schedule_auto_backup": "安排自动备份"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -2645,7 +2646,8 @@
         "ja": "日语",
         "sv": "瑞典语",
         "zh-CN": "简体中文",
-        "zh-TW": "繁体中文"
+        "zh-TW": "繁体中文",
+        "it": "义大利文"
     },
     "account": {
         "contacting_server": "正在联系服务器",
