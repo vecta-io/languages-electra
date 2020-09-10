@@ -1781,7 +1781,8 @@
         "manage_tubing": "Manage tubings",
         "manage_hosing": "Manage hosing",
         "view_edit": "View and Edit",
-        "export_as_tsv": "Export as TSV"
+        "export_as_tsv": "Export as TSV",
+        "export_bom": "Export BOM"
     },
     "stencil": {
         "free_svg_symbols": "Free SVG Symbols",
