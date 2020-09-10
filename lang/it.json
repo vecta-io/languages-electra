@@ -1782,7 +1782,8 @@
         "manage_tubing": "Gestire le tubazioni",
         "manage_hosing": "Gestire l'hosing",
         "view_edit": "Visualizza e modifica",
-        "export_as_tsv": "Esporta come TSV"
+        "export_as_tsv": "Esporta come TSV",
+        "export_bom": "Esporta BOM"
     },
     "stencil": {
         "free_svg_symbols": "Simboli SVG Liberi",
