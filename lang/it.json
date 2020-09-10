@@ -1533,7 +1533,7 @@
         "getting_drawing": "Ottenere il disegno",
         "empty_drawing": "Il disegno è vuoto",
         "encounter_err": "Errore di incontro",
-        "schedule_auto_backup": "Pianifica il backup automatico"
+        "schedule_auto_backup": "Come pianificare il backup"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
