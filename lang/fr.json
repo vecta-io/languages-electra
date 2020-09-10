@@ -1175,7 +1175,8 @@
         "paste_icon": "Icône",
         "upload_stencil": "Importer un pochoir",
         "close_all_stencils": "Fermer tous les pochoirs",
-        "open_as_new_drawing": "Ouvrir en tant que nouveau dessin"
+        "open_as_new_drawing": "Ouvrir en tant que nouveau dessin",
+        "export_bom": "Exporter la nomenclature"
     },
     "list": {
         "en": "Anglais",
