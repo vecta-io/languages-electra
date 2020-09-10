@@ -826,7 +826,7 @@
         "err_object": "エラーオブジェクト",
         "auto_renumbering_label": "ポップアップなしでスマートナンバリングを使用する",
         "err_layshape_pipe": "選択した形状はパイプです。パイプをレイアウト形状にすることはできません",
-        "schedule_auto_backup": "自動バックアップをスケジュールする"
+        "schedule_auto_backup": "バックアップをスケジュールする方法"
     },
     "list": {
         "sv": "スウェーデン語",
