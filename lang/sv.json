@@ -1075,7 +1075,8 @@
         "paste_icon": "Ikon",
         "upload_stencil": "Importera stencil",
         "close_all_stencils": "Stäng alla stenciler",
-        "open_as_new_drawing": "Öppna som ny ritning"
+        "open_as_new_drawing": "Öppna som ny ritning",
+        "export_bom": "Exportera BOM"
     },
     "page": {
         "mm": "Millimeter",
