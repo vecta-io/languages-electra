@@ -826,7 +826,7 @@
         "err_object": "Objet d'erreur",
         "auto_renumbering_label": "Utilisez une numérotation intelligente sans popup",
         "err_layshape_pipe": "La forme sélectionnée est un tuyau. Un tuyau ne peut pas être une forme de disposition",
-        "schedule_auto_backup": "Planifier une sauvegarde automatique"
+        "schedule_auto_backup": "Comment planifier une sauvegarde"
     },
     "page": {
         "cm": "Centimètre",
