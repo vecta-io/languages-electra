@@ -1184,7 +1184,8 @@
         "paste_icon": "アイコン",
         "upload_stencil": "ステンシルのインポート",
         "close_all_stencils": "すべてのステンシルを閉じる",
-        "open_as_new_drawing": "新しい図面として開く"
+        "open_as_new_drawing": "新しい図面として開く",
+        "export_bom": "BOMをエクスポート"
     },
     "login": {
         "or": "または",
