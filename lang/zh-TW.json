@@ -1533,7 +1533,7 @@
         "err_object": "錯誤對象",
         "auto_renumbering_label": "使用智能編號而不顯示彈出窗口",
         "err_layshape_pipe": "選定的形狀是管道。管道不能為佈局形狀",
-        "schedule_auto_backup": "安排自動備份"
+        "schedule_auto_backup": "如何安排備份"
     },
     "drop": {
         "maintain_id": "維護ID",
