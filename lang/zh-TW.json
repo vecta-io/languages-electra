@@ -1782,7 +1782,8 @@
         "paste_icon": "圖標",
         "upload_stencil": "導入模具",
         "close_all_stencils": "關閉所有模具",
-        "open_as_new_drawing": "打開為新工程圖"
+        "open_as_new_drawing": "打開為新工程圖",
+        "export_bom": "導出物料清單"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
