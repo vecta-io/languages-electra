@@ -734,7 +734,7 @@
         "insert_hose": "次のホース名を挿入することを確認してください（他のホースはすべて元に戻ります）。 <br/><br/>",
         "edit": "編集する",
         "reading_comp": "読み取りコンポーネント",
-        "search_layout": "検索レイアウト",
+        "search_layout": "レイアウト形状を検索",
         "export_format": "エクスポート形式",
         "searching": "探す",
         "no_stencil_id": "ステンシルIDを入力してください",
