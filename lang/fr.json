@@ -735,7 +735,7 @@
         "insert_name": "Insérer un nom",
         "edit": "Éditer",
         "searching": "Recherche",
-        "search_layout": "Disposition de la recherche",
+        "search_layout": "Rechercher une forme de mise en page",
         "export_format": "Format d'exportation",
         "error_connects_pin": "Les broches et les points de connexion doivent avoir la même quantité",
         "reading_comp": "Composant lecture",
