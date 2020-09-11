@@ -731,7 +731,7 @@
         "searching": "Sökande",
         "edit": "Redigera",
         "insert_name": "Infoga namn",
-        "search_layout": "Söklayout",
+        "search_layout": "Söklayoutform",
         "invalid_symtype": "Ogiltig symboltyp",
         "no_stencil_id": "Vänligen ange stencil-ID",
         "error_connects_pin": "Stift och anslutningspunkter bör ha samma belopp",
