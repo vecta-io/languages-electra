@@ -1432,7 +1432,7 @@
         "error_connects_pin": "管脚和连接点的数量应相同",
         "error_pin": "请在选项中提供管脚",
         "searching": "正在搜索",
-        "search_layout": "搜索布局",
+        "search_layout": "搜索布局形状",
         "edit": "编辑",
         "reading_comp": "阅读组件",
         "export_format": "导出格式",
