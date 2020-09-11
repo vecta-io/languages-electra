@@ -1497,7 +1497,7 @@
         "error_connects_pin": "Pins and connection points should have the same amount",
         "error_pin": "Please provide pins in the options",
         "searching": "Searching",
-        "search_layout": "Search layout",
+        "search_layout": "Search layout shape",
         "select_cat": "Select category",
         "search_cat": "Search category",
         "clear": "Clear",
