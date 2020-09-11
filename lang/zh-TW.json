@@ -1430,7 +1430,7 @@
         "error_connects_pin": "管腳和連接點的數量應相同",
         "error_pin": "請在選項中提供管腳",
         "searching": "正在搜索",
-        "search_layout": "搜索佈局",
+        "search_layout": "搜索佈局形狀",
         "edit": "編輯",
         "reading_comp": "閱讀組件",
         "export_format": "導出格式",
