@@ -266,7 +266,8 @@
         "update_cable_tag": "更新電纜標籤",
         "max_page": "學術版僅允許使用20頁。",
         "no_internet": "沒有網絡連接",
-        "import_electra_drawing": "要導入Electra工程圖，請打開一個新工程圖並拖放SVG文件。"
+        "import_electra_drawing": "要導入Electra工程圖，請打開一個新工程圖並拖放SVG文件。",
+        "get_layshape_size": "獲取佈局形狀的尺寸"
     },
     "login": {
         "collab": "在線",
@@ -1533,7 +1534,8 @@
         "err_object": "錯誤對象",
         "auto_renumbering_label": "使用智能編號而不顯示彈出窗口",
         "err_layshape_pipe": "選定的形狀是管道。管道不能為佈局形狀",
-        "schedule_auto_backup": "如何安排備份"
+        "schedule_auto_backup": "如何安排備份",
+        "electra_options": "伊萊克特拉選項"
     },
     "drop": {
         "maintain_id": "維護ID",
