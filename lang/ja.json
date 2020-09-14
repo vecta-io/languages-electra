@@ -826,7 +826,8 @@
         "err_object": "エラーオブジェクト",
         "auto_renumbering_label": "ポップアップなしでスマートナンバリングを使用する",
         "err_layshape_pipe": "選択した形状はパイプです。パイプをレイアウト形状にすることはできません",
-        "schedule_auto_backup": "バックアップをスケジュールする方法"
+        "schedule_auto_backup": "バックアップをスケジュールする方法",
+        "electra_options": "エレクトラのオプション"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1691,7 +1692,8 @@
         "update_cable_tag": "ケーブルタグの更新",
         "max_page": "アカデミック版で許可されているのは20ページのみです。",
         "no_internet": "インターネット接続なし",
-        "import_electra_drawing": "Electraの図面をインポートするには、新しい図面を開いてSVGファイルをドロップしてください。"
+        "import_electra_drawing": "Electraの図面をインポートするには、新しい図面を開いてSVGファイルをドロップしてください。",
+        "get_layshape_size": "レイアウト形状の寸法を取得する"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
