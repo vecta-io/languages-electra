@@ -264,7 +264,8 @@
         "update_auto_loc": "Updating AutoLocations",
         "update_measure_tool": "Üpdating measurement tools",
         "update_cable_tag": "Updating cable tags",
-        "no_internet": "No Internet connection"
+        "no_internet": "No Internet connection",
+        "get_layshape_size": "Getting layout shape's dimension"
     },
     "login": {
         "collab": "Online",
@@ -1288,6 +1289,7 @@
         "loc_format_help": "Example: /3.A5",
         "units_help": "Accepts in, cm, mm, px",
         "general_options": "General Options",
+        "electra_options": "Electra Options",
         "ref_pop_up": "Popup reference window on drop",
         "auto_resize": "Automatic in/mm/cm/meters resize",
         "wire_propagation": "Automatic wire propagation and detection",
