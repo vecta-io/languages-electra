@@ -826,7 +826,8 @@
         "err_object": "Felobjekt",
         "auto_renumbering_label": "Använd smart numrering utan popup-fönster",
         "err_layshape_pipe": "Vald form är ett rör. Ett rör kan inte ha en layoutform",
-        "schedule_auto_backup": "Hur man schemalägger säkerhetskopiering"
+        "schedule_auto_backup": "Hur man schemalägger säkerhetskopiering",
+        "electra_options": "Electra-alternativ"
     },
     "drop": {
         "in": "tum",
@@ -1624,7 +1625,8 @@
         "update_cable_tag": "Uppdaterar kabel taggar",
         "max_page": "Endast 20 sidor är tillåtna i akademisk version.",
         "no_internet": "Ingen internetanslutning",
-        "import_electra_drawing": "För att importera Electra-ritning, vänligen öppna en ny ritning och släpp SVG-filen."
+        "import_electra_drawing": "För att importera Electra-ritning, vänligen öppna en ny ritning och släpp SVG-filen.",
+        "get_layshape_size": "Få layoutformens dimension"
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
