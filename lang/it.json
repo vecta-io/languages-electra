@@ -266,7 +266,8 @@
         "update_auto_loc": "Aggiornamento di AutoLocazioni",
         "update_measure_tool": "Strumenti di misurazione üpdating",
         "update_cable_tag": "Aggiornamento dei tag dei cavi",
-        "no_internet": "Nessuna connessione Internet"
+        "no_internet": "Nessuna connessione Internet",
+        "get_layshape_size": "Ottenere la dimensione della forma del layout"
     },
     "login": {
         "collab": "Online",
@@ -1533,7 +1534,8 @@
         "getting_drawing": "Ottenere il disegno",
         "empty_drawing": "Il disegno è vuoto",
         "encounter_err": "Errore di incontro",
-        "schedule_auto_backup": "Come pianificare il backup"
+        "schedule_auto_backup": "Come pianificare il backup",
+        "electra_options": "Opzioni Electra"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
