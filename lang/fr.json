@@ -827,7 +827,10 @@
         "auto_renumbering_label": "Utilisez une numérotation intelligente sans popup",
         "err_layshape_pipe": "La forme sélectionnée est un tuyau. Un tuyau ne peut pas être une forme de disposition",
         "schedule_auto_backup": "Comment planifier une sauvegarde",
-        "electra_options": "Options Electra"
+        "electra_options": "Options Electra",
+        "keyword": "Mot-clé",
+        "not_found": "Aucun résultat trouvé",
+        "all_stencils": "Tous les pochoirs"
     },
     "page": {
         "cm": "Centimètre",
