@@ -1535,7 +1535,10 @@
         "empty_drawing": "Il disegno è vuoto",
         "encounter_err": "Errore di incontro",
         "schedule_auto_backup": "Come pianificare il backup",
-        "electra_options": "Opzioni Electra"
+        "electra_options": "Opzioni Electra",
+        "not_found": "nessun risultato trovato",
+        "keyword": "Parola chiave",
+        "all_stencils": "Tutti gli stampini"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
