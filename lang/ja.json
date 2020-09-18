@@ -827,7 +827,10 @@
         "auto_renumbering_label": "ポップアップなしでスマートナンバリングを使用する",
         "err_layshape_pipe": "選択した形状はパイプです。パイプをレイアウト形状にすることはできません",
         "schedule_auto_backup": "バックアップをスケジュールする方法",
-        "electra_options": "エレクトラのオプション"
+        "electra_options": "エレクトラのオプション",
+        "not_found": "結果が見つかりません",
+        "keyword": "キーワード",
+        "all_stencils": "すべてのステンシル"
     },
     "list": {
         "sv": "スウェーデン語",
