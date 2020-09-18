@@ -827,7 +827,10 @@
         "auto_renumbering_label": "Använd smart numrering utan popup-fönster",
         "err_layshape_pipe": "Vald form är ett rör. Ett rör kan inte ha en layoutform",
         "schedule_auto_backup": "Hur man schemalägger säkerhetskopiering",
-        "electra_options": "Electra-alternativ"
+        "electra_options": "Electra-alternativ",
+        "keyword": "Nyckelord",
+        "not_found": "Inga resultat funna",
+        "all_stencils": "Alla stenciler"
     },
     "drop": {
         "in": "tum",
