@@ -1535,7 +1535,10 @@
         "auto_renumbering_label": "使用智能编号而不显示弹出窗口",
         "err_layshape_pipe": "选定的形状是管道。管道不能为布局形状",
         "schedule_auto_backup": "如何安排备份",
-        "electra_options": "伊莱克特拉选项"
+        "electra_options": "伊莱克特拉选项",
+        "keyword": "关键词",
+        "not_found": "未找到结果",
+        "all_stencils": "所有模具"
     },
     "drop": {
         "maintain_id": "维护ID",
