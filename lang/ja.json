@@ -1762,7 +1762,7 @@
             "linejoin_bevel": "ベベル結合",
             "swap": "スイッチラインの終わり"
         },
-        "draw_path.icon": "パス、円弧、曲線の描画<br/>またはフリーフォーム（Ctrl-4）",
+        "draw_path.icon": "パス、円弧、 <br>曲線またはフリーフォーム<br> （Ctrl-3）",
         "draw_path.menu": {
             "draw_line.icon": "線を引く",
             "draw_quad.icon": "円弧描画",
@@ -1803,13 +1803,13 @@
         "play_record.icon": "マクロを再生する",
         "font_family.icon": "フォントファミリー",
         "formula_prop.icon": "数式の表示/非表示",
-        "draw_ellipse.icon": "円または楕円を描く<br>（Ctrl-3）",
+        "draw_ellipse.icon": "円または楕円を描く<br> （Ctrl-2）",
         "pause_record.icon": "マクロを一時停止する",
         "round_corner.icon": "角丸",
-        "draw_textblock.icon": "描画、移動、サイズ変更、<br />またはテキストの回転（Ctrl-5）",
-        "format_painter.icon": "フォーマット、色、 <br>式、サイズまたは<br> jsonペインター<br> （Ctrl-7）",
+        "draw_textblock.icon": "描画、移動、サイズ変更<br>またはテキストを回転させる<br> （Ctrl-A）",
+        "format_painter.icon": "フォーマット、色、 <br>式、サイズまたは<br> jsonペインター<br> （Ctrl-5）",
         "preserve_ratio.icon": "ロック/アンロックの幅と高さ",
-        "draw_connector.icon": "コネクタを描画する<br>（Ctrl-6）",
+        "draw_connector.icon": "コネクタを描く<br> （Ctrl-4）",
         "draw_connector.menu": {
             "draw_conn_verti.icon": "エルボーコネクタ",
             "draw_conn_line.icon": "ストレートコネクタ",
