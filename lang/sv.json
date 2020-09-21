@@ -1819,7 +1819,7 @@
         "file_name.icon": "Byt namn på ritning",
         "dashboard.icon": "Gå till kontrollpanelen",
         "draw_rect.icon": "Rita rektangel <br> (Ctrl-2)",
-        "draw_path.icon": "Rita väg, båge, <br> kurva eller freeform <br> (Ctrl-4)",
+        "draw_path.icon": "Rita väg, båge, <br> kurva eller friform <br> (Ctrl-3)",
         "draw_path.menu": {
             "draw_line.icon": "Rita linje",
             "draw_quad.icon": "Rita båge",
@@ -1858,9 +1858,9 @@
         "revert_icon.icon": "Återgå ikon för att senast uppdateras",
         "formula_prop.icon": "Visa / dölja formler",
         "pause_record.icon": "Pausa makron",
-        "draw_ellipse.icon": "Rita cirkel eller ellips <br> (Ctrl-3)",
+        "draw_ellipse.icon": "Rita cirkel eller ellips <br> (Ctrl-2)",
         "round_corner.icon": "Runda hörn",
-        "draw_connector.icon": "Rita kontakter <br> (Ctrl-6)",
+        "draw_connector.icon": "Rita kontakter <br> (Ctrl-4)",
         "draw_connector.menu": {
             "draw_conn_verti.icon": "Armbågeanslutning",
             "draw_conn_line.icon": "Rak kontakt",
@@ -1869,8 +1869,8 @@
             "draw_conn_ljump.icon": "Rakt hoppkontakt"
         },
         "preserve_ratio.icon": "Lås / Lås upp bredd och höjd",
-        "draw_textblock.icon": "Rita, flytta, ändra storlek på eller rotera text <br> (Ctrl-5)",
-        "format_painter.icon": "Format, färg, <br> formel, storlek eller <br> json målare <br> (Ctrl-7)",
+        "draw_textblock.icon": "Rita, flytta, ändra storlek <br> eller rotera text <br> (Ctrl-A)",
+        "format_painter.icon": "Format, färg, <br> formel, storlek eller <br> json målare <br> (Ctrl-5)",
         "custom_gradient.icon": "Dra och släpp till vänster för att spara",
         "Playlist.tip": "Videospellista",
         "Minimize.tip": "Minimera",
