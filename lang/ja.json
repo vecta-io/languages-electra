@@ -1762,7 +1762,7 @@
             "linejoin_bevel": "ベベル結合",
             "swap": "スイッチラインの終わり"
         },
-        "draw_path.icon": "パス、円弧、 <br>曲線またはフリーフォーム<br> （Ctrl-3）",
+        "draw_path.icon": "パス、円弧、 <br>曲線またはフリーフォーム<br> （Alt-3）",
         "draw_path.menu": {
             "draw_line.icon": "線を引く",
             "draw_quad.icon": "円弧描画",
@@ -1775,7 +1775,7 @@
         "dashboard.icon": "ダッシュボードを開く",
         "SaveSearch.tip": "検索ステンシルを保存",
         "add_layer.icon": "レイヤーを追加する",
-        "draw_rect.icon": "長方形を描画する<br/>（Ctrl-2）",
+        "draw_rect.icon": "長方形を描く<br> （Alt-2）",
         "font_color.icon": "フォントの色",
         "line_color.icon": "線の色",
         "operations.icon": "選択した図形をグループ化、グループ解除、反転、または結合する",
@@ -1803,13 +1803,13 @@
         "play_record.icon": "マクロを再生する",
         "font_family.icon": "フォントファミリー",
         "formula_prop.icon": "数式の表示/非表示",
-        "draw_ellipse.icon": "円または楕円を描く<br> （Ctrl-2）",
+        "draw_ellipse.icon": "円または楕円を描く<br> （Alt-2）",
         "pause_record.icon": "マクロを一時停止する",
         "round_corner.icon": "角丸",
-        "draw_textblock.icon": "描画、移動、サイズ変更<br>またはテキストを回転させる<br> （Ctrl-A）",
-        "format_painter.icon": "フォーマット、色、 <br>式、サイズまたは<br> jsonペインター<br> （Ctrl-5）",
+        "draw_textblock.icon": "描画、移動、サイズ変更<br>またはテキストを回転させる<br> （Alt-A）",
+        "format_painter.icon": "フォーマット、色、 <br>式、サイズまたは<br> jsonペインター<br> （Alt-5）",
         "preserve_ratio.icon": "ロック/アンロックの幅と高さ",
-        "draw_connector.icon": "コネクタを描く<br> （Ctrl-4）",
+        "draw_connector.icon": "コネクタを描く<br> （Alt-4）",
         "draw_connector.menu": {
             "draw_conn_verti.icon": "エルボーコネクタ",
             "draw_conn_line.icon": "ストレートコネクタ",
@@ -1830,7 +1830,7 @@
         "edit_profile.icon": "プロファイル編集",
         "fit_to_drawing.tip": "幅と高さを増やして余白を追加する",
         "new_page.icon": "新しいページ",
-        "cursor.icon": "ポインタ、パンツール<br>（Ctrl-1）",
+        "cursor.icon": "ポインター、パンツール<br> （Alt-1）",
         "cursor.menu": {
             "pointer.icon": "ポインタツール",
             "pan.icon": "パンツール"
