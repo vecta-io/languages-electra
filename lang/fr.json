@@ -2611,6 +2611,13 @@
         "plugin_3": {
             "name": "Dessiner un arbre fractal",
             "desc": "Créer un arbre fractal"
+        },
+        "plugin_20": {
+            "cat": [
+                "étiquette, fils"
+            ],
+            "name": "Étiquetage d'exportation",
+            "desc": "Exporter les étiquettes de fil à utiliser sur les imprimantes d'étiquettes"
         }
     },
     "dialog": {
