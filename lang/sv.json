@@ -2611,6 +2611,13 @@
         "plugin_3": {
             "name": "Rita fraktalträd",
             "desc": "Skapa ett fraktaltree"
+        },
+        "plugin_20": {
+            "desc": "Exportera trådetiketter som ska användas på etikettskrivare",
+            "cat": [
+                "etikett, ledningar"
+            ],
+            "name": "Exportmärkning"
         }
     },
     "dialog": {
