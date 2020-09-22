@@ -2389,6 +2389,13 @@
             "cat": [
                 "Productivity Tools"
             ]
+        },
+        "plugin_20": {
+            "name": "Export labelling",
+            "desc": "Export wire labels to be used on label printers",
+            "cat": [
+                "label,wires"
+            ]
         }
     },
     "page": {
