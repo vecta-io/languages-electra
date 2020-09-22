@@ -1818,14 +1818,14 @@
         "zoom_out.icon": "Zoom arrière <br> Ctrl + molette de la souris",
         "SaveSearch.tip": "Sauvegarder le pochoir de recherche",
         "dashboard.icon": "Aller au tableau de bord",
-        "draw_path.icon": "Tracer un chemin, un arc, <br> courbe ou forme libre <br> (Ctrl-3)",
+        "draw_path.icon": "Tracer un chemin, un arc, <br> courbe ou forme libre <br> (Alt-3)",
         "draw_path.menu": {
             "draw_line.icon": "Dessiner une ligne",
             "draw_quad.icon": "Dessiner un arc",
             "draw_cubic.icon": "Dessiner la courbe",
             "draw_free.icon": "Dessiner une forme libre"
         },
-        "draw_rect.icon": "Dessiner un rectangle <br> (Ctrl-2)",
+        "draw_rect.icon": "Dessiner un rectangle <br> (Alt-2)",
         "font_size.icon": "Taille de police",
         "underline.icon": "Souligner",
         "add_layer.icon": "Ajouter une couche",
@@ -1856,13 +1856,13 @@
         "line_weight.icon": "Poids de ligne",
         "save_record.icon": "Exporter des macros",
         "toggle_grid.icon": "Afficher / masquer la grille",
-        "draw_ellipse.icon": "Dessiner un cercle ou une ellipse <br> (Ctrl-2)",
+        "draw_ellipse.icon": "Dessiner un cercle ou une ellipse <br> (Alt-2)",
         "round_corner.icon": "Coin rond",
         "pause_record.icon": "Suspendre les macros",
         "formula_prop.icon": "Afficher / masquer les formules",
-        "format_painter.icon": "Format, couleur, <br> formule, taille ou <br> peintre json <br> (Ctrl-5)",
-        "draw_textblock.icon": "Dessiner, déplacer, redimensionner <br> ou faire pivoter le texte <br> (Ctrl-A)",
-        "draw_connector.icon": "Dessiner des connecteurs <br> (Ctrl-4)",
+        "format_painter.icon": "Format, couleur, <br> formule, taille ou <br> peintre json <br> (Alt-5)",
+        "draw_textblock.icon": "Dessiner, déplacer, redimensionner <br> ou faire pivoter le texte <br> (Alt-A)",
+        "draw_connector.icon": "Dessiner des connecteurs <br> (Alt-4)",
         "draw_connector.menu": {
             "draw_conn_verti.icon": "Coude",
             "draw_conn_line.icon": "Connecteur droit",
@@ -1884,7 +1884,7 @@
         "edit_profile.icon": "Editer le profil",
         "fit_to_drawing.tip": "Augmentez la largeur et la hauteur pour ajouter la marge",
         "new_page.icon": "Nouvelle page",
-        "cursor.icon": "Pointeur, outil panoramique <br> (Ctrl-1)",
+        "cursor.icon": "Pointeur, outil de panoramique <br> (Alt-1)",
         "cursor.menu": {
             "pointer.icon": "Outil de pointeur",
             "pan.icon": "Outil pan"
