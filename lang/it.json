@@ -2390,6 +2390,13 @@
             "cat": [
                 "Strumenti di produttività"
             ]
+        },
+        "plugin_20": {
+            "desc": "Esporta etichette per cavi da utilizzare su stampanti di etichette",
+            "name": "Esportare l'etichettatura",
+            "cat": [
+                "etichetta, fili"
+            ]
         }
     },
     "page": {
