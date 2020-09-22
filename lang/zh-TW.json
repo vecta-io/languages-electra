@@ -53,22 +53,22 @@
         "dashboard.icon": "轉到顯示面板",
         "revert_icon.icon": "將圖標恢復為上次更新",
         "update_icon.icon": "更新符號圖標",
-        "cursor.icon": "指針,平移工具<br>(Ctrl-1)",
+        "cursor.icon": "指針，平移工具<br> （Alt-1）",
         "cursor.menu": {
             "pointer.icon": "指針工具",
             "pan.icon": "平移工具"
         },
-        "draw_rect.icon": "繪製的矩形<br>(Ctrl-2)",
-        "draw_ellipse.icon": "畫圓或橢圓<br> （Ctrl-2）",
-        "draw_path.icon": "繪製路徑，弧線， <br>曲線或自由形式<br> （Ctrl-3）",
+        "draw_rect.icon": "畫矩形<br> （Alt-2）",
+        "draw_ellipse.icon": "畫圓或橢圓<br> （Alt-2）",
+        "draw_path.icon": "繪製路徑，弧線， <br>曲線或自由形式<br> （Alt-3）",
         "draw_path.menu": {
             "draw_line.icon": "繪製直線",
             "draw_quad.icon": "繪製弧",
             "draw_cubic.icon": "繪製曲線",
             "draw_free.icon": "繪製自由格式"
         },
-        "draw_textblock.icon": "繪製，移動，調整大小<br>或旋轉文字<br> （Ctrl-A）",
-        "draw_connector.icon": "拉線接頭<br> （Ctrl-4）",
+        "draw_textblock.icon": "繪製，移動，調整大小<br>或旋轉文字<br> （Alt-A）",
+        "draw_connector.icon": "拉線接頭<br> （Alt-4）",
         "draw_connector.menu": {
             "draw_conn_verti.icon": "彎頭連接器",
             "draw_conn_line.icon": "直接頭",
@@ -76,7 +76,7 @@
             "draw_conn_ljump.icon": "直跳連接器",
             "draw_conn_points.icon": "連接點"
         },
-        "format_painter.icon": "格式，顏色， <br>配方，大小或<br> json畫家<br> （Ctrl-5）",
+        "format_painter.icon": "格式，顏色， <br>配方，大小或<br> json畫家<br> （Alt-5）",
         "undo.icon": "撤消<br>(Ctrl-Z)",
         "redo.icon": "重做<br>(Ctrl-Y)",
         "line_weight.icon": "線寬",
