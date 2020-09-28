@@ -396,7 +396,7 @@
         "terminal": "Terminal",
         "glow": "Glöd",
         "sorting_shapes": "Sortera former",
-        "upload_font_noti": "Endast fil med .woff-förlängning är tillåten",
+        "upload_font_noti": "Endast filer med .woff och .ttf förlängning är tillåtna",
         "slogan": "Molnbaserad elektrisk CAD-programvara",
         "sort_by": "Sortera efter",
         "category": "Kategori",
@@ -830,7 +830,10 @@
         "electra_options": "Electra-alternativ",
         "keyword": "Nyckelord",
         "not_found": "Inga resultat funna",
-        "all_stencils": "Alla stenciler"
+        "all_stencils": "Alla stenciler",
+        "remove_fonts": "Ta bort typsnitt",
+        "upload_font_fail": "Det gick inte att ladda upp teckensnitt",
+        "read_fonts": "Läsa teckensnitt"
     },
     "drop": {
         "in": "tum",
@@ -1080,7 +1083,8 @@
         "upload_stencil": "Importera stencil",
         "close_all_stencils": "Stäng alla stenciler",
         "open_as_new_drawing": "Öppna som ny ritning",
-        "export_bom": "Exportera BOM"
+        "export_bom": "Exportera BOM",
+        "import_fonts": "Importera teckensnitt"
     },
     "page": {
         "mm": "Millimeter",
