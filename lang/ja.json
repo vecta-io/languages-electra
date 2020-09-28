@@ -390,7 +390,7 @@
         "glow": "グロー",
         "revert": "元に戻す",
         "slogan": "クラウドベースの電気CADソフトウェア",
-        "upload_font_noti": "拡張子が.woffのファイルのみが許可されます",
+        "upload_font_noti": "拡張子が.woffおよび.ttfのファイルのみが許可されます",
         "done": "できた",
         "all_pages": "すべてのページ",
         "this_page": "このページ",
@@ -830,7 +830,10 @@
         "electra_options": "エレクトラのオプション",
         "not_found": "結果が見つかりません",
         "keyword": "キーワード",
-        "all_stencils": "すべてのステンシル"
+        "all_stencils": "すべてのステンシル",
+        "read_fonts": "フォントを読む",
+        "remove_fonts": "フォントの削除",
+        "upload_font_fail": "フォントのアップロードに失敗しました"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1131,7 +1134,7 @@
         "save": "保存する",
         "export_dxf": "DXFとしてエクスポート",
         "export_dwg": "DWGとしてエクスポート",
-        "upload_fonts": "フォントをアップロードする",
+        "upload_fonts": "フォントのアップロード",
         "make_template": "テンプレートを作成",
         "remove_template": "テンプレートを削除",
         "custom_json_layer": "カスタムJSON（レイヤー）",
@@ -1189,7 +1192,8 @@
         "upload_stencil": "ステンシルのインポート",
         "close_all_stencils": "すべてのステンシルを閉じる",
         "open_as_new_drawing": "新しい図面として開く",
-        "export_bom": "BOMをエクスポート"
+        "export_bom": "BOMをエクスポート",
+        "import_fonts": "フォントのインポート"
     },
     "login": {
         "or": "または",
