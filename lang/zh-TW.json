@@ -1081,7 +1081,7 @@
         "new_version_available": "有新版本可用",
         "update_downloaded": "更新已下載",
         "downloading": "下載中",
-        "upload_font_noti": "僅允許使用擴展名為.woff的文件",
+        "upload_font_noti": "僅允許使用擴展名為.woff和.ttf的文件",
         "invalid_events": "無效的事件或代碼，不允許為空",
         "slogan": "基於雲的電CAD軟件",
         "stencil": "模版",
@@ -1538,7 +1538,10 @@
         "electra_options": "伊萊克特拉選項",
         "not_found": "未找到結果",
         "keyword": "關鍵詞",
-        "all_stencils": "所有模具"
+        "all_stencils": "所有模具",
+        "read_fonts": "閱讀字體",
+        "upload_font_fail": "上載字體失敗",
+        "remove_fonts": "刪除字體"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -1560,7 +1563,7 @@
         "add_ctrl_pt": "添加控制點",
         "refresh": "刷新",
         "members": "管理成員",
-        "upload_fonts": "上傳字體",
+        "upload_fonts": "上載字體",
         "new_layer": "新圖層",
         "rename_layer": "重新命名圖層",
         "delete_layer": "刪除圖層",
@@ -1788,7 +1791,8 @@
         "upload_stencil": "導入模具",
         "close_all_stencils": "關閉所有模具",
         "open_as_new_drawing": "打開為新工程圖",
-        "export_bom": "導出物料清單"
+        "export_bom": "導出物料清單",
+        "import_fonts": "導入字體"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
