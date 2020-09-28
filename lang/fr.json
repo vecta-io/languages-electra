@@ -392,7 +392,7 @@
         "revert": "Revenir",
         "stencil": "Pochoir",
         "slogan": "Logiciel de CAO électrique basé sur le cloud",
-        "upload_font_noti": "Seul le fichier avec l'extension .woff est autorisé",
+        "upload_font_noti": "Seuls les fichiers avec l'extension .woff et .ttf sont autorisés",
         "electrical": "Électrique",
         "hydraulic": "Hydraulique",
         "sort": "Trier",
@@ -830,7 +830,10 @@
         "electra_options": "Options Electra",
         "keyword": "Mot-clé",
         "not_found": "Aucun résultat trouvé",
-        "all_stencils": "Tous les pochoirs"
+        "all_stencils": "Tous les pochoirs",
+        "upload_font_fail": "Échec du téléchargement des polices",
+        "remove_fonts": "Suppression de polices",
+        "read_fonts": "Lecture des polices"
     },
     "page": {
         "cm": "Centimètre",
@@ -1122,7 +1125,7 @@
         "save": "sauvegarder",
         "export_dxf": "Exporter au format DXF",
         "export_dwg": "Exporter en DWG",
-        "upload_fonts": "Importer des polices",
+        "upload_fonts": "Téléchargement de polices",
         "make_template": "Créer un modèle",
         "remove_template": "Supprimer le modèle",
         "custom_json_layer": "JSON personnalisé (calque)",
@@ -1180,7 +1183,8 @@
         "upload_stencil": "Importer un pochoir",
         "close_all_stencils": "Fermer tous les pochoirs",
         "open_as_new_drawing": "Ouvrir en tant que nouveau dessin",
-        "export_bom": "Exporter la nomenclature"
+        "export_bom": "Exporter la nomenclature",
+        "import_fonts": "Importer des polices"
     },
     "list": {
         "en": "Anglais",
