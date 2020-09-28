@@ -1093,7 +1093,7 @@
         "new_version_available": "Nuova versione disponibile",
         "update_downloaded": "Aggiornamento Scaricato",
         "downloading": "Download",
-        "upload_font_noti": "È consentito solo il file con estensione .woff",
+        "upload_font_noti": "Sono consentiti solo file con estensione .woff e .ttf",
         "invalid_events": "Eventi o codici non validi, non autorizzati a essere vuoti",
         "set_label": "Posizione Etichetta impostata",
         "top": "Top",
@@ -1538,7 +1538,10 @@
         "electra_options": "Opzioni Electra",
         "not_found": "nessun risultato trovato",
         "keyword": "Parola chiave",
-        "all_stencils": "Tutti gli stampini"
+        "all_stencils": "Tutti gli stampini",
+        "remove_fonts": "Rimozione di caratteri",
+        "upload_font_fail": "Caricamento dei caratteri non riuscito",
+        "read_fonts": "Lettura dei caratteri"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
@@ -1562,7 +1565,7 @@
         "add_ctrl_pt": "Aggiungi punto di controllo",
         "refresh": "Aggiornamento",
         "members": "Gestire i membri",
-        "upload_fonts": "Upload font",
+        "upload_fonts": "Caricamento dei caratteri",
         "new_layer": "Nuovo strato",
         "rename_layer": "Strato rinomato",
         "delete_layer": "Elimina strato",
@@ -1788,7 +1791,8 @@
         "manage_hosing": "Gestire l'hosing",
         "view_edit": "Visualizza e modifica",
         "export_as_tsv": "Esporta come TSV",
-        "export_bom": "Esporta BOM"
+        "export_bom": "Esporta BOM",
+        "import_fonts": "Importazione di caratteri"
     },
     "stencil": {
         "free_svg_symbols": "Simboli SVG Liberi",
