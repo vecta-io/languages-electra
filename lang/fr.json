@@ -1768,7 +1768,8 @@
         "create-and-invite-team": "Invitez les membres à mettre votre équipe en place et à fonctionner dans Electra",
         "generate-layout": "Générez automatiquement la disposition des panneaux en un seul clic",
         "terminal-list": "L'utilisation et la génération de terminaux sont un jeu d'enfant dans Electra",
-        "generate-report": "Générez facilement des nomenclatures et autres rapports dans Electra pour gagner du temps"
+        "generate-report": "Générez facilement des nomenclatures et autres rapports dans Electra pour gagner du temps",
+        "text-stroke": "Embellissez encore plus votre texte avec le trait de texte"
     },
     "tips": {
         "Lock.tip": "Stencil verrouillé",
