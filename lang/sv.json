@@ -1768,7 +1768,8 @@
         "generate-layout": "Generera automatiskt panellayout med ett enda klick",
         "drag-and-drop": "Electra arbetar med enkel dra och släpp, ingen utbildning krävs",
         "dxf-import-and-export": "Importera DXF till Electra och exportera från den",
-        "terminal-list": "Att använda och generera terminaler är ett ögonblick i Electra"
+        "terminal-list": "Att använda och generera terminaler är ett ögonblick i Electra",
+        "text-stroke": "Försköna din text ännu mer med textstreck"
     },
     "tips": {
         "Lock.tip": "Stencil låst",
