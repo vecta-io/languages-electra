@@ -2573,7 +2573,8 @@
         "generate-layout": "Genera automaticamente il layout del pannello in un solo clic",
         "generate-report": "Facilmente generare BOM e altri report in Electra per risparmiare tempo",
         "terminal-list": "Utilizzare e generare terminali è uno snap in Electra",
-        "dark-theme-electra": "Mostra tema oscuro per attivare la modalità dark"
+        "dark-theme-electra": "Mostra tema oscuro per attivare la modalità dark",
+        "text-stroke": "Abbellisci il tuo testo ancora di più con il tratto di testo"
     },
     "settings": {
         "reading": "Lettura delle preferenze",
