@@ -249,6 +249,7 @@
         "new_version_downloaded": "A new version has been downloaded. Restart the application to apply the updates.",
         "max_page": "Only 20 pages are allowed in Academic version.",
         "import_electra_drawing": "To import Electra drawing, please open a new drawing and drop the SVG file.",
+        "fail_create_google_file": "Failed to create Google file.",
         "cannot_edit_term_block": "You must be logged in to edit terminal block.",
         "prefab_create": "Prefab circuit is created",
         "license_expired": "Trial / License expired. Productivity tools from Electra Cloud will be disabled.",
@@ -587,7 +588,8 @@
         "callback_url": "Callback URL",
         "request_trial_title": "Request for trial extension",
         "trial_extended": "Trial extended",
-        "browse": "Browse"
+        "browse": "Browse",
+        "create_google_file": "Creating new Google file"
     },
     "noti": {
         "same_day": "Note: Announcement will start on the very same day it was created.",
@@ -1627,6 +1629,9 @@
         "share": "Share",
         "new_doc": "New drawing",
         "new_folder": "New folder",
+        "new_gdoc": "New Google Docs",
+        "new_gsheet": "New Google Sheets",
+        "new_gslide": "New Google Slides",
         "print": "Print",
         "preferences": "Preferences",
         "doc_setup": "Document setup",
@@ -2584,6 +2589,8 @@
             "dxf_layers": "Import layers",
             "dxf_stroke": "Stroke width",
             "default_unit": "Default unit",
+            "join_shapes": "Join shapes",
+            "join_shapes_desc": "Join shapes to improve editor performance",
             "units": {
                 "auto": "Auto",
                 "mm": "mm",
