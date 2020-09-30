@@ -267,7 +267,8 @@
         "update_measure_tool": "Strumenti di misurazione üpdating",
         "update_cable_tag": "Aggiornamento dei tag dei cavi",
         "no_internet": "Nessuna connessione Internet",
-        "get_layshape_size": "Ottenere la dimensione della forma del layout"
+        "get_layshape_size": "Ottenere la dimensione della forma del layout",
+        "fail_create_google_file": "Impossibile creare il file Google."
     },
     "login": {
         "collab": "Online",
@@ -589,7 +590,8 @@
         "callback_url": "URL di callback",
         "request_trial_title": "Richiesta di proroga di prova",
         "trial_extended": "Processo esteso",
-        "browse": "Sfoglia"
+        "browse": "Sfoglia",
+        "create_google_file": "Creazione di un nuovo file Google"
     },
     "noti": {
         "same_day": "Note: Annuncio inizierà il giorno stesso in cui è stato creato.",
@@ -818,7 +820,7 @@
         "no_access": "Il disegno non esiste più, o l'accesso è negato dal proprietario.<br /><span class='Muted.cls'>Errore: 0010</span>",
         "png_generation_failed": "L'immagine che hai richiesto non è stata generata. <br /><span class='Muted.cls'>Errore: 0011</span>",
         "no_channels": "Impossibile ottenere canali. <br /><span class='Muted.cls'>Errore: 0012</span>",
-        "mismatched_code": "Vecta non poteva essere aggiunto al tuo Slack team. <br/>Si prega di assicurarsi di aver cliccato su un pulsante Slack valido da Vecta. <br /><span class='Muted.cls'>Errore: 0013</span>",
+        "mismatched_code": "Non è stato possibile aggiungere Electra Cloud alla tua squadra Slack.<br/> Assicurati di aver cliccato su un pulsante Slack valido da Electra Cloud.<br /> <span class='Muted.cls'>Errore: 0013</span>",
         "not_published": "Il disegno non è pubblicato, o la pubblicazione è stata retrata. <br /><span class='Muted.cls'>Errore: 0014</span>",
         "no_stencil": "Lo stencil che hai richiesto non esiste più o non hai il permesso di accederlo.<br /><span class='Muted.cls'>Errore: 0015</span><br /><span class='Muted.cls'>SID: @ @</span>",
         "no_symbol": "Il simbolo che hai richiesto non esiste più o non hai il permesso di accederlo.<br /><span class='Muted.cls'>Errore: 0016</span><br /><span class='Muted.cls'>SID: @ @</span>",
@@ -862,10 +864,10 @@
         "ctrl_v": "Premere CTRL-V per incollare da clipboard di sistema",
         "saving": "Risparmio",
         "all_changes_saved": "Tutte le modifiche salvate",
-        "wrong_file_type": "Vecta attualmente non accetta questo tipo di file. (Tipo supportato: png, jpeg, gif e svg)",
+        "wrong_file_type": "Electra Cloud attualmente non accetta questo tipo di file. (Tipo supportato: png, jpeg, gif e svg)",
         "downloaded_svg_only": "Questa funzione accetta solo file SVG da File> Download.",
-        "exported_svg": "Vecta non accetta svg esportato. <br />Selezionare i file scaricati dal file di opzione> Download Disegno invece.",
-        "one_img_only": "Vecta accetta solo 1 file alla volta.",
+        "exported_svg": "Electra Cloud non accetta file svg esportati.<br /> Seleziona invece i file scaricati dall&#39;opzione File&gt; Scarica disegno.",
+        "one_img_only": "Electra Cloud accetta solo 1 file alla volta.",
         "copy_link": "Collegamento copia",
         "properties": "Proprietà",
         "shape": "Forma",
@@ -1792,7 +1794,10 @@
         "view_edit": "Visualizza e modifica",
         "export_as_tsv": "Esporta come TSV",
         "export_bom": "Esporta BOM",
-        "import_fonts": "Importazione di caratteri"
+        "import_fonts": "Importazione di caratteri",
+        "new_gdoc": "Nuovi documenti Google",
+        "new_gslide": "Nuove diapositive di Google",
+        "new_gsheet": "Nuovi fogli Google"
     },
     "stencil": {
         "free_svg_symbols": "Simboli SVG Liberi",
@@ -2589,7 +2594,9 @@
                 "auto": "Auto",
                 "mm": "mm",
                 "in": "in"
-            }
+            },
+            "join_shapes": "Unisci le forme",
+            "join_shapes_desc": "Unisci le forme per migliorare le prestazioni dell'editor"
         },
         "general": {
             "lang": "Lingua",
