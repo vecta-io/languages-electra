@@ -267,7 +267,8 @@
         "max_page": "學術版僅允許使用20頁。",
         "no_internet": "沒有網絡連接",
         "import_electra_drawing": "要導入Electra工程圖，請打開一個新工程圖並拖放SVG文件。",
-        "get_layshape_size": "獲取佈局形狀的尺寸"
+        "get_layshape_size": "獲取佈局形狀的尺寸",
+        "fail_create_google_file": "無法創建Google文件。"
     },
     "login": {
         "collab": "在線",
@@ -589,7 +590,8 @@
         "completed": "已完成",
         "upload_prog": "上傳進度",
         "browse": "瀏覽",
-        "create_doc": "建立文件"
+        "create_doc": "建立文件",
+        "create_google_file": "建立新的Google檔案"
     },
     "noti": {
         "same_day": "注意：公告將在其創建的同一天開始",
@@ -815,7 +817,7 @@
         "no_access": "繪圖不再存在，或者所有者拒絕訪問<br/><span class='Muted.cls'>錯誤：0010</span>",
         "png_generation_failed": "無法生成您請求的圖像 <br/><span class='Muted.cls'>錯誤：0011</span>",
         "no_channels": "無法獲得頻道<br/><span class='Muted.cls'>錯誤：0012</span>",
-        "mismatched_code": "無法將Electra Cloud添加到您的Slack團隊中<br/>請確保您已經從Vecta中單擊了有效的Slack按鈕。<br/><span class='Muted.cls'>錯誤：0013</span>",
+        "mismatched_code": "無法將Electra Cloud添加到您的Slack團隊中。<br/>請確保您已經從Electra Cloud單擊了有效的Slack按鈕。<br /><span class='Muted.cls'>錯誤：0013</span>",
         "not_published": "繪圖未發布，或發布已撤回<br/><span class='Muted.cls'>錯誤：0014</span>",
         "no_stencil": "您所請求的模具不再存在，或者您無權訪問它<br/><span class='Muted.cls'>錯誤：0015</span><br/><span class=' Muted.cls'>SID：@@</span>",
         "no_symbol": "您所請求的符號已不存在，或者您無權訪問它<br/><span class='Muted.cls'>錯誤：0016</span><br/><span class=' Muted.cls'>SID：@@</span>",
@@ -859,10 +861,10 @@
         "ctrl_v": "按CTRL-V從系統剪貼板粘",
         "saving": "保存",
         "all_changes_saved": "所有更改已保存",
-        "wrong_file_type": "Electra CLoud目前不接受此文件類型 (支持的類型：png,jpeg,gif和svg)",
+        "wrong_file_type": "Electra Cloud當前不接受此文件類型。 （支持的類型：png，jpeg，gif和svg）",
         "downloaded_svg_only": "此功能僅接受 文件>下載 中的SVG文件",
-        "exported_svg": "Electra CLoud不接受導出的svg<br />請選擇文件>下載的下載文件代替",
-        "one_img_only": "Electra CLoud一次僅接受1個文件",
+        "exported_svg": "Electra Cloud不接受導出的svg。<br />請選擇從文件&gt;下載圖形選項中下載的文件。",
+        "one_img_only": "Electra Cloud一次僅接受1個文件。",
         "copy_link": "複製鏈接",
         "properties": "屬性",
         "shape": "形狀",
@@ -1792,7 +1794,10 @@
         "close_all_stencils": "關閉所有模具",
         "open_as_new_drawing": "打開為新工程圖",
         "export_bom": "導出物料清單",
-        "import_fonts": "導入字體"
+        "import_fonts": "導入字體",
+        "new_gdoc": "新版Google文件",
+        "new_gsheet": "新的Google表格",
+        "new_gslide": "新的Google幻燈片"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
@@ -2589,7 +2594,9 @@
                 "auto": "自動",
                 "mm": "毫米",
                 "in": "英寸"
-            }
+            },
+            "join_shapes": "連接形狀",
+            "join_shapes_desc": "連接形狀以提高編輯器性能"
         },
         "general": {
             "lang": "語言",
