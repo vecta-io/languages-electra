@@ -148,7 +148,7 @@
         "remove_CDATA": "Ta bort CDATA",
         "enter_emails": "anakin@darkside.org, emperor@empire.com",
         "replace_text": "Ersätt",
-        "exported_svg": "Vecta accepterar inte exporterad svg. <br /> Vänligen välj filer som laddas ner från alternativet Arkiv> Ladda ner ritning istället.",
+        "exported_svg": "Electra Cloud accepterar inte exporterat svg.<br /> Välj filer som laddats ned från alternativet Arkiv&gt; Ladda ner ritning istället.",
         "diagram_team": "Diagram för grupper",
         "export_image": "Exportera Bild",
         "items_deleted": "Radering lyckad",
@@ -183,11 +183,11 @@
         "has_sent_invite": "Du har tidigare bjudit in dessa medlemmar.",
         "custom_fontsize": "Anpassad textstorlek",
         "restoring_files": "Återställer",
-        "mismatched_code": "Vecta kunde inte läggas till ditt Slack team. <br/> Se till att du har klickat på en giltig Slack-knapp från Vecta. <br /> <span class = 'Muted.cls'> Fel: 0013 </ span>",
+        "mismatched_code": "Electra Cloud kunde inte läggas till i ditt Slack-team.<br/> Se till att du har klickat på en giltig Slack-knapp från Electra Cloud.<br /> <span class='Muted.cls'>Fel: 0013</span>",
         "unsaved_changes": "Du har osparade ändringar",
         "commit_and_load": "Lämna in",
         "strokeDashArray": "StrokeDashArray",
-        "wrong_file_type": "Vecta accepterar för närvarande inte denna filtyp. (Tillåtna: png, jpeg, gif och svg)",
+        "wrong_file_type": "Electra Cloud accepterar för närvarande inte denna filtyp. (Typ som stöds: png, jpeg, gif och svg)",
         "type_not_folder": "Den mapp du begärde är inte giltig.<br /><span class='Muted.cls'>Error: 0008</span>",
         "untitled_folder": "Namnlös mapp",
         "current_version": "Nuvarande version",
@@ -229,7 +229,7 @@
         "remove_avatar": "Ta bort Avatar",
         "add_fonts": "Lägg till anpassade teckensnitt",
         "compressing_svg": "Komprimera SVG",
-        "one_img_only": "Vecta accepterar endast 1 fil i taget.",
+        "one_img_only": "Electra Cloud accepterar endast 1 fil åt gången.",
         "help_fonts": "400: Normal, 400i: Normal Kursiv, 700: Bold, 700i: Bold Kursiv",
         "remove": "Avlägsna",
         "shadow_warn_range": "Giltigt intervall",
@@ -1084,7 +1084,10 @@
         "close_all_stencils": "Stäng alla stenciler",
         "open_as_new_drawing": "Öppna som ny ritning",
         "export_bom": "Exportera BOM",
-        "import_fonts": "Importera teckensnitt"
+        "import_fonts": "Importera teckensnitt",
+        "new_gsheet": "Nya Google Sheets",
+        "new_gdoc": "Nya Google Dokument",
+        "new_gslide": "Nya Google-bilder"
     },
     "page": {
         "mm": "Millimeter",
@@ -1355,7 +1358,8 @@
         "processing": "bearbetning",
         "upload_prog": "Ladda upp framsteg",
         "browse": "Bläddra",
-        "create_doc": "Skapar dokument"
+        "create_doc": "Skapar dokument",
+        "create_google_file": "Skapar ny Google-fil"
     },
     "noti": {
         "deny": "Neka",
@@ -1633,7 +1637,8 @@
         "max_page": "Endast 20 sidor är tillåtna i akademisk version.",
         "no_internet": "Ingen internetanslutning",
         "import_electra_drawing": "För att importera Electra-ritning, vänligen öppna en ny ritning och släpp SVG-filen.",
-        "get_layshape_size": "Få layoutformens dimension"
+        "get_layshape_size": "Få layoutformens dimension",
+        "fail_create_google_file": "Det gick inte att skapa Google-filen."
     },
     "email": {
         "slogan": "Vecta: Realtidssamarbete för team",
@@ -2007,7 +2012,9 @@
             },
             "dxf_dimensions": "Importera mått",
             "dxf_layers": "Importera lager",
-            "dxf_stroke": "Slagbredd"
+            "dxf_stroke": "Slagbredd",
+            "join_shapes_desc": "Gå med i former för att förbättra redigerarens prestanda",
+            "join_shapes": "Gå med i former"
         }
     },
     "stencil": {
