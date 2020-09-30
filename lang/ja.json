@@ -144,7 +144,7 @@
         "notification": "お知らせ",
         "moving_trash": "ゴミ箱に移動する",
         "replace_text": "置換",
-        "exported_svg": "Vectaは、エクスポートされたSVGを受け入れません。 <br />代わりにファイル>ダウンロード図面オプションからダウンロードしたファイルを選択してください。",
+        "exported_svg": "Electra Cloudは、エクスポートされたsvgを受け入れません。<br />代わりに、[ファイル]&gt; [図面のダウンロード]オプションからダウンロードしたファイルを選択してください。",
         "replace_with": "と置換する",
         "creating_png": "PNGの作成",
         "transparency": "透明性",
@@ -186,8 +186,8 @@
         "untitled_folder": "無題のフォルダ",
         "multiple_shapes": "選択した複数の図形",
         "has_sent_invite": "あなたは以前にこれらのメンバーを招待しています。",
-        "wrong_file_type": "Vectaは現在このファイルタイプを受け入れていません。 （サポートされているタイプ：png、jpeg、gif、svg）",
-        "mismatched_code": "Vectaはスラックチームに追加できませんでした。 <br/> Vectaの有効なSlackボタンをクリックしてください。 <br /> <span class = 'Muted.cls'>エラー：0013 </ span>",
+        "wrong_file_type": "Electra Cloudは現在、このファイルタイプを受け入れていません。 （サポートされているタイプ：png、jpeg、gif、svg）",
+        "mismatched_code": "ElectraCloudをSlackチームに追加できませんでした。<br/> ElectraCloudの有効なSlackボタンをクリックしたことを確認してください。<br /><span class='Muted.cls'>エラー：0013</span>",
         "unsaved_changes": "保存していない変更があります",
         "strokeDashArray": "StrokeDashArray",
         "restoring_files": "復元",
@@ -229,7 +229,7 @@
         "remove_avatar": "アバターを削除",
         "add_fonts": "カスタムフォントを追加する",
         "compressing_svg": "SVGの圧縮",
-        "one_img_only": "Vectaは一度に1ファイルしか受け付けません。",
+        "one_img_only": "Electra Cloudは、一度に1つのファイルのみを受け入れます。",
         "help_fonts": "400：標準、400i：通常のイタリック、700：太字、700i：太字斜体",
         "remove": "削除する",
         "shadow_warn_range": "有効範囲",
@@ -1193,7 +1193,10 @@
         "close_all_stencils": "すべてのステンシルを閉じる",
         "open_as_new_drawing": "新しい図面として開く",
         "export_bom": "BOMをエクスポート",
-        "import_fonts": "フォントのインポート"
+        "import_fonts": "フォントのインポート",
+        "new_gdoc": "新しいGoogleドキュメント",
+        "new_gsheet": "新しいGoogleスプレッドシート",
+        "new_gslide": "新しいGoogleスライド"
     },
     "login": {
         "or": "または",
@@ -1390,7 +1393,8 @@
         "upload_prog": "アップロードの進行状況",
         "completed": "完成した",
         "browse": "ブラウズ",
-        "create_doc": "ドキュメントを作成しています"
+        "create_doc": "ドキュメントを作成しています",
+        "create_google_file": "新しいGoogleファイルの作成"
     },
     "noti": {
         "left": "%% left Team @@。",
@@ -1700,7 +1704,8 @@
         "max_page": "アカデミック版で許可されているのは20ページのみです。",
         "no_internet": "インターネット接続なし",
         "import_electra_drawing": "Electraの図面をインポートするには、新しい図面を開いてSVGファイルをドロップしてください。",
-        "get_layshape_size": "レイアウト形状の寸法を取得する"
+        "get_layshape_size": "レイアウト形状の寸法を取得する",
+        "fail_create_google_file": "Googleファイルの作成に失敗しました。"
     },
     "publish": {
         "done": "図面がウェブに公開されました。",
@@ -2007,7 +2012,9 @@
             },
             "dxf_dimensions": "インポート寸法",
             "dxf_layers": "レイヤーをインポートする",
-            "dxf_stroke": "ストローク幅"
+            "dxf_stroke": "ストローク幅",
+            "join_shapes": "図形を結合する",
+            "join_shapes_desc": "図形を結合してエディターのパフォーマンスを向上させる"
         }
     },
     "integrate": {
