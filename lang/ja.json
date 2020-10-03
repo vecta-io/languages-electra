@@ -833,7 +833,9 @@
         "all_stencils": "すべてのステンシル",
         "read_fonts": "フォントを読む",
         "remove_fonts": "フォントの削除",
-        "upload_font_fail": "フォントのアップロードに失敗しました"
+        "upload_font_fail": "フォントのアップロードに失敗しました",
+        "does_not_exist": "@@ もはや存在しない。",
+        "reset_path": "親切にファイルに移動|設定|ディレクトリを変更してアプリケーションを<b>再起動</b>するためのファイル。"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1196,7 +1198,11 @@
         "import_fonts": "フォントのインポート",
         "new_gdoc": "新しいGoogleドキュメント",
         "new_gsheet": "新しいGoogleスプレッドシート",
-        "new_gslide": "新しいGoogleスライド"
+        "new_gslide": "新しいGoogleスライド",
+        "image": "画像",
+        "inline": "列をなして",
+        "object": "オブジェクト",
+        "compression_mode": "圧縮モード"
     },
     "login": {
         "or": "または",
