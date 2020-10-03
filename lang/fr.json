@@ -833,7 +833,9 @@
         "all_stencils": "Tous les pochoirs",
         "upload_font_fail": "Échec du téléchargement des polices",
         "remove_fonts": "Suppression de polices",
-        "read_fonts": "Lecture des polices"
+        "read_fonts": "Lecture des polices",
+        "does_not_exist": "@@ n'existe plus.",
+        "reset_path": "Veuillez aller au fichier | Préférences | Fichiers pour changer de répertoire et <b>redémarrer</b> l&#39;application."
     },
     "page": {
         "cm": "Centimètre",
@@ -1187,7 +1189,11 @@
         "import_fonts": "Importer des polices",
         "new_gdoc": "Nouveaux documents Google",
         "new_gslide": "Nouvelles présentations Google",
-        "new_gsheet": "Nouvelles feuilles de calcul Google"
+        "new_gsheet": "Nouvelles feuilles de calcul Google",
+        "image": "Image",
+        "inline": "En ligne",
+        "object": "Objet",
+        "compression_mode": "Mode de compression"
     },
     "list": {
         "en": "Anglais",
