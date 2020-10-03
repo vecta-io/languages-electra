@@ -1543,7 +1543,9 @@
         "all_stencils": "所有模具",
         "read_fonts": "阅读字体",
         "upload_font_fail": "上载字体失败",
-        "remove_fonts": "删除字体"
+        "remove_fonts": "删除字体",
+        "does_not_exist": "@@ 不复存在。",
+        "reset_path": "请转到文件|首选项|用于更改目录并<b>重新启动</b>应用程序的文件。"
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -1797,7 +1799,11 @@
         "import_fonts": "导入字体",
         "new_gdoc": "新版Google文件",
         "new_gsheet": "新的Google表格",
-        "new_gslide": "新的Google幻灯片"
+        "new_gslide": "新的Google幻灯片",
+        "object": "目的",
+        "inline": "排队",
+        "image": "图片",
+        "compression_mode": "压缩方式"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
