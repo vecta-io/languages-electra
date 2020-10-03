@@ -833,7 +833,9 @@
         "all_stencils": "Alla stenciler",
         "remove_fonts": "Ta bort typsnitt",
         "upload_font_fail": "Det gick inte att ladda upp teckensnitt",
-        "read_fonts": "Läsa teckensnitt"
+        "read_fonts": "Läsa teckensnitt",
+        "does_not_exist": "@@ existerar inte längre.",
+        "reset_path": "Vänligen gå till File | Inställningar | Filer för att ändra katalogen och <b>starta</b> om applikationen."
     },
     "drop": {
         "in": "tum",
@@ -1087,7 +1089,11 @@
         "import_fonts": "Importera teckensnitt",
         "new_gsheet": "Nya Google Sheets",
         "new_gdoc": "Nya Google Dokument",
-        "new_gslide": "Nya Google-bilder"
+        "new_gslide": "Nya Google-bilder",
+        "object": "Objekt",
+        "image": "Bild",
+        "inline": "I kö",
+        "compression_mode": "Komprimeringsläge"
     },
     "page": {
         "mm": "Millimeter",
