@@ -1542,9 +1542,15 @@
         "backup_completed": "Backup completed",
         "getting_drawing": "Getting drawing",
         "empty_drawing": "Drawing is empty",
-        "encounter_err": "Encounter error"
+        "encounter_err": "Encounter error",
+        "does_not_exist": "@@ no longer exists.",
+        "reset_path": "Kindly goto File | Preferences | Files to change the directory and <b>restart</b> the application."
     },
     "drop": {
+        "image": "Image",
+        "inline": "Inline",
+        "object": "Object",
+        "compression_mode": "Compression mode",
         "maintain_id": "Maintain ID",
         "maintain_class": "Maintain classes",
         "maintain_structure": "Maintain structure",
