@@ -1543,7 +1543,9 @@
         "all_stencils": "Tutti gli stampini",
         "remove_fonts": "Rimozione di caratteri",
         "upload_font_fail": "Caricamento dei caratteri non riuscito",
-        "read_fonts": "Lettura dei caratteri"
+        "read_fonts": "Lettura dei caratteri",
+        "does_not_exist": "@@ non esiste più.",
+        "reset_path": "Gentilmente vai a File | Preferenze | File per cambiare la directory e <b>riavviare</b> l&#39;applicazione."
     },
     "drop": {
         "maintain_id": "Mantieni ID",
@@ -1797,7 +1799,11 @@
         "import_fonts": "Importazione di caratteri",
         "new_gdoc": "Nuovi documenti Google",
         "new_gslide": "Nuove diapositive di Google",
-        "new_gsheet": "Nuovi fogli Google"
+        "new_gsheet": "Nuovi fogli Google",
+        "object": "Oggetto",
+        "inline": "In linea",
+        "image": "Immagine",
+        "compression_mode": "Modalità di compressione"
     },
     "stencil": {
         "free_svg_symbols": "Simboli SVG Liberi",
