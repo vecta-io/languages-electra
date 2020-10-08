@@ -2113,7 +2113,7 @@
             "name": "JIC / NFPA-symboler"
         },
         "stencil_228": {
-            "desc": "Elektriska IEC 60617 / BS 3939-symboler som representerar isolatorer, frånkopplare, säkringar, cKontaktorer och överbelastningar för användning vid ritning av elektriska kretsar",
+            "desc": "Elektriska IEC 60617 / BS 3939 symboler som representerar isolatorer, frånskiljare, säkringar, kontaktorer och överbelastningar för användning vid ritning av elektriska kretsar",
             "name": "IEC-isolatorer, frånkopplare, säkringar, kontaktorer, överbelastningar"
         },
         "stencil_232": {
@@ -2633,7 +2633,7 @@
         "plugin_20": {
             "desc": "Exportera trådetiketter som ska användas på etikettskrivare",
             "cat": [
-                "etikett, ledningar"
+                "Etikett, Wires"
             ],
             "name": "Exportmärkning"
         }
