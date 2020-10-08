@@ -835,7 +835,8 @@
         "remove_fonts": "Suppression de polices",
         "read_fonts": "Lecture des polices",
         "does_not_exist": "@@ n'existe plus.",
-        "reset_path": "Veuillez aller au fichier | Préférences | Fichiers pour changer de répertoire et <b>redémarrer</b> l&#39;application."
+        "reset_path": "Veuillez aller au fichier | Préférences | Fichiers pour changer de répertoire et <b>redémarrer</b> l&#39;application.",
+        "lineSpacing": "Interligne"
     },
     "page": {
         "cm": "Centimètre",
