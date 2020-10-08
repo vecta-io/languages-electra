@@ -1545,7 +1545,8 @@
         "upload_font_fail": "上載字體失敗",
         "remove_fonts": "刪除字體",
         "does_not_exist": "@@ 不復存在。",
-        "reset_path": "請轉到文件|首選項|用於更改目錄並<b>重新啟動</b>應用程序的文件。"
+        "reset_path": "請轉到文件|首選項|用於更改目錄並<b>重新啟動</b>應用程序的文件。",
+        "lineSpacing": "行間距"
     },
     "drop": {
         "maintain_id": "維護ID",
