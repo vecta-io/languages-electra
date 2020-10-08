@@ -2123,7 +2123,7 @@
             "name": "Symboles CEI"
         },
         "stencil_228": {
-            "desc": "Symboles électriques CEI 60617 / BS 3939 représentant des isolateurs, sectionneurs, fusibles, cContacteurs et surcharges pour utilisation dans le dessin de circuits électriques",
+            "desc": "Symboles électriques CEI 60617 / BS 3939 représentant les isolateurs, les sectionneurs, les fusibles, les contacteurs et les surcharges à utiliser pour dessiner des circuits électriques",
             "name": "Isolateurs, sectionneurs, fusibles, contacteurs, surcharges IEC"
         },
         "stencil_224": {
@@ -2632,7 +2632,7 @@
         },
         "plugin_20": {
             "cat": [
-                "étiquette, fils"
+                "Étiquette, fils"
             ],
             "name": "Étiquetage d'exportation",
             "desc": "Exporter les étiquettes de fil à utiliser sur les imprimantes d'étiquettes"
