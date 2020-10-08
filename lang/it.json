@@ -2241,7 +2241,7 @@
         },
         "stencil_228": {
             "name": "IEC Isolators, Disconnettori, Fusi, Contattori, Overloads",
-            "desc": "Cavi elettrici IEC 60617 / BS 3939 che rappresentano isolatori, disconnettori, fusi, cContattori e sovraccarichi per l'utilizzo nei circuiti elettrici di disegno"
+            "desc": "Simboli elettrici IEC 60617 / BS 3939 che rappresentano isolatori, sezionatori, fusibili, contattori e sovraccarichi da utilizzare nel disegno di circuiti elettrici"
         },
         "stencil_229": {
             "name": "Simboli Linea Singola",
@@ -2410,7 +2410,7 @@
             "desc": "Esporta etichette per cavi da utilizzare su stampanti di etichette",
             "name": "Esportare l'etichettatura",
             "cat": [
-                "etichetta, fili"
+                "Etichetta, fili"
             ]
         }
     },
