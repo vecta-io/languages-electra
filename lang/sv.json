@@ -835,7 +835,8 @@
         "upload_font_fail": "Det gick inte att ladda upp teckensnitt",
         "read_fonts": "Läsa teckensnitt",
         "does_not_exist": "@@ existerar inte längre.",
-        "reset_path": "Vänligen gå till File | Inställningar | Filer för att ändra katalogen och <b>starta</b> om applikationen."
+        "reset_path": "Vänligen gå till File | Inställningar | Filer för att ändra katalogen och <b>starta</b> om applikationen.",
+        "lineSpacing": "Radavstånd"
     },
     "drop": {
         "in": "tum",
