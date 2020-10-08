@@ -2240,7 +2240,7 @@
         },
         "stencil_228": {
             "name": "IEC Isolators, Disconnectors, Fuses, Contactors, Overloads",
-            "desc": "Electrical IEC 60617 / BS 3939 symbols representing isolators, disconnectors, fuses,cContactors and overloads for usage in drawing electrical circuits"
+            "desc": "Electrical IEC 60617 / BS 3939 symbols representing isolators, disconnectors, fuses,contactors and overloads for usage in drawing electrical circuits"
         },
         "stencil_229": {
             "name": "Single Line Symbols",
@@ -2409,7 +2409,7 @@
             "name": "Export labelling",
             "desc": "Export wire labels to be used on label printers",
             "cat": [
-                "label,wires"
+                "Label, Wires"
             ]
         }
     },
