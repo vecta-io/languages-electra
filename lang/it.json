@@ -1545,7 +1545,8 @@
         "upload_font_fail": "Caricamento dei caratteri non riuscito",
         "read_fonts": "Lettura dei caratteri",
         "does_not_exist": "@@ non esiste più.",
-        "reset_path": "Gentilmente vai a File | Preferenze | File per cambiare la directory e <b>riavviare</b> l&#39;applicazione."
+        "reset_path": "Gentilmente vai a File | Preferenze | File per cambiare la directory e <b>riavviare</b> l&#39;applicazione.",
+        "lineSpacing": "Interlinea"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
