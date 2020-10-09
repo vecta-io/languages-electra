@@ -1546,7 +1546,20 @@
         "remove_fonts": "删除字体",
         "does_not_exist": "@@ 不复存在。",
         "reset_path": "请转到文件|首选项|用于更改目录并<b>重新启动</b>应用程序的文件。",
-        "lineSpacing": "行间距"
+        "hide_labels": "标签",
+        "order": "订单号。",
+        "core": "核心",
+        "edit_cable_tag": "编辑电缆标签",
+        "area": "尺寸/规格",
+        "edit_hosing_tag": "编辑软管标签",
+        "edit_tubing_tag": "编辑油管标签",
+        "show_cable_info": "显示电缆信息",
+        "show_hosing_info": "显示主机信息",
+        "edit_comp_tag": "编辑组件标签",
+        "height": "高度",
+        "qty": "数量",
+        "show_tubing_info": "显示油管信息",
+        "show_comp_info": "显示组件信息"
     },
     "drop": {
         "maintain_id": "维护ID",
