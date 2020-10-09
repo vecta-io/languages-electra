@@ -1546,7 +1546,20 @@
         "remove_fonts": "刪除字體",
         "does_not_exist": "@@ 不復存在。",
         "reset_path": "請轉到文件|首選項|用於更改目錄並<b>重新啟動</b>應用程序的文件。",
-        "lineSpacing": "行間距"
+        "hide_labels": "標籤",
+        "core": "核心",
+        "area": "尺寸/規格",
+        "order": "訂單號。",
+        "edit_cable_tag": "編輯電纜標籤",
+        "edit_tubing_tag": "編輯油管標籤",
+        "edit_hosing_tag": "編輯軟管標籤",
+        "height": "高度",
+        "qty": "數量",
+        "edit_comp_tag": "編輯組件標籤",
+        "show_tubing_info": "顯示油管信息",
+        "show_cable_info": "顯示電纜信息",
+        "show_hosing_info": "顯示主機信息",
+        "show_comp_info": "顯示組件信息"
     },
     "drop": {
         "maintain_id": "維護ID",
