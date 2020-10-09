@@ -836,7 +836,20 @@
         "upload_font_fail": "フォントのアップロードに失敗しました",
         "does_not_exist": "@@ もはや存在しない。",
         "reset_path": "親切にファイルに移動|設定|ディレクトリを変更してアプリケーションを<b>再起動</b>するためのファイル。",
-        "lineSpacing": "行間隔"
+        "hide_labels": "ラベル",
+        "area": "サイズ/ゲージ",
+        "order": "注文番号。",
+        "core": "芯",
+        "edit_cable_tag": "ケーブルタグを編集する",
+        "show_cable_info": "ケーブル情報を表示する",
+        "show_hosing_info": "ホース情報を表示する",
+        "edit_tubing_tag": "チュービングタグを編集する",
+        "edit_hosing_tag": "ホースタグを編集する",
+        "show_tubing_info": "チューブ情報を表示する",
+        "edit_comp_tag": "コンポーネントタグを編集する",
+        "show_comp_info": "コンポーネント情報を表示する",
+        "qty": "量",
+        "height": "高さ"
     },
     "list": {
         "sv": "スウェーデン語",
