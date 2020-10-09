@@ -836,7 +836,20 @@
         "read_fonts": "Läsa teckensnitt",
         "does_not_exist": "@@ existerar inte längre.",
         "reset_path": "Vänligen gå till File | Inställningar | Filer för att ändra katalogen och <b>starta</b> om applikationen.",
-        "lineSpacing": "Radavstånd"
+        "hide_labels": "Etiketter",
+        "core": "Kärna",
+        "edit_cable_tag": "Redigera kabelmärke",
+        "area": "Storlek / mätare",
+        "order": "Beställningsnr.",
+        "edit_hosing_tag": "Redigera slangmärke",
+        "height": "Höjd",
+        "qty": "Kvantitet",
+        "edit_tubing_tag": "Redigera slangmärke",
+        "show_comp_info": "Visa komponentinformation",
+        "edit_comp_tag": "Redigera komponenttagg",
+        "show_tubing_info": "Visa information om slangar",
+        "show_hosing_info": "Visa information om slang",
+        "show_cable_info": "Visa kabelinformation"
     },
     "drop": {
         "in": "tum",
