@@ -340,7 +340,7 @@
         "about": "À propos",
         "export_dxf": "Exporter au format DXF ...",
         "files": "Des dossiers",
-        "demo_collab_noti": "Ce document est un document collaboratif multi-utilisateurs en temps réel",
+        "demo_collab_noti": "Essayez Electra Cloud GRATUITEMENT pendant 30 jours, sans engagement <a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Inscrivez-vous</a>",
         "dont_save": "Ne sauvez pas",
         "must_be_group": "La forme doit être un groupe",
         "ready": "Prêt",
@@ -849,7 +849,8 @@
         "show_hosing_info": "Afficher les informations sur les tuyaux",
         "show_cable_info": "Afficher les informations de câble",
         "show_tubing_info": "Afficher les informations sur les tubes",
-        "show_comp_info": "Afficher les informations sur les composants"
+        "show_comp_info": "Afficher les informations sur les composants",
+        "lineSpacing": "Interligne"
     },
     "page": {
         "cm": "Centimètre",
