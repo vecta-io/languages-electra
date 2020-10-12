@@ -338,7 +338,7 @@
         "about": "約",
         "export_dxf": "DXFにエクスポートしています...",
         "files": "ファイル",
-        "demo_collab_noti": "このドキュメントはマルチユーザーのリアルタイム共同ドキュメントです",
+        "demo_collab_noti": "Electra Cloudを30日間無料でお試しください、抱きたいカンケイはありません<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">サインアップ</a>",
         "dont_save": "保存しない",
         "must_be_group": "形状はグループでなければなりません",
         "ready": "準備完了",
@@ -849,7 +849,8 @@
         "edit_comp_tag": "コンポーネントタグを編集する",
         "show_comp_info": "コンポーネント情報を表示する",
         "qty": "量",
-        "height": "高さ"
+        "height": "高さ",
+        "lineSpacing": "行間隔"
     },
     "list": {
         "sv": "スウェーデン語",
