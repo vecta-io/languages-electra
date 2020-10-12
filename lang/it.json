@@ -1045,7 +1045,7 @@
         "no_friend_to_tag": "Nessun amico trovato in questo disegno.<br />Condividi questo disegno ai tuoi amici per etichettarli.",
         "invite_friend": "Condividi Disegno",
         "tagged_list": "Elenco etichettato",
-        "demo_collab_noti": "Questo documento è un multi utente, documento collaborativo in tempo reale",
+        "demo_collab_noti": "Prova Electra Cloud GRATIS per 30 giorni, senza vincoli. <a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Registrati</a>",
         "save_to_edit": " o sarà perso all'aggiornamento",
         "signup_to_save": "Registrati per salvare le modifiche",
         "save_to_dashboard": "Salva disegno al tuo account",
@@ -1559,7 +1559,8 @@
         "show_cable_info": "Mostra le informazioni sui cavi",
         "show_tubing_info": "Mostra le informazioni sui tubi",
         "show_hosing_info": "Mostra le informazioni sui tubi",
-        "show_comp_info": "Mostra le informazioni sui componenti"
+        "show_comp_info": "Mostra le informazioni sui componenti",
+        "lineSpacing": "Interlinea"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
