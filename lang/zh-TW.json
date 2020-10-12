@@ -1033,7 +1033,7 @@
         "no_friend_to_tag": "在此圖形中找不到朋友。<br />將此圖形共享給您的朋友以對其進行標記",
         "invite_friend": "共享繪圖",
         "tagged_list": "已標記的列表",
-        "demo_collab_noti": "該文檔是多用戶實時協作文檔",
+        "demo_collab_noti": "嘗試戀父雲免費試用30天，沒有任何附加條件<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">註冊</a>",
         "save_to_edit": "否則刷新後將丟失",
         "signup_to_save": "註冊以保存您的更改",
         "save_to_dashboard": "將繪圖保存到您的帳戶",
@@ -1559,7 +1559,8 @@
         "show_tubing_info": "顯示油管信息",
         "show_cable_info": "顯示電纜信息",
         "show_hosing_info": "顯示主機信息",
-        "show_comp_info": "顯示組件信息"
+        "show_comp_info": "顯示組件信息",
+        "lineSpacing": "行間距"
     },
     "drop": {
         "maintain_id": "維護ID",
