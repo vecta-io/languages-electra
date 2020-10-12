@@ -1034,7 +1034,7 @@
         "no_friend_to_tag": "在此图形中找不到朋友。<br />将此图形共享给您的朋友以对其进行标记",
         "invite_friend": "共享绘图",
         "tagged_list": "已标记的列表",
-        "demo_collab_noti": "该文档是多用户实时协作文档",
+        "demo_collab_noti": "尝试恋父云免费试用30天，没有任何附加条件<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">注册</a>",
         "save_to_edit": "否则刷新后将丢失",
         "signup_to_save": "注册以保存您的更改",
         "save_to_dashboard": "将绘图保存到您的帐户",
@@ -1559,7 +1559,8 @@
         "height": "高度",
         "qty": "数量",
         "show_tubing_info": "显示油管信息",
-        "show_comp_info": "显示组件信息"
+        "show_comp_info": "显示组件信息",
+        "lineSpacing": "行间距"
     },
     "drop": {
         "maintain_id": "维护ID",
