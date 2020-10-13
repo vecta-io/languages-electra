@@ -2597,7 +2597,7 @@
         "create-and-invite-team": "邀請成員讓您的團隊在Electra中建立並運行",
         "create-symbol": "使用創建符號將情報和數據自動插入到您的自定義符號中",
         "drag-and-drop": "Electra只需簡單的拖放即可工作，無需培訓",
-        "dxf-import-and-export": "將DXF導入到Electra並從中導出",
+        "dxf-import-and-export": "將DXF和DWG導入到Electra並從中導出",
         "generate-layout": "單擊即可自動生成面板佈局",
         "generate-report": "在Electra中輕鬆生成BOM和其他報告以節省時間",
         "terminal-list": "在Electra中使用和生成端子很簡單",
