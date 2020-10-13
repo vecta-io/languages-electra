@@ -1951,7 +1951,7 @@
         "version-history": "バージョン履歴を使用して、図面の変更を追跡します",
         "create-and-invite-team": "メンバーを招待して、チームをElectraで稼働させる",
         "chat": "Vectaのエディターでチームメイトとすぐにチャット",
-        "dxf-import-and-export": "DXFをElectraにインポートしてエクスポートする",
+        "dxf-import-and-export": "DXFとDWGをElectraにインポートし、そこからエクスポートします",
         "terminal-list": "端末の使用と生成はElectraで簡単です",
         "generate-layout": "シングルクリックでパネルレイアウトを自動生成",
         "drag-and-drop": "Electraは単純なドラッグアンドドロップで動作し、トレーニングは必要ありません",
