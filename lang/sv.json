@@ -1797,7 +1797,8 @@
         "drag-and-drop": "Electra arbetar med enkel dra och släpp, ingen utbildning krävs",
         "dxf-import-and-export": "Importera DXF till Electra och exportera från den",
         "terminal-list": "Att använda och generera terminaler är ett ögonblick i Electra",
-        "text-stroke": "Försköna din text ännu mer med textstreck"
+        "text-stroke": "Försköna din text ännu mer med textstreck",
+        "import-pdf": "För att importera, dra och släpp bara din PDF-fil till instrumentpanelen"
     },
     "tips": {
         "Lock.tip": "Stencil låst",
@@ -2022,9 +2023,9 @@
         },
         "receive_noti": "Meddela mig när en lagmedlem:",
         "files": {
-            "sten": "Stencils väg:",
-            "plug": "Insticksväg:",
-            "compdb": "Komponentdatabasväg:"
+            "sten": "Stencilsväg:",
+            "plug": "Plugin-sökväg:",
+            "compdb": "Komponent databas sökväg:"
         },
         "import": {
             "default_unit": "Standardenhet",
