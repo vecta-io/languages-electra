@@ -2602,7 +2602,8 @@
         "generate-report": "Facilmente generare BOM e altri report in Electra per risparmiare tempo",
         "terminal-list": "Utilizzare e generare terminali è uno snap in Electra",
         "dark-theme-electra": "Mostra tema oscuro per attivare la modalità dark",
-        "text-stroke": "Abbellisci il tuo testo ancora di più con il tratto di testo"
+        "text-stroke": "Abbellisci il tuo testo ancora di più con il tratto di testo",
+        "import-pdf": "Per importare, trascina e rilascia il tuo file PDF nella dashboard"
     },
     "settings": {
         "reading": "Lettura delle preferenze",
@@ -2645,9 +2646,9 @@
             "trashed": "Tratto un disegno, cartella o stencil"
         },
         "files": {
-            "sten": "Percorso di Stencils:",
-            "plug": "Percorso plugins:",
-            "compdb": "Percorso Database dei componenti:"
+            "sten": "Percorso stampini:",
+            "plug": "Percorso plugin:",
+            "compdb": "Percorso del database dei componenti:"
         }
     },
     "videos": {
