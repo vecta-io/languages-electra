@@ -2598,7 +2598,7 @@
         "create-and-invite-team": "Invite members to get your team up and running in Electra",
         "create-symbol": "Use Create Symbol to automatically insert intelligence and data into your custom symbol",
         "drag-and-drop": "Electra works on simple drag and drop, no training required",
-        "dxf-import-and-export": "Import DXF to Electra and export from it",
+        "dxf-import-and-export": "Import DXF and DWG to Electra and export from it",
         "generate-layout": "Automatically generate panel layout in a single click",
         "generate-report": "Easily generate BOM and others reports in Electra to save time",
         "terminal-list": "Using and generating terminals is a snap in Electra",
