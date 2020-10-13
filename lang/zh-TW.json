@@ -2602,7 +2602,8 @@
         "generate-report": "在Electra中輕鬆生成BOM和其他報告以節省時間",
         "terminal-list": "在Electra中使用和生成端子很簡單",
         "dark-theme-electra": "顯示黑暗主題以激活黑暗模式",
-        "text-stroke": "通過文字筆觸更加美化您的文字"
+        "text-stroke": "通過文字筆觸更加美化您的文字",
+        "import-pdf": "要導入，只需將PDF文件拖放到儀表板"
     },
     "settings": {
         "reading": "閱讀偏好",
