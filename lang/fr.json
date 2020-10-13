@@ -1797,7 +1797,8 @@
         "generate-layout": "Générez automatiquement la disposition des panneaux en un seul clic",
         "terminal-list": "L'utilisation et la génération de terminaux sont un jeu d'enfant dans Electra",
         "generate-report": "Générez facilement des nomenclatures et autres rapports dans Electra pour gagner du temps",
-        "text-stroke": "Embellissez encore plus votre texte avec le trait de texte"
+        "text-stroke": "Embellissez encore plus votre texte avec le trait de texte",
+        "import-pdf": "Pour importer, faites simplement glisser et déposez votre fichier PDF dans le tableau de bord"
     },
     "tips": {
         "Lock.tip": "Stencil verrouillé",
