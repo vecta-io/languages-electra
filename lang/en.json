@@ -2584,6 +2584,7 @@
         "effects": " Add shadow, bevel or blur effect to make amazing graphics",
         "pages": "Create and manage multiple pages in a single drawing",
         "pan": "Easily navigate using the pan tool shortcut",
+        "import-pdf": "To import, simply drag & drop your PDF file to the dashboard",
         "jump-connector": "Add jump connector to differentiate lines",
         "clip-path": "Use clip path to mark out your clipping region",
         "copy-paste-symbol": "Copy and paste your symbol to a stencil",
@@ -2644,9 +2645,9 @@
             "trashed": "Trashed a drawing, folder or stencil"
         },
         "files": {
-            "sten": "Stencils Path:",
-            "plug": "Plugins Path:",
-            "compdb": "Component Database Path:"
+            "sten": "Stencils path:",
+            "plug": "Plugins path:",
+            "compdb": "Component database path:"
         }
     },
     "videos": {
