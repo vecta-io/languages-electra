@@ -1217,9 +1217,7 @@
         "image": "画像",
         "inline": "列をなして",
         "object": "オブジェクト",
-        "compression_mode": "圧縮モード",
-        "comp": "成分",
-        "cat": "カテゴリー"
+        "compression_mode": "圧縮モード"
     },
     "login": {
         "or": "または",
