@@ -1819,9 +1819,7 @@
         "manage_hosing": "Manage hosing",
         "view_edit": "View and Edit",
         "export_as_tsv": "Export as TSV",
-        "export_bom": "Export BOM",
-        "comp": "Component",
-        "cat": "Category"
+        "export_bom": "Export BOM"
     },
     "stencil": {
         "free_svg_symbols": "Free SVG Symbols",
