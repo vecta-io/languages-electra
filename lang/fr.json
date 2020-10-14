@@ -1208,9 +1208,7 @@
         "image": "Image",
         "inline": "En ligne",
         "object": "Objet",
-        "compression_mode": "Mode de compression",
-        "cat": "Catégorie",
-        "comp": "Composant"
+        "compression_mode": "Mode de compression"
     },
     "list": {
         "en": "Anglais",
