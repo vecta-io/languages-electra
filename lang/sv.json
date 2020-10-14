@@ -1108,9 +1108,7 @@
         "object": "Objekt",
         "image": "Bild",
         "inline": "I kö",
-        "compression_mode": "Komprimeringsläge",
-        "comp": "Komponent",
-        "cat": "Kategori"
+        "compression_mode": "Komprimeringsläge"
     },
     "page": {
         "mm": "Millimeter",
