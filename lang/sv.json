@@ -2653,6 +2653,10 @@
                 "Etikett, Wires"
             ],
             "name": "Exportmärkning"
+        },
+        "plugin_21": {
+            "name": "Demo",
+            "desc": "Detta plugin används på demosidor"
         }
     },
     "dialog": {
@@ -2741,7 +2745,8 @@
         "license": "Licens",
         "purchase_license": "Köp en licens",
         "request_trial": "Begär förlängning av rättegången",
-        "extend_trial": "Förläng rättegången"
+        "extend_trial": "Förläng rättegången",
+        "discount_code": "Rabattkod"
     },
     "license": {
         "product_is_unlicensed": "Denna produkt är olicensierad",
