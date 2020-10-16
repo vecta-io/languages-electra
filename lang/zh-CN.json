@@ -2429,6 +2429,10 @@
                 "标签，电线"
             ],
             "desc": "导出要在标签打印机上使用的电线标签"
+        },
+        "plugin_21": {
+            "name": "演示版",
+            "desc": "该插件用于演示页面"
         }
     },
     "page": {
@@ -2779,7 +2783,8 @@
         "beta": "贝塔",
         "purchase_license": "购买许可证",
         "request_trial": "要求延长试用期",
-        "extend_trial": "延长试用期"
+        "extend_trial": "延长试用期",
+        "discount_code": "优惠码"
     },
     "license": {
         "activate": "激活",
