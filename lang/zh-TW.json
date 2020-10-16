@@ -2429,6 +2429,10 @@
                 "標籤，電線"
             ],
             "desc": "導出要在標籤打印機上使用的電線標籤"
+        },
+        "plugin_21": {
+            "desc": "該插件用於演示頁面",
+            "name": "演示版"
         }
     },
     "page": {
@@ -2779,7 +2783,8 @@
         "license": "執照",
         "request_trial": "要求延長試用期",
         "purchase_license": "購買許可證",
-        "extend_trial": "延長試用期"
+        "extend_trial": "延長試用期",
+        "discount_code": "優惠碼"
     },
     "license": {
         "activate": "激活",
