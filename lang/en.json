@@ -2428,6 +2428,10 @@
             "cat": [
                 "Label, Wires"
             ]
+        },
+        "plugin_21": {
+            "name": "Demo",
+            "desc": "This plugin is used in demo pages"
         }
     },
     "page": {
@@ -2778,7 +2782,8 @@
         "confirm_device": "Remove all devices from this serial key?",
         "purchase_license": "Purchase a license",
         "request_trial": "Request extend trial",
-        "extend_trial": "Extend trial"
+        "extend_trial": "Extend trial",
+        "discount_code": "Discount Code"
     },
     "license": {
         "activate": "Activate",
