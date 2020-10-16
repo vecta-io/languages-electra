@@ -2653,6 +2653,10 @@
                 "ラベル、ワイヤー"
             ],
             "desc": "ラベルプリンターで使用するワイヤーラベルをエクスポートする"
+        },
+        "plugin_21": {
+            "name": "デモ",
+            "desc": "このプラグインはデモページで使用されます"
         }
     },
     "dialog": {
@@ -2741,7 +2745,8 @@
         "beta": "ベータ",
         "purchase_license": "ライセンスを購入する",
         "request_trial": "試用期間の延長をリクエスト",
-        "extend_trial": "試用期間を延長する"
+        "extend_trial": "試用期間を延長する",
+        "discount_code": "ディスカウントコード"
     },
     "license": {
         "product_is_unlicensed": "この製品はライセンスされていません",
