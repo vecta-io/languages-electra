@@ -2653,6 +2653,10 @@
             ],
             "name": "Étiquetage d'exportation",
             "desc": "Exporter les étiquettes de fil à utiliser sur les imprimantes d'étiquettes"
+        },
+        "plugin_21": {
+            "name": "Démo",
+            "desc": "Ce plugin est utilisé dans les pages de démonstration"
         }
     },
     "dialog": {
@@ -2741,7 +2745,8 @@
         "license": "Licence",
         "purchase_license": "Acheter une licence",
         "request_trial": "Demander une prolongation de l'essai",
-        "extend_trial": "Prolonger l'essai"
+        "extend_trial": "Prolonger l'essai",
+        "discount_code": "Code de réduction"
     },
     "license": {
         "activate": "Activer",
