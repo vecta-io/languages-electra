@@ -2622,7 +2622,8 @@
                 "mm": "毫米",
                 "in": "英寸"
             },
-            "join_shapes": "连接形状"
+            "join_shapes": "连接形状",
+            "join_shapes_desc": "连接形状以提高编辑器性能"
         },
         "general": {
             "lang": "语言",
