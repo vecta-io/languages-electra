@@ -2622,7 +2622,8 @@
                 "mm": "mm",
                 "in": "in"
             },
-            "join_shapes": "Unisci le forme"
+            "join_shapes": "Unisci le forme",
+            "join_shapes_desc": "Unisci le forme per migliorare le prestazioni dell'editor"
         },
         "general": {
             "lang": "Lingua",
