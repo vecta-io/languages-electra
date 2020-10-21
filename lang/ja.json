@@ -2036,7 +2036,8 @@
             "dxf_dimensions": "インポート寸法",
             "dxf_layers": "レイヤーをインポートする",
             "dxf_stroke": "ストローク幅",
-            "join_shapes": "図形を結合する"
+            "join_shapes": "図形を結合する",
+            "join_shapes_desc": "図形を結合してエディターのパフォーマンスを向上させる"
         }
     },
     "integrate": {
