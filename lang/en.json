@@ -2617,7 +2617,6 @@
             "dxf_stroke": "Stroke width",
             "default_unit": "Default unit",
             "join_shapes": "Join shapes",
-            "join_shapes_desc": "Join shapes to improve editor performance",
             "units": {
                 "auto": "Auto",
                 "mm": "mm",
