@@ -2036,7 +2036,6 @@
             "dxf_dimensions": "Importera mått",
             "dxf_layers": "Importera lager",
             "dxf_stroke": "Slagbredd",
-            "join_shapes_desc": "Gå med i former för att förbättra redigerarens prestanda",
             "join_shapes": "Gå med i former"
         }
     },
