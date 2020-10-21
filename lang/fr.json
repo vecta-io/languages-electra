@@ -2036,7 +2036,8 @@
             "dxf_dimensions": "Importer des dimensions",
             "dxf_layers": "Importer des calques",
             "dxf_stroke": "Largeur du trait",
-            "join_shapes": "Joindre des formes"
+            "join_shapes": "Joindre des formes",
+            "join_shapes_desc": "Joindre des formes pour améliorer les performances de l'éditeur"
         }
     },
     "integrate": {
