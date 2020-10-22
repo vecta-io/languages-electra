@@ -1820,7 +1820,8 @@
         "image": "圖片",
         "object": "目的",
         "inline": "排隊",
-        "compression_mode": "壓縮方式"
+        "compression_mode": "壓縮方式",
+        "duplicate": "重複"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
