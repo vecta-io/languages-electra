@@ -1108,7 +1108,8 @@
         "object": "Objekt",
         "image": "Bild",
         "inline": "I kö",
-        "compression_mode": "Komprimeringsläge"
+        "compression_mode": "Komprimeringsläge",
+        "duplicate": "Duplicera"
     },
     "page": {
         "mm": "Millimeter",
