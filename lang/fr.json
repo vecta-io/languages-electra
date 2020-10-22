@@ -1208,7 +1208,8 @@
         "image": "Image",
         "inline": "En ligne",
         "object": "Objet",
-        "compression_mode": "Mode de compression"
+        "compression_mode": "Mode de compression",
+        "duplicate": "Dupliquer"
     },
     "list": {
         "en": "Anglais",
