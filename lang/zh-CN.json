@@ -1820,7 +1820,8 @@
         "object": "目的",
         "inline": "排队",
         "image": "图片",
-        "compression_mode": "压缩方式"
+        "compression_mode": "压缩方式",
+        "duplicate": "重复"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
