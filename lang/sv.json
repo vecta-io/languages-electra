@@ -1959,8 +1959,8 @@
         "electra_import.icon": "Importera rapporter",
         "manage_wirings.icon": "Hantera ledningar",
         "manage_db.icon": "Hantera databaser",
-        "team.icon": "Ritning från Team",
-        "personal.icon": "Personlig ritning"
+        "team.icon": "Team Drawing:",
+        "personal.icon": "Personlig ritning: Hem"
     },
     "verify": {
         "failed": "Verifiering misslyckades",
