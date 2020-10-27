@@ -200,7 +200,9 @@
         "generate_layout.icon": "Genera layout",
         "electra_export.icon": "Relazioni di esportazione",
         "electra_import.icon": "Importa report",
-        "manage_wirings.icon": "Gestire le wirings"
+        "manage_wirings.icon": "Gestire le wirings",
+        "team.icon": "Disegno della squadra:",
+        "personal.icon": "Disegno personale: casa"
     },
     "mssg": {
         "sending": "Invio",
