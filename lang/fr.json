@@ -1958,7 +1958,9 @@
         "print.icon": "Impression",
         "electra_import.icon": "Importer des rapports",
         "manage_wirings.icon": "Gérer les câblages",
-        "manage_db.icon": "Gérer les bases de données"
+        "manage_db.icon": "Gérer les bases de données",
+        "team.icon": "Dessin d'équipe:",
+        "personal.icon": "Dessin personnel: Accueil"
     },
     "signup": {
         "failed": "L'inscription a échoué",
