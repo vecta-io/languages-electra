@@ -1958,7 +1958,9 @@
         "print.icon": "Skriva ut",
         "electra_import.icon": "Importera rapporter",
         "manage_wirings.icon": "Hantera ledningar",
-        "manage_db.icon": "Hantera databaser"
+        "manage_db.icon": "Hantera databaser",
+        "team.icon": "Team Drawing:",
+        "personal.icon": "Personlig ritning: Hem"
     },
     "verify": {
         "failed": "Verifiering misslyckades",
