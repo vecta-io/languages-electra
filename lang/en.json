@@ -189,6 +189,8 @@
         "AddEffect.tip": "Add effect",
         "AddCustomMenu.tip": "Add custom menu",
         "ListCustomMenu.tip": "List custom menu",
+        "personal.icon": "Personal Drawing: Home",
+        "team.icon": "Team Drawing:",
         "create_schem.icon": "Create schematic symbol",
         "create_layout_sym.icon": "Create layout symbol",
         "manage_db.icon": "Manage databases",
