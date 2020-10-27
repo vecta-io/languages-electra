@@ -201,8 +201,8 @@
         "electra_export.icon": "Relazioni di esportazione",
         "electra_import.icon": "Importa report",
         "manage_wirings.icon": "Gestire le wirings",
-        "team.icon": "Disegnare dal team",
-        "personal.icon": "Disegno personale"
+        "team.icon": "Disegno della squadra:",
+        "personal.icon": "Disegno personale: casa"
     },
     "mssg": {
         "sending": "Invio",
