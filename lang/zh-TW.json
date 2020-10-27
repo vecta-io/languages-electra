@@ -201,8 +201,8 @@
         "manage_db.icon": "管理數據庫",
         "electra_import.icon": "匯入報告",
         "manage_wirings.icon": "管理接線",
-        "personal.icon": "個人繪畫：主頁",
-        "team.icon": "團隊圖紙："
+        "personal.icon": "個人畫",
+        "team.icon": "從團隊中抽獎"
     },
     "mssg": {
         "sending": "正在發送",
