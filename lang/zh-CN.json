@@ -201,8 +201,8 @@
         "manage_wirings.icon": "管理接线",
         "electra_import.icon": "汇入报告",
         "manage_db.icon": "管理数据库",
-        "personal.icon": "个人画",
-        "team.icon": "从团队中抽奖"
+        "personal.icon": "个人绘画：主页",
+        "team.icon": "团队图纸："
     },
     "mssg": {
         "sending": "正在发送",
