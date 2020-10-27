@@ -1904,8 +1904,8 @@
         "manage_db.icon": "データベースを管理する",
         "electra_import.icon": "レポートをインポートする",
         "manage_wirings.icon": "配線を管理する",
-        "personal.icon": "個人の絵：家",
-        "team.icon": "チームの描画："
+        "personal.icon": "個人的なデッサン",
+        "team.icon": "チームからの描画"
     },
     "preload": {
         "slack": "優れたコラボレーションのためにVectaとSlackを統合",
