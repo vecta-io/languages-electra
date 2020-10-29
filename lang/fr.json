@@ -850,7 +850,10 @@
         "show_cable_info": "Afficher les informations de câble",
         "show_tubing_info": "Afficher les informations sur les tubes",
         "show_comp_info": "Afficher les informations sur les composants",
-        "lineSpacing": "Interligne"
+        "lineSpacing": "Interligne",
+        "doc_scope": "Portée du document:",
+        "tblock_empty": "Veuillez insérer les données du cartouche",
+        "page_scope": "Portée de la page:"
     },
     "page": {
         "cm": "Centimètre",
