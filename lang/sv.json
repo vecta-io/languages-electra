@@ -850,7 +850,10 @@
         "show_tubing_info": "Visa information om slangar",
         "show_hosing_info": "Visa information om slang",
         "show_cable_info": "Visa kabelinformation",
-        "lineSpacing": "Radavstånd"
+        "lineSpacing": "Radavstånd",
+        "tblock_empty": "Vänligen sätt in data för titelblock",
+        "page_scope": "Sidans omfattning:",
+        "doc_scope": "Dokumentets omfattning:"
     },
     "drop": {
         "in": "tum",
