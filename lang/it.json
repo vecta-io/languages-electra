@@ -1564,7 +1564,10 @@
         "show_tubing_info": "Mostra le informazioni sui tubi",
         "show_hosing_info": "Mostra le informazioni sui tubi",
         "show_comp_info": "Mostra le informazioni sui componenti",
-        "lineSpacing": "Interlinea"
+        "lineSpacing": "Interlinea",
+        "tblock_empty": "Si prega di inserire i dati del cartiglio",
+        "page_scope": "Ambito della pagina:",
+        "doc_scope": "Scopo del documento:"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
