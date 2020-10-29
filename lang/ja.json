@@ -850,7 +850,10 @@
         "show_comp_info": "コンポーネント情報を表示する",
         "qty": "量",
         "height": "高さ",
-        "lineSpacing": "行間隔"
+        "lineSpacing": "行間隔",
+        "doc_scope": "ドキュメントの範囲：",
+        "page_scope": "ページ範囲：",
+        "tblock_empty": "タイトルブロックデータを挿入してください"
     },
     "list": {
         "sv": "スウェーデン語",
