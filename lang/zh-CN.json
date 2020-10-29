@@ -1564,7 +1564,10 @@
         "qty": "数量",
         "show_tubing_info": "显示油管信息",
         "show_comp_info": "显示组件信息",
-        "lineSpacing": "行间距"
+        "lineSpacing": "行间距",
+        "page_scope": "页面范围：",
+        "tblock_empty": "请插入标题栏数据",
+        "doc_scope": "文件范围："
     },
     "drop": {
         "maintain_id": "维护ID",
