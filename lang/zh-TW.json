@@ -1564,7 +1564,10 @@
         "show_cable_info": "顯示電纜信息",
         "show_hosing_info": "顯示主機信息",
         "show_comp_info": "顯示組件信息",
-        "lineSpacing": "行間距"
+        "lineSpacing": "行間距",
+        "doc_scope": "文件範圍：",
+        "page_scope": "頁面範圍：",
+        "tblock_empty": "請插入標題欄數據"
     },
     "drop": {
         "maintain_id": "維護ID",
