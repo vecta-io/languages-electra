@@ -2885,5 +2885,9 @@
     "partner": {
         "partner": "夥伴",
         "validating": "證實"
+    },
+    "e9_trial": {
+        "title": "體驗<br>全新Electra E9",
+        "enter_email": "輸入你的電子郵箱地址"
     }
 }
