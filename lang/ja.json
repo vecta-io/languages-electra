@@ -2885,9 +2885,5 @@
     "partner": {
         "partner": "相棒",
         "validating": "検証中"
-    },
-    "e9_trial": {
-        "enter_email": "メールアドレスを入力してください",
-        "title": "体験<br>まったく新しいエレクトラE9"
     }
 }
