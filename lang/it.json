@@ -2885,5 +2885,9 @@
         "prefab": "Prefab <br /> Circuito",
         "electra_import": "Importa report <br />",
         "electra_export": "Export <br /> Report"
+    },
+    "e9_trial": {
+        "enter_email": "Inserisci il tuo indirizzo email",
+        "title": "Prova il<br> Nuova Electra E9"
     }
 }
