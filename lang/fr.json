@@ -2885,5 +2885,9 @@
     "partner": {
         "validating": "Valider",
         "partner": "Partenaire"
+    },
+    "e9_trial": {
+        "enter_email": "Entrez votre adresse email",
+        "title": "Découvrez le<br> Tout nouveau Electra E9"
     }
 }
