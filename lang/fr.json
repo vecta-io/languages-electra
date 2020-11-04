@@ -1212,7 +1212,9 @@
         "inline": "En ligne",
         "object": "Objet",
         "compression_mode": "Mode de compression",
-        "duplicate": "Dupliquer"
+        "duplicate": "Dupliquer",
+        "stencil_move_down": "Déplacer le pochoir vers le bas",
+        "stencil_move_up": "Déplacer le pochoir vers le haut"
     },
     "list": {
         "en": "Anglais",
