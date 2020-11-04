@@ -1221,7 +1221,9 @@
         "inline": "列をなして",
         "object": "オブジェクト",
         "compression_mode": "圧縮モード",
-        "duplicate": "複製"
+        "duplicate": "複製",
+        "stencil_move_up": "ステンシルを上に移動",
+        "stencil_move_down": "ステンシルを下に移動します"
     },
     "login": {
         "or": "または",
