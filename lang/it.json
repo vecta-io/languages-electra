@@ -1826,7 +1826,9 @@
         "inline": "In linea",
         "image": "Immagine",
         "compression_mode": "Modalità di compressione",
-        "duplicate": "Duplicare"
+        "duplicate": "Duplicare",
+        "stencil_move_up": "Sposta lo stencil verso l'alto",
+        "stencil_move_down": "Sposta lo stencil verso il basso"
     },
     "stencil": {
         "free_svg_symbols": "Simboli SVG Liberi",
