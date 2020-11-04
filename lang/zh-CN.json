@@ -1826,7 +1826,9 @@
         "inline": "排队",
         "image": "图片",
         "compression_mode": "压缩方式",
-        "duplicate": "重复"
+        "duplicate": "重复",
+        "stencil_move_up": "上移模具",
+        "stencil_move_down": "向下移动模具"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
