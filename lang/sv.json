@@ -1112,7 +1112,9 @@
         "image": "Bild",
         "inline": "I kö",
         "compression_mode": "Komprimeringsläge",
-        "duplicate": "Duplicera"
+        "duplicate": "Duplicera",
+        "stencil_move_up": "Flytta stencilen uppåt",
+        "stencil_move_down": "Flytta ner stencilen"
     },
     "page": {
         "mm": "Millimeter",
