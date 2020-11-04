@@ -1826,7 +1826,9 @@
         "object": "目的",
         "inline": "排隊",
         "compression_mode": "壓縮方式",
-        "duplicate": "重複"
+        "duplicate": "重複",
+        "stencil_move_up": "上移模具",
+        "stencil_move_down": "向下移動模具"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
