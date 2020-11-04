@@ -1689,6 +1689,8 @@
         "twitter": "Share to Twitter",
         "slack": "Share to Slack",
         "refresh_search": "Refresh search",
+        "stencil_move_up": "Move stencil up",
+        "stencil_move_down": "Move stencil down",
         "show_sym_name": "Show icon names",
         "hide_sym_name": "Hide icon names",
         "edit_stencil": "Edit stencil",
