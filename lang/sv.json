@@ -853,7 +853,8 @@
         "lineSpacing": "Radavstånd",
         "tblock_empty": "Vänligen sätt in data för titelblock",
         "page_scope": "Sidans omfattning:",
-        "doc_scope": "Dokumentets omfattning:"
+        "doc_scope": "Dokumentets omfattning:",
+        "onshape_sessions": "Du har loggats ut. Logga in igen"
     },
     "drop": {
         "in": "tum",
@@ -1965,7 +1966,8 @@
         "manage_wirings.icon": "Hantera ledningar",
         "manage_db.icon": "Hantera databaser",
         "team.icon": "Team Drawing:",
-        "personal.icon": "Personlig ritning: Hem"
+        "personal.icon": "Personlig ritning: Hem",
+        "company.icon": "Företag Ritning:"
     },
     "verify": {
         "failed": "Verifiering misslyckades",
