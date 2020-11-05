@@ -202,7 +202,8 @@
         "electra_import.icon": "汇入报告",
         "manage_db.icon": "管理数据库",
         "personal.icon": "个人绘画：主页",
-        "team.icon": "团队图纸："
+        "team.icon": "团队图纸：",
+        "company.icon": "公司图纸："
     },
     "mssg": {
         "sending": "正在发送",
@@ -1567,7 +1568,8 @@
         "lineSpacing": "行间距",
         "page_scope": "页面范围：",
         "tblock_empty": "请插入标题栏数据",
-        "doc_scope": "文件范围："
+        "doc_scope": "文件范围：",
+        "onshape_sessions": "您已注销。请重新登录"
     },
     "drop": {
         "maintain_id": "维护ID",
