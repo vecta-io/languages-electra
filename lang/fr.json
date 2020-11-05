@@ -853,7 +853,8 @@
         "lineSpacing": "Interligne",
         "doc_scope": "Portée du document:",
         "tblock_empty": "Veuillez insérer les données du cartouche",
-        "page_scope": "Portée de la page:"
+        "page_scope": "Portée de la page:",
+        "onshape_sessions": "Vous avez été déconnecté. Veuillez vous reconnecter"
     },
     "page": {
         "cm": "Centimètre",
@@ -1965,7 +1966,8 @@
         "manage_wirings.icon": "Gérer les câblages",
         "manage_db.icon": "Gérer les bases de données",
         "team.icon": "Dessin d'équipe:",
-        "personal.icon": "Dessin personnel: Accueil"
+        "personal.icon": "Dessin personnel: Accueil",
+        "company.icon": "Dessin d'entreprise:"
     },
     "signup": {
         "failed": "L'inscription a échoué",
