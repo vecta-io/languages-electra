@@ -202,7 +202,8 @@
         "electra_import.icon": "Importa report",
         "manage_wirings.icon": "Gestire le wirings",
         "team.icon": "Disegno della squadra:",
-        "personal.icon": "Disegno personale: casa"
+        "personal.icon": "Disegno personale: casa",
+        "company.icon": "Disegno dell'azienda:"
     },
     "mssg": {
         "sending": "Invio",
@@ -1567,7 +1568,8 @@
         "lineSpacing": "Interlinea",
         "tblock_empty": "Si prega di inserire i dati del cartiglio",
         "page_scope": "Ambito della pagina:",
-        "doc_scope": "Scopo del documento:"
+        "doc_scope": "Scopo del documento:",
+        "onshape_sessions": "Sei stato disconnesso. Accedi di nuovo"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
