@@ -853,7 +853,8 @@
         "lineSpacing": "行間隔",
         "doc_scope": "ドキュメントの範囲：",
         "page_scope": "ページ範囲：",
-        "tblock_empty": "タイトルブロックデータを挿入してください"
+        "tblock_empty": "タイトルブロックデータを挿入してください",
+        "onshape_sessions": "ログアウトしました。もう一度サインインしてください"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1910,7 +1911,8 @@
         "electra_import.icon": "レポートをインポートする",
         "manage_wirings.icon": "配線を管理する",
         "personal.icon": "個人の絵：家",
-        "team.icon": "チームの描画："
+        "team.icon": "チームの描画：",
+        "company.icon": "会社の図面："
     },
     "preload": {
         "slack": "優れたコラボレーションのためにVectaとSlackを統合",
