@@ -853,8 +853,7 @@
         "lineSpacing": "Interligne",
         "doc_scope": "Portée du document:",
         "tblock_empty": "Veuillez insérer les données du cartouche",
-        "page_scope": "Portée de la page:",
-        "onshape_sessions": "Vous avez été déconnecté. Veuillez vous reconnecter"
+        "page_scope": "Portée de la page:"
     },
     "page": {
         "cm": "Centimètre",
@@ -1214,8 +1213,8 @@
         "object": "Objet",
         "compression_mode": "Mode de compression",
         "duplicate": "Dupliquer",
-        "stencil_move_down": "Déplacer le pochoir vers le bas",
-        "stencil_move_up": "Déplacer le pochoir vers le haut"
+        "up_stencil": "Déplacer le pochoir vers le haut",
+        "down_stencil": "Déplacer le pochoir vers le bas"
     },
     "list": {
         "en": "Anglais",
@@ -2889,5 +2888,15 @@
     "partner": {
         "validating": "Valider",
         "partner": "Partenaire"
+    },
+    "onshape": {
+        "remove_acc_button": "Supprimer le compte",
+        "removing_acc": "Supprimer un compte Electra Cloud existant",
+        "logged_out": "Vous avez été déconnecté. Veuillez vous reconnecter",
+        "remove_acc": "Supprimer le compte Electra Cloud existant",
+        "duplicate_auth": "<b>Vous êtes actuellement un utilisateur existant sur le site Web d&#39;Electra Cloud.</b><br><br> Les utilisateurs ne peuvent pas partager la même adresse e-mail enregistrée pour Electra Cloud d&#39;Onshape et le site Web d&#39;Electra Cloud. Il est conseillé aux utilisateurs existants d&#39;Electra Cloud d&#39;utiliser une autre adresse e-mail pour accéder à Onshape.Pour continuer avec Electra Cloud d&#39;Onshape, souhaitez-vous supprimer votre compte Electra Cloud actuel?",
+        "contact_us": "Contactez-nous à <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> si vous rencontrez toujours des problèmes d&#39;authentification.<br><br> Nous vous remercions de votre patience et vous répondrons dans les plus brefs délais.",
+        "remove_warning": "Tous vos dessins et équipes seront automatiquement supprimés lors de la suppression de votre compte. Êtes-vous sûr de vouloir supprimer votre compte?",
+        "auth_error": "<b>Vous rencontrez des difficultés pour accéder à votre compte?</b><br><br> Vérifiez l&#39;onglet de votre console en appuyant sur <b>F12</b> et voyez s&#39;il y a des messages d&#39;erreur affichés dans le journal de la console.<br> Si tel est le cas, veuillez faire une capture d&#39;écran et nous l&#39;envoyer à <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .<br> Veuillez également spécifier le navigateur et le numéro de version que vous utilisez actuellement.<br><br> Si aucun message d&#39;erreur n&#39;apparaît, veuillez vider le cache et recharger à nouveau le site Web.<br><br> Contactez-nous à <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> si vous rencontrez toujours des problèmes d&#39;authentification.<br><br> Nous vous remercions de votre patience et vous répondrons dans les plus brefs délais."
     }
 }
