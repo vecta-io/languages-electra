@@ -853,8 +853,7 @@
         "lineSpacing": "行間隔",
         "doc_scope": "ドキュメントの範囲：",
         "page_scope": "ページ範囲：",
-        "tblock_empty": "タイトルブロックデータを挿入してください",
-        "onshape_sessions": "ログアウトしました。もう一度サインインしてください"
+        "tblock_empty": "タイトルブロックデータを挿入してください"
     },
     "list": {
         "sv": "スウェーデン語",
@@ -1223,8 +1222,8 @@
         "object": "オブジェクト",
         "compression_mode": "圧縮モード",
         "duplicate": "複製",
-        "stencil_move_up": "ステンシルを上に移動",
-        "stencil_move_down": "ステンシルを下に移動します"
+        "up_stencil": "ステンシルを上に移動",
+        "down_stencil": "ステンシルを下に移動します"
     },
     "login": {
         "or": "または",
@@ -2889,5 +2888,15 @@
     "partner": {
         "partner": "相棒",
         "validating": "検証中"
+    },
+    "onshape": {
+        "remove_acc_button": "アカウントを削除",
+        "logged_out": "ログアウトしました。もう一度サインインしてください",
+        "removing_acc": "既存のElectraCloudアカウントを削除する",
+        "remove_warning": "アカウントが削除されると、すべての図面とチームが自動的に削除されます。アカウントを削除してもよろしいですか？",
+        "duplicate_auth": "<b>あなたは現在、ElectraCloudのWebサイトの既存のユーザーです。</b><br><br>ユーザーは、OnshapeのElectraCloudとElectraCloudのWebサイトの両方で同じ登録済みメールアドレスを共有することはできません。既存のElectraCloudユーザーは、別の電子メールアドレスを使用してOnshapeにアクセスすることをお勧めします。OnshapeのElectra Cloudを続行するには、現在のElectra Cloudアカウントを削除しますか？",
+        "auth_error": "<b>アカウントへのアクセスに問題がありますか？</b><br><br> <b>F12キー</b>を押してコンソールタブを確認し、コンソールログにエラーメッセージが表示されているかどうかを確認します。<br>ある場合は、スクリーンショットを<a href=\"mailto:support@radicasoftware.com\">撮り</a>、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでお送りください</a>。<br>現在使用しているブラウザとバージョン番号も指定してください。<br><br>エラーメッセージが表示されない場合は、キャッシュをクリアして、Webサイトを再度リロードしてください。<br><br>それでも認証に問題がある場合は、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでご連絡ください</a>。<br><br>しばらくお待ちいただきますようお願い申し上げます。できるだけ早くご連絡いたします。",
+        "contact_us": "それでも認証に問題がある場合は、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでご連絡ください</a>。<br><br>しばらくお待ちいただきますようお願い申し上げます。できるだけ早くご連絡いたします。",
+        "remove_acc": "既存のElectraCloudアカウントを削除します"
     }
 }
