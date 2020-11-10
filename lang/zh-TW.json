@@ -1568,8 +1568,7 @@
         "lineSpacing": "行間距",
         "doc_scope": "文件範圍：",
         "page_scope": "頁面範圍：",
-        "tblock_empty": "請插入標題欄數據",
-        "onshape_sessions": "您已註銷。請重新登錄"
+        "tblock_empty": "請插入標題欄數據"
     },
     "drop": {
         "maintain_id": "維護ID",
@@ -1829,8 +1828,8 @@
         "inline": "排隊",
         "compression_mode": "壓縮方式",
         "duplicate": "重複",
-        "stencil_move_up": "上移模具",
-        "stencil_move_down": "向下移動模具"
+        "down_stencil": "向下移動模具",
+        "up_stencil": "上移模具"
     },
     "stencil": {
         "free_svg_symbols": "免費SVG符號",
@@ -2889,5 +2888,15 @@
     "partner": {
         "partner": "夥伴",
         "validating": "證實"
+    },
+    "onshape": {
+        "remove_acc_button": "刪除帳戶",
+        "logged_out": "您已註銷。請重新登錄",
+        "remove_acc": "刪除現有的Electra Cloud帳戶",
+        "removing_acc": "刪除現有的Electra Cloud帳戶",
+        "contact_us": "如果您仍然對身份驗證有疑問，請通過<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>與我們<a href=\"mailto:support@radicasoftware.com\">聯繫</a>。<br><br>感謝您的耐心配合，我們將盡快與您聯繫。",
+        "remove_warning": "您的帳戶被刪除後，您所有的圖紙和團隊都會被自動刪除。您確定要刪除您的帳戶嗎？",
+        "duplicate_auth": "<b>您當前是Electra Cloud網站上的現有用戶。</b><br><br>用戶無法為Onshape的Electra Cloud和Electra Cloud的網站共享相同的註冊電子郵件地址。建議現有的Electra Cloud用戶使用其他電子郵件地址訪問Onshape。要繼續使用Onshape的Electra Cloud，您要刪除當前的Electra Cloud帳戶嗎？",
+        "auth_error": "<b>無法訪問您的帳戶？</b><br><br>通過按<b>F12鍵</b>檢查控制台選項卡，查看控制台日誌中是否顯示任何錯誤消息。<br>如果有的話，請對其進行截圖並發送至<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> 。<br>請同時指定您當前使用的瀏覽器和版本號。<br><br>如果未顯示任何錯誤消息，請繼續清除緩存並重新加載網站。<br><br>如果您仍然對身份驗證有疑問，請通過<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>與我們<a href=\"mailto:support@radicasoftware.com\">聯繫</a>。<br><br>感謝您的耐心配合，我們將盡快與您聯繫。"
     }
 }
