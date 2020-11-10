@@ -1568,8 +1568,7 @@
         "lineSpacing": "行间距",
         "page_scope": "页面范围：",
         "tblock_empty": "请插入标题栏数据",
-        "doc_scope": "文件范围：",
-        "onshape_sessions": "您已注销。请重新登录"
+        "doc_scope": "文件范围："
     },
     "drop": {
         "maintain_id": "维护ID",
@@ -1829,8 +1828,8 @@
         "image": "图片",
         "compression_mode": "压缩方式",
         "duplicate": "重复",
-        "stencil_move_up": "上移模具",
-        "stencil_move_down": "向下移动模具"
+        "up_stencil": "上移模具",
+        "down_stencil": "向下移动模具"
     },
     "stencil": {
         "free_svg_symbols": "免费SVG符号",
@@ -2889,5 +2888,15 @@
     "partner": {
         "partner": "伙伴",
         "validating": "证实"
+    },
+    "onshape": {
+        "remove_acc_button": "删除帐户",
+        "remove_acc": "删除现有的Electra Cloud帐户",
+        "removing_acc": "删除现有的Electra Cloud帐户",
+        "auth_error": "<b>无法访问您的帐户？</b><br><br>通过按<b>F12键</b>检查控制台选项卡，查看控制台日志中是否显示任何错误消息。<br>如果有的话，请对其进行截图并发送至<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> 。<br>请同时指定您当前使用的浏览器和版本号。<br><br>如果未显示任何错误消息，请继续清除缓存并重新加载网站。<br><br>如果您仍然对身份验证有疑问，请通过<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>与我们<a href=\"mailto:support@radicasoftware.com\">联系</a>。<br><br>感谢您的耐心配合，我们将尽快与您联系。",
+        "logged_out": "您已注销。请重新登录",
+        "remove_warning": "您的帐户被删除后，您所有的图纸和团队都会被自动删除。您确定要删除您的帐户吗？",
+        "contact_us": "如果您仍然对身份验证有疑问，请通过<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>与我们<a href=\"mailto:support@radicasoftware.com\">联系</a>。<br><br>感谢您的耐心配合，我们将尽快与您联系。",
+        "duplicate_auth": "<b>您当前是Electra Cloud网站上的现有用户。</b><br><br>用户无法为Onshape的Electra Cloud和Electra Cloud的网站共享相同的注册电子邮件地址。建议现有的Electra Cloud用户使用其他电子邮件地址访问Onshape。要继续使用Onshape的Electra Cloud，您要删除当前的Electra Cloud帐户吗？"
     }
 }
