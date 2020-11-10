@@ -1568,8 +1568,7 @@
         "lineSpacing": "Interlinea",
         "tblock_empty": "Si prega di inserire i dati del cartiglio",
         "page_scope": "Ambito della pagina:",
-        "doc_scope": "Scopo del documento:",
-        "onshape_sessions": "Sei stato disconnesso. Accedi di nuovo"
+        "doc_scope": "Scopo del documento:"
     },
     "drop": {
         "maintain_id": "Mantieni ID",
@@ -1829,8 +1828,8 @@
         "image": "Immagine",
         "compression_mode": "Modalità di compressione",
         "duplicate": "Duplicare",
-        "stencil_move_up": "Sposta lo stencil verso l'alto",
-        "stencil_move_down": "Sposta lo stencil verso il basso"
+        "up_stencil": "Sposta lo stencil verso l'alto",
+        "down_stencil": "Sposta lo stencil verso il basso"
     },
     "stencil": {
         "free_svg_symbols": "Simboli SVG Liberi",
@@ -2889,5 +2888,15 @@
         "prefab": "Prefab <br /> Circuito",
         "electra_import": "Importa report <br />",
         "electra_export": "Export <br /> Report"
+    },
+    "onshape": {
+        "remove_acc_button": "Rimuovi l'account",
+        "logged_out": "Sei stato disconnesso. Accedi di nuovo",
+        "remove_acc": "Rimuovi l'account Electra Cloud esistente",
+        "duplicate_auth": "<b>Sei attualmente un utente esistente sul sito web di Electra Cloud.</b><br><br> Gli utenti non sono in grado di condividere lo stesso indirizzo e-mail registrato sia per Electra Cloud di Onshape che per il sito Web di Electra Cloud. Si consiglia agli utenti esistenti di Electra Cloud di utilizzare un altro indirizzo e-mail per accedere a Onshape. Per continuare con Electra Cloud di Onshape, si desidera rimuovere il proprio account Electra Cloud attuale?",
+        "removing_acc": "Rimozione dell'account Electra Cloud esistente",
+        "contact_us": "Contattaci a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> se hai ancora problemi con l&#39;autenticazione.<br><br> Ti ringraziamo per la tua pazienza e ti ricontatteremo il prima possibile.",
+        "auth_error": "<b>Hai problemi ad accedere al tuo account?</b><br><br> Controlla la scheda della tua console premendo <b>F12</b> e verifica se sono presenti messaggi di errore nel registro della console.<br> In tal caso, fare uno screenshot e inviarcelo a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .<br> Si prega di specificare anche il browser e il numero di versione attualmente in uso.<br><br> Se non viene visualizzato alcun messaggio di errore, procedere con la cancellazione della cache e ricaricare nuovamente il sito web.<br><br> Contattaci a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> se hai ancora problemi con l&#39;autenticazione.<br><br> Ti ringraziamo per la tua pazienza e ti ricontatteremo il prima possibile.",
+        "remove_warning": "Tutti i tuoi disegni e i tuoi team verranno automaticamente eliminati alla rimozione del tuo account. Sei sicuro di rimuovere il tuo account?"
     }
 }
