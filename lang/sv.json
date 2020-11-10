@@ -853,8 +853,7 @@
         "lineSpacing": "Radavstånd",
         "tblock_empty": "Vänligen sätt in data för titelblock",
         "page_scope": "Sidans omfattning:",
-        "doc_scope": "Dokumentets omfattning:",
-        "onshape_sessions": "Du har loggats ut. Logga in igen"
+        "doc_scope": "Dokumentets omfattning:"
     },
     "drop": {
         "in": "tum",
@@ -1114,8 +1113,8 @@
         "inline": "I kö",
         "compression_mode": "Komprimeringsläge",
         "duplicate": "Duplicera",
-        "stencil_move_up": "Flytta stencilen uppåt",
-        "stencil_move_down": "Flytta ner stencilen"
+        "down_stencil": "Flytta ner stencilen",
+        "up_stencil": "Flytta stencilen uppåt"
     },
     "page": {
         "mm": "Millimeter",
@@ -2889,5 +2888,15 @@
     "partner": {
         "partner": "Partner",
         "validating": "validera"
+    },
+    "onshape": {
+        "remove_acc_button": "Ta bort konto",
+        "remove_acc": "Ta bort befintligt Electra Cloud-konto",
+        "logged_out": "Du har loggats ut. Logga in igen",
+        "removing_acc": "Ta bort befintligt Electra Cloud-konto",
+        "remove_warning": "Alla dina ritningar och team raderas automatiskt när ditt konto tas bort. Är du säker på att du tar bort ditt konto?",
+        "contact_us": "<a href=\"mailto:support@radicasoftware.com\">Kontakta</a> oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> om du fortfarande har problem med autentisering.<br><br> Vi tackar dig för ditt tålamod och kommer tillbaka till dig så snart som möjligt.",
+        "auth_error": "<b>Har du problem med att komma åt ditt konto?</b><br><br> Kontrollera konsolfliken genom att trycka på <b>F12</b> och se om det finns några felmeddelanden som visas i konsolloggen.<br> Om det finns, vänligen skärmdumpa det och skicka till oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .<br> Ange också vilken webbläsare och vilket versionsnummer du använder för närvarande.<br><br> Om inget felmeddelande visas, fortsätt med att rensa cacheminnet och ladda om webbplatsen igen.<br><br> <a href=\"mailto:support@radicasoftware.com\">Kontakta</a> oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> om du fortfarande har problem med autentisering.<br><br> Vi tackar dig för ditt tålamod och kommer tillbaka till dig så snart som möjligt.",
+        "duplicate_auth": "<b>Du är för närvarande en befintlig användare på Electra Clouds webbplats.</b><br><br> Användare kan inte dela samma registrerade e-postadress för både Onshape&#39;s Electra Cloud och Electra Clouds webbplats. Befintliga Electra Cloud-användare rekommenderas att använda en annan e-postadress för att komma åt Onshape. För att fortsätta med Onshape&#39;s Electra Cloud, vill du ta bort ditt nuvarande Electra Cloud-konto?"
     }
 }
