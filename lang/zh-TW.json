@@ -2898,5 +2898,9 @@
         "remove_warning": "您的帳戶被刪除後，您所有的圖紙和團隊都會被自動刪除。您確定要刪除您的帳戶嗎？",
         "duplicate_auth": "<b>您當前是Electra Cloud網站上的現有用戶。</b><br><br>用戶無法為Onshape的Electra Cloud和Electra Cloud的網站共享相同的註冊電子郵件地址。建議現有的Electra Cloud用戶使用其他電子郵件地址訪問Onshape。要繼續使用Onshape的Electra Cloud，您要刪除當前的Electra Cloud帳戶嗎？",
         "auth_error": "<b>無法訪問您的帳戶？</b><br><br>通過按<b>F12鍵</b>檢查控制台選項卡，查看控制台日誌中是否顯示任何錯誤消息。<br>如果有的話，請對其進行截圖並發送至<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> 。<br>請同時指定您當前使用的瀏覽器和版本號。<br><br>如果未顯示任何錯誤消息，請繼續清除緩存並重新加載網站。<br><br>如果您仍然對身份驗證有疑問，請通過<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>與我們<a href=\"mailto:support@radicasoftware.com\">聯繫</a>。<br><br>感謝您的耐心配合，我們將盡快與您聯繫。"
+    },
+    "e9_trial": {
+        "enter_email": "輸入你的電子郵箱地址",
+        "title": "體驗<br>全新Electra E9"
     }
 }
