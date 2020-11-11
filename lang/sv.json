@@ -2898,5 +2898,9 @@
         "contact_us": "<a href=\"mailto:support@radicasoftware.com\">Kontakta</a> oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> om du fortfarande har problem med autentisering.<br><br> Vi tackar dig för ditt tålamod och kommer tillbaka till dig så snart som möjligt.",
         "auth_error": "<b>Har du problem med att komma åt ditt konto?</b><br><br> Kontrollera konsolfliken genom att trycka på <b>F12</b> och se om det finns några felmeddelanden som visas i konsolloggen.<br> Om det finns, vänligen skärmdumpa det och skicka till oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .<br> Ange också vilken webbläsare och vilket versionsnummer du använder för närvarande.<br><br> Om inget felmeddelande visas, fortsätt med att rensa cacheminnet och ladda om webbplatsen igen.<br><br> <a href=\"mailto:support@radicasoftware.com\">Kontakta</a> oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> om du fortfarande har problem med autentisering.<br><br> Vi tackar dig för ditt tålamod och kommer tillbaka till dig så snart som möjligt.",
         "duplicate_auth": "<b>Du är för närvarande en befintlig användare på Electra Clouds webbplats.</b><br><br> Användare kan inte dela samma registrerade e-postadress för både Onshape&#39;s Electra Cloud och Electra Clouds webbplats. Befintliga Electra Cloud-användare rekommenderas att använda en annan e-postadress för att komma åt Onshape. För att fortsätta med Onshape&#39;s Electra Cloud, vill du ta bort ditt nuvarande Electra Cloud-konto?"
+    },
+    "e9_trial": {
+        "enter_email": "Skriv in din mailadress",
+        "title": "Upplev<br> Alla nya Electra E9"
     }
 }
