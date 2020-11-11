@@ -2898,5 +2898,9 @@
         "contact_us": "Contattaci a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> se hai ancora problemi con l&#39;autenticazione.<br><br> Ti ringraziamo per la tua pazienza e ti ricontatteremo il prima possibile.",
         "auth_error": "<b>Hai problemi ad accedere al tuo account?</b><br><br> Controlla la scheda della tua console premendo <b>F12</b> e verifica se sono presenti messaggi di errore nel registro della console.<br> In tal caso, fare uno screenshot e inviarcelo a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .<br> Si prega di specificare anche il browser e il numero di versione attualmente in uso.<br><br> Se non viene visualizzato alcun messaggio di errore, procedere con la cancellazione della cache e ricaricare nuovamente il sito web.<br><br> Contattaci a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> se hai ancora problemi con l&#39;autenticazione.<br><br> Ti ringraziamo per la tua pazienza e ti ricontatteremo il prima possibile.",
         "remove_warning": "Tutti i tuoi disegni e i tuoi team verranno automaticamente eliminati alla rimozione del tuo account. Sei sicuro di rimuovere il tuo account?"
+    },
+    "e9_trial": {
+        "enter_email": "Inserisci il tuo indirizzo email",
+        "title": "Prova il<br> Nuova Electra E9"
     }
 }
