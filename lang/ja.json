@@ -2898,5 +2898,9 @@
         "auth_error": "<b>アカウントへのアクセスに問題がありますか？</b><br><br> <b>F12キー</b>を押してコンソールタブを確認し、コンソールログにエラーメッセージが表示されているかどうかを確認します。<br>ある場合は、スクリーンショットを<a href=\"mailto:support@radicasoftware.com\">撮り</a>、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでお送りください</a>。<br>現在使用しているブラウザとバージョン番号も指定してください。<br><br>エラーメッセージが表示されない場合は、キャッシュをクリアして、Webサイトを再度リロードしてください。<br><br>それでも認証に問題がある場合は、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでご連絡ください</a>。<br><br>しばらくお待ちいただきますようお願い申し上げます。できるだけ早くご連絡いたします。",
         "contact_us": "それでも認証に問題がある場合は、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでご連絡ください</a>。<br><br>しばらくお待ちいただきますようお願い申し上げます。できるだけ早くご連絡いたします。",
         "remove_acc": "既存のElectraCloudアカウントを削除します"
+    },
+    "e9_trial": {
+        "enter_email": "メールアドレスを入力してください",
+        "title": "体験<br>まったく新しいエレクトラE9"
     }
 }
