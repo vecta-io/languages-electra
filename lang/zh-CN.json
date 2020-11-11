@@ -2898,5 +2898,9 @@
         "remove_warning": "您的帐户被删除后，您所有的图纸和团队都会被自动删除。您确定要删除您的帐户吗？",
         "contact_us": "如果您仍然对身份验证有疑问，请通过<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>与我们<a href=\"mailto:support@radicasoftware.com\">联系</a>。<br><br>感谢您的耐心配合，我们将尽快与您联系。",
         "duplicate_auth": "<b>您当前是Electra Cloud网站上的现有用户。</b><br><br>用户无法为Onshape的Electra Cloud和Electra Cloud的网站共享相同的注册电子邮件地址。建议现有的Electra Cloud用户使用其他电子邮件地址访问Onshape。要继续使用Onshape的Electra Cloud，您要删除当前的Electra Cloud帐户吗？"
+    },
+    "e9_trial": {
+        "enter_email": "输入你的电子邮箱地址",
+        "title": "体验<br>全新Electra E9"
     }
 }
