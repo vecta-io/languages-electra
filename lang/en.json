@@ -782,7 +782,7 @@
         "cancel": "Cancel",
         "help_pauserecord": "Enter a name for the paused recording",
         "pause_name": "Recording name",
-        "default_recording": "default_recording",
+        "default_recording": "Default recording",
         "untitled_drawing": "Untitled drawing",
         "untitled_folder": "Untitled folder",
         "untitled_file": "Untitled file",
@@ -2712,12 +2712,12 @@
     },
     "list": {
         "en": "English",
-        "fr": "French",
-        "ja": "Japanese",
-        "sv": "Swedish",
-        "zh-CN": "Simplified Chinese",
-        "zh-TW": "Traditional Chinese",
-        "it": "Italian"
+        "fr": "Français",
+        "ja": "日本語",
+        "sv": "Svenska",
+        "zh-CN": "简体中文",
+        "zh-TW": "繁體中文",
+        "it": "Italiano"
     },
     "account": {
         "contacting_server": "Contacting server",
