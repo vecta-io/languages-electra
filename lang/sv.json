@@ -203,7 +203,7 @@
         "custom_linestyle": "Anpassad linjestil",
         "untitled_drawing": "Namnlös ritning",
         "all_changes_saved": "Alla ändringar sparade",
-        "default_recording": "standardinspelning",
+        "default_recording": "Standardinspelning",
         "process_intersect": "Bearbetar skärning",
         "custom_lineweight": "Anpassad linjevikt",
         "incomplete_removal": "Vissa ritningar / mappar är inte borttagna eftersom du inte har tillräcklig behörighet.",
@@ -1218,12 +1218,12 @@
     },
     "list": {
         "en": "Engelska",
-        "ja": "japansk",
+        "ja": "日本語",
         "sv": "Svenska",
-        "fr": "franska",
-        "zh-CN": "Förenklad kinesiska",
-        "zh-TW": "Traditionell kinesiska",
-        "it": "Italienska"
+        "fr": "Français",
+        "zh-CN": "简体中文",
+        "zh-TW": "繁體中文",
+        "it": "Italiano"
     },
     "login": {
         "or": "Eller",
