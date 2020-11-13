@@ -203,7 +203,7 @@
         "help_roundcorner": "許可：m、in、cm、mm、pt、px。例：3 mm、3 px、3",
         "custom_linestyle": "カスタムラインスタイル",
         "all_changes_saved": "すべての変更を保存しました",
-        "default_recording": "default_recording",
+        "default_recording": "デフォルトの録音",
         "custom_lineweight": "カスタムラインの重み",
         "process_intersect": "処理交差",
         "no_shapes_selected": "1つまたは複数の図形を選択してください",
@@ -856,13 +856,13 @@
         "tblock_empty": "タイトルブロックデータを挿入してください"
     },
     "list": {
-        "sv": "スウェーデン語",
+        "sv": "Svenska",
         "ja": "日本語",
-        "fr": "フランス語",
+        "fr": "Français",
         "en": "英語",
-        "zh-TW": "繁体字中国語",
-        "zh-CN": "簡体字中国語",
-        "it": "イタリア語"
+        "zh-TW": "繁體中文",
+        "zh-CN": "简体中文",
+        "it": "Italiano"
     },
     "page": {
         "a4": "A4：297mm×210mm",
