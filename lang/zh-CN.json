@@ -783,7 +783,7 @@
         "cancel": "取消",
         "help_pauserecord": "输入一个名称为暂停的记录",
         "pause_name": "记录名称",
-        "default_recording": "默认记录",
+        "default_recording": "默认录音",
         "untitled_drawing": "无标题绘图",
         "untitled_folder": "无标题文件夹",
         "untitled_layer": "无标题图层",
@@ -2703,12 +2703,12 @@
     },
     "list": {
         "en": "英语",
-        "fr": "法语",
-        "ja": "日语",
-        "sv": "瑞典语",
+        "fr": "Français",
+        "ja": "日本語",
+        "sv": "Svenska",
         "zh-CN": "简体中文",
-        "zh-TW": "繁体中文",
-        "it": "义大利文"
+        "zh-TW": "繁體中文",
+        "it": "Italiano"
     },
     "account": {
         "contacting_server": "正在联系服务器",
