@@ -203,7 +203,7 @@
         "help_pauserecord": "Entrez un nom pour l'enregistrement mis en pause",
         "link_placeholder": "https://vecta.io",
         "process_intersect": "Traitement se croisent",
-        "default_recording": "default_recording",
+        "default_recording": "Enregistrement par défaut",
         "all_changes_saved": "Tous les changements enregistrés",
         "custom_lineweight": "Poids de trait personnalisé",
         "invitation_removed": "En attente d'invitation supprimée.",
@@ -1218,12 +1218,12 @@
     },
     "list": {
         "en": "Anglais",
-        "sv": "suédois",
-        "ja": "Japonais",
-        "fr": "français",
-        "zh-TW": "Chinois traditionnel",
-        "zh-CN": "Chinois simplifié",
-        "it": "italien"
+        "sv": "Svenska",
+        "ja": "日本語",
+        "fr": "Français",
+        "zh-TW": "繁體中文",
+        "zh-CN": "简体中文",
+        "it": "Italiano"
     },
     "login": {
         "or": "OU",
