@@ -783,7 +783,7 @@
         "cancel": "Annulla",
         "help_pauserecord": "Inserire un nome per la registrazione in pausa",
         "pause_name": "Nome di registrazione",
-        "default_recording": "default_recording",
+        "default_recording": "Registrazione predefinita",
         "untitled_drawing": "Disegno senza titolo",
         "untitled_folder": "Cartella senza titolo",
         "untitled_file": "File senza titolo",
@@ -2703,12 +2703,12 @@
     },
     "list": {
         "en": "Inglese",
-        "fr": "Francese",
-        "ja": "Giapponese",
-        "sv": "Svedese",
-        "zh-CN": "Cinese semplificato",
-        "zh-TW": "Cinese tradizionale",
-        "it": "italiano"
+        "fr": "Français",
+        "ja": "日本語",
+        "sv": "Svenska",
+        "zh-CN": "简体中文",
+        "zh-TW": "繁體中文",
+        "it": "Italiano"
     },
     "account": {
         "contacting_server": "Server di Contatto",
