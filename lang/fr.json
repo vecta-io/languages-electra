@@ -2526,7 +2526,7 @@
     "banner_320x50": "Bannière: 320 x 50 (px)",
     "banner_320x100": "Bannière: 320 x 100 (px)",
     "banner_320x250": "Bannière: 320 x 250 (px)",
-    "custom": "Douane",
+    "custom": "Personnalisé",
     "scale": "Échelle",
     "cust_size": "Taille personnalisée (largeur x hauteur)",
     "width": "Largeur",
@@ -2646,7 +2646,7 @@
       "key_incre_type": "Incrément du clavier",
       "key_incre_types": {
         "auto": "Auto",
-        "custom": "Douane"
+        "custom": "Personnalisé"
       },
       "custom_key_incre": "Définir l'incrément",
       "connector_curve": "Taille de la courbe du connecteur",
