@@ -2643,12 +2643,12 @@
       "lang": "Linguaggio",
       "sym_resize": "Ridimensiona automaticamente i simboli per agganciarli alla griglia",
       "export_selection": "Ignora la selezione e utilizza l'intera pagina durante l'esportazione",
-      "key_incre_type": "Incremento della tastiera",
+      "key_incre_type": "Offset di spinta",
       "key_incre_types": {
         "auto": "Auto",
         "custom": "Personalizzato"
       },
-      "custom_key_incre": "Imposta incremento",
+      "custom_key_incre": "Imposta l'offset della spinta",
       "connector_curve": "Dimensioni della curva del connettore",
       "new_mssg": "Il messaggio di chat viene ricevuto",
       "new_user": "Il collaboratore si unisce alla modifica",
