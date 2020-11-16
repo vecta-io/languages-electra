@@ -1,7 +1,7 @@
 {
   "onboard": {
     "welcome_to_vecta": "歡迎來到Vecta！<br /><br />讓我們開始您的第一幅畫<br />這裡。",
-    "prompt_restore_drawing": "你知道你可以恢復你的<br />圖紙即使移入<br />垃圾？",
+    "prompt_restore_drawing": "你知道你可以從垃圾桶<br />恢復你的圖紙嗎？",
     "prompt_restore_team": "你知道你可以恢復你的<br />團隊即使離開垃圾箱也可以嗎？",
     "prompt_create_drawing": "歡迎回來！<br /><br />您今天將創建什麼圖紙？",
     "prompt_create_team": "開始建立團隊並邀請朋友加入<br />輕鬆共享圖紙並進行協作<br />即時的。<br /><br />只需點擊“ +”號即可創建您的<br />一線隊。",
@@ -11,13 +11,13 @@
     "team_guide": "團隊中創建的工程圖將在成員之間自動共享，這是確保團隊真正發揮作用的最簡單方法。",
     "invite_header": "邀請隊友",
     "invite_para": "邀請您的同事使您的團隊快速運轉",
-    "skip": "跳躍？",
-    "skip_tour": "以前做過嗎？跳過遊覽。",
+    "skip": "略过？",
+    "skip_tour": "以前遊覽過？略過遊覽。",
     "two_steps": "第1步，共2步",
     "one_step": "第2步，共2步",
     "final_step": "最後1個步驟：",
     "next": "下一個",
-    "back": "背部",
+    "back": "返回",
     "select_all": "全選",
     "end_list": "您已到達列表的末尾。",
     "continue": "邀請新團隊",
@@ -2896,6 +2896,6 @@
   },
   "e9_trial": {
     "title": "體驗<br>全新Electra E9",
-    "enter_email": "輸入你的電子郵箱地址"
+    "enter_email": "輸入您的電子郵箱地址"
   }
 }
