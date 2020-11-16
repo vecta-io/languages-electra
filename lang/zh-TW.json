@@ -1302,7 +1302,7 @@
     "loc_format_help": "示例：/3.A5",
     "units_help": "接受英寸（in），厘米（cm），毫米（mm），像素（px）",
     "general_options": "常規選項",
-    "electra_options": "伊萊克特拉選項",
+    "electra_options": "Electra選項",
     "ref_pop_up": "彈出時彈出參考窗口",
     "auto_resize": "自動以in/mm/cm/meters為單位調整大小",
     "wire_propagation": "電線自動傳播和檢測",
