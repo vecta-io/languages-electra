@@ -2644,12 +2644,12 @@
       "lang": "Language",
       "sym_resize": "Automatically resize symbols to snap on grid",
       "export_selection": "Ignore selection and use entire page when exporting",
-      "key_incre_type": "Keyboard increment",
+      "key_incre_type": "Nudging offset",
       "key_incre_types": {
         "auto": "Auto",
         "custom": "Custom"
       },
-      "custom_key_incre": "Set increment",
+      "custom_key_incre": "Set nudging offset",
       "connector_curve": "Connector curve size",
       "new_mssg": "Chat message is received",
       "new_user": "Collaborator joins editing",
