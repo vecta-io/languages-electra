@@ -2643,12 +2643,12 @@
       "lang": "Språk",
       "sym_resize": "Ändra storlek på symboler automatiskt så att de snäpps fast i rutnätet",
       "export_selection": "Ignorera valet och använd hela sidan när du exporterar",
-      "key_incre_type": "Tangentbordsökning",
+      "key_incre_type": "Nudging offset",
       "key_incre_types": {
         "auto": "Bil",
         "custom": "Beställnings"
       },
-      "custom_key_incre": "Ställ in steg",
+      "custom_key_incre": "Ställ in nudging offset",
       "connector_curve": "Anslutningskurvstorlek",
       "new_mssg": "Chattmeddelandet tas emot",
       "new_user": "Collaborator går med i redigeringen",
