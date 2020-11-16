@@ -2643,12 +2643,12 @@
       "lang": "Langue",
       "sym_resize": "Redimensionner automatiquement les symboles pour les accrocher sur la grille",
       "export_selection": "Ignorer la sélection et utiliser la page entière lors de l'exportation",
-      "key_incre_type": "Incrément du clavier",
+      "key_incre_type": "Décalage de poussée",
       "key_incre_types": {
         "auto": "Auto",
         "custom": "Personnalisé"
       },
-      "custom_key_incre": "Définir l'incrément",
+      "custom_key_incre": "Définir le décalage de poussée",
       "connector_curve": "Taille de la courbe du connecteur",
       "new_mssg": "Le message de chat est reçu",
       "new_user": "Un collaborateur rejoint l'édition",
