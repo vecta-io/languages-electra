@@ -2643,12 +2643,12 @@
       "lang": "言語",
       "sym_resize": "シンボルのサイズを自動的に変更してグリッドにスナップします",
       "export_selection": "エクスポート時に選択を無視してページ全体を使用する",
-      "key_incre_type": "キーボードの増分",
+      "key_incre_type": "ナッジオフセット",
       "key_incre_types": {
         "auto": "自動",
         "custom": "カスタム"
       },
-      "custom_key_incre": "インクリメントを設定",
+      "custom_key_incre": "ナッジオフセットを設定する",
       "connector_curve": "コネクタの曲線サイズ",
       "new_mssg": "チャットメッセージを受信しました",
       "new_user": "共同編集者が編集に参加",
