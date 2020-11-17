@@ -531,16 +531,16 @@
     "remove_template": "刪除模板",
     "removed_template": "模板已成功刪除",
     "loading_folders": "加載文件夾",
-    "team_names": {
-      "0": "好玩",
-      "1": "太棒了",
-      "2": "快樂",
-      "3": "有史以來最好的團隊",
-      "4": "涼",
-      "5": "聰明",
-      "6": "太棒了",
-      "7": "優勝者"
-    },
+    "team_names": [
+      "好玩",
+      "太棒了",
+      "快樂",
+      "有史以來最好的團隊",
+      "涼",
+      "聰明",
+      "太棒了",
+      "優勝者"
+    ],
     "move": "移動",
     "moving": "移動",
     "copying": "複製中",
@@ -1899,37 +1899,37 @@
     "stencil_0": {
       "name": "流程圖",
       "desc": "一般流程圖符號",
-      "cat": {
-        "0": "圖表"
-      }
+      "cat": [
+        "圖表"
+      ]
     },
     "stencil_25": {
       "name": "網絡技術",
       "desc": "通用網絡技術符號",
-      "cat": {
-        "0": "電腦與網絡"
-      }
+      "cat": [
+        "電腦與網絡"
+      ]
     },
     "stencil_36": {
       "name": "網絡基礎設施",
       "desc": "網絡基礎架構符號",
-      "cat": {
-        "0": "電腦與網絡"
-      }
+      "cat": [
+        "電腦與網絡"
+      ]
     },
     "stencil_37": {
       "name": "基本網絡",
       "desc": "基本網絡符號",
-      "cat": {
-        "0": "電腦與網絡"
-      }
+      "cat": [
+        "電腦與網絡"
+      ]
     },
     "stencil_38": {
       "name": "電腦和顯示器",
       "desc": "顯示裝置",
-      "cat": {
-        "0": "電腦與網絡"
-      }
+      "cat": [
+        "電腦與網絡"
+      ]
     },
     "stencil_49": {
       "name": "測量工具",
@@ -1954,297 +1954,297 @@
     "stencil_72": {
       "name": "品牌0-9",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_73": {
       "name": "品牌AA-AO",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_74": {
       "name": "品牌AP-AZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_75": {
       "name": "品牌BA-BZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_76": {
       "name": "品牌CA-CL",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_77": {
       "name": "品牌CM-CZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_78": {
       "name": "品牌DA-DZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_79": {
       "name": "品牌EA-EZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_80": {
       "name": "品牌FA-FZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_81": {
       "name": "品牌GA-GN",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_82": {
       "name": "品牌GO-GZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_83": {
       "name": "品牌HA-HZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_84": {
       "name": "品牌IA-IZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_85": {
       "name": "品牌JA-JZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_86": {
       "name": "品牌KA-KZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_87": {
       "name": "品牌LA-LZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_88": {
       "name": "品牌MA-MZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_89": {
       "name": "品牌NA-NZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_90": {
       "name": "品牌OA-OZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_91": {
       "name": "品牌PA-PI",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_92": {
       "name": "品牌PJ-PZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_93": {
       "name": "品牌質量檢查-QZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_94": {
       "name": "品牌RA-RZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_95": {
       "name": "品牌SA-SM",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_96": {
       "name": "品牌SN-SZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_97": {
       "name": "品牌TA-TH",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_98": {
       "name": "品牌TI-TZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_99": {
       "name": "品牌UA-UZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_100": {
       "name": "品牌VA-VZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_101": {
       "name": "品牌WA-WZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_102": {
       "name": "品牌XA-XZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_103": {
       "name": "品牌YA-YZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_104": {
       "name": "品牌ZA-ZZ",
       "desc": "",
-      "cat": {
-        "0": "品牌徽標"
-      },
+      "cat": [
+        "品牌徽標"
+      ],
       "credit_name": "矢量徽標區",
       "credit_link": "https://vectorlogo.zone/"
     },
@@ -2287,51 +2287,51 @@
     "stencil_232": {
       "name": "氣動泵，氣缸和電動機",
       "desc": "氣動迴路圖設計中使用的氣動泵，氣缸和電動機符號",
-      "cat": {
-        "0": "氣動"
-      }
+      "cat": [
+        "氣動"
+      ]
     },
     "stencil_233": {
       "name": "氣動閥",
       "desc": "氣動閥符號，包括3/2方向，5/2方向和其他用於設計氣動迴路圖的裝置",
-      "cat": {
-        "0": "氣動"
-      }
+      "cat": [
+        "氣動"
+      ]
     },
     "stencil_234": {
       "name": "氣動雜項",
       "desc": "氣動迴路設計中使用的其他氣動符號和裝置",
-      "cat": {
-        "0": "氣動"
-      }
+      "cat": [
+        "氣動"
+      ]
     },
     "stencil_235": {
       "name": "液壓雜項",
       "desc": "液壓迴路設計中使用的其他液壓符號和設備",
-      "cat": {
-        "0": "液壓"
-      }
+      "cat": [
+        "液壓"
+      ]
     },
     "stencil_236": {
       "name": "液壓閥",
       "desc": "液壓閥符號，包括3/2方向，5/2方向和液壓迴路圖設計中使用的其他設備",
-      "cat": {
-        "0": "液壓"
-      }
+      "cat": [
+        "液壓"
+      ]
     },
     "stencil_237": {
       "name": "液壓泵、氣缸和電動機",
       "desc": "液壓迴路圖設計中使用的液壓泵，油缸和電動機符號",
-      "cat": {
-        "0": "液壓"
-      }
+      "cat": [
+        "液壓"
+      ]
     },
     "stencil_238": {
       "name": "電腦品牌",
       "desc": "",
-      "cat": {
-        "0": "電腦與網絡"
-      }
+      "cat": [
+        "電腦與網絡"
+      ]
     },
     "stencil_246": {
       "name": "報告書",
@@ -2344,9 +2344,9 @@
     "stencil_261": {
       "name": "資料庫",
       "desc": "資料庫",
-      "cat": {
-        "0": "電腦與網絡"
-      }
+      "cat": [
+        "電腦與網絡"
+      ]
     },
     "stencil_262": {
       "name": "自動化品牌",
@@ -2402,44 +2402,44 @@
     "plugin_6": {
       "name": "折線圖",
       "desc": "根據輸入數據繪製折線/曲線圖",
-      "cat": {
-        "0": "圖表"
-      }
+      "cat": [
+        "圖表"
+      ]
     },
     "plugin_7": {
       "name": "餅形圖",
       "desc": "根據輸入數據分割圓/橢圓",
-      "cat": {
-        "0": "圖表"
-      }
+      "cat": [
+        "圖表"
+      ]
     },
     "plugin_10": {
       "name": "量角器",
       "desc": "一鍵式，使用量角器將徑向網格插入圓中",
-      "cat": {
-        "0": "效能工具"
-      }
+      "cat": [
+        "效能工具"
+      ]
     },
     "plugin_12": {
       "name": "墊片",
       "desc": "在指定範圍內均勻地隔開形狀以使您的繪圖快速整齊",
-      "cat": {
-        "0": "效能工具"
-      }
+      "cat": [
+        "效能工具"
+      ]
     },
     "plugin_15": {
       "name": "項目符號清單",
       "desc": "記下列表中的所有項目，運行此插件，它將變成整齊的子彈列表！",
-      "cat": {
-        "0": "效能工具"
-      }
+      "cat": [
+        "效能工具"
+      ]
     },
     "plugin_20": {
       "name": "出口標籤",
       "desc": "導出要在標籤打印機上使用的電線標籤",
-      "cat": {
-        "0": "標籤，電線"
-      }
+      "cat": [
+        "標籤，電線"
+      ]
     },
     "plugin_21": {
       "name": "演示版",
@@ -2833,46 +2833,46 @@
     "-Loxn7-CtNjHfsPo42wA": {
       "name": "JIC繪圖",
       "desc": "JIC繪圖",
-      "cat": {
-        "0": "示意圖"
-      }
+      "cat": [
+        "示意圖"
+      ]
     },
     "-LoxxvRqk_lWbHufxTdS": {
       "name": "IEC繪圖",
       "desc": "IEC繪圖",
-      "cat": {
-        "0": "示意圖"
-      }
+      "cat": [
+        "示意圖"
+      ]
     }
   },
   "templates": {
     "-Loxpy4vEMNvGpXMIT8k": {
       "name": "JIC繪圖",
       "desc": "JIC繪圖",
-      "cat": {
-        "0": "示意圖"
-      }
+      "cat": [
+        "示意圖"
+      ]
     },
     "-Loxq8iCdBBrJNuBMX-F": {
       "name": "IEC繪圖",
       "desc": "IEC繪圖",
-      "cat": {
-        "0": "示意圖"
-      }
+      "cat": [
+        "示意圖"
+      ]
     },
     "-LoxqWnpmATjjX8sjiRH": {
       "name": "液壓繪圖",
       "desc": "液壓繪圖",
-      "cat": {
-        "0": "示意圖"
-      }
+      "cat": [
+        "示意圖"
+      ]
     },
     "-LoxqnRmMJ13M6IJ4y04": {
       "name": "氣動繪圖",
       "desc": "氣動繪圖",
-      "cat": {
-        "0": "示意圖"
-      }
+      "cat": [
+        "示意圖"
+      ]
     }
   },
   "tools": {
