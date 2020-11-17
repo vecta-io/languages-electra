@@ -531,16 +531,16 @@
     "remove_template": "Rimozione del modello",
     "removed_template": "Modello rimosso con successo",
     "loading_folders": "Caricamento cartelle",
-    "team_names": {
-      "0": "Divertimento",
-      "1": "Eccezionale",
-      "2": "Contento",
-      "3": "Miglior squadra di sempre",
-      "4": "Freddo",
-      "5": "Inteligente",
-      "6": "Fantastico",
-      "7": "Vincitori"
-    },
+    "team_names": [
+      "Divertimento",
+      "Eccezionale",
+      "Contento",
+      "Miglior squadra di sempre",
+      "Freddo",
+      "Inteligente",
+      "Fantastico",
+      "Vincitori"
+    ],
     "move": "Mossa",
     "moving": "In movimento",
     "copying": "Copia",
@@ -1899,37 +1899,37 @@
     "stencil_0": {
       "name": "Diagramma di flusso",
       "desc": "Simboli del diagramma di flusso generale",
-      "cat": {
-        "0": "Grafici e diagrammi"
-      }
+      "cat": [
+        "Grafici e diagrammi"
+      ]
     },
     "stencil_25": {
       "name": "Tecnologie Web",
       "desc": "Simboli generali della tecnologia web",
-      "cat": {
-        "0": "Computer e rete"
-      }
+      "cat": [
+        "Computer e rete"
+      ]
     },
     "stencil_36": {
       "name": "Infrastruttura di rete",
       "desc": "Simboli dell'infrastruttura di rete",
-      "cat": {
-        "0": "Computer e rete"
-      }
+      "cat": [
+        "Computer e rete"
+      ]
     },
     "stencil_37": {
       "name": "Rete di base",
       "desc": "Simboli di rete di base",
-      "cat": {
-        "0": "Computer e rete"
-      }
+      "cat": [
+        "Computer e rete"
+      ]
     },
     "stencil_38": {
       "name": "Computer e monitor",
       "desc": "Dispositivi di visualizzazione",
-      "cat": {
-        "0": "Computer e rete"
-      }
+      "cat": [
+        "Computer e rete"
+      ]
     },
     "stencil_49": {
       "name": "Strumenti di misurazione",
@@ -1954,297 +1954,297 @@
     "stencil_72": {
       "name": "Marche 0-9",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_73": {
       "name": "Marche AA - AO",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_74": {
       "name": "Marche AP - AZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_75": {
       "name": "Marche BA - BZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_76": {
       "name": "Marche CA - CL",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_77": {
       "name": "Marche CM - CZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_78": {
       "name": "Marche DA - DZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_79": {
       "name": "Marche EA - EZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_80": {
       "name": "Marche FA - FZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_81": {
       "name": "Marche GA - GN",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_82": {
       "name": "Marche GO - GZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_83": {
       "name": "Marche HA - HZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_84": {
       "name": "Marche IA - IZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_85": {
       "name": "Marche JA - JZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_86": {
       "name": "Marche KA - KZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_87": {
       "name": "Marche LA - LZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_88": {
       "name": "Marche MA - MZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_89": {
       "name": "Marche NA - NZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_90": {
       "name": "Marche OA - OZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_91": {
       "name": "Marche PA - PI",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_92": {
       "name": "Marche PJ - PZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_93": {
       "name": "Marchi QA - QZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_94": {
       "name": "Marche RA - RZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_95": {
       "name": "Marche SA - SM",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_96": {
       "name": "Marche SN - SZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_97": {
       "name": "Marche TA - TH",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_98": {
       "name": "Marche TI - TZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_99": {
       "name": "Marche UA - UZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_100": {
       "name": "Marche VA - VZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_101": {
       "name": "Marche WA - WZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_102": {
       "name": "Marche XA - XZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_103": {
       "name": "Marche YA - YZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_104": {
       "name": "Marche ZA - ZZ",
       "desc": "",
-      "cat": {
-        "0": "Marchi Logo"
-      },
+      "cat": [
+        "Marchi Logo"
+      ],
       "credit_name": "Vector Logo Zone",
       "credit_link": "https://vectorlogo.zone/"
     },
@@ -2287,51 +2287,51 @@
     "stencil_232": {
       "name": "Pompe Pneumatiche, Cilindri e Motori",
       "desc": "Pompe pneumatiche, cilindri e simboli motori utilizzati nella progettazione di disegni a circuito pneumatico",
-      "cat": {
-        "0": "Pneumatico"
-      }
+      "cat": [
+        "Pneumatico"
+      ]
     },
     "stencil_233": {
       "name": "Valvole pneumatiche",
       "desc": "Simboli valvole pneumatiche tra cui 3/2 modi, 5/2 modi e altri dispositivi utilizzati nella progettazione di disegni a circuito pneumatico",
-      "cat": {
-        "0": "Pneumatico"
-      }
+      "cat": [
+        "Pneumatico"
+      ]
     },
     "stencil_234": {
       "name": "Misc pneumatico",
       "desc": "Vari simboli pneumatici e dispositivi utilizzati nel circuito del circuito pneumatico",
-      "cat": {
-        "0": "Pneumatico"
-      }
+      "cat": [
+        "Pneumatico"
+      ]
     },
     "stencil_235": {
       "name": "Misc idraulico",
       "desc": "Vari simboli idraulici e dispositivi utilizzati nel circuito del circuito idraulico",
-      "cat": {
-        "0": "Idraulico"
-      }
+      "cat": [
+        "Idraulico"
+      ]
     },
     "stencil_236": {
       "name": "Valvole idrauliche",
       "desc": "Simboli valvole idrauliche comodamente compresi 3/2 modi, 5/2 modi e altri dispositivi utilizzati nella progettazione di disegni di circuito idraulico",
-      "cat": {
-        "0": "Idraulico"
-      }
+      "cat": [
+        "Idraulico"
+      ]
     },
     "stencil_237": {
       "name": "Pompe Idrauliche, Cilindri e Motori",
       "desc": "Pompe idrauliche, cilindri e simboli motori utilizzati nella progettazione di disegni a circuito idraulico",
-      "cat": {
-        "0": "Idraulico"
-      }
+      "cat": [
+        "Idraulico"
+      ]
     },
     "stencil_238": {
       "name": "Marche di computer",
       "desc": "",
-      "cat": {
-        "0": "Computer e rete"
-      }
+      "cat": [
+        "Computer e rete"
+      ]
     },
     "stencil_246": {
       "name": "Rapporti",
@@ -2344,9 +2344,9 @@
     "stencil_261": {
       "name": "Banche dati",
       "desc": "Banche dati",
-      "cat": {
-        "0": "Computer e rete"
-      }
+      "cat": [
+        "Computer e rete"
+      ]
     },
     "stencil_262": {
       "name": "Marchi di automazione",
@@ -2402,44 +2402,44 @@
     "plugin_6": {
       "name": "Grafico a linee",
       "desc": "Inserisce i tuoi dati e un grafico di linea sarà pronto per la tua presentazione",
-      "cat": {
-        "0": "Grafici"
-      }
+      "cat": [
+        "Grafici"
+      ]
     },
     "plugin_7": {
       "name": "Grafico a torta",
       "desc": "Inserisce i tuoi dati, avrai un grafico a torta pronto per raccontare storie!",
-      "cat": {
-        "0": "Grafici"
-      }
+      "cat": [
+        "Grafici"
+      ]
     },
     "plugin_10": {
       "name": "Goniometro",
       "desc": "Con un click inserire griglia radiale nel vostro cerchio utilizzando Protractor",
-      "cat": {
-        "0": "Strumenti di produttività"
-      }
+      "cat": [
+        "Strumenti di produttività"
+      ]
     },
     "plugin_12": {
       "name": "Distanziatore",
       "desc": "Spaziare le forme uniformemente a un intervallo specificato per ottenere il tuo disegno in modo rapido",
-      "cat": {
-        "0": "Strumenti di produttività"
-      }
+      "cat": [
+        "Strumenti di produttività"
+      ]
     },
     "plugin_15": {
       "name": "Elenco puntato",
       "desc": "Scherza tutti gli articoli della tua lista, esegui questo plugin e diventerà un elenco di bullet neat!",
-      "cat": {
-        "0": "Strumenti di produttività"
-      }
+      "cat": [
+        "Strumenti di produttività"
+      ]
     },
     "plugin_20": {
       "name": "Esportare l'etichettatura",
       "desc": "Esporta etichette per cavi da utilizzare su stampanti di etichette",
-      "cat": {
-        "0": "Etichetta, fili"
-      }
+      "cat": [
+        "Etichetta, fili"
+      ]
     },
     "plugin_21": {
       "name": "Demo",
@@ -2833,46 +2833,46 @@
     "-Loxn7-CtNjHfsPo42wA": {
       "name": "Disegno JIC",
       "desc": "Disegno JIC",
-      "cat": {
-        "0": "Disegni Schematici"
-      }
+      "cat": [
+        "Disegni Schematici"
+      ]
     },
     "-LoxxvRqk_lWbHufxTdS": {
       "name": "IEC Disegno",
       "desc": "IEC Disegno",
-      "cat": {
-        "0": "Disegni Schematici"
-      }
+      "cat": [
+        "Disegni Schematici"
+      ]
     }
   },
   "templates": {
     "-Loxpy4vEMNvGpXMIT8k": {
       "name": "Disegno JIC",
       "desc": "Disegno JIC",
-      "cat": {
-        "0": "Disegni Schematici"
-      }
+      "cat": [
+        "Disegni Schematici"
+      ]
     },
     "-Loxq8iCdBBrJNuBMX-F": {
       "name": "IEC Disegno",
       "desc": "IEC Disegno",
-      "cat": {
-        "0": "Disegni Schematici"
-      }
+      "cat": [
+        "Disegni Schematici"
+      ]
     },
     "-LoxqWnpmATjjX8sjiRH": {
       "name": "Disegno Idraulico",
       "desc": "Disegno Idraulico",
-      "cat": {
-        "0": "Disegni Schematici"
-      }
+      "cat": [
+        "Disegni Schematici"
+      ]
     },
     "-LoxqnRmMJ13M6IJ4y04": {
       "name": "Disegno Pneumatico",
       "desc": "Disegno Pneumatico",
-      "cat": {
-        "0": "Disegni Schematici"
-      }
+      "cat": [
+        "Disegni Schematici"
+      ]
     }
   },
   "tools": {
