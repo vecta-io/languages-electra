@@ -531,16 +531,16 @@
     "remove_template": "Suppression du modèle",
     "removed_template": "Modèle supprimé avec succès",
     "loading_folders": "Chargement des dossiers",
-    "team_names": {
-      "0": "Amusement",
-      "1": "Impressionnant",
-      "2": "Heureux",
-      "3": "La meilleure équipe jamais constituée",
-      "4": "Cool",
-      "5": "Intelligent",
-      "6": "Fantastique",
-      "7": "Gagnants"
-    },
+    "team_names": [
+      "Amusement",
+      "Impressionnant",
+      "Heureux",
+      "La meilleure équipe jamais constituée",
+      "Cool",
+      "Intelligent",
+      "Fantastique",
+      "Gagnants"
+    ],
     "move": "Bouge toi",
     "moving": "En mouvement",
     "copying": "Copier",
@@ -1899,37 +1899,37 @@
     "stencil_0": {
       "name": "Organigramme",
       "desc": "Symboles de l'organigramme général",
-      "cat": {
-        "0": "Graphiques et diagrammes"
-      }
+      "cat": [
+        "Graphiques et diagrammes"
+      ]
     },
     "stencil_25": {
       "name": "Technologies Web",
       "desc": "Symboles généraux de la technologie Web",
-      "cat": {
-        "0": "Ordinateurs et réseau"
-      }
+      "cat": [
+        "Ordinateurs et réseau"
+      ]
     },
     "stencil_36": {
       "name": "Infrastructure de réseau",
       "desc": "Symboles d'infrastructure réseau",
-      "cat": {
-        "0": "Ordinateurs et réseau"
-      }
+      "cat": [
+        "Ordinateurs et réseau"
+      ]
     },
     "stencil_37": {
       "name": "Réseau de base",
       "desc": "Symboles de base du réseau",
-      "cat": {
-        "0": "Ordinateurs et réseau"
-      }
+      "cat": [
+        "Ordinateurs et réseau"
+      ]
     },
     "stencil_38": {
       "name": "Ordinateurs et moniteurs",
       "desc": "Appareils d'affichage",
-      "cat": {
-        "0": "Ordinateurs et réseau"
-      }
+      "cat": [
+        "Ordinateurs et réseau"
+      ]
     },
     "stencil_49": {
       "name": "Outils de mesure",
@@ -1954,297 +1954,297 @@
     "stencil_72": {
       "name": "Marques 0-9",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_73": {
       "name": "Marques AA - AO",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_74": {
       "name": "Marques AP - AZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_75": {
       "name": "Marques BA - BZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_76": {
       "name": "Marques CA - CL",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_77": {
       "name": "Marques CM - CZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_78": {
       "name": "Marques DA - DZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_79": {
       "name": "Marques EA - EZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_80": {
       "name": "Marques FA - FZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_81": {
       "name": "Marques GA - GN",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_82": {
       "name": "Marques GO - GZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_83": {
       "name": "Marques HA - HZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_84": {
       "name": "Marques IA - IZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_85": {
       "name": "Marques JA - JZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_86": {
       "name": "Marques KA - KZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_87": {
       "name": "Marques LA - LZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_88": {
       "name": "Marques MA - MZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_89": {
       "name": "Marques NA - NZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_90": {
       "name": "Marques OA - OZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_91": {
       "name": "Marques PA - PI",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_92": {
       "name": "Marques PJ - PZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_93": {
       "name": "Marques QA - QZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_94": {
       "name": "Marques RA - RZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_95": {
       "name": "Marques SA - SM",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_96": {
       "name": "Marques SN - SZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_97": {
       "name": "Marques TA - TH",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_98": {
       "name": "Marques TI - TZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_99": {
       "name": "Marques UA - UZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_100": {
       "name": "Marques VA - VZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_101": {
       "name": "Marques WA - WZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_102": {
       "name": "Marques XA - XZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_103": {
       "name": "Marques YA - YZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_104": {
       "name": "Marques ZA - ZZ",
       "desc": "",
-      "cat": {
-        "0": "Logo des marques"
-      },
+      "cat": [
+        "Logo des marques"
+      ],
       "credit_name": "Zone de logo vectoriel",
       "credit_link": "https://vectorlogo.zone/"
     },
@@ -2287,51 +2287,51 @@
     "stencil_232": {
       "name": "Pompes, cylindres et moteurs pneumatiques",
       "desc": "Pompes pneumatiques, cylindres et symboles de moteur utilisés dans la conception des dessins de circuits pneumatiques",
-      "cat": {
-        "0": "Pneumatique"
-      }
+      "cat": [
+        "Pneumatique"
+      ]
     },
     "stencil_233": {
       "name": "Vannes pneumatiques",
       "desc": "Symboles des vannes pneumatiques, y compris 3/2 voies, 5/2 voies et autres dispositifs utilisés dans la conception des dessins de circuits pneumatiques",
-      "cat": {
-        "0": "Pneumatique"
-      }
+      "cat": [
+        "Pneumatique"
+      ]
     },
     "stencil_234": {
       "name": "Divers pneumatiques",
       "desc": "Divers symboles et dispositifs pneumatiques utilisés dans la conception de circuits pneumatiques",
-      "cat": {
-        "0": "Pneumatique"
-      }
+      "cat": [
+        "Pneumatique"
+      ]
     },
     "stencil_235": {
       "name": "Divers hydraulique",
       "desc": "Divers symboles et dispositifs hydrauliques utilisés dans la conception des circuits hydrauliques",
-      "cat": {
-        "0": "Hydraulique"
-      }
+      "cat": [
+        "Hydraulique"
+      ]
     },
     "stencil_236": {
       "name": "Valves hydrauliques",
       "desc": "Symboles des vannes hydrauliques, y compris 3/2 voies, 5/2 voies et autres dispositifs utilisés dans la conception des dessins de circuits hydrauliques",
-      "cat": {
-        "0": "Hydraulique"
-      }
+      "cat": [
+        "Hydraulique"
+      ]
     },
     "stencil_237": {
       "name": "Pompes, cylindres et moteurs hydrauliques",
       "desc": "Pompes hydrauliques, cylindres et symboles de moteur utilisés dans la conception des dessins de circuits hydrauliques",
-      "cat": {
-        "0": "Hydraulique"
-      }
+      "cat": [
+        "Hydraulique"
+      ]
     },
     "stencil_238": {
       "name": "Marques d'ordinateurs",
       "desc": "",
-      "cat": {
-        "0": "Ordinateurs et réseau"
-      }
+      "cat": [
+        "Ordinateurs et réseau"
+      ]
     },
     "stencil_246": {
       "name": "Rapports",
@@ -2344,9 +2344,9 @@
     "stencil_261": {
       "name": "Bases de données",
       "desc": "Bases de données",
-      "cat": {
-        "0": "Ordinateurs et réseau"
-      }
+      "cat": [
+        "Ordinateurs et réseau"
+      ]
     },
     "stencil_262": {
       "name": "Marques d'automatisation",
@@ -2402,44 +2402,44 @@
     "plugin_6": {
       "name": "Graphique en ligne",
       "desc": "Tracer un graphique en ligne / courbe en fonction des données d'entrée",
-      "cat": {
-        "0": "Graphiques"
-      }
+      "cat": [
+        "Graphiques"
+      ]
     },
     "plugin_7": {
       "name": "Diagramme circulaire",
       "desc": "Diviser un cercle / ellipse en fonction des données d'entrée",
-      "cat": {
-        "0": "Graphiques"
-      }
+      "cat": [
+        "Graphiques"
+      ]
     },
     "plugin_10": {
       "name": "Rapporteur",
       "desc": "Dessine un rapporteur en cercle",
-      "cat": {
-        "0": "Outils de productivité"
-      }
+      "cat": [
+        "Outils de productivité"
+      ]
     },
     "plugin_12": {
       "name": "Entretoise",
       "desc": "Mettez des espaces entre les formes.",
-      "cat": {
-        "0": "Outils de productivité"
-      }
+      "cat": [
+        "Outils de productivité"
+      ]
     },
     "plugin_15": {
       "name": "Liste à puces",
       "desc": "Ajouter des puces à la liste de texte",
-      "cat": {
-        "0": "Outils de productivité"
-      }
+      "cat": [
+        "Outils de productivité"
+      ]
     },
     "plugin_20": {
       "name": "Étiquetage d'exportation",
       "desc": "Exporter les étiquettes de fil à utiliser sur les imprimantes d'étiquettes",
-      "cat": {
-        "0": "Étiquette, fils"
-      }
+      "cat": [
+        "Étiquette, fils"
+      ]
     },
     "plugin_21": {
       "name": "Démo",
@@ -2833,46 +2833,46 @@
     "-Loxn7-CtNjHfsPo42wA": {
       "name": "Dessin JIC",
       "desc": "Dessin JIC",
-      "cat": {
-        "0": "Dessins schématiques"
-      }
+      "cat": [
+        "Dessins schématiques"
+      ]
     },
     "-LoxxvRqk_lWbHufxTdS": {
       "name": "Dessin CEI",
       "desc": "Dessin CEI",
-      "cat": {
-        "0": "Dessins schématiques"
-      }
+      "cat": [
+        "Dessins schématiques"
+      ]
     }
   },
   "templates": {
     "-Loxpy4vEMNvGpXMIT8k": {
       "name": "Dessin JIC",
       "desc": "Dessin JIC",
-      "cat": {
-        "0": "Dessins schématiques"
-      }
+      "cat": [
+        "Dessins schématiques"
+      ]
     },
     "-Loxq8iCdBBrJNuBMX-F": {
       "name": "Dessin CEI",
       "desc": "Dessin CEI",
-      "cat": {
-        "0": "Dessins schématiques"
-      }
+      "cat": [
+        "Dessins schématiques"
+      ]
     },
     "-LoxqWnpmATjjX8sjiRH": {
       "name": "Dessin hydraulique",
       "desc": "Dessin hydraulique",
-      "cat": {
-        "0": "Dessins schématiques"
-      }
+      "cat": [
+        "Dessins schématiques"
+      ]
     },
     "-LoxqnRmMJ13M6IJ4y04": {
       "name": "Dessin pneumatique",
       "desc": "Dessin pneumatique",
-      "cat": {
-        "0": "Dessins schématiques"
-      }
+      "cat": [
+        "Dessins schématiques"
+      ]
     }
   },
   "tools": {
