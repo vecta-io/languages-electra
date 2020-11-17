@@ -531,16 +531,16 @@
     "remove_template": "テンプレートの削除",
     "removed_template": "テンプレートが正常に削除されました",
     "loading_folders": "フォルダを読み込んでいます",
-    "team_names": {
-      "0": "楽しい",
-      "1": "驚くばかり",
-      "2": "ハッピー",
-      "3": "史上最高のチーム",
-      "4": "涼しい",
-      "5": "スマート",
-      "6": "素晴らしい",
-      "7": "勝者"
-    },
+    "team_names": [
+      "楽しい",
+      "驚くばかり",
+      "ハッピー",
+      "史上最高のチーム",
+      "涼しい",
+      "スマート",
+      "素晴らしい",
+      "勝者"
+    ],
     "move": "移動",
     "moving": "引っ越し",
     "copying": "コピー",
@@ -1899,37 +1899,37 @@
     "stencil_0": {
       "name": "フローチャート",
       "desc": "一般的なフローチャート記号",
-      "cat": {
-        "0": "チャートと図"
-      }
+      "cat": [
+        "チャートと図"
+      ]
     },
     "stencil_25": {
       "name": "Webテクノロジー",
       "desc": "一般的なウェブ技術のシンボル",
-      "cat": {
-        "0": "コンピューターとネットワーク"
-      }
+      "cat": [
+        "コンピューターとネットワーク"
+      ]
     },
     "stencil_36": {
       "name": "ネットワークインフラストラクチャ",
       "desc": "ネットワークインフラストラクチャのシンボル",
-      "cat": {
-        "0": "コンピューターとネットワーク"
-      }
+      "cat": [
+        "コンピューターとネットワーク"
+      ]
     },
     "stencil_37": {
       "name": "基本ネットワーク",
       "desc": "基本的なネットワークシンボル",
-      "cat": {
-        "0": "コンピューターとネットワーク"
-      }
+      "cat": [
+        "コンピューターとネットワーク"
+      ]
     },
     "stencil_38": {
       "name": "コンピューターとモニター",
       "desc": "ディスプレイデバイス",
-      "cat": {
-        "0": "コンピューターとネットワーク"
-      }
+      "cat": [
+        "コンピューターとネットワーク"
+      ]
     },
     "stencil_49": {
       "name": "測定ツール",
@@ -1954,297 +1954,297 @@
     "stencil_72": {
       "name": "ブランド0〜9",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_73": {
       "name": "ブランドAA-AO",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_74": {
       "name": "ブランドAP-AZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_75": {
       "name": "ブランドBA-BZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_76": {
       "name": "ブランドCA-CL",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_77": {
       "name": "ブランドCM-CZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_78": {
       "name": "ブランドDA-DZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_79": {
       "name": "ブランドEA-EZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_80": {
       "name": "ブランドFA-FZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_81": {
       "name": "ブランドGA-GN",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_82": {
       "name": "ブランドGO-GZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_83": {
       "name": "ブランドHA-HZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_84": {
       "name": "ブランドIA-IZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_85": {
       "name": "ブランドJA-JZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_86": {
       "name": "ブランドKA-KZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_87": {
       "name": "ブランドLA-LZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_88": {
       "name": "ブランドMA-MZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_89": {
       "name": "ブランドNA-NZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_90": {
       "name": "ブランドOA-OZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_91": {
       "name": "ブランドPA-PI",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_92": {
       "name": "ブランドPJ-PZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_93": {
       "name": "ブランドQA-QZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_94": {
       "name": "ブランドRA-RZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_95": {
       "name": "ブランドSA-SM",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_96": {
       "name": "ブランドSN-SZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_97": {
       "name": "ブランドTA-TH",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_98": {
       "name": "ブランドTI-TZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_99": {
       "name": "ブランドUA-UZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_100": {
       "name": "ブランドVA-VZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_101": {
       "name": "ブランドWA-WZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_102": {
       "name": "ブランドXA-XZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_103": {
       "name": "ブランドYA-YZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_104": {
       "name": "ブランドZA-ZZ",
       "desc": "",
-      "cat": {
-        "0": "ブランドロゴ"
-      },
+      "cat": [
+        "ブランドロゴ"
+      ],
       "credit_name": "ベクターロゴゾーン",
       "credit_link": "https://vectorlogo.zone/"
     },
@@ -2287,51 +2287,51 @@
     "stencil_232": {
       "name": "空気圧ポンプ、シリンダー、モーター",
       "desc": "空気圧回路図の設計に使用される空気圧ポンプ、シリンダー、モーターの記号",
-      "cat": {
-        "0": "空気圧"
-      }
+      "cat": [
+        "空気圧"
+      ]
     },
     "stencil_233": {
       "name": "空気圧バルブ",
       "desc": "空気圧回路図の設計に使用される3/2ウェイ、5/2ウェイおよびその他のデバイスを含む空気圧バルブの記号",
-      "cat": {
-        "0": "空気圧"
-      }
+      "cat": [
+        "空気圧"
+      ]
     },
     "stencil_234": {
       "name": "空気圧その他",
       "desc": "空気圧回路設計で使用されるその他の空気圧記号およびデバイス",
-      "cat": {
-        "0": "空気圧"
-      }
+      "cat": [
+        "空気圧"
+      ]
     },
     "stencil_235": {
       "name": "その他の油圧",
       "desc": "油圧回路設計で使用されるその他の油圧シンボルとデバイス",
-      "cat": {
-        "0": "油圧"
-      }
+      "cat": [
+        "油圧"
+      ]
     },
     "stencil_236": {
       "name": "油圧バルブ",
       "desc": "3/2ウェイ、5/2ウェイ、および油圧回路図の設計に使用されるその他のデバイスを含む油圧バルブシンボル",
-      "cat": {
-        "0": "油圧"
-      }
+      "cat": [
+        "油圧"
+      ]
     },
     "stencil_237": {
       "name": "油圧ポンプ、シリンダー、モーター",
       "desc": "油圧回路図の設計に使用される油圧ポンプ、シリンダー、モーターの記号",
-      "cat": {
-        "0": "油圧"
-      }
+      "cat": [
+        "油圧"
+      ]
     },
     "stencil_238": {
       "name": "コンピュータブランド",
       "desc": "",
-      "cat": {
-        "0": "コンピューターとネットワーク"
-      }
+      "cat": [
+        "コンピューターとネットワーク"
+      ]
     },
     "stencil_246": {
       "name": "レポート",
@@ -2344,9 +2344,9 @@
     "stencil_261": {
       "name": "データベース",
       "desc": "データベース",
-      "cat": {
-        "0": "コンピューターとネットワーク"
-      }
+      "cat": [
+        "コンピューターとネットワーク"
+      ]
     },
     "stencil_262": {
       "name": "自動化ブランド",
@@ -2402,44 +2402,44 @@
     "plugin_6": {
       "name": "折れ線グラフ",
       "desc": "入力データに応じて線グラフ/曲線グラフをプロットする",
-      "cat": {
-        "0": "チャート"
-      }
+      "cat": [
+        "チャート"
+      ]
     },
     "plugin_7": {
       "name": "円グラフ",
       "desc": "入力データに従って円/楕円を分割する",
-      "cat": {
-        "0": "チャート"
-      }
+      "cat": [
+        "チャート"
+      ]
     },
     "plugin_10": {
       "name": "分度器",
       "desc": "円を描く分度器を描く",
-      "cat": {
-        "0": "生産性ツール"
-      }
+      "cat": [
+        "生産性ツール"
+      ]
     },
     "plugin_12": {
       "name": "スペーサー",
       "desc": "形状の間にスペースを入れてください。",
-      "cat": {
-        "0": "生産性ツール"
-      }
+      "cat": [
+        "生産性ツール"
+      ]
     },
     "plugin_15": {
       "name": "箇条書き",
       "desc": "テキストリストに箇条書きを追加する",
-      "cat": {
-        "0": "生産性ツール"
-      }
+      "cat": [
+        "生産性ツール"
+      ]
     },
     "plugin_20": {
       "name": "ラベルのエクスポート",
       "desc": "ラベルプリンターで使用するワイヤーラベルをエクスポートする",
-      "cat": {
-        "0": "ラベル、ワイヤー"
-      }
+      "cat": [
+        "ラベル、ワイヤー"
+      ]
     },
     "plugin_21": {
       "name": "デモ",
@@ -2833,46 +2833,46 @@
     "-Loxn7-CtNjHfsPo42wA": {
       "name": "JIC図面",
       "desc": "JIC図面",
-      "cat": {
-        "0": "回路図"
-      }
+      "cat": [
+        "回路図"
+      ]
     },
     "-LoxxvRqk_lWbHufxTdS": {
       "name": "IEC図面",
       "desc": "IEC図面",
-      "cat": {
-        "0": "回路図"
-      }
+      "cat": [
+        "回路図"
+      ]
     }
   },
   "templates": {
     "-Loxpy4vEMNvGpXMIT8k": {
       "name": "JIC図面",
       "desc": "JIC図面",
-      "cat": {
-        "0": "回路図"
-      }
+      "cat": [
+        "回路図"
+      ]
     },
     "-Loxq8iCdBBrJNuBMX-F": {
       "name": "IEC図面",
       "desc": "IEC図面",
-      "cat": {
-        "0": "回路図"
-      }
+      "cat": [
+        "回路図"
+      ]
     },
     "-LoxqWnpmATjjX8sjiRH": {
       "name": "油圧ドローイング",
       "desc": "油圧ドローイング",
-      "cat": {
-        "0": "回路図"
-      }
+      "cat": [
+        "回路図"
+      ]
     },
     "-LoxqnRmMJ13M6IJ4y04": {
       "name": "空気圧図面",
       "desc": "空気圧図面",
-      "cat": {
-        "0": "回路図"
-      }
+      "cat": [
+        "回路図"
+      ]
     }
   },
   "tools": {
