@@ -531,16 +531,16 @@
     "remove_template": "Ta bort mall",
     "removed_template": "Mallen har tagits bort",
     "loading_folders": "Läser in mappar",
-    "team_names": {
-      "0": "Roligt",
-      "1": "Grymt bra",
-      "2": "Lycklig",
-      "3": "Bästa laget någonsin",
-      "4": "Häftigt",
-      "5": "Smart",
-      "6": "Fantastisk",
-      "7": "Vinnare"
-    },
+    "team_names": [
+      "Roligt",
+      "Grymt bra",
+      "Lycklig",
+      "Bästa laget någonsin",
+      "Häftigt",
+      "Smart",
+      "Fantastisk",
+      "Vinnare"
+    ],
     "move": "Flytta",
     "moving": "Rör på sig",
     "copying": "Kopiering",
@@ -1899,37 +1899,37 @@
     "stencil_0": {
       "name": "Flödesschema",
       "desc": "Allmänna flödesscheman",
-      "cat": {
-        "0": "Diagram och diagram"
-      }
+      "cat": [
+        "Diagram och diagram"
+      ]
     },
     "stencil_25": {
       "name": "Webbteknologier",
       "desc": "Allmänna symboler för webbteknik",
-      "cat": {
-        "0": "Datorer och nätverk"
-      }
+      "cat": [
+        "Datorer och nätverk"
+      ]
     },
     "stencil_36": {
       "name": "Nätverksinfrastruktur",
       "desc": "Nätverksinfrastruktur symboler",
-      "cat": {
-        "0": "Datorer och nätverk"
-      }
+      "cat": [
+        "Datorer och nätverk"
+      ]
     },
     "stencil_37": {
       "name": "Grundläggande nätverk",
       "desc": "Grundläggande nätverkssymboler",
-      "cat": {
-        "0": "Datorer och nätverk"
-      }
+      "cat": [
+        "Datorer och nätverk"
+      ]
     },
     "stencil_38": {
       "name": "Datorer och bildskärmar",
       "desc": "Visa enheter",
-      "cat": {
-        "0": "Datorer och nätverk"
-      }
+      "cat": [
+        "Datorer och nätverk"
+      ]
     },
     "stencil_49": {
       "name": "Mätverktyg",
@@ -1954,297 +1954,297 @@
     "stencil_72": {
       "name": "Varumärken 0 - 9",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_73": {
       "name": "Varumärken AA - AO",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_74": {
       "name": "Varumärken AP - AZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_75": {
       "name": "Märken BA - BZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_76": {
       "name": "Varumärken CA - CL",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_77": {
       "name": "Varumärken CM - CZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://www.vectorlogo.zone/"
     },
     "stencil_78": {
       "name": "Varumärken DA - DZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_79": {
       "name": "Märken EA - EZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_80": {
       "name": "Märken FA - FZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_81": {
       "name": "Märken GA - GN",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_82": {
       "name": "Märken GO - GZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_83": {
       "name": "Märken HA - HZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_84": {
       "name": "Varumärken IA - IZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_85": {
       "name": "Märken JA - JZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_86": {
       "name": "Märken KA - KZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_87": {
       "name": "Märken LA - LZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_88": {
       "name": "Märken MA - MZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_89": {
       "name": "Märken NA - NZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_90": {
       "name": "Märken OA - OZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_91": {
       "name": "Varumärken PA - PI",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_92": {
       "name": "Märken PJ - PZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_93": {
       "name": "Märken QA - QZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_94": {
       "name": "Märken RA - RZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_95": {
       "name": "Varumärken SA - SM",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_96": {
       "name": "Märken SN - SZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_97": {
       "name": "Märken TA - TH",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_98": {
       "name": "Märken TI - TZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_99": {
       "name": "Märken UA - UZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_100": {
       "name": "Märken VA - VZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_101": {
       "name": "Varumärken WA - WZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_102": {
       "name": "Märken XA - XZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_103": {
       "name": "Märken YA - YZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_104": {
       "name": "Märken ZA - ZZ",
       "desc": "",
-      "cat": {
-        "0": "Varumärkeslogotyp"
-      },
+      "cat": [
+        "Varumärkeslogotyp"
+      ],
       "credit_name": "Vector logotyp zon",
       "credit_link": "https://vectorlogo.zone/"
     },
@@ -2287,51 +2287,51 @@
     "stencil_232": {
       "name": "Pneumatiska pumpar, cylindrar och motorer",
       "desc": "Pneumatiska pumpar, cylindrar och motorsymboler som används vid utformningen av pneumatiska kretsritningar",
-      "cat": {
-        "0": "Pneumatisk"
-      }
+      "cat": [
+        "Pneumatisk"
+      ]
     },
     "stencil_233": {
       "name": "Pneumatiska ventiler",
       "desc": "Pneumatiska ventilsymboler inklusive 3/2 sätt, 5/2 sätt och andra anordningar som används vid utformningen av pneumatiska kretsritningar",
-      "cat": {
-        "0": "Pneumatisk"
-      }
+      "cat": [
+        "Pneumatisk"
+      ]
     },
     "stencil_234": {
       "name": "Pneumatiska övriga",
       "desc": "Diverse pneumatiska symboler och enheter som används i pneumatisk kretsdesign",
-      "cat": {
-        "0": "Pneumatisk"
-      }
+      "cat": [
+        "Pneumatisk"
+      ]
     },
     "stencil_235": {
       "name": "Hydrauliska övriga",
       "desc": "Övriga hydrauliska symboler och enheter som används vid konstruktion av hydraulkretsar",
-      "cat": {
-        "0": "Hydraulisk"
-      }
+      "cat": [
+        "Hydraulisk"
+      ]
     },
     "stencil_236": {
       "name": "Hydrauliska ventiler",
       "desc": "Hydrauliska ventilsymboler inklusive 3/2-vägar, 5/2-vägar och andra anordningar som används för konstruktion av hydrauliska kretsritningar",
-      "cat": {
-        "0": "Hydraulisk"
-      }
+      "cat": [
+        "Hydraulisk"
+      ]
     },
     "stencil_237": {
       "name": "Hydrauliska pumpar, cylindrar och motorer",
       "desc": "Hydrauliska pumpar, cylindrar och motorsymboler som används vid utformningen av hydrauliska kretsritningar",
-      "cat": {
-        "0": "Hydraulisk"
-      }
+      "cat": [
+        "Hydraulisk"
+      ]
     },
     "stencil_238": {
       "name": "Datormärken",
       "desc": "",
-      "cat": {
-        "0": "Datorer och nätverk"
-      }
+      "cat": [
+        "Datorer och nätverk"
+      ]
     },
     "stencil_246": {
       "name": "Rapporter",
@@ -2344,9 +2344,9 @@
     "stencil_261": {
       "name": "Databaser",
       "desc": "Databaser",
-      "cat": {
-        "0": "Datorer och nätverk"
-      }
+      "cat": [
+        "Datorer och nätverk"
+      ]
     },
     "stencil_262": {
       "name": "Automation varumärken",
@@ -2402,44 +2402,44 @@
     "plugin_6": {
       "name": "Linjediagram",
       "desc": "Skriv en linje / kurvdiagram enligt ingående data",
-      "cat": {
-        "0": "Diagram"
-      }
+      "cat": [
+        "Diagram"
+      ]
     },
     "plugin_7": {
       "name": "Tårtdiagram",
       "desc": "Dela en cirkel / ellips enligt ingångsdata",
-      "cat": {
-        "0": "Diagram"
-      }
+      "cat": [
+        "Diagram"
+      ]
     },
     "plugin_10": {
       "name": "Gradskiva",
       "desc": "Rita en graderare med en cirkel",
-      "cat": {
-        "0": "Produktivitetsverktyg"
-      }
+      "cat": [
+        "Produktivitetsverktyg"
+      ]
     },
     "plugin_12": {
       "name": "Spacer",
       "desc": "Lägg mellanslag mellan former.",
-      "cat": {
-        "0": "Produktivitetsverktyg"
-      }
+      "cat": [
+        "Produktivitetsverktyg"
+      ]
     },
     "plugin_15": {
       "name": "Punktlista",
       "desc": "Lägg till kulor i textlistan",
-      "cat": {
-        "0": "Produktivitetsverktyg"
-      }
+      "cat": [
+        "Produktivitetsverktyg"
+      ]
     },
     "plugin_20": {
       "name": "Exportmärkning",
       "desc": "Exportera trådetiketter som ska användas på etikettskrivare",
-      "cat": {
-        "0": "Etikett, Wires"
-      }
+      "cat": [
+        "Etikett, Wires"
+      ]
     },
     "plugin_21": {
       "name": "Demo",
@@ -2833,46 +2833,46 @@
     "-Loxn7-CtNjHfsPo42wA": {
       "name": "JIC Ritning",
       "desc": "JIC Ritning",
-      "cat": {
-        "0": "Schematiska ritningar"
-      }
+      "cat": [
+        "Schematiska ritningar"
+      ]
     },
     "-LoxxvRqk_lWbHufxTdS": {
       "name": "IEC-ritning",
       "desc": "IEC-ritning",
-      "cat": {
-        "0": "Schematiska ritningar"
-      }
+      "cat": [
+        "Schematiska ritningar"
+      ]
     }
   },
   "templates": {
     "-Loxpy4vEMNvGpXMIT8k": {
       "name": "JIC Ritning",
       "desc": "JIC Ritning",
-      "cat": {
-        "0": "Schematiska ritningar"
-      }
+      "cat": [
+        "Schematiska ritningar"
+      ]
     },
     "-Loxq8iCdBBrJNuBMX-F": {
       "name": "IEC-ritning",
       "desc": "IEC-ritning",
-      "cat": {
-        "0": "Schematiska ritningar"
-      }
+      "cat": [
+        "Schematiska ritningar"
+      ]
     },
     "-LoxqWnpmATjjX8sjiRH": {
       "name": "Hydraulisk ritning",
       "desc": "Hydraulisk ritning",
-      "cat": {
-        "0": "Schematiska ritningar"
-      }
+      "cat": [
+        "Schematiska ritningar"
+      ]
     },
     "-LoxqnRmMJ13M6IJ4y04": {
       "name": "Pneumatisk ritning",
       "desc": "Pneumatisk ritning",
-      "cat": {
-        "0": "Schematiska ritningar"
-      }
+      "cat": [
+        "Schematiska ritningar"
+      ]
     }
   },
   "tools": {
