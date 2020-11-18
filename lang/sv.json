@@ -1048,7 +1048,7 @@
     "no_friend_to_tag": "Inga vänner hittades på denna ritning.<br /> Dela den här ritningen till dina vänner för att märka dem.",
     "invite_friend": "Dela ritning",
     "tagged_list": "Märkt lista",
-    "demo_collab_noti": "Prova Electra Cloud GRATIS i 30 dagar, utan några strängar. <a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Registrera dig</a>",
+    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Registrera dig för en gratis testperiod på 30 dagar</a>",
     "save_to_edit": " annars går den förlorad vid uppdatering",
     "signup_to_save": "Registrera dig för att spara dina ändringar",
     "save_to_dashboard": "Spara ritning till ditt konto",
