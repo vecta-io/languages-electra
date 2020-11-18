@@ -1048,7 +1048,7 @@
     "no_friend_to_tag": "在此圖形中找不到朋友。<br />將此圖紙分享給您的朋友以標記他們。",
     "invite_friend": "分享圖紙",
     "tagged_list": "標記清單",
-    "demo_collab_noti": "嘗試戀父雲免費試用30天，沒有任何附加條件<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">註冊</a>",
+    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">免費註冊30天試用版</a>",
     "save_to_edit": " 否則刷新後會丟失",
     "signup_to_save": "註冊以保存您的更改",
     "save_to_dashboard": "將工程圖保存到您的帳戶",
