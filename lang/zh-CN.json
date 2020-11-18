@@ -1048,7 +1048,7 @@
     "no_friend_to_tag": "在此图形中找不到朋友。<br />与您的朋友分享此图纸以便对其进行标记。",
     "invite_friend": "分享图纸",
     "tagged_list": "标记清单",
-    "demo_collab_noti": "尝试恋父云免费试用30天，没有任何附加条件<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">注册</a>",
+    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">注册免费的30天试用版</a>",
     "save_to_edit": " 否则刷新后会丢失",
     "signup_to_save": "注册以保存您的更改",
     "save_to_dashboard": "将工程图保存到您的帐户",
