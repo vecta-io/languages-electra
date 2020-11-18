@@ -1048,7 +1048,7 @@
     "no_friend_to_tag": "この絵には友達がいません。<br />友達にタグを付けるために、この絵を友達と共有してください。",
     "invite_friend": "図面を共有する",
     "tagged_list": "タグ付きリスト",
-    "demo_collab_noti": "Electra Cloudを30日間無料でお試しください、抱きたいカンケイはありません<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">サインアップ</a>",
+    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">30日間の無料トライアルにサインアップ</a>",
     "save_to_edit": " または、更新時に失われます",
     "signup_to_save": "サインアップして変更を保存します",
     "save_to_dashboard": "アカウントに図面を保存します",
