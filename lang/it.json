@@ -1048,7 +1048,7 @@
     "no_friend_to_tag": "Nessun amico trovato in questo disegno.<br /> Condividi questo disegno con i tuoi amici per taggarli.",
     "invite_friend": "Condividi disegno",
     "tagged_list": "Elenco con tag",
-    "demo_collab_noti": "Prova Electra Cloud GRATIS per 30 giorni, senza vincoli. <a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Registrati</a>",
+    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Iscriviti per una prova gratuita di 30 giorni</a>",
     "save_to_edit": " o andrà perso al momento dell'aggiornamento",
     "signup_to_save": "Iscriviti per salvare le modifiche",
     "save_to_dashboard": "Salva il disegno nel tuo account",
