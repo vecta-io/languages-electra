@@ -1049,7 +1049,7 @@
     "no_friend_to_tag": "No friends found in this drawing.<br />Share this drawing to your friends in order to tag them.",
     "invite_friend": "Share Drawing",
     "tagged_list": "Tagged list",
-    "demo_collab_noti": "Try Electra Cloud FREE for 30 days, no strings attached <a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Sign up</a>",
+    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Sign up for a free 30 day trial</a>",
     "save_to_edit": " or it will be lost upon refresh",
     "signup_to_save": "Sign up to save your changes",
     "save_to_dashboard": "Save drawing to your account",
