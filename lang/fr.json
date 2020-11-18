@@ -1048,7 +1048,7 @@
     "no_friend_to_tag": "Aucun ami trouvé dans ce dessin.<br /> Partagez ce dessin avec vos amis afin de les taguer.",
     "invite_friend": "Partager le dessin",
     "tagged_list": "Liste balisée",
-    "demo_collab_noti": "Essayez Electra Cloud GRATUITEMENT pendant 30 jours, sans engagement <a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Inscrivez-vous</a>",
+    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Inscrivez-vous pour un essai gratuit de 30 jours</a>",
     "save_to_edit": " ou il sera perdu lors du rafraîchissement",
     "signup_to_save": "Inscrivez-vous pour enregistrer vos modifications",
     "save_to_dashboard": "Enregistrer le dessin dans votre compte",
