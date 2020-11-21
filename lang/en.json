@@ -1506,7 +1506,6 @@
     "insert_wire": "Please confirm inserting the following wire name (all others will be moved back): <br/> <br/>",
     "insert_tube": "Please confirm inserting the following tube name (all others will be moved back): <br/> <br/>",
     "insert_hose": "Please confirm inserting the following hose name (all others will be moved back): <br/> <br/>",
-    "insert_reference": "Please confirm inserting the following reference name (all other will be moved back) : <br/> <br/>",
     "insert_name": "Insert name",
     "invalid_symtype": "Invalid symbol type",
     "no_stencil_id": "Please provide stencil id",
