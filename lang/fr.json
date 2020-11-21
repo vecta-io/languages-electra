@@ -1505,6 +1505,7 @@
     "insert_wire": "Veuillez confirmer l&#39;insertion du nom de fil suivant (tous les autres seront reculés): <br/><br/>",
     "insert_tube": "Veuillez confirmer l&#39;insertion du nom de tube suivant (tous les autres seront reculés): <br/><br/>",
     "insert_hose": "Veuillez confirmer l&#39;insertion du nom de tuyau suivant (tous les autres seront reculés): <br/><br/>",
+    "insert_reference": "Veuillez confirmer l&#39;insertion du nom de référence suivant (tous les autres seront déplacés):<br/><br/>",
     "insert_name": "Insérer un nom",
     "invalid_symtype": "Type de symbole non valide",
     "no_stencil_id": "Veuillez fournir l'identifiant du pochoir",
