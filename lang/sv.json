@@ -1505,7 +1505,6 @@
     "insert_wire": "Bekräfta att du sätter in följande trådnamn (alla andra flyttas tillbaka): <br/><br/>",
     "insert_tube": "Bekräfta att du sätter in följande rörnamn (alla andra flyttas tillbaka): <br/><br/>",
     "insert_hose": "Bekräfta att du sätter in följande slangnamn (alla andra flyttas tillbaka): <br/><br/>",
-    "insert_reference": "Bekräfta att du sätter in följande referensnamn (alla andra flyttas tillbaka):<br/><br/>",
     "insert_name": "Infoga namn",
     "invalid_symtype": "Ogiltig symboltyp",
     "no_stencil_id": "Vänligen ange stencil-ID",
