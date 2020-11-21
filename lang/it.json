@@ -1505,7 +1505,6 @@
     "insert_wire": "Si prega di confermare l'inserimento del seguente nome del filo (tutti gli altri verranno spostati indietro): <br/> <br/>",
     "insert_tube": "Si prega di confermare l'inserimento del seguente nome del tubo (tutti gli altri verranno spostati indietro): <br/> <br/>",
     "insert_hose": "Si prega di confermare l'inserimento del seguente nome tubo (tutti gli altri verranno spostati indietro): <br/> <br/>",
-    "insert_reference": "Conferma l&#39;inserimento del seguente nome di riferimento (tutti gli altri verranno spostati indietro):<br/><br/>",
     "insert_name": "Inserire nome",
     "invalid_symtype": "Tipo di simbolo non valido",
     "no_stencil_id": "Si prega di fornire lo stencil id",
