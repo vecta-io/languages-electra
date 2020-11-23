@@ -1834,9 +1834,7 @@
     "manage_hosing": "Gérer le tuyau",
     "view_edit": "Afficher et modifier",
     "export_as_tsv": "Exporter en TSV",
-    "export_bom": "Exporter la nomenclature",
-    "comp": "Composant",
-    "cat": "Catégorie"
+    "export_bom": "Exporter la nomenclature"
   },
   "stencil": {
     "free_svg_symbols": "Symboles SVG gratuits",
