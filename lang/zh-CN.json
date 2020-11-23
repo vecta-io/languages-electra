@@ -1505,6 +1505,7 @@
     "insert_wire": "请确认插入以下电线名称（其他所有电线将移回）：<br/> <br/>",
     "insert_tube": "请确认插入以下管子名称（其他所有管子名称将移回）：<br/> <br/>",
     "insert_hose": "请确认插入以下软管名称（其他所有软管名称将移回）：<br/> <br/>",
+    "insert_reference": "请确认插入以下参考名称（所有其他名称将移回）：<br/><br/>",
     "insert_name": "插入名称",
     "invalid_symtype": "无效的符号类型",
     "no_stencil_id": "请提供模具ID",
