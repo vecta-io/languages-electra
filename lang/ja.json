@@ -1834,9 +1834,7 @@
     "manage_hosing": "保管を管理する",
     "view_edit": "表示および編集",
     "export_as_tsv": "TSVとしてエクスポート",
-    "export_bom": "BOMをエクスポート",
-    "comp": "成分",
-    "cat": "カテゴリー"
+    "export_bom": "BOMをエクスポート"
   },
   "stencil": {
     "free_svg_symbols": "無料のSVGシンボル",
