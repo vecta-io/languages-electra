@@ -1834,7 +1834,9 @@
     "manage_hosing": "管理软管",
     "view_edit": "“查看和编辑",
     "export_as_tsv": "导出为TSV",
-    "export_bom": "导出物料清单"
+    "export_bom": "导出物料清单",
+    "comp": "组件",
+    "cat": "类别"
   },
   "stencil": {
     "free_svg_symbols": "免费的SVG符号",
