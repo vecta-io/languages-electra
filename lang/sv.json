@@ -2553,7 +2553,7 @@
     "work": "Arbete",
     "hobby": "Hobby",
     "school": "Skola",
-    "title": "Hej @name!<br /><br /> Berätta mer om dig själv",
+    "title": "Hallå @@!<br /><br /> Berätta mer om dig själv",
     "technology": "Teknologi",
     "design": "Design",
     "business_operation": "Affärsoperation",
