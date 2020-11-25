@@ -2553,7 +2553,7 @@
     "work": "Lavoro",
     "hobby": "Passatempo",
     "school": "Scuola",
-    "title": "Ciao @name!<br /><br /> Dicci di più su di te",
+    "title": "Ciao @@!<br /><br /> Dicci di più su di te",
     "technology": "Tecnologia",
     "design": "Design",
     "business_operation": "Operazione di business",
