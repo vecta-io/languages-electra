@@ -2553,7 +2553,7 @@
     "work": "Travail",
     "hobby": "Loisir",
     "school": "École",
-    "title": "Bonjour @nom!<br /><br /> Dites-nous en plus à propos de vous",
+    "title": "Salut @@!<br /><br /> Dites-nous en plus à propos de vous",
     "technology": "La technologie",
     "design": "Conception",
     "business_operation": "Fonctionnement de l'entreprise",
