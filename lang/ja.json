@@ -2553,7 +2553,7 @@
     "work": "作業",
     "hobby": "趣味",
     "school": "学校",
-    "title": "こんにちは@name！<br /><br />あなた自身についてもっと教えてください",
+    "title": "こんにちは @@！<br /><br />あなた自身についてもっと教えてください",
     "technology": "技術",
     "design": "設計",
     "business_operation": "事業運営",
