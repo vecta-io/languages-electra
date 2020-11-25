@@ -2554,7 +2554,7 @@
     "work": "Work",
     "hobby": "Hobby",
     "school": "School",
-    "title": "Hello @name! <br /><br />Tell us more about yourself",
+    "title": "Hello @@! <br /><br />Tell us more about yourself",
     "technology": "Technology",
     "design": "Design",
     "business_operation": "Business operation",
