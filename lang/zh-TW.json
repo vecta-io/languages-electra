@@ -2553,7 +2553,7 @@
     "work": "工作",
     "hobby": "愛好",
     "school": "學校",
-    "title": "您好@name！<br /><br />告訴我們更多關於你自己的信息",
+    "title": "你好 @@！<br /><br />告訴我們更多關於你自己的信息",
     "technology": "技術",
     "design": "設計",
     "business_operation": "商業運營",
