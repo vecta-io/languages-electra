@@ -1321,7 +1321,6 @@
     "wire_sep_help": "区切り文字に数値を含めることはできません。 0-9",
     "auto_placement": "レイアウトシンボルをレールに自動的に配置する",
     "placement_offset": "配置オフセット",
-    "default_placement_offset": "0.25インチ",
     "auto_rename": "自動名前変更",
     "wire_tab": "線名/記号参照",
     "tube_tab": "チューブ名/ホース名",
