@@ -1321,6 +1321,7 @@
     "wire_sep_help": "Le séparateur ne peut pas avoir de valeurs numériques, par ex. 0-9",
     "auto_placement": "Placer automatiquement les symboles de disposition sur les rails",
     "placement_offset": "Décalage de placement",
+    "default_placement_offset": "0,25 pouces",
     "auto_rename": "Renommage automatique",
     "wire_tab": "Noms des fils / références des symboles",
     "tube_tab": "Noms des tubes / Noms des tuyaux",
