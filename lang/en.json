@@ -1322,7 +1322,6 @@
     "wire_sep_help": "Separator cannot have numeric values, e.g. 0-9",
     "auto_placement": "Automatically place layout symbols on rails",
     "placement_offset": "Placement offset",
-    "default_placement_offset": "0.25 in",
     "auto_rename": "Auto Rename",
     "wire_tab": "Wire names/Symbol references",
     "tube_tab": "Tube names/Hose names",
