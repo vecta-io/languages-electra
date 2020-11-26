@@ -1321,6 +1321,7 @@
     "wire_sep_help": "分隔符不能有数字值，例如0-9",
     "auto_placement": "将布局符号自动放置在轨道上",
     "placement_offset": "放置偏移",
+    "default_placement_offset": "0.25英寸",
     "auto_rename": "自动重命名",
     "wire_tab": "电线名称/符号引用",
     "tube_tab": "管子名称/软管名称",
