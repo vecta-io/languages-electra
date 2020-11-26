@@ -1321,7 +1321,6 @@
     "wire_sep_help": "Il separatore non può avere valori numerici, ad esempio 0 - 9",
     "auto_placement": "Posizionare automaticamente i simboli di layout su binari",
     "placement_offset": "Offset di posizionamento",
-    "default_placement_offset": "0,25 pollici",
     "auto_rename": "Ridenominazione automatica",
     "wire_tab": "Nomi di fili / Riferimenti simboli",
     "tube_tab": "Nomi dei tubi / nomi Hose",
