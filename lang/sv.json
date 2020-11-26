@@ -1321,6 +1321,7 @@
     "wire_sep_help": "Separator kan inte ha numeriska värden, t.ex. 0-9",
     "auto_placement": "Lägg automatiskt layoutsymboler på rälsen",
     "placement_offset": "Placering offset",
+    "default_placement_offset": "0,25 tum",
     "auto_rename": "Auto Rename",
     "wire_tab": "Trådnamn / symbolreferenser",
     "tube_tab": "Rörnamn / Slangnamn",
