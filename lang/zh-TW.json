@@ -664,6 +664,9 @@
     "publish_before_copy": "請先發布工程圖，然後才能複制鏈接"
   },
   "dialog": {
+    "get_color.drop": {
+      "OK.cls": "好"
+    },
     "help_title": "Electra Cloud幫助",
     "help_search": "輸入要搜索的內容"
   },
