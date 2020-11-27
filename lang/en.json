@@ -664,7 +664,9 @@
     "publish_before_copy": "Please publish the drawing before you can copy the link"
   },
   "dialog": {
-    "get_color.drop": {},
+    "get_color.drop": {
+      "OK.cls": "OK"
+    },
     "help_title": "Electra Help",
     "help_search": "Type something to search"
   },
