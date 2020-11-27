@@ -1744,8 +1744,8 @@
     "commit": "コミット",
     "ver_commit": "描画をコミットする",
     "page_setup": "ページ設定",
-    "in": "に",
-    "mm": "んん",
+    "in": "in",
+    "mm": "mm",
     "px": "px",
     "cousine": "いとこ",
     "anonymous_pro": "匿名プロ",
@@ -1811,7 +1811,7 @@
     "remove_default": "デフォルトを削除",
     "open_as_new_drawing": "新しい図面として開く",
     "m": "m",
-    "cm": "CM",
+    "cm": "cm",
     "pt": "pt",
     "create_tdata": "表題欄データを挿入する",
     "create_tblock": "表題欄を作成する",
@@ -2639,8 +2639,8 @@
       "join_shapes_desc": "図形を結合してエディターのパフォーマンスを向上させる",
       "units": {
         "auto": "自動",
-        "mm": "んん",
-        "in": "に"
+        "mm": "mm",
+        "in": "in"
       }
     },
     "general": {
