@@ -664,6 +664,9 @@
     "publish_before_copy": "Vänligen publicera ritningen innan du kan kopiera länken"
   },
   "dialog": {
+    "get_color.drop": {
+      "OK.cls": "OK"
+    },
     "help_title": "Vecta Hjälp",
     "help_search": "Skriv något att söka"
   },
