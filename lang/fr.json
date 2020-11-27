@@ -664,6 +664,9 @@
     "publish_before_copy": "Veuillez publier le dessin avant de pouvoir copier le lien"
   },
   "dialog": {
+    "get_color.drop": {
+      "OK.cls": "D'accord"
+    },
     "help_title": "Aide Electra Cloud",
     "help_search": "Tapez quelque chose à rechercher"
   },
