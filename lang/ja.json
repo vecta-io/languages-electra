@@ -664,6 +664,9 @@
     "publish_before_copy": "リンクをコピーする前に、図面を公開してください"
   },
   "dialog": {
+    "get_color.drop": {
+      "OK.cls": "OK"
+    },
     "help_title": "Vectaヘルプ",
     "help_search": "検索するものを入力してください"
   },
