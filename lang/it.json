@@ -664,6 +664,9 @@
     "publish_before_copy": "Si prega di pubblicare il disegno prima di poter copiare il collegamento"
   },
   "dialog": {
+    "get_color.drop": {
+      "OK.cls": "OK"
+    },
     "help_title": "Guida electra",
     "help_search": "Digita qualcosa da cercare"
   },
