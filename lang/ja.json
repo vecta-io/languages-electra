@@ -1170,7 +1170,7 @@
     "comp_name": "コンポーネント名",
     "diameter": "直径",
     "dimension": "寸法",
-    "help_dimension": "すべての主要ユニットを受け入れます。例えば。 2 mm、2 in、2 cmなど",
+    "help_dimension": "すべての主要ユニットを受け入れます。例えば。 2 mm、2インチ、2 cmなど",
     "include_layout": "レイアウトにコンポーネントを含める",
     "include_in_layout": "レイアウトに含まれる",
     "quantity": "量",
@@ -1744,8 +1744,8 @@
     "commit": "コミット",
     "ver_commit": "描画をコミットする",
     "page_setup": "ページ設定",
-    "in": "in",
-    "mm": "mm",
+    "in": "に",
+    "mm": "んん",
     "px": "px",
     "cousine": "いとこ",
     "anonymous_pro": "匿名プロ",
@@ -1810,9 +1810,6 @@
     "make_default": "デフォルトにする",
     "remove_default": "デフォルトを削除",
     "open_as_new_drawing": "新しい図面として開く",
-    "m": "m",
-    "cm": "cm",
-    "pt": "pt",
     "create_tdata": "表題欄データを挿入する",
     "create_tblock": "表題欄を作成する",
     "cross_ref": "相互参照レポート",
@@ -2621,8 +2618,8 @@
       "join_shapes_desc": "図形を結合してエディターのパフォーマンスを向上させる",
       "units": {
         "auto": "自動",
-        "mm": "mm",
-        "in": "in"
+        "mm": "んん",
+        "in": "に"
       }
     },
     "general": {
