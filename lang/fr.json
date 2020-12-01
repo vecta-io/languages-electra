@@ -1193,7 +1193,7 @@
     "invalid_value": "Valeur invalide",
     "invalid_default_ref": "Longueur nulle ou chaînes vides non autorisées pour la référence par défaut",
     "invalid_sym_name": "Zéro longueur ou chaînes vides non autorisées pour le nom du symbole",
-    "invalid_size": "Unités de taille non valides. Les unités de taille valides sont 10 mm, 20 pouces, 30 cm, etc.",
+    "invalid_size": "Unités de taille non valides. Les unités de taille valides sont 10 mm, 20 po, 30 cm, etc.",
     "add_pin_names": "Voulez-vous ajouter des noms d'épingles pour ce symbole?",
     "generate": "Générer",
     "generate_all": "Générer tout",
