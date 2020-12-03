@@ -2784,7 +2784,8 @@
     "purchase_license": "Köp en licens",
     "request_trial": "Begär förlängningstest",
     "extend_trial": "Förläng rättegången",
-    "discount_code": "Rabattkod"
+    "discount_code": "Rabattkod",
+    "email_reminder": " (Detta kommer att vara den viktigaste e-postadressen för licensen)"
   },
   "license": {
     "activate": "Aktivera",
