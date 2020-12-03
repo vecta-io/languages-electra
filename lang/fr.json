@@ -2784,7 +2784,8 @@
     "purchase_license": "Acheter une licence",
     "request_trial": "Demander une prolongation de l'essai",
     "extend_trial": "Prolonger l'essai",
-    "discount_code": "Code de réduction"
+    "discount_code": "Code de réduction",
+    "email_reminder": " (Ce sera l'adresse e-mail principale de la licence)"
   },
   "license": {
     "activate": "Activer",
