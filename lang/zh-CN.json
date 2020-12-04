@@ -2784,8 +2784,7 @@
     "purchase_license": "购买许可证",
     "request_trial": "要求延长试用期",
     "extend_trial": "延长试用期",
-    "discount_code": "优惠码",
-    "email_reminder": " （这将是许可证的主要电子邮件地址）"
+    "discount_code": "优惠码"
   },
   "license": {
     "activate": "启用",
