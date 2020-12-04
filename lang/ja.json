@@ -2784,8 +2784,7 @@
     "purchase_license": "ライセンスを購入する",
     "request_trial": "延長トライアルのリクエスト",
     "extend_trial": "試用期間を延長する",
-    "discount_code": "ディスカウントコード",
-    "email_reminder": " （これがライセンスのメインの電子メールアドレスになります）"
+    "discount_code": "ディスカウントコード"
   },
   "license": {
     "activate": "アクティベート",
