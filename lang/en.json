@@ -2784,8 +2784,7 @@
     "purchase_license": "Purchase a license",
     "request_trial": "Request extend trial",
     "extend_trial": "Extend trial",
-    "discount_code": "Discount Code",
-    "email_reminder": " (This will be the main email address for the license)"
+    "discount_code": "Discount Code"
   },
   "license": {
     "activate": "Activate",
