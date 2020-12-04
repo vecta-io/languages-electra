@@ -1193,7 +1193,7 @@
     "invalid_value": "Ogiltigt värde",
     "invalid_default_ref": "Noll längd eller tomma strängar är inte tillåtna för standardreferens",
     "invalid_sym_name": "Noll längd eller tomma strängar är inte tillåtna för symbolnamn",
-    "invalid_size": "Ogiltiga storlekar. Enheter med giltiga storlekar är 10mm, 20tum, 30cm etc.",
+    "invalid_size": "Ogiltiga storlekar. Enheter med giltiga storlekar är 10mm, 20in, 30cm etc.",
     "add_pin_names": "Vill du lägga till pin-namn för den här symbolen?",
     "generate": "Generera",
     "generate_all": "Generera alla",
@@ -2784,8 +2784,7 @@
     "purchase_license": "Köp en licens",
     "request_trial": "Begär förlängningstest",
     "extend_trial": "Förläng rättegången",
-    "discount_code": "Rabattkod",
-    "email_reminder": " (Detta kommer att vara den viktigaste e-postadressen för licensen)"
+    "discount_code": "Rabattkod"
   },
   "license": {
     "activate": "Aktivera",
