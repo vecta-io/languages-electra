@@ -2721,6 +2721,8 @@
     "quantity": "量",
     "submit": "参加する",
     "payment_successful": "支払い完了",
+    "payment_failed": "支払いに失敗しました",
+    "fraud_alert": "詳細については、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでお問い合わせください</a>。<br/><span class='Muted.cls'>エラー：0019</span>",
     "click": "クリック",
     "here": "ここに",
     "to_go_account": "アカウントページに移動するには",
