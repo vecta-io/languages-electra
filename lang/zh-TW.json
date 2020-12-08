@@ -2721,6 +2721,8 @@
     "quantity": "數量",
     "submit": "提交",
     "payment_successful": "支付成功",
+    "payment_failed": "支付失敗",
+    "fraud_alert": "請通過<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>與我們<a href=\"mailto:support@radicasoftware.com\">聯繫</a>以獲取更多信息。<br/><span class='Muted.cls'>錯誤：0019</span>",
     "click": "請點擊",
     "here": "這裡",
     "to_go_account": "進入賬戶頁面",
