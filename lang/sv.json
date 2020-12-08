@@ -2721,6 +2721,8 @@
     "quantity": "Kvantitet",
     "submit": "Skicka in",
     "payment_successful": "Betalning genomförd",
+    "payment_failed": "Betalning misslyckades",
+    "fraud_alert": "Kontakta oss <a href=\"mailto:support@radicasoftware.com\">gärna</a> på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> för mer information.<br/> <span class='Muted.cls'>Fel: 0019</span>",
     "click": "Klick",
     "here": "här",
     "to_go_account": "för att gå till kontosidan",
