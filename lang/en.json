@@ -2721,6 +2721,8 @@
     "quantity": "Quantity",
     "submit": "Submit",
     "payment_successful": "Payment successful",
+    "payment_failed": "Payment failed",
+    "fraud_alert": "Kindly contact us at <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> for more information. <br/><span class='Muted.cls'>Error: 0019</span>",
     "click": "Click",
     "here": "here",
     "to_go_account": "to go to account page",
