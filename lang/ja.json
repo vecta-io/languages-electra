@@ -74,7 +74,7 @@
     "zoom_out.icon": "ズームアウトする<br />Ctrl +マウスホイール",
     "zoom_level.icon": "ズームレベル",
     "zoom_in.icon": "ズームイン<br />Ctrl +マウスホイール",
-    "zoom_fit.icon": "ページに合わせてズーム",
+    "zoom_fit.icon": "ページに合わせてズーム<br />（Ctrl-Q）",
     "pages.icon": "別のページを見る",
     "view.icon": "見る",
     "print.icon": "印刷",
