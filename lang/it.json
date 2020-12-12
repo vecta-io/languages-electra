@@ -74,7 +74,7 @@
     "zoom_out.icon": "Riduci lo zoom<br /> Ctrl + rotellina del mouse",
     "zoom_level.icon": "Livello di zoom",
     "zoom_in.icon": "Ingrandire<br /> Ctrl + rotellina del mouse",
-    "zoom_fit.icon": "Zoom per adattare la pagina",
+    "zoom_fit.icon": "Zoom per adattare la pagina<br /> (Ctrl-Q)",
     "pages.icon": "Visualizza un'altra pagina",
     "view.icon": "Visualizza",
     "print.icon": "Stampa",
