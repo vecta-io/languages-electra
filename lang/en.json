@@ -74,7 +74,7 @@
     "zoom_out.icon": "Zoom out<br />Ctrl + mouse wheel",
     "zoom_level.icon": "Zoom level",
     "zoom_in.icon": "Zoom in<br />Ctrl + mouse wheel",
-    "zoom_fit.icon": "Zoom to fit page",
+    "zoom_fit.icon": "Zoom to fit page<br />(Ctrl-Q)",
     "pages.icon": "View another page",
     "view.icon": "View",
     "print.icon": "Print",
