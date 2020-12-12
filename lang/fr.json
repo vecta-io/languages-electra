@@ -74,7 +74,7 @@
     "zoom_out.icon": "Dézoomer<br /> Ctrl + molette de la souris",
     "zoom_level.icon": "Le niveau de zoom",
     "zoom_in.icon": "Agrandir<br /> Ctrl + molette de la souris",
-    "zoom_fit.icon": "Zoomer pour adapter la page",
+    "zoom_fit.icon": "Zoomer pour adapter la page<br /> (Ctrl-Q)",
     "pages.icon": "Voir une autre page",
     "view.icon": "Vue",
     "print.icon": "Impression",
