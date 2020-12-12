@@ -74,7 +74,7 @@
     "zoom_out.icon": "Zooma ut<br /> Ctrl + mushjul",
     "zoom_level.icon": "Zoomnivå",
     "zoom_in.icon": "Zooma in<br /> Ctrl + mushjul",
-    "zoom_fit.icon": "Zooma för att passa sidan",
+    "zoom_fit.icon": "Zooma för att passa sidan<br /> (Ctrl-Q)",
     "pages.icon": "Visa en annan sida",
     "view.icon": "Se",
     "print.icon": "Skriva ut",
