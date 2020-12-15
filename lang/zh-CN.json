@@ -1575,7 +1575,12 @@
     "show_tubing_info": "显示油管信息",
     "show_comp_info": "显示元件信息",
     "height": "高度",
-    "qty": "数量"
+    "qty": "数量",
+    "renumber": "重新编号",
+    "series": "系列",
+    "before": "之前",
+    "after": "后",
+    "preview": "预览"
   },
   "onshape": {
     "logged_out": "您已注销。请重新登录",
@@ -1849,7 +1854,8 @@
     "manage_hosing": "管理软管",
     "view_edit": "查看和编辑",
     "export_as_tsv": "导出为TSV",
-    "export_bom": "导出物料清单"
+    "export_bom": "导出物料清单",
+    "renumber": "重新编号"
   },
   "stencil": {
     "free_svg_symbols": "免费的SVG符号",
