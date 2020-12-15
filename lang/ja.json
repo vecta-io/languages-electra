@@ -1575,7 +1575,12 @@
     "show_tubing_info": "チューブ情報を表示する",
     "show_comp_info": "コンポーネント情報を表示する",
     "height": "高さ",
-    "qty": "量"
+    "qty": "量",
+    "renumber": "ReNumber",
+    "series": "シリーズ",
+    "before": "前",
+    "after": "後",
+    "preview": "プレビュー"
   },
   "onshape": {
     "logged_out": "ログアウトしました。もう一度サインインしてください",
@@ -1849,7 +1854,8 @@
     "manage_hosing": "保管を管理する",
     "view_edit": "表示および編集",
     "export_as_tsv": "TSVとしてエクスポート",
-    "export_bom": "BOMをエクスポート"
+    "export_bom": "BOMをエクスポート",
+    "renumber": "ReNumber"
   },
   "stencil": {
     "free_svg_symbols": "無料のSVGシンボル",
