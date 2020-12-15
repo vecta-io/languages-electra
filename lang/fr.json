@@ -1575,7 +1575,12 @@
     "show_tubing_info": "Afficher les informations sur les tubes",
     "show_comp_info": "Afficher les informations sur les composants",
     "height": "Hauteur",
-    "qty": "Quantité"
+    "qty": "Quantité",
+    "renumber": "ReNumber",
+    "series": "Séries",
+    "before": "Avant",
+    "after": "Après",
+    "preview": "Aperçu"
   },
   "onshape": {
     "logged_out": "Vous avez été déconnecté. Veuillez vous reconnecter",
@@ -1849,7 +1854,8 @@
     "manage_hosing": "Gérer le tuyau",
     "view_edit": "Afficher et modifier",
     "export_as_tsv": "Exporter en TSV",
-    "export_bom": "Exporter la nomenclature"
+    "export_bom": "Exporter la nomenclature",
+    "renumber": "ReNumber"
   },
   "stencil": {
     "free_svg_symbols": "Symboles SVG gratuits",
