@@ -1575,7 +1575,12 @@
     "show_tubing_info": "Show tubing information",
     "show_comp_info": "Show component information",
     "height": "Height",
-    "qty": "Quantity"
+    "qty": "Quantity",
+    "renumber": "ReNumber",
+    "series": "Series",
+    "before": "Before",
+    "after": "After",
+    "preview": "Preview"
   },
   "onshape": {
     "logged_out": "You have been logged out. Please sign in again",
@@ -1849,7 +1854,8 @@
     "manage_hosing": "Manage hosing",
     "view_edit": "View and Edit",
     "export_as_tsv": "Export as TSV",
-    "export_bom": "Export BOM"
+    "export_bom": "Export BOM",
+    "renumber": "ReNumber"
   },
   "stencil": {
     "free_svg_symbols": "Free SVG Symbols",
