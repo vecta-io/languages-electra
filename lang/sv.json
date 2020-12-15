@@ -1575,7 +1575,12 @@
     "show_tubing_info": "Visa information om slangar",
     "show_comp_info": "Visa komponentinformation",
     "height": "Höjd",
-    "qty": "Kvantitet"
+    "qty": "Kvantitet",
+    "renumber": "Numrera om",
+    "series": "Serier",
+    "before": "Innan",
+    "after": "Efter",
+    "preview": "Förhandsvisning"
   },
   "onshape": {
     "logged_out": "Du har loggats ut. Logga in igen",
@@ -1849,7 +1854,8 @@
     "manage_hosing": "Hantera hosing",
     "view_edit": "Visa och redigera",
     "export_as_tsv": "Exportera som TSV",
-    "export_bom": "Exportera BOM"
+    "export_bom": "Exportera BOM",
+    "renumber": "Numrera om"
   },
   "stencil": {
     "free_svg_symbols": "Gratis SVG-symboler",
