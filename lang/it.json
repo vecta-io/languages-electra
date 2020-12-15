@@ -1575,7 +1575,12 @@
     "show_tubing_info": "Mostra le informazioni sui tubi",
     "show_comp_info": "Mostra le informazioni sui componenti",
     "height": "Altezza",
-    "qty": "Quantità"
+    "qty": "Quantità",
+    "renumber": "ReNumber",
+    "series": "Serie",
+    "before": "Prima",
+    "after": "Dopo",
+    "preview": "Anteprima"
   },
   "onshape": {
     "logged_out": "Sei stato disconnesso. Accedi di nuovo",
@@ -1849,7 +1854,8 @@
     "manage_hosing": "Gestire l'hosing",
     "view_edit": "Visualizza e modifica",
     "export_as_tsv": "Esporta come TSV",
-    "export_bom": "Esporta BOM"
+    "export_bom": "Esporta BOM",
+    "renumber": "ReNumber"
   },
   "stencil": {
     "free_svg_symbols": "Simboli SVG gratuiti",
