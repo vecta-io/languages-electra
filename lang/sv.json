@@ -2421,6 +2421,13 @@
       "name": "Rita fraktalträd",
       "desc": "Skapa ett fraktalträd"
     },
+    "plugin_4": {
+      "name": "Spridare",
+      "desc": "Rita en form och låt Scatterer slumpmässigt distribuera former för att skapa mönster på dina ritningar",
+      "cat": [
+        "Produktivitetsverktyg"
+      ]
+    },
     "plugin_6": {
       "name": "Linjediagram",
       "desc": "Skriv en linje / kurvdiagram enligt ingående data",
