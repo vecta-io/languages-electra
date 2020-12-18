@@ -2421,6 +2421,13 @@
       "name": "Disegna un albero frattale",
       "desc": "Crea un albero frattale"
     },
+    "plugin_4": {
+      "name": "Scatterer",
+      "desc": "Disegna una forma e lascia che Scatterer distribuisca le forme in modo casuale per creare motivi sui tuoi disegni",
+      "cat": [
+        "Strumenti di produttività"
+      ]
+    },
     "plugin_6": {
       "name": "Grafico a linee",
       "desc": "Inserisce i tuoi dati e un grafico di linea sarà pronto per la tua presentazione",
