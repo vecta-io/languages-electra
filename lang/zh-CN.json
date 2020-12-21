@@ -261,8 +261,9 @@
     "update_layouts": "正在更新布局",
     "update_wireIEC": "正在更新电线IEC",
     "update_auto_loc": "正在更新自动位置",
-    "update_measure_tool": "正在升级测量工具",
+    "update_measure_tool": "更新测量工具",
     "update_cable_tag": "正在更新电缆标签",
+    "update_page_prefix": "更新页面前缀",
     "no_internet": "没有网络连接",
     "get_layshape_size": "获取布局形状的尺寸"
   },
