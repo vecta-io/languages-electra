@@ -261,8 +261,9 @@
     "update_layouts": "Mise à jour des dispositions",
     "update_wireIEC": "Mise à jour du fil IEC",
     "update_auto_loc": "Mise à jour des emplacements automatiques",
-    "update_measure_tool": "Outils de mesure à jour",
+    "update_measure_tool": "Mise à jour des outils de mesure",
     "update_cable_tag": "Mise à jour des étiquettes de câble",
+    "update_page_prefix": "Mise à jour du préfixe de page",
     "no_internet": "Pas de connexion Internet",
     "get_layshape_size": "Obtenir la dimension de la forme de disposition"
   },
