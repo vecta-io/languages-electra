@@ -261,8 +261,9 @@
     "update_layouts": "Aggiornamento dei layout",
     "update_wireIEC": "Aggiornamento filo IEC",
     "update_auto_loc": "Aggiornamento di AutoLocazioni",
-    "update_measure_tool": "Strumenti di misurazione üpdating",
+    "update_measure_tool": "Aggiornamento degli strumenti di misurazione",
     "update_cable_tag": "Aggiornamento dei tag dei cavi",
+    "update_page_prefix": "Aggiornamento del prefisso della pagina",
     "no_internet": "Nessuna connessione Internet",
     "get_layshape_size": "Ottenere la dimensione della forma del layout"
   },
