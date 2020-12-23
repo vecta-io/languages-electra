@@ -261,8 +261,9 @@
     "update_layouts": "Mise à jour des dispositions",
     "update_wireIEC": "Mise à jour du fil IEC",
     "update_auto_loc": "Mise à jour des emplacements automatiques",
-    "update_measure_tool": "Outils de mesure à jour",
+    "update_measure_tool": "Mise à jour des outils de mesure",
     "update_cable_tag": "Mise à jour des étiquettes de câble",
+    "update_page_prefix": "Mise à jour du préfixe de page",
     "no_internet": "Pas de connexion Internet",
     "get_layshape_size": "Obtenir la dimension de la forme de disposition"
   },
@@ -1222,17 +1223,25 @@
     "wire_name": "Nom du fil",
     "hose_name": "Nom du tuyau",
     "tube_name": "Nom du tube",
+    "pipe_name": "Nom du tuyau",
+    "signal_line_name": "Nom de la ligne de signal",
     "cur_name": "Nom actuel",
     "hide_wire_name": "Masquer le nom du fil",
     "hide_tube_name": "Masquer le nom du tube",
     "hide_hose_name": "Masquer le nom du tuyau",
+    "hide_pipe_name": "Masquer le nom du canal",
+    "hide_signal_line_name": "Masquer le nom de la ligne de signal",
     "show": "Montrer",
     "click_wire": "Cliquez sur un nom de fil pour afficher l'emplacement",
     "click_hose": "Cliquez sur un nom de tuyau pour afficher l'emplacement",
     "click_tube": "Cliquez sur un nom de tube pour afficher l'emplacement",
+    "click_pipe": "Cliquez sur le nom d'un tuyau pour afficher l'emplacement",
+    "click_signal_line": "Cliquez sur le nom d'une ligne de signal pour afficher l'emplacement",
     "exists_wires": "Noms de fils existants",
     "exists_hoses": "Noms de flexibles existants",
     "exists_tubes": "Noms des tubes existants",
+    "exists_pipes": "Noms de canalisations existants",
+    "exists_signal_line": "Noms de ligne de signal existants",
     "set_no_name": "Défini sur NoName",
     "no_name": "Sans nom",
     "shapes": "Formes",
@@ -1337,6 +1346,7 @@
     "auto_rename": "Renommage automatique",
     "wire_tab": "Noms des fils / références des symboles",
     "tube_tab": "Noms des tubes / Noms des tuyaux",
+    "pipe_tab": "Noms des tubes / Noms des tuyaux",
     "from": "De",
     "to": "À",
     "cross_ref": "Rapport de référence croisée",
@@ -1383,6 +1393,8 @@
     "wires": "Fils",
     "tubes": "Tubes",
     "hoses": "Tuyaux",
+    "pipes": "Tuyaux",
+    "sig_lines": "Lignes de signal",
     "previous": "Avant",
     "invalid_prefix": "Préfixe de page non valide",
     "invalid_prefix_content": "Numéro de page non valide.<br /> Le préfixe de page de cette forme ne sera pas automatiquement mis à jour.",
@@ -1394,15 +1406,21 @@
     "cable_info": "Informations sur le câble",
     "tubing_info": "Informations sur les tubes",
     "hosing_info": "Informations sur le tuyau",
+    "piping_info": "Informations sur la tuyauterie",
     "core_names": "Noms de base",
     "core_names_help": "Séparé par des virgules, par exemple: rouge, jaune, bleu",
     "core_name": "Nom du noyau",
     "cores": "Noyaux",
     "gauge": "Taille / jauge",
+    "spec": "Spec",
+    "service": "Un service",
+    "insulation_type": "Type d'insulLockation",
+    "insulation_thickness": "Épaisseur d'isolation",
     "connect_to": "Se connecter à",
     "cable": "Câble",
     "tubing": "Tubes",
     "hosing": "Tuyau",
+    "piping": "Tuyauterie",
     "insert": "Insérer",
     "filter_by": "Filtrer par",
     "show_only": "Montrer seulement",
@@ -1416,6 +1434,7 @@
     "delete_cable": "Supprimer le câble",
     "save_new_cable": "Enregistrer en tant que nouveau câble",
     "new_tubing": "Nouvelle tubulure",
+    "new_piping": "Nouveau passepoil",
     "edit_tubing": "Modifier le tube",
     "delete_tubing": "Supprimer le tube",
     "save_new_tubing": "Enregistrer en tant que nouveau tube",
@@ -1458,6 +1477,7 @@
     "wire": "Câble",
     "tube": "Tube",
     "hose": "Tuyau",
+    "pipe": "Tuyau",
     "hide_default_cable": "Masquer le câble par défaut",
     "hide_default_tubing": "Masquer le tube par défaut",
     "hide_default_hosing": "Masquer le tuyau par défaut",
@@ -1514,6 +1534,7 @@
     "err_layshape_tube": "La forme sélectionnée est un tube. Un tube ne peut pas être une forme de disposition",
     "err_layshape_hose": "La forme sélectionnée est un tuyau. Un tuyau ne peut pas être une forme de disposition",
     "err_layshape_pipe": "La forme sélectionnée est un tuyau. Un tuyau ne peut pas être une forme de disposition",
+    "err_layshape_signal_line": "La forme sélectionnée est une ligne de signal. Une ligne de signal ne peut pas être une forme de mise en page",
     "err_layshape_terminal": "La forme sélectionnée est un terminal. Un terminal ne peut pas être une forme de disposition",
     "insert_wire": "Veuillez confirmer l&#39;insertion du nom de fil suivant (tous les autres seront reculés):<br /><br/>",
     "insert_tube": "Veuillez confirmer l&#39;insertion du nom de tube suivant (tous les autres seront reculés):<br /><br/>",
@@ -2421,6 +2442,13 @@
       "name": "Dessiner un arbre fractal",
       "desc": "Créer un arbre fractal"
     },
+    "plugin_4": {
+      "name": "Scatterer",
+      "desc": "Dessinez une forme et laissez Scatterer distribuer des formes au hasard pour créer des motifs sur vos dessins",
+      "cat": [
+        "Outils de productivité"
+      ]
+    },
     "plugin_6": {
       "name": "Graphique en ligne",
       "desc": "Tracer un graphique en ligne / courbe en fonction des données d'entrée",
@@ -2466,13 +2494,6 @@
     "plugin_21": {
       "name": "Démo",
       "desc": "Ce plugin est utilisé dans les pages de démonstration"
-    },
-    "plugin_4": {
-      "name": "Scatterer",
-      "desc": "Dessinez une forme et laissez Scatterer distribuer des formes au hasard pour créer des motifs sur vos dessins",
-      "cat": [
-        "Outils de productivité"
-      ]
     }
   },
   "page": {
