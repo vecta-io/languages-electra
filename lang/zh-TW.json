@@ -261,9 +261,8 @@
     "update_layouts": "正在更新布局",
     "update_wireIEC": "正在更新電線IEC",
     "update_auto_loc": "正在更新自動位置",
-    "update_measure_tool": "更新測量工具",
+    "update_measure_tool": "正在升級測量工具",
     "update_cable_tag": "正在更新電纜標簽",
-    "update_page_prefix": "更新頁面前綴",
     "no_internet": "沒有網絡連接",
     "get_layshape_size": "獲取布局形狀的尺寸"
   },
@@ -2422,13 +2421,6 @@
       "name": "繪制分形樹",
       "desc": "創建分形樹"
     },
-    "plugin_4": {
-      "name": "散射體",
-      "desc": "繪製形狀，然後讓Scatterer隨機分佈形狀以在圖形上製作圖案",
-      "cat": [
-        "效能工具"
-      ]
-    },
     "plugin_6": {
       "name": "折線圖",
       "desc": "根據輸入數據繪制折線/曲線圖",
@@ -2474,6 +2466,13 @@
     "plugin_21": {
       "name": "演示版",
       "desc": "該插件用於演示頁面"
+    },
+    "plugin_4": {
+      "name": "散射體",
+      "desc": "繪製形狀，然後讓Scatterer隨機分佈形狀以在圖形上製作圖案",
+      "cat": [
+        "效能工具"
+      ]
     }
   },
   "page": {
