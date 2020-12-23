@@ -261,9 +261,8 @@
     "update_layouts": "Aggiornamento dei layout",
     "update_wireIEC": "Aggiornamento filo IEC",
     "update_auto_loc": "Aggiornamento di AutoLocazioni",
-    "update_measure_tool": "Aggiornamento degli strumenti di misurazione",
+    "update_measure_tool": "Strumenti di misurazione üpdating",
     "update_cable_tag": "Aggiornamento dei tag dei cavi",
-    "update_page_prefix": "Aggiornamento del prefisso della pagina",
     "no_internet": "Nessuna connessione Internet",
     "get_layshape_size": "Ottenere la dimensione della forma del layout"
   },
@@ -2422,13 +2421,6 @@
       "name": "Disegna un albero frattale",
       "desc": "Crea un albero frattale"
     },
-    "plugin_4": {
-      "name": "Scatterer",
-      "desc": "Disegna una forma e lascia che Scatterer distribuisca le forme in modo casuale per creare motivi sui tuoi disegni",
-      "cat": [
-        "Strumenti di produttività"
-      ]
-    },
     "plugin_6": {
       "name": "Grafico a linee",
       "desc": "Inserisce i tuoi dati e un grafico di linea sarà pronto per la tua presentazione",
@@ -2474,6 +2466,13 @@
     "plugin_21": {
       "name": "Demo",
       "desc": "Questo plugin viene utilizzato nelle pagine demo"
+    },
+    "plugin_4": {
+      "name": "Scatterer",
+      "desc": "Disegna una forma e lascia che Scatterer distribuisca le forme in modo casuale per creare motivi sui tuoi disegni",
+      "cat": [
+        "Strumenti di produttività"
+      ]
     }
   },
   "page": {
