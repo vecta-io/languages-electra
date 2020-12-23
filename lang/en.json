@@ -261,9 +261,8 @@
     "update_layouts": "Updating layouts",
     "update_wireIEC": "Updating wire IEC",
     "update_auto_loc": "Updating AutoLocations",
-    "update_measure_tool": "Updating measurement tools",
+    "update_measure_tool": "Üpdating measurement tools",
     "update_cable_tag": "Updating cable tags",
-    "update_page_prefix": "Updating page prefix",
     "no_internet": "No Internet connection",
     "get_layshape_size": "Getting layout shape's dimension"
   },
@@ -2422,13 +2421,6 @@
       "name": "Draw fractal tree",
       "desc": "Create a fractal tree"
     },
-    "plugin_4": {
-      "name": "Scatterer",
-      "desc": "Draw a shape, and let Scatterer randomly distribute shapes to make patterns on your drawings",
-      "cat": [
-        "Productivity Tools"
-      ]
-    },
     "plugin_6": {
       "name": "Line chart",
       "desc": "Input your data, and a line chart will be ready for your presentation",
@@ -2474,6 +2466,13 @@
     "plugin_21": {
       "name": "Demo",
       "desc": "This plugin is used in demo pages"
+    },
+    "plugin_4": {
+      "name": "Scatterer",
+      "desc": "Draw a shape, and let Scatterer randomly distribute shapes to make patterns on your drawings",
+      "cat": [
+        "Productivity Tools"
+      ]
     }
   },
   "page": {
