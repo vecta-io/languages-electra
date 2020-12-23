@@ -261,8 +261,9 @@
     "update_layouts": "Updating layouts",
     "update_wireIEC": "Updating wire IEC",
     "update_auto_loc": "Updating AutoLocations",
-    "update_measure_tool": "Üpdating measurement tools",
+    "update_measure_tool": "Updating measurement tools",
     "update_cable_tag": "Updating cable tags",
+    "update_page_prefix": "Updating page prefix",
     "no_internet": "No Internet connection",
     "get_layshape_size": "Getting layout shape's dimension"
   },
@@ -1222,17 +1223,25 @@
     "wire_name": "Wire name",
     "hose_name": "Hose name",
     "tube_name": "Tube name",
+    "pipe_name": "Pipe name",
+    "signal_line_name": "Signal line name",
     "cur_name": "Current name",
     "hide_wire_name": "Hide wire name",
     "hide_tube_name": "Hide tube name",
     "hide_hose_name": "Hide hose name",
+    "hide_pipe_name": "Hide pipe name",
+    "hide_signal_line_name": "Hide signal line name",
     "show": "Show",
     "click_wire": "Click on a wire name to show location",
     "click_hose": "Click on a hose name to show location",
     "click_tube": "Click on a tube name to show location",
+    "click_pipe": "Click on a pipe name to show location",
+    "click_signal_line": "Click on a signal line name to show location",
     "exists_wires": "Existing wire names",
     "exists_hoses": "Existing hose names",
     "exists_tubes": "Existing tube names",
+    "exists_pipes": "Existing pipe names",
+    "exists_signal_line": "Existing signal line names",
     "set_no_name": "Set to NoName",
     "no_name": "NoName",
     "shapes": "Shapes",
@@ -1337,6 +1346,7 @@
     "auto_rename": "Auto Rename",
     "wire_tab": "Wire names/Symbol references",
     "tube_tab": "Tube names/Hose names",
+    "pipe_tab": "Tube names/Hose names",
     "from": "From",
     "to": "To",
     "cross_ref": "Cross reference report",
@@ -1383,6 +1393,8 @@
     "wires": "Wires",
     "tubes": "Tubes",
     "hoses": "Hoses",
+    "pipes": "Pipes",
+    "sig_lines": "Signal lines",
     "previous": "Previous",
     "invalid_prefix": "Invalid page prefix",
     "invalid_prefix_content": "Invalid page number.<br /> The page prefix for this shape will not be automatically updated.",
@@ -1394,15 +1406,21 @@
     "cable_info": "Cable information",
     "tubing_info": "Tubing information",
     "hosing_info": "Hosing information",
+    "piping_info": "Piping information",
     "core_names": "Core Names",
     "core_names_help": "Comma separated, e.g: Red, Yellow, Blue",
     "core_name": "Core Name",
     "cores": "Cores",
     "gauge": "Size / gauge",
+    "spec": "Spec",
+    "service": "Service",
+    "insulation_type": "InsulLockation Type",
+    "insulation_thickness": "Insulation Thickness",
     "connect_to": "Connect to",
     "cable": "Cable",
     "tubing": "Tubing",
     "hosing": "Hosing",
+    "piping": "Piping",
     "insert": "Insert",
     "filter_by": "Filter by",
     "show_only": "Show only",
@@ -1416,6 +1434,7 @@
     "delete_cable": "Delete cable",
     "save_new_cable": "Save as new cable",
     "new_tubing": "New tubing",
+    "new_piping": "New piping",
     "edit_tubing": "Edit tubing",
     "delete_tubing": "Delete tubing",
     "save_new_tubing": "Save as new tubing",
@@ -1458,6 +1477,7 @@
     "wire": "Wire",
     "tube": "Tube",
     "hose": "Hose",
+    "pipe": "Pipe",
     "hide_default_cable": "Hide default cable",
     "hide_default_tubing": "Hide default tubing",
     "hide_default_hosing": "Hide default hosing",
@@ -1514,6 +1534,7 @@
     "err_layshape_tube": "Selected shape is a tube. A tube cannot be a layout shape",
     "err_layshape_hose": "Selected shape is a hose. A hose cannot be a layout shape",
     "err_layshape_pipe": "Selected shape is a pipe. A pipe cannot be a layout shape",
+    "err_layshape_signal_line": "Selected shape is a signal line. A signal line cannot be a layout shape",
     "err_layshape_terminal": "Selected shape is a terminal. A terminal cannot be a layout shape",
     "insert_wire": "Please confirm inserting the following wire name (all others will be moved back):<br /><br />",
     "insert_tube": "Please confirm inserting the following tube name (all others will be moved back):<br /><br />",
@@ -2421,6 +2442,13 @@
       "name": "Draw fractal tree",
       "desc": "Create a fractal tree"
     },
+    "plugin_4": {
+      "name": "Scatterer",
+      "desc": "Draw a shape, and let Scatterer randomly distribute shapes to make patterns on your drawings",
+      "cat": [
+        "Productivity Tools"
+      ]
+    },
     "plugin_6": {
       "name": "Line chart",
       "desc": "Input your data, and a line chart will be ready for your presentation",
@@ -2466,13 +2494,6 @@
     "plugin_21": {
       "name": "Demo",
       "desc": "This plugin is used in demo pages"
-    },
-    "plugin_4": {
-      "name": "Scatterer",
-      "desc": "Draw a shape, and let Scatterer randomly distribute shapes to make patterns on your drawings",
-      "cat": [
-        "Productivity Tools"
-      ]
     }
   },
   "page": {
