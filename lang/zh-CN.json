@@ -261,9 +261,8 @@
     "update_layouts": "正在更新布局",
     "update_wireIEC": "正在更新电线IEC",
     "update_auto_loc": "正在更新自动位置",
-    "update_measure_tool": "更新测量工具",
+    "update_measure_tool": "正在升级测量工具",
     "update_cable_tag": "正在更新电缆标签",
-    "update_page_prefix": "更新页面前缀",
     "no_internet": "没有网络连接",
     "get_layshape_size": "获取布局形状的尺寸"
   },
@@ -732,7 +731,7 @@
     "load_drawing": "加载绘图中",
     "remove": "移除",
     "shadow_warn_range": "有效范围",
-    "the_group_shape_has_shadow_already": "该组合已经有阴影效果。",
+    "the_group_shape_has_shadow_already": "该小组已经有阴影效果。",
     "change": "更改",
     "angle": "角度",
     "app_name": "Electra Cloud",
@@ -2422,13 +2421,6 @@
       "name": "绘制分形树",
       "desc": "创建分形树"
     },
-    "plugin_4": {
-      "name": "散射体",
-      "desc": "绘制形状，然后让Scatterer随机分布形状以在图形上制作图案",
-      "cat": [
-        "效能工具"
-      ]
-    },
     "plugin_6": {
       "name": "折线图",
       "desc": "根据输入数据绘制折线/曲线图",
@@ -2474,6 +2466,13 @@
     "plugin_21": {
       "name": "演示版",
       "desc": "该插件用于演示页面"
+    },
+    "plugin_4": {
+      "name": "散射体",
+      "desc": "绘制形状，然后让Scatterer随机分布形状以在图形上制作图案",
+      "cat": [
+        "效能工具"
+      ]
     }
   },
   "page": {
@@ -2626,7 +2625,7 @@
     "drag-and-drop": "Electra只需简单的拖放即可工作，无需培训",
     "generate-layout": "单击即可自动生成面板布局",
     "generate-report": "在Electra中轻松生成BOM和其他报告以节省时间",
-    "terminal-list": "在Electra中使用和生成终端很简单",
+    "terminal-list": "在Electra中使用和生成端子很简单",
     "dark-theme-electra": "显示深色主题以激活深色模式"
   },
   "settings": {
@@ -2694,7 +2693,7 @@
     },
     "RCDvyHGbdTo": {
       "title": "使用Electra Cloud的符号和电线的智能编号",
-      "desc": "浪费了大部分时间重新编号和标记符号？Electra Cloud有更好的办法！借助内置智能功能，Electra Cloud会自动处理您所有的电线和符号编号，因此您可以节省更多的设计时间！！"
+      "desc": "花费您的大部分时间重新编号和标记符号？好了，Electra Cloud不再使用！借助内置智能功能，Electra Cloud会自动处理您所有的电线和符号编号，因此您可以节省更多的设计时间！！"
     },
     "4y_1QqasHoA": {
       "title": "使用Electra Cloud的实时符号对照表功能",
