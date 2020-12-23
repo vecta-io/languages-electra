@@ -261,9 +261,8 @@
     "update_layouts": "Mise à jour des dispositions",
     "update_wireIEC": "Mise à jour du fil IEC",
     "update_auto_loc": "Mise à jour des emplacements automatiques",
-    "update_measure_tool": "Mise à jour des outils de mesure",
+    "update_measure_tool": "Outils de mesure à jour",
     "update_cable_tag": "Mise à jour des étiquettes de câble",
-    "update_page_prefix": "Mise à jour du préfixe de page",
     "no_internet": "Pas de connexion Internet",
     "get_layshape_size": "Obtenir la dimension de la forme de disposition"
   },
@@ -2422,13 +2421,6 @@
       "name": "Dessiner un arbre fractal",
       "desc": "Créer un arbre fractal"
     },
-    "plugin_4": {
-      "name": "Scatterer",
-      "desc": "Dessinez une forme et laissez Scatterer distribuer des formes au hasard pour créer des motifs sur vos dessins",
-      "cat": [
-        "Outils de productivité"
-      ]
-    },
     "plugin_6": {
       "name": "Graphique en ligne",
       "desc": "Tracer un graphique en ligne / courbe en fonction des données d'entrée",
@@ -2474,6 +2466,13 @@
     "plugin_21": {
       "name": "Démo",
       "desc": "Ce plugin est utilisé dans les pages de démonstration"
+    },
+    "plugin_4": {
+      "name": "Scatterer",
+      "desc": "Dessinez une forme et laissez Scatterer distribuer des formes au hasard pour créer des motifs sur vos dessins",
+      "cat": [
+        "Outils de productivité"
+      ]
     }
   },
   "page": {
