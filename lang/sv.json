@@ -261,8 +261,9 @@
     "update_layouts": "Uppdaterar layouter",
     "update_wireIEC": "Uppdatering av tråd IEC",
     "update_auto_loc": "Uppdatering av AutoLocations",
-    "update_measure_tool": "Ü uppdatera mätverktyg",
+    "update_measure_tool": "Uppdaterar mätverktyg",
     "update_cable_tag": "Uppdaterar kabel taggar",
+    "update_page_prefix": "Sidprefix uppdateras",
     "no_internet": "Ingen internetanslutning",
     "get_layshape_size": "Få layoutformens dimension"
   },
@@ -586,14 +587,7 @@
     "create_google_file": "Skapar ny Google-fil",
     "delete_google_file_fail": "Det gick inte att ta bort Google-filen",
     "restore_google_file_fail": "Det gick inte att återställa Google-filen",
-    "rename_google_file_fail": "Det gick inte att byta namn på Google-filen",
-    "status": "Status",
-    "info": "Info",
-    "applicant_info": "Sökande Info",
-    "affiliate": "Dotterbolag",
-    "show_affiliates": "Visa dotterbolag",
-    "hide_affiliates": "Dölj dotterbolag",
-    "view_info": "Visa info"
+    "rename_google_file_fail": "Det gick inte att byta namn på Google-filen"
   },
   "noti": {
     "same_day": "Obs! Meddelandet börjar samma dag som det skapades.",
@@ -1229,17 +1223,25 @@
     "wire_name": "Trådnamn",
     "hose_name": "Slangens namn",
     "tube_name": "Tube-namn",
+    "pipe_name": "Rörnamn",
+    "signal_line_name": "Signalradens namn",
     "cur_name": "Nuvarande namn",
     "hide_wire_name": "Dölj trådnamn",
     "hide_tube_name": "Dölj rörens namn",
     "hide_hose_name": "Dölj slangens namn",
+    "hide_pipe_name": "Dölj rörets namn",
+    "hide_signal_line_name": "Dölj signalradens namn",
     "show": "Visa",
     "click_wire": "Klicka på ett trådnamn för att visa plats",
     "click_hose": "Klicka på ett slangnamn för att visa plats",
     "click_tube": "Klicka på ett rörnamn för att visa plats",
+    "click_pipe": "Klicka på ett rörnamn för att visa plats",
+    "click_signal_line": "Klicka på ett signalradnamn för att visa plats",
     "exists_wires": "Befintliga trådnamn",
     "exists_hoses": "Befintliga slangnamn",
     "exists_tubes": "Befintliga rörnamn",
+    "exists_pipes": "Befintliga rörnamn",
+    "exists_signal_line": "Befintliga signalradnamn",
     "set_no_name": "Ställ in på NoName",
     "no_name": "Inget namn",
     "shapes": "former",
@@ -1344,6 +1346,7 @@
     "auto_rename": "Auto Rename",
     "wire_tab": "Trådnamn / symbolreferenser",
     "tube_tab": "Rörnamn / Slangnamn",
+    "pipe_tab": "Rörnamn / Slangnamn",
     "from": "Från",
     "to": "Till",
     "cross_ref": "Korsreferensrapport",
@@ -1390,6 +1393,8 @@
     "wires": "trådar",
     "tubes": "rör",
     "hoses": "slangar",
+    "pipes": "Rör",
+    "sig_lines": "Signallinjer",
     "previous": "Tidigare",
     "invalid_prefix": "Ogiltigt sidprefix",
     "invalid_prefix_content": "Ogiltigt sidnummer. <br /> Sidprefixet för denna form kommer inte att uppdateras automatiskt.",
@@ -1401,15 +1406,21 @@
     "cable_info": "Kabelinformation",
     "tubing_info": "Rörinformation",
     "hosing_info": "Slanginformation",
+    "piping_info": "Information om rörledning",
     "core_names": "Kärnnamn",
     "core_names_help": "Kommaseparerade, t.ex. röd, gul, blå",
     "core_name": "Kärnnamn",
     "cores": "Kärnor",
     "gauge": "Storlek / mätare",
+    "spec": "Spec",
+    "service": "Service",
+    "insulation_type": "InsulLockation-typ",
+    "insulation_thickness": "Isoleringstjocklek",
     "connect_to": "Koppla till",
     "cable": "Kabel",
     "tubing": "Rör",
     "hosing": "Spolning",
+    "piping": "Rör",
     "insert": "Föra in",
     "filter_by": "Filtrera efter",
     "show_only": "Visa endast",
@@ -1423,6 +1434,7 @@
     "delete_cable": "Ta bort kabeln",
     "save_new_cable": "Spara som ny kabel",
     "new_tubing": "Nytt slang",
+    "new_piping": "Ny rörledning",
     "edit_tubing": "Redigera slangen",
     "delete_tubing": "Ta bort slangen",
     "save_new_tubing": "Spara som nytt slang",
@@ -1465,6 +1477,7 @@
     "wire": "Tråd",
     "tube": "Rör",
     "hose": "Slang",
+    "pipe": "Rör",
     "hide_default_cable": "Dölj standardkabel",
     "hide_default_tubing": "Dölj standardslangen",
     "hide_default_hosing": "Dölj standardpost",
@@ -1521,6 +1534,7 @@
     "err_layshape_tube": "Valt form är ett rör. Ett rör kan inte vara en layoutform",
     "err_layshape_hose": "Den valda formen är en slang. En slang kan inte vara en layoutform",
     "err_layshape_pipe": "Vald form är ett rör. Ett rör kan inte ha en layoutform",
+    "err_layshape_signal_line": "Vald form är en signallinje. En signallinje kan inte ha en layoutform",
     "err_layshape_terminal": "Den valda formen är en terminal. En terminal kan inte vara en layoutform",
     "insert_wire": "Bekräfta att du sätter in följande trådnamn (alla andra flyttas tillbaka):<br /><br />",
     "insert_tube": "Bekräfta att du sätter in följande rörnamn (alla andra flyttas tillbaka):<br /><br />",
@@ -2008,7 +2022,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_75": {
-      "name": "Märken BA - BZ",
+      "name": "Varumärken BA - BZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2044,7 +2058,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_79": {
-      "name": "Märken EA - EZ",
+      "name": "Varumärken EA - EZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2053,7 +2067,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_80": {
-      "name": "Märken FA - FZ",
+      "name": "Varumärken FA - FZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2062,7 +2076,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_81": {
-      "name": "Märken GA - GN",
+      "name": "Varumärken GA - GN",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2071,7 +2085,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_82": {
-      "name": "Märken GO - GZ",
+      "name": "Varumärken GO - GZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2080,7 +2094,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_83": {
-      "name": "Märken HA - HZ",
+      "name": "Varumärken HA - HZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2098,7 +2112,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_85": {
-      "name": "Märken JA - JZ",
+      "name": "Varumärken JA - JZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2107,7 +2121,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_86": {
-      "name": "Märken KA - KZ",
+      "name": "Varumärken KA - KZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2116,7 +2130,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_87": {
-      "name": "Märken LA - LZ",
+      "name": "Varumärken LA - LZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2125,7 +2139,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_88": {
-      "name": "Märken MA - MZ",
+      "name": "Varumärken MA - MZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2134,7 +2148,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_89": {
-      "name": "Märken NA - NZ",
+      "name": "Varumärken NA - NZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2143,7 +2157,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_90": {
-      "name": "Märken OA - OZ",
+      "name": "Varumärken OA - OZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2161,7 +2175,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_92": {
-      "name": "Märken PJ - PZ",
+      "name": "Varumärken PJ - PZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2170,7 +2184,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_93": {
-      "name": "Märken QA - QZ",
+      "name": "Varumärken QA - QZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2179,7 +2193,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_94": {
-      "name": "Märken RA - RZ",
+      "name": "Varumärken RA - RZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2197,7 +2211,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_96": {
-      "name": "Märken SN - SZ",
+      "name": "Varumärken SN - SZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2206,7 +2220,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_97": {
-      "name": "Märken TA - TH",
+      "name": "Varumärken TA - TH",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2215,7 +2229,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_98": {
-      "name": "Märken TI - TZ",
+      "name": "Varumärken TI - TZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2224,7 +2238,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_99": {
-      "name": "Märken UA - UZ",
+      "name": "Varumärken UA - UZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2233,7 +2247,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_100": {
-      "name": "Märken VA - VZ",
+      "name": "Varumärken VA - VZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2251,7 +2265,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_102": {
-      "name": "Märken XA - XZ",
+      "name": "Varumärken XA - XZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2260,7 +2274,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_103": {
-      "name": "Märken YA - YZ",
+      "name": "Varumärken YA - YZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2269,7 +2283,7 @@
       "credit_link": "https://vectorlogo.zone/"
     },
     "stencil_104": {
-      "name": "Märken ZA - ZZ",
+      "name": "Varumärken ZA - ZZ",
       "desc": "",
       "cat": [
         "Varumärkeslogotyp"
@@ -2808,8 +2822,7 @@
     "request_trial": "Begär förlängningstest",
     "extend_trial": "Förläng rättegången",
     "discount_code": "Rabattkod",
-    "email_reminder": " (Detta kommer att vara den viktigaste e-postadressen för licensen)",
-    "referral_code": "Hänvisningskod"
+    "email_reminder": " (Detta kommer att vara den viktigaste e-postadressen för licensen)"
   },
   "license": {
     "activate": "Aktivera",
@@ -2904,21 +2917,5 @@
     "prefab": "Prefab<br /> Krets",
     "electra_import": "Importera<br /> rapporter",
     "electra_export": "Exportera<br /> rapporter"
-  },
-  "affiliate": {
-    "total_earning": "Total intjäning",
-    "performance": "Prestanda",
-    "clicks": "Klick",
-    "purchases": "Inköp",
-    "payments": "Betalningar",
-    "date": "Datum",
-    "status": "Status",
-    "amount": "Belopp",
-    "paypal_acc": "Paypal konto",
-    "edit_payment": "Redigera betalning",
-    "save_payment": "Spara",
-    "aff_banner": "Affiliate Banner",
-    "aff_link": "Affiliate Link",
-    "loading_aff": "Laddar medlemsinfo"
   }
 }
