@@ -261,8 +261,9 @@
     "update_layouts": "Updating layouts",
     "update_wireIEC": "Updating wire IEC",
     "update_auto_loc": "Updating AutoLocations",
-    "update_measure_tool": "Üpdating measurement tools",
+    "update_measure_tool": "Updating measurement tools",
     "update_cable_tag": "Updating cable tags",
+    "update_page_prefix": "Updating page prefix",
     "no_internet": "No Internet connection",
     "get_layshape_size": "Getting layout shape's dimension"
   },
@@ -586,14 +587,7 @@
     "create_google_file": "Creating new Google file",
     "delete_google_file_fail": "Failed deleting Google file",
     "restore_google_file_fail": "Failed restoring Google file",
-    "rename_google_file_fail": "Failed renaming Google file",
-    "status": "Status",
-    "info": "Info",
-    "applicant_info": "Applicant Info",
-    "affiliate": "Affiliate",
-    "show_affiliates": "Show Affiliates",
-    "hide_affiliates": "Hide Affiliates",
-    "view_info": "View Info"
+    "rename_google_file_fail": "Failed renaming Google file"
   },
   "noti": {
     "same_day": "Note: Announcement will start on the very same day it was created.",
@@ -2808,8 +2802,7 @@
     "request_trial": "Request extend trial",
     "extend_trial": "Extend trial",
     "discount_code": "Discount Code",
-    "email_reminder": " (This will be the main email address for the license)",
-    "referral_code": "Referral Code"
+    "email_reminder": " (This will be the main email address for the license)"
   },
   "license": {
     "activate": "Activate",
@@ -2904,21 +2897,5 @@
     "prefab": "Prefab<br /> Circuit",
     "electra_import": "Import<br /> Reports",
     "electra_export": "Export<br /> Reports"
-  },
-  "affiliate": {
-    "total_earning": "Total Earning",
-    "performance": "Performance",
-    "clicks": "Clicks",
-    "purchases": "Purchases",
-    "payments": "Payments",
-    "date": "Date",
-    "status": "Status",
-    "amount": "Amount",
-    "paypal_acc": "Paypal Account",
-    "edit_payment": "Edit Payment",
-    "save_payment": "Save",
-    "aff_banner": "Affiliate Banner",
-    "aff_link": "Affiliate Link",
-    "loading_aff": "Loading Affiliate Info"
   }
 }
