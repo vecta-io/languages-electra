@@ -1133,6 +1133,7 @@
     "doc_scope": "Document Scope:",
     "tblock_empty": "Please insert title block data",
     "no_email": "No email in the list",
+    "export_pdf_tips": "To embed custom font properly, kindly ensure the font file is imported.",
     "slogan": "Cloud based Electrical CAD Software",
     "stencil": "Stencil",
     "keyword": "Keyword",
