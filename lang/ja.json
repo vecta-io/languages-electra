@@ -1598,7 +1598,7 @@
     "show_comp_info": "コンポーネント情報を表示する",
     "height": "高さ",
     "qty": "量",
-    "renumber": "ReNumber",
+    "renumber": "番号を付け直します",
     "series": "シリーズ",
     "before": "前",
     "after": "後",
@@ -1877,7 +1877,7 @@
     "view_edit": "表示および編集",
     "export_as_tsv": "TSVとしてエクスポート",
     "export_bom": "BOMをエクスポート",
-    "renumber": "ReNumber"
+    "renumber": "番号を付け直します"
   },
   "stencil": {
     "free_svg_symbols": "無料のSVGシンボル",
