@@ -90,7 +90,7 @@
     "bevel_color.help": "自定義顏色<br />#fff / #ffffff / rgb（0，0，0）",
     "shadow_color.help": "自定義顏色<br />#fff / #ffffff / rgb（0，0，0）",
     "color_trans.help": "透明度<br />0-100 / 0％-100％/ 0-1",
-    "bold.icon": "膽大<br />（Ctrl-B）",
+    "bold.icon": "粗體<br />（Ctrl-B）",
     "italic.icon": "斜體<br />（Ctrl-I）",
     "underline.icon": "強調<br />（Ctrl-U）",
     "login.icon": "登入",
