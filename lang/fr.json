@@ -1598,7 +1598,7 @@
     "show_comp_info": "Afficher les informations sur les composants",
     "height": "Hauteur",
     "qty": "Quantité",
-    "renumber": "ReNumber",
+    "renumber": "Renuméroter",
     "series": "Séries",
     "before": "Avant",
     "after": "Après",
@@ -1877,7 +1877,7 @@
     "view_edit": "Afficher et modifier",
     "export_as_tsv": "Exporter en TSV",
     "export_bom": "Exporter la nomenclature",
-    "renumber": "ReNumber"
+    "renumber": "Renuméroter"
   },
   "stencil": {
     "free_svg_symbols": "Symboles SVG gratuits",
