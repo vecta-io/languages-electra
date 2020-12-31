@@ -1598,7 +1598,7 @@
     "show_comp_info": "Mostra le informazioni sui componenti",
     "height": "Altezza",
     "qty": "Quantità",
-    "renumber": "ReNumber",
+    "renumber": "Rinumera",
     "series": "Serie",
     "before": "Prima",
     "after": "Dopo",
@@ -1877,7 +1877,7 @@
     "view_edit": "Visualizza e modifica",
     "export_as_tsv": "Esporta come TSV",
     "export_bom": "Esporta BOM",
-    "renumber": "ReNumber"
+    "renumber": "Rinumera"
   },
   "stencil": {
     "free_svg_symbols": "Simboli SVG gratuiti",
