@@ -1598,7 +1598,7 @@
     "show_comp_info": "Visa komponentinformation",
     "height": "Höjd",
     "qty": "Kvantitet",
-    "renumber": "Numrera om",
+    "renumber": "Omnumrerar",
     "series": "Serier",
     "before": "Innan",
     "after": "Efter",
@@ -1877,7 +1877,7 @@
     "view_edit": "Visa och redigera",
     "export_as_tsv": "Exportera som TSV",
     "export_bom": "Exportera BOM",
-    "renumber": "Numrera om"
+    "renumber": "Omnumrerar"
   },
   "stencil": {
     "free_svg_symbols": "Gratis SVG-symboler",
