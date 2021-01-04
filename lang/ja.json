@@ -1877,9 +1877,7 @@
     "view_edit": "表示および編集",
     "export_as_tsv": "TSVとしてエクスポート",
     "export_bom": "BOMをエクスポート",
-    "renumber": "番号を付け直します",
-    "comp": "成分",
-    "cat": "カテゴリー"
+    "renumber": "番号を付け直します"
   },
   "stencil": {
     "free_svg_symbols": "無料のSVGシンボル",
