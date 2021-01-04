@@ -1877,9 +1877,7 @@
     "view_edit": "Visa och redigera",
     "export_as_tsv": "Exportera som TSV",
     "export_bom": "Exportera BOM",
-    "renumber": "Omnumrerar",
-    "comp": "Komponent",
-    "cat": "Kategori"
+    "renumber": "Omnumrerar"
   },
   "stencil": {
     "free_svg_symbols": "Gratis SVG-symboler",
