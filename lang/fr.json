@@ -1877,7 +1877,9 @@
     "view_edit": "Afficher et modifier",
     "export_as_tsv": "Exporter en TSV",
     "export_bom": "Exporter la nomenclature",
-    "renumber": "Renuméroter"
+    "renumber": "Renuméroter",
+    "comp": "Composant",
+    "cat": "Catégorie"
   },
   "stencil": {
     "free_svg_symbols": "Symboles SVG gratuits",
