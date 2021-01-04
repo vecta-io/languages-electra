@@ -1877,9 +1877,7 @@
     "view_edit": "查看和編輯",
     "export_as_tsv": "導出為TSV",
     "export_bom": "導出物料清單",
-    "renumber": "重新編號",
-    "comp": "元件",
-    "cat": "類別"
+    "renumber": "重新編號"
   },
   "stencil": {
     "free_svg_symbols": "免費的SVG符號",
