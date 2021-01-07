@@ -265,7 +265,8 @@
     "update_cable_tag": "ケーブルタグの更新",
     "update_page_prefix": "ページプレフィックスの更新",
     "no_internet": "インターネット接続なし",
-    "get_layshape_size": "レイアウト形状の寸法を取得する"
+    "get_layshape_size": "レイアウト形状の寸法を取得する",
+    "update_comp_tag": "コンポーネントタグの更新"
   },
   "login": {
     "collab": "オンライン",
@@ -2642,6 +2643,8 @@
     "duplicate-shape": "Ctrl-Dを押して、最近のプロパティの変更を現在の形状に適用します",
     "dark-theme-vecta": "ダークテーマを表示してダークモードを有効にする",
     "text-stroke": "テキストストロークでテキストをさらに美しくする",
+    "arrange-stencils": "[ステンシルの編集]メニューをクリックして、ステンシルを再配置します",
+    "drawing-indicator": "カーソルを合わせると、個人またはチームの描画が示されます",
     "create-and-invite-team": "メンバーを招待して、チームをElectraで稼働させる",
     "create-symbol": "シンボルの作成を使用して、インテリジェンスとデータをカスタムシンボルに自動的に挿入します",
     "drag-and-drop": "Electraは単純なドラッグアンドドロップで動作し、トレーニングは必要ありません",
