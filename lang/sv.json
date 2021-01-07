@@ -265,7 +265,8 @@
     "update_cable_tag": "Uppdaterar kabel taggar",
     "update_page_prefix": "Sidprefix uppdateras",
     "no_internet": "Ingen internetanslutning",
-    "get_layshape_size": "Få layoutformens dimension"
+    "get_layshape_size": "Få layoutformens dimension",
+    "update_comp_tag": "Uppdaterar komponenttaggar"
   },
   "login": {
     "collab": "Uppkopplad",
@@ -2642,6 +2643,8 @@
     "duplicate-shape": "Tryck på Ctrl-D för att tillämpa senaste egendomsändringar i aktuell form",
     "dark-theme-vecta": "Visa mörkt tema för att aktivera mörkt läge",
     "text-stroke": "Försköna din text ännu mer med textstreck",
+    "arrange-stencils": "Klicka på menyn Redigera stencil för att ordna om dina stenciler",
+    "drawing-indicator": "Håll muspekaren för att ange personlig ritning eller lagritning",
     "create-and-invite-team": "Bjud in medlemmar att få ditt team igång i Electra",
     "create-symbol": "Använd Skapa symbol för att automatiskt infoga intelligens och data i din anpassade symbol",
     "drag-and-drop": "Electra arbetar med enkel dra och släpp, ingen utbildning krävs",
