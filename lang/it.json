@@ -265,7 +265,8 @@
     "update_cable_tag": "Aggiornamento dei tag dei cavi",
     "update_page_prefix": "Aggiornamento del prefisso della pagina",
     "no_internet": "Nessuna connessione Internet",
-    "get_layshape_size": "Ottenere la dimensione della forma del layout"
+    "get_layshape_size": "Ottenere la dimensione della forma del layout",
+    "update_comp_tag": "Aggiornamento dei tag dei componenti"
   },
   "login": {
     "collab": "In linea",
@@ -2642,6 +2643,8 @@
     "duplicate-shape": "Premi Ctrl-D per applicare le modifiche recenti alle proprietà alla forma corrente",
     "dark-theme-vecta": "Mostra tema scuro per attivare la modalità oscura",
     "text-stroke": "Abbellisci il tuo testo ancora di più con il tratto di testo",
+    "arrange-stencils": "Fare clic sul menu Modifica stencil per riorganizzare gli stencil",
+    "drawing-indicator": "Passa il cursore per indicare un disegno personale o di squadra",
     "create-and-invite-team": "Invita i membri a far salire la tua squadra e a correre in Electra",
     "create-symbol": "Usa Crea Simbolo per inserire automaticamente l'intelligenza e i dati nel tuo simbolo personalizzato",
     "drag-and-drop": "Electra funziona su semplice drag and drop, nessuna formazione richiesta",
