@@ -265,7 +265,8 @@
     "update_cable_tag": "Mise à jour des étiquettes de câble",
     "update_page_prefix": "Mise à jour du préfixe de page",
     "no_internet": "Pas de connexion Internet",
-    "get_layshape_size": "Obtenir la dimension de la forme de disposition"
+    "get_layshape_size": "Obtenir la dimension de la forme de disposition",
+    "update_comp_tag": "Mise à jour des balises de composant"
   },
   "login": {
     "collab": "En ligne",
@@ -2642,6 +2643,8 @@
     "duplicate-shape": "Appuyez sur Ctrl-D pour appliquer les modifications de propriété récentes à la forme actuelle",
     "dark-theme-vecta": "Afficher le thème sombre pour activer le mode sombre",
     "text-stroke": "Embellissez encore plus votre texte avec le trait de texte",
+    "arrange-stencils": "Cliquez sur le menu Modifier le pochoir pour réorganiser vos pochoirs",
+    "drawing-indicator": "Passez votre curseur pour indiquer le dessin personnel ou d'équipe",
     "create-and-invite-team": "Invitez les membres à mettre votre équipe en place et à fonctionner dans Electra",
     "create-symbol": "Utilisez Créer un symbole pour insérer automatiquement des informations et des données dans votre symbole personnalisé",
     "drag-and-drop": "Electra fonctionne sur simple glisser-déposer, aucune formation requise",
