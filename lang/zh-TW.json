@@ -265,7 +265,8 @@
     "update_cable_tag": "正在更新電纜標簽",
     "update_page_prefix": "更新頁面前綴",
     "no_internet": "沒有網絡連接",
-    "get_layshape_size": "獲取布局形狀的尺寸"
+    "get_layshape_size": "獲取布局形狀的尺寸",
+    "update_comp_tag": "更新組件標籤"
   },
   "login": {
     "collab": "上線",
@@ -2642,6 +2643,8 @@
     "duplicate-shape": "按Ctrl-D將最近的屬性更改應用於當前形狀",
     "dark-theme-vecta": "顯示深色主題以激活深色模式",
     "text-stroke": "使用描邊以美化您的文字",
+    "arrange-stencils": "單擊編輯模具菜單以重新排列模具",
+    "drawing-indicator": "將光標懸停以指示個人或團隊繪圖",
     "create-and-invite-team": "邀請成員讓您的團隊在Electra中建立並運行",
     "create-symbol": "使用創建符號將情報和數據自動插入到您的自定義符號中",
     "drag-and-drop": "Electra只需簡單的拖放即可工作，無需培訓",
