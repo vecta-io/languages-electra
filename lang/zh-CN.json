@@ -90,7 +90,7 @@
     "bevel_color.help": "自定义颜色<br />#fff / #ffffff / rgb（0，0，0）",
     "shadow_color.help": "自定义颜色<br />#fff / #ffffff / rgb（0，0，0）",
     "color_trans.help": "透明度<br />0-100 / 0％-100％/ 0-1",
-    "bold.icon": "胆大<br />（Ctrl-B）",
+    "bold.icon": "粗体<br />（Ctrl-B）",
     "italic.icon": "斜体<br />（Ctrl-I）",
     "underline.icon": "强调<br />（Ctrl-U）",
     "login.icon": "登入",
@@ -265,7 +265,8 @@
     "update_cable_tag": "正在更新电缆标签",
     "update_page_prefix": "更新页面前缀",
     "no_internet": "没有网络连接",
-    "get_layshape_size": "获取布局形状的尺寸"
+    "get_layshape_size": "获取布局形状的尺寸",
+    "update_comp_tag": "更新组件标签"
   },
   "login": {
     "collab": "上线",
@@ -2642,6 +2643,8 @@
     "duplicate-shape": "按Ctrl-D将最近的属性更改应用于当前形状",
     "dark-theme-vecta": "显示深色主题以激活深色模式",
     "text-stroke": "使用描边以美化您的文字",
+    "arrange-stencils": "单击编辑模具菜单以重新排列模具",
+    "drawing-indicator": "将光标悬停以指示个人或团队绘图",
     "create-and-invite-team": "邀请成员让您的团队在Electra中建立并运行",
     "create-symbol": "使用创建符号将情报和数据自动插入到您的自定义符号中",
     "drag-and-drop": "Electra只需简单的拖放即可工作，无需培训",
