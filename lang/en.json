@@ -265,7 +265,8 @@
     "update_cable_tag": "Updating cable tags",
     "update_page_prefix": "Updating page prefix",
     "no_internet": "No Internet connection",
-    "get_layshape_size": "Getting layout shape's dimension"
+    "get_layshape_size": "Getting layout shape's dimension",
+    "update_comp_tag": "Updating component tags"
   },
   "login": {
     "collab": "Online",
@@ -2642,6 +2643,8 @@
     "duplicate-shape": "Press Ctrl-D to apply recent property changes to current shape",
     "dark-theme-vecta": "Show dark theme to activate dark mode",
     "text-stroke": "Beautify your text even more with text stroke",
+    "arrange-stencils": "Click on the Edit stencil menu to rearrange your stencils",
+    "drawing-indicator": "Hover your cursor to indicate personal or team drawing",
     "create-and-invite-team": "Invite members to get your team up and running in Electra",
     "create-symbol": "Use Create Symbol to automatically insert intelligence and data into your custom symbol",
     "drag-and-drop": "Electra works on simple drag and drop, no training required",
