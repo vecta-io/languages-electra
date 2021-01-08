@@ -1603,7 +1603,10 @@
     "series": "Séries",
     "before": "Avant",
     "after": "Après",
-    "preview": "Aperçu"
+    "preview": "Aperçu",
+    "lzone_by_page": "Zones d'échelle (triées par page)",
+    "lzone_increment": "Incrément de zone d'échelle suivant",
+    "scan_lzones": "Balayage des zones d'échelle"
   },
   "onshape": {
     "logged_out": "Vous avez été déconnecté. Veuillez vous reconnecter",
@@ -1878,7 +1881,8 @@
     "view_edit": "Afficher et modifier",
     "export_as_tsv": "Exporter en TSV",
     "export_bom": "Exporter la nomenclature",
-    "renumber": "Renuméroter"
+    "renumber": "Renuméroter",
+    "renum_ladder_zones": "Renuméroter les zones d'échelle"
   },
   "stencil": {
     "free_svg_symbols": "Symboles SVG gratuits",
