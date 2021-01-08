@@ -1603,7 +1603,10 @@
     "series": "Series",
     "before": "Before",
     "after": "After",
-    "preview": "Preview"
+    "preview": "Preview",
+    "lzone_by_page": "Ladder zones (Sorted by page)",
+    "lzone_increment": "Subsequent ladder zone increment",
+    "scan_lzones": "Scanning ladder zones"
   },
   "onshape": {
     "logged_out": "You have been logged out. Please sign in again",
@@ -1878,7 +1881,8 @@
     "view_edit": "View and Edit",
     "export_as_tsv": "Export as TSV",
     "export_bom": "Export BOM",
-    "renumber": "Renumber"
+    "renumber": "Renumber",
+    "renum_ladder_zones": "Renumber ladder zones"
   },
   "stencil": {
     "free_svg_symbols": "Free SVG Symbols",
