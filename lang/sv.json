@@ -1603,7 +1603,10 @@
     "series": "Serier",
     "before": "Innan",
     "after": "Efter",
-    "preview": "Förhandsvisning"
+    "preview": "Förhandsvisning",
+    "lzone_by_page": "Stegezoner (sorterade efter sida)",
+    "lzone_increment": "Efterföljande stegstegssteg",
+    "scan_lzones": "Skannar stegezoner"
   },
   "onshape": {
     "logged_out": "Du har loggats ut. Logga in igen",
@@ -1878,7 +1881,8 @@
     "view_edit": "Visa och redigera",
     "export_as_tsv": "Exportera som TSV",
     "export_bom": "Exportera BOM",
-    "renumber": "Omnumrerar"
+    "renumber": "Omnumrerar",
+    "renum_ladder_zones": "Omnumrera stegezoner"
   },
   "stencil": {
     "free_svg_symbols": "Gratis SVG-symboler",
