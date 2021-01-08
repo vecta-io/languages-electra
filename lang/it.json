@@ -1603,7 +1603,10 @@
     "series": "Serie",
     "before": "Prima",
     "after": "Dopo",
-    "preview": "Anteprima"
+    "preview": "Anteprima",
+    "lzone_by_page": "Zone ladder (ordinate per pagina)",
+    "lzone_increment": "Incremento successivo della zona ladder",
+    "scan_lzones": "Scansione delle zone ladder"
   },
   "onshape": {
     "logged_out": "Sei stato disconnesso. Accedi di nuovo",
@@ -1878,7 +1881,8 @@
     "view_edit": "Visualizza e modifica",
     "export_as_tsv": "Esporta come TSV",
     "export_bom": "Esporta BOM",
-    "renumber": "Rinumera"
+    "renumber": "Rinumera",
+    "renum_ladder_zones": "Rinumera le zone della scala"
   },
   "stencil": {
     "free_svg_symbols": "Simboli SVG gratuiti",
