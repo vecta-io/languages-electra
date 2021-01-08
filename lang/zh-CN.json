@@ -1603,7 +1603,10 @@
     "series": "系列",
     "before": "之前",
     "after": "后",
-    "preview": "预览"
+    "preview": "预览",
+    "lzone_by_page": "阶梯区域（按页面排序）",
+    "lzone_increment": "随后的梯形图区域增量",
+    "scan_lzones": "扫描阶梯区"
   },
   "onshape": {
     "logged_out": "您已注销。请重新登录",
@@ -1878,7 +1881,8 @@
     "view_edit": "查看和编辑",
     "export_as_tsv": "导出为TSV",
     "export_bom": "导出物料清单",
-    "renumber": "重新编号"
+    "renumber": "重新编号",
+    "renum_ladder_zones": "重新编号梯子区域"
   },
   "stencil": {
     "free_svg_symbols": "免费的SVG符号",
