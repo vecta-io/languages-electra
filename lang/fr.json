@@ -1267,7 +1267,7 @@
     "select_pin": "Sélectionnez le jeu de broches. (Faites un clic droit pour plus d'options)",
     "incorrect_pin": "Nombre de broches incorrect",
     "locate_ref": "Localiser la référence",
-    "loc_col": "Organiser les emplacements dans la ou les colonnes",
+    "loc_col": "Le nombre de colonnes)",
     "ref_not_found": "Référence introuvable",
     "no_shape_for_ref": "Aucune forme trouvée pour la référence @@",
     "hide_loc": "Masquer la position",
