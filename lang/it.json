@@ -1267,7 +1267,7 @@
     "select_pin": "Selezionare pin impostato. (Fare clic per più opzioni)",
     "incorrect_pin": "Numero errato di pin",
     "locate_ref": "Individuare riferimento",
-    "loc_col": "Organizzare le posizioni nella colonna (s)",
+    "loc_col": "Numero di colonne)",
     "ref_not_found": "Riferimento non trovato",
     "no_shape_for_ref": "Nessuna forma trovata per riferimento @ @",
     "hide_loc": "Nascondi posizione",
