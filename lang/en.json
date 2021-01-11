@@ -1267,7 +1267,7 @@
     "select_pin": "Select pin set. (Right-click for more options)",
     "incorrect_pin": "Incorrect number of pins",
     "locate_ref": "Locate reference",
-    "loc_col": "Arrange locations in column(s)",
+    "loc_col": "Number of column(s)",
     "ref_not_found": "Reference not found",
     "no_shape_for_ref": "No shape found for reference @@",
     "hide_loc": "Hide location",
