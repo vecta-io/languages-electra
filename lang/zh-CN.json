@@ -1267,7 +1267,7 @@
     "select_pin": "选择管脚集。（右键单击以获取更多选项）",
     "incorrect_pin": "插针数量不正确",
     "locate_ref": "定位参数",
-    "loc_col": "在列中安排位置",
+    "loc_col": "列数）",
     "ref_not_found": "找不到参数",
     "no_shape_for_ref": "未找到供参考@@的形状",
     "hide_loc": "隐藏位置",
