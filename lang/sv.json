@@ -1267,7 +1267,7 @@
     "select_pin": "Välj stiftuppsättning. (Högerklicka för fler alternativ)",
     "incorrect_pin": "Felaktigt antal stift",
     "locate_ref": "Leta reda på referens",
-    "loc_col": "Ordna platser i kolumn (er)",
+    "loc_col": "Antal kolumner)",
     "ref_not_found": "Hänvisning hittades inte",
     "no_shape_for_ref": "Ingen form hittades för referens @@",
     "hide_loc": "Göm platsen",
