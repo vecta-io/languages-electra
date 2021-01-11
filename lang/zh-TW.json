@@ -1267,7 +1267,7 @@
     "select_pin": "選擇管腳集。（右鍵單擊以獲取更多選項）",
     "incorrect_pin": "插針數量不正確",
     "locate_ref": "定位參數",
-    "loc_col": "在列中安排位置",
+    "loc_col": "列數）",
     "ref_not_found": "找不到參數",
     "no_shape_for_ref": "未找到供參考@@的形狀",
     "hide_loc": "隱藏位置",
