@@ -1884,7 +1884,7 @@
     "cable_bom_report": "Prospetto della bolletta dei materiali (BOM)",
     "tubing_bom_report": "Relazione di fatturazione dei materiali (BOM)",
     "hosing_bom_report": "Relazione di Hosing bill of materials (BOM)",
-    "piping_bom_report": "Report della distinta base delle tubazioni (BOM)",
+    "piping_bom_report": "Report distinta base per tubazioni (BOM)",
     "electrical_connections_report": "Relazione connessioni elettriche",
     "pneumatic_connections_report": "Relazione connessioni pneumatiche",
     "hydraulic_connections_report": "Relazione connessioni idrauliche",
