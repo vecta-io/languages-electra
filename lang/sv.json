@@ -1135,6 +1135,7 @@
     "doc_scope": "Dokumentets omfattning:",
     "tblock_empty": "Vänligen sätt in data för titelblock",
     "no_email": "Inget e-postmeddelande i listan",
+    "merging_drawing": "Sammanfogande ritning",
     "export_pdf_tips": "För att bädda in anpassat teckensnitt ordentligt, se till att teckensnittsfilen importeras.",
     "slogan": "Molnbaserad elektrisk CAD-programvara",
     "stencil": "Stencil",
