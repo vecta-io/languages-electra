@@ -1135,6 +1135,7 @@
     "doc_scope": "Scopo del documento:",
     "tblock_empty": "Si prega di inserire i dati del cartiglio",
     "no_email": "Nessuna email nell'elenco",
+    "merging_drawing": "Disegno di fusione",
     "export_pdf_tips": "Per incorporare correttamente il carattere personalizzato, assicurarsi che il file del carattere sia importato.",
     "slogan": "Software CAD elettrico basato su cloud",
     "stencil": "Stencil",
