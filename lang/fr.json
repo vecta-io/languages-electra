@@ -1135,6 +1135,7 @@
     "doc_scope": "Portée du document:",
     "tblock_empty": "Veuillez insérer les données du cartouche",
     "no_email": "Aucun email dans la liste",
+    "merging_drawing": "Fusionner le dessin",
     "export_pdf_tips": "Pour intégrer correctement la police personnalisée, assurez-vous que le fichier de police est importé.",
     "slogan": "Logiciel de CAO électrique basé sur le cloud",
     "stencil": "Pochoir",
