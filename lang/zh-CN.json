@@ -1135,6 +1135,7 @@
     "doc_scope": "文件范围：",
     "tblock_empty": "请插入标题栏数据",
     "no_email": "列表中没有电子邮件",
+    "merging_drawing": "合并图纸",
     "export_pdf_tips": "要正确嵌入自定义字体，请确保已导入字体文件。",
     "slogan": "基于云端的电子CAD软件",
     "stencil": "符号库",
