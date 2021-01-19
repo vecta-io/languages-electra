@@ -1180,8 +1180,6 @@
     "supplier": "供應商",
     "remarks": "備注",
     "price": "價格",
-    "spec": "規格",
-    "service": "服務",
     "insul_type": "絕緣類型",
     "insul_thickness": "絕緣厚度",
     "layout": "布局",
@@ -1420,6 +1418,8 @@
     "core_name": "核心名稱",
     "cores": "核心",
     "gauge": "尺寸/規格",
+    "spec": "規格",
+    "service": "服務",
     "insulation_type": "絕緣類型",
     "insulation_thickness": "絕緣厚度",
     "connect_to": "連接到",
@@ -1635,7 +1635,11 @@
     "remove_warning": "您的帳戶被刪除後，您所有的圖紙和團隊都會被自動刪除。您確定要刪除您的帳戶嗎？",
     "auth_error": "<b>無法訪問您的帳戶？</b><br /><br />通過按<b>F12鍵</b>檢查控制台選項卡，查看控制台日志中是否顯示任何錯誤消息。<br />如果有的話，請對其進行截圖並發送至<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> 。<br />請同時指定您當前使用的瀏覽器和版本號。<br /><br />如果未顯示任何錯誤消息，請繼續清除緩存並重新加載網站。<br /><br />如果您仍然對身份驗證有疑問，請通過<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>與我們<a href=\"mailto:support@radicasoftware.com\">聯系</a>。<br /><br />感謝您的耐心配合，我們將盡快與您聯系。",
     "contact_us": "如果您仍然對身份驗證有疑問，請通過<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>與我們<a href=\"mailto:support@radicasoftware.com\">聯系</a>。<br /><br />感謝您的耐心配合，我們將盡快與您聯系。",
-    "removing_acc": "刪除現有的Electra Cloud帳戶"
+    "removing_acc": "刪除現有的Electra Cloud帳戶",
+    "restore_main": "恢復為主",
+    "restoring_main": "將版本還原到主版本",
+    "version_restored": "版本恢復為主",
+    "restore_main_error": "還原到主要失敗"
   },
   "drop": {
     "image": "圖片",
