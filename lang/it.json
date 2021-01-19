@@ -1180,8 +1180,6 @@
     "supplier": "Fornitore",
     "remarks": "Osservazioni",
     "price": "Prezzo",
-    "spec": "Spec",
-    "service": "Servizio",
     "insul_type": "Tipo di isolamento",
     "insul_thickness": "Spessore dell'isolamento",
     "layout": "Layout",
@@ -1420,6 +1418,8 @@
     "core_name": "Nome principale",
     "cores": "Core",
     "gauge": "Dimensione / misuratore",
+    "spec": "Spec",
+    "service": "Servizio",
     "insulation_type": "Tipo di isolamento",
     "insulation_thickness": "Spessore dell'isolamento",
     "connect_to": "Connessione a",
@@ -1635,7 +1635,11 @@
     "remove_warning": "Tutti i tuoi disegni e i tuoi team verranno automaticamente eliminati alla rimozione del tuo account. Sei sicuro di rimuovere il tuo account?",
     "auth_error": "<b>Hai problemi ad accedere al tuo account?</b><br /><br /> Controlla la scheda della tua console premendo <b>F12</b> e verifica se sono presenti messaggi di errore nel registro della console.<br /> In tal caso, fare uno screenshot e inviarcelo a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .<br /> Si prega di specificare anche il browser e il numero di versione attualmente in uso.<br /><br /> Se non viene visualizzato alcun messaggio di errore, procedere con la cancellazione della cache e ricaricare nuovamente il sito web.<br /><br /> Contattaci a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> se hai ancora problemi con l&#39;autenticazione.<br /><br /> Ti ringraziamo per la tua pazienza e ti ricontatteremo il prima possibile.",
     "contact_us": "Contattaci a <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> se hai ancora problemi con l&#39;autenticazione.<br /><br /> Ti ringraziamo per la tua pazienza e ti ricontatteremo il prima possibile.",
-    "removing_acc": "Rimozione dell'account Electra Cloud esistente"
+    "removing_acc": "Rimozione dell'account Electra Cloud esistente",
+    "restore_main": "Ripristina su main",
+    "restoring_main": "Ripristino della versione su main",
+    "version_restored": "Versione ripristinata su main",
+    "restore_main_error": "Ripristino su principale non riuscito"
   },
   "drop": {
     "image": "Immagine",
