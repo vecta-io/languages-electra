@@ -1180,8 +1180,6 @@
     "supplier": "Leverantör",
     "remarks": "Anmärkningar",
     "price": "Pris",
-    "spec": "Spec",
-    "service": "Service",
     "insul_type": "Isoleringstyp",
     "insul_thickness": "Isoleringstjocklek",
     "layout": "Layout",
@@ -1420,6 +1418,8 @@
     "core_name": "Kärnnamn",
     "cores": "Kärnor",
     "gauge": "Storlek / mätare",
+    "spec": "Spec",
+    "service": "Service",
     "insulation_type": "Isoleringstyp",
     "insulation_thickness": "Isoleringstjocklek",
     "connect_to": "Koppla till",
@@ -1635,7 +1635,11 @@
     "remove_warning": "Alla dina ritningar och team raderas automatiskt när ditt konto tas bort. Är du säker på att du tar bort ditt konto?",
     "auth_error": "<b>Har du problem med att komma åt ditt konto?</b><br /><br /> Kontrollera konsolfliken genom att trycka på <b>F12</b> och se om det finns några felmeddelanden som visas i konsolloggen.<br /> Om det finns, vänligen skärmdumpa det och skicka till oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> .<br /> Ange också vilken webbläsare och vilket versionsnummer du använder för närvarande.<br /><br /> Om inget felmeddelande visas, fortsätt med att rensa cacheminnet och ladda om webbplatsen igen.<br /><br /> <a href=\"mailto:support@radicasoftware.com\">Kontakta</a> oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> om du fortfarande har problem med autentisering.<br /><br /> Vi tackar dig för ditt tålamod och kommer tillbaka till dig så snart som möjligt.",
     "contact_us": "<a href=\"mailto:support@radicasoftware.com\">Kontakta</a> oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> om du fortfarande har problem med autentisering.<br /><br /> Vi tackar dig för ditt tålamod och kommer tillbaka till dig så snart som möjligt.",
-    "removing_acc": "Ta bort befintligt Electra Cloud-konto"
+    "removing_acc": "Ta bort befintligt Electra Cloud-konto",
+    "restore_main": "Återställ till huvud",
+    "restoring_main": "Återställer version till main",
+    "version_restored": "Version återställd till huvud",
+    "restore_main_error": "Återställ till huvud misslyckades"
   },
   "drop": {
     "image": "Bild",
