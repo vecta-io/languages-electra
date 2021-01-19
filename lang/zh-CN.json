@@ -1180,8 +1180,6 @@
     "supplier": "供应商",
     "remarks": "备注",
     "price": "价格",
-    "spec": "规格",
-    "service": "服务",
     "insul_type": "绝缘类型",
     "insul_thickness": "绝缘厚度",
     "layout": "布局",
@@ -1420,6 +1418,8 @@
     "core_name": "核心名称",
     "cores": "核心",
     "gauge": "尺寸/规格",
+    "spec": "规格",
+    "service": "服务",
     "insulation_type": "绝缘类型",
     "insulation_thickness": "绝缘厚度",
     "connect_to": "连接到",
@@ -1635,7 +1635,11 @@
     "remove_warning": "您的帐户被删除后，您所有的绘图和团队都会被自动删除。您确定要删除您的帐户吗？",
     "auth_error": "<b>无法访问您的帐户？</b><br /><br />通过按<b>F12键</b>检查控制台选项卡，查看控制台日志中是否显示任何错误消息。<br />如果有的话，请对其进行截图并发送至<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> 。<br />请同时指定您当前使用的浏览器和版本号。<br /><br />如果未显示任何错误消息，请继续清除缓存并重新加载网站。<br /><br />如果您仍然对身份验证有疑问，请通过<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>与我们<a href=\"mailto:support@radicasoftware.com\">联系</a>。<br /><br />感谢您的耐心配合，我们将尽快与您联系。",
     "contact_us": "如果您仍然对身份验证有疑问，请通过<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>与我们<a href=\"mailto:support@radicasoftware.com\">联系</a>。<br /><br />感谢您的耐心配合，我们将尽快与您联系。",
-    "removing_acc": "删除现有的Electra Cloud帐户"
+    "removing_acc": "删除现有的Electra Cloud帐户",
+    "restore_main": "恢复为主",
+    "restoring_main": "将版本还原到主版本",
+    "version_restored": "版本恢复为主",
+    "restore_main_error": "还原到主要失败"
   },
   "drop": {
     "image": "图片",
