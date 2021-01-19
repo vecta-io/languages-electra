@@ -1180,8 +1180,6 @@
     "supplier": "サプライヤー",
     "remarks": "備考",
     "price": "価格",
-    "spec": "スペック",
-    "service": "サービス",
     "insul_type": "断熱タイプ",
     "insul_thickness": "断熱材の厚さ",
     "layout": "レイアウト",
@@ -1420,6 +1418,8 @@
     "core_name": "コア名",
     "cores": "コア",
     "gauge": "サイズ/ゲージ",
+    "spec": "スペック",
+    "service": "サービス",
     "insulation_type": "断熱タイプ",
     "insulation_thickness": "断熱材の厚さ",
     "connect_to": "に接続します",
@@ -1635,7 +1635,11 @@
     "remove_warning": "アカウントが削除されると、すべての図面とチームが自動的に削除されます。アカウントを削除してもよろしいですか？",
     "auth_error": "<b>アカウントへのアクセスに問題がありますか？</b><br /><br /> <b>F12キー</b>を押してコンソールタブを確認し、コンソールログにエラーメッセージが表示されているかどうかを確認します。<br />ある場合は、スクリーンショットを<a href=\"mailto:support@radicasoftware.com\">撮り</a>、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでお送りください</a>。<br />現在使用しているブラウザとバージョン番号も指定してください。<br /><br />エラーメッセージが表示されない場合は、キャッシュをクリアして、Webサイトを再度リロードしてください。<br /><br />それでも認証に問題がある場合は、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでご連絡ください</a>。<br /><br />しばらくお待ちいただきますようお願い申し上げます。できるだけ早くご連絡いたします。",
     "contact_us": "それでも認証に問題がある場合は、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでご連絡ください</a>。<br /><br />しばらくお待ちいただきますようお願い申し上げます。できるだけ早くご連絡いたします。",
-    "removing_acc": "既存のElectraCloudアカウントを削除する"
+    "removing_acc": "既存のElectraCloudアカウントを削除する",
+    "restore_main": "メインに復元",
+    "restoring_main": "バージョンをメインに復元",
+    "version_restored": "バージョンがメインに復元されました",
+    "restore_main_error": "メインへの復元に失敗しました"
   },
   "drop": {
     "image": "画像",
