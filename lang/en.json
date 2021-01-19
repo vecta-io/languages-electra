@@ -1180,8 +1180,6 @@
     "supplier": "Supplier",
     "remarks": "Remarks",
     "price": "Price",
-    "spec": "Spec",
-    "service": "Service",
     "insul_type": "Insulation Type",
     "insul_thickness": "Insulation Thickness",
     "layout": "Layout",
@@ -1420,6 +1418,8 @@
     "core_name": "Core Name",
     "cores": "Cores",
     "gauge": "Size / gauge",
+    "spec": "Spec",
+    "service": "Service",
     "insulation_type": "Insulation Type",
     "insulation_thickness": "Insulation Thickness",
     "connect_to": "Connect to",
@@ -1635,7 +1635,11 @@
     "remove_warning": "All your drawings and teams will be automatically deleted upon your account’s removal. Are you sure to remove your account?",
     "auth_error": "<b>Having trouble accessing your account?</b><br /><br />Check your console tab by pressing <b>F12</b> and see if there is any error messages shown in console log.<br />If there is, please screenshot it and send to us at <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>.<br />Please specify which browser and the version number you are currently using as well.<br /><br />If no error message is shown, please proceed to clear cache and reload the website again.<br /><br />Reach out to us at <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> if you're still having issue with authentication.<br /><br />We thank you for your patience and will get back to you the soonest possible.",
     "contact_us": "Reach out to us at <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> if you're still having issue with authentication.<br /><br />We thank you for your patience and will get back to you the soonest possible.",
-    "removing_acc": "Removing existing Electra Cloud account"
+    "removing_acc": "Removing existing Electra Cloud account",
+    "restore_main": "Restore to main",
+    "restoring_main": "Restoring version to main",
+    "version_restored": "Version restored to main",
+    "restore_main_error": "Restore to main failed"
   },
   "drop": {
     "image": "Image",
