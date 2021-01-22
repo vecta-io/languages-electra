@@ -267,7 +267,8 @@
     "no_internet": "インターネット接続なし",
     "get_layshape_size": "レイアウト形状の寸法を取得する",
     "update_comp_tag": "コンポーネントタグの更新",
-    "no_ladder_zone": "ラダーゾーンが見つかりません"
+    "no_ladder_zone": "ラダーゾーンが見つかりません",
+    "unable_to_save": "保存できません。後でもう一度やり直してください。"
   },
   "login": {
     "collab": "オンライン",
