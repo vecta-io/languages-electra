@@ -1321,7 +1321,7 @@
     "prompt": "Prompt",
     "no_shape": "Veuillez sélectionner une forme",
     "dup_names": "Nom de données dupliqué",
-    "dup_names_mssg": "Le bloc de titre groupé contient des blocs avec des noms de données dupliqués.\nVeuillez dissocier et modifier pour vous assurer que tous les blocs ont des noms de données uniques.",
+    "dup_names_mssg": "Le cartouche groupé contient des blocs avec des noms de données dupliqués.<br /> Veuillez dissocier et modifier pour vous assurer que tous les blocs ont des noms de données uniques.<br /> Noms de données dupliqués:<br />",
     "gen_tblock": "Génération d'un cartouche",
     "loc_info_1": "Electra listera les emplacements des formes en fonction",
     "loc_info_2": "sur une grille invisible, définissez la grille de départ",
