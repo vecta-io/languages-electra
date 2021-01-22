@@ -267,7 +267,8 @@
     "no_internet": "Pas de connexion Internet",
     "get_layshape_size": "Obtenir la dimension de la forme de disposition",
     "update_comp_tag": "Mise à jour des balises de composant",
-    "no_ladder_zone": "Aucune zone d'échelle trouvée"
+    "no_ladder_zone": "Aucune zone d'échelle trouvée",
+    "unable_to_save": "Impossible de sauvegarder. Veuillez réessayer plus tard."
   },
   "login": {
     "collab": "En ligne",
