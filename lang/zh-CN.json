@@ -267,7 +267,8 @@
     "no_internet": "没有网络连接",
     "get_layshape_size": "获取布局形状的尺寸",
     "update_comp_tag": "更新组件标签",
-    "no_ladder_zone": "找不到阶梯区"
+    "no_ladder_zone": "找不到阶梯区",
+    "unable_to_save": "无法保存。请稍后再试。"
   },
   "login": {
     "collab": "上线",
