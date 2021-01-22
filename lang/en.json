@@ -267,7 +267,8 @@
     "no_internet": "No Internet connection",
     "get_layshape_size": "Getting layout shape's dimension",
     "update_comp_tag": "Updating component tags",
-    "no_ladder_zone": "No ladder zone found"
+    "no_ladder_zone": "No ladder zone found",
+    "unable_to_save": "Unable to save. Please try again later."
   },
   "login": {
     "collab": "Online",
