@@ -1321,7 +1321,7 @@
     "prompt": "Prompt",
     "no_shape": "Seleziona una forma",
     "dup_names": "Nome dati duplicato",
-    "dup_names_mssg": "Il Block Title Block contiene blocchi con nomi di dati duplicati.\nPer favore ungruppo e modifica per garantire tutti i blocchi hanno nomi dati univoli.",
+    "dup_names_mssg": "Il cartiglio raggruppato contiene blocchi con nomi di dati duplicati.<br /> Separa e modifica per assicurarti che tutti i blocchi abbiano nomi di dati univoci.<br /> Nomi di dati duplicati:<br />",
     "gen_tblock": "Generazione del blocco del titolo",
     "loc_info_1": "Electra elencherà le posizioni di forma basate",
     "loc_info_2": "su una griglia invisibile, impostare la griglia a partire",
