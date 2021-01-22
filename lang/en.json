@@ -1321,7 +1321,7 @@
     "prompt": "Prompt",
     "no_shape": "Please select a shape",
     "dup_names": "Duplicated Data Name",
-    "dup_names_mssg": "Grouped Title Block contains blocks with duplicated data names.\nPlease ungroup and edit to ensure all blocks have unique data names.",
+    "dup_names_mssg": "Grouped Title Block contains blocks with duplicated data names.<br />Please ungroup and edit to ensure all blocks have unique data names.<br />Duplicated data names:<br />",
     "gen_tblock": "Generating Title Block",
     "loc_info_1": "Electra will list shape locations based",
     "loc_info_2": "on an invisible grid, set the grid starting",
