@@ -267,7 +267,8 @@
     "no_internet": "沒有網絡連接",
     "get_layshape_size": "獲取布局形狀的尺寸",
     "update_comp_tag": "更新組件標籤",
-    "no_ladder_zone": "找不到階梯區"
+    "no_ladder_zone": "找不到階梯區",
+    "unable_to_save": "無法保存。請稍後再試。"
   },
   "login": {
     "collab": "上線",
