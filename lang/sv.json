@@ -1321,7 +1321,7 @@
     "prompt": "Prompt",
     "no_shape": "Välj en form",
     "dup_names": "Dupliserat datanamn",
-    "dup_names_mssg": "Gruppat titelblock innehåller block med duplicerade datanamn.\nGruppera och redigera så att alla block har unika datanamn.",
+    "dup_names_mssg": "Grupperat titelblock innehåller block med duplicerade datanamn.<br /> Avgruppera och redigera så att alla block har unika datanamn.<br /> Duplicerade datanamn:<br />",
     "gen_tblock": "Generera titelblock",
     "loc_info_1": "Electra kommer att lista formplatser baserade",
     "loc_info_2": "Ställ in rutnätet på ett osynligt rutnät",
