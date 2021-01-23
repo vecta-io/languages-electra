@@ -267,7 +267,8 @@
     "no_internet": "Nessuna connessione Internet",
     "get_layshape_size": "Ottenere la dimensione della forma del layout",
     "update_comp_tag": "Aggiornamento dei tag dei componenti",
-    "no_ladder_zone": "Nessuna zona ladder trovata"
+    "no_ladder_zone": "Nessuna zona ladder trovata",
+    "unable_to_save": "Non in grado di salvare. Per favore riprova più tardi."
   },
   "login": {
     "collab": "In linea",
