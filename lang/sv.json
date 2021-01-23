@@ -267,7 +267,8 @@
     "no_internet": "Ingen internetanslutning",
     "get_layshape_size": "Få layoutformens dimension",
     "update_comp_tag": "Uppdaterar komponenttaggar",
-    "no_ladder_zone": "Ingen stegezon hittades"
+    "no_ladder_zone": "Ingen stegezon hittades",
+    "unable_to_save": "Det går inte att spara. Vänligen försök igen senare."
   },
   "login": {
     "collab": "Uppkopplad",
