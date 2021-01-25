@@ -2530,13 +2530,6 @@
     "plugin_21": {
       "name": "Demo",
       "desc": "This plugin is used in demo pages"
-    },
-    "plugin_17": {
-      "name": "Tables",
-      "desc": "Creates tables based on number of rows and columns input",
-      "cat": [
-        "Productivity Tools"
-      ]
     }
   },
   "page": {
