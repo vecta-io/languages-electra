@@ -2530,6 +2530,13 @@
     "plugin_21": {
       "name": "Demo",
       "desc": "Questo plugin viene utilizzato nelle pagine demo"
+    },
+    "plugin_17": {
+      "name": "Tabelle",
+      "desc": "Crea tabelle in base al numero di righe e colonne di input",
+      "cat": [
+        "Strumenti di produttività"
+      ]
     }
   },
   "page": {
