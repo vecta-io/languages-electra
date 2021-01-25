@@ -2530,6 +2530,13 @@
     "plugin_21": {
       "name": "Démo",
       "desc": "Ce plugin est utilisé dans les pages de démonstration"
+    },
+    "plugin_17": {
+      "name": "Les tables",
+      "desc": "Crée des tableaux en fonction du nombre de lignes et de colonnes d'entrée",
+      "cat": [
+        "Outils de productivité"
+      ]
     }
   },
   "page": {
