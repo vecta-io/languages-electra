@@ -2530,6 +2530,13 @@
     "plugin_21": {
       "name": "Demo",
       "desc": "Detta plugin används på demosidor"
+    },
+    "plugin_17": {
+      "name": "Tabeller",
+      "desc": "Skapar tabeller baserat på antalet rader och kolumner",
+      "cat": [
+        "Produktivitetsverktyg"
+      ]
     }
   },
   "page": {
