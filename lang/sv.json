@@ -727,6 +727,9 @@
     "no_access": "Detta Google-konto har ingen åtkomst till Google-filen."
   },
   "ui": {
+    "restoring_archive": "Laddar arkiv",
+    "restoring_pages": "Laddar sidor",
+    "restoring_undo": "Laddar ångra",
     "event": "Händelse",
     "code": "Koda",
     "action": "Handling",
@@ -1582,7 +1585,7 @@
     "scan_autoloc": "Skanna autoplatser",
     "updating_autoloc": "Uppdatera autoplatser",
     "auto_wiring": "Auto ledningar",
-    "wire_sym_not_found": "Symbolen @@ hittades inte.<br /> Se till att <b>%%</b> stencilen är utökad eller<br /> automatisk koppling när tappningssymbol är inaktiverad i Dokumentalternativ.",
+    "wire_sym_not_found": "Symbolen @@ hittades inte.<br /> Se till att <b>%%</b> stencilen är utökad.",
     "generating_toc": "Generera innehållsförteckning",
     "reuse_toc": "Vill du återanvända aktuell TOC?",
     "display_term_loc": "Visa terminalplats",
