@@ -727,6 +727,9 @@
     "no_access": "This Google account has no access to the Google file. "
   },
   "ui": {
+    "restoring_archive": "Loading archive",
+    "restoring_pages": "Loading pages",
+    "restoring_undo": "Loading undo",
     "event": "Event",
     "code": "Code",
     "action": "Action",
@@ -1582,7 +1585,7 @@
     "scan_autoloc": "Scanning auto locations",
     "updating_autoloc": "Updating auto locations",
     "auto_wiring": "Auto wiring",
-    "wire_sym_not_found": "The @@ symbol is not found.<br />Please ensure the <b>%%</b> stencil is expanded or<br />automatic wiring when dropping symbol is disabled in Document Options.",
+    "wire_sym_not_found": "The @@ symbol is not found.<br />Please ensure the <b>%%</b> stencil is expanded.",
     "generating_toc": "Generating table of contents",
     "reuse_toc": "Do you want to reuse current TOC?",
     "display_term_loc": "Display terminal location",
