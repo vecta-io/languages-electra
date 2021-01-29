@@ -727,6 +727,9 @@
     "no_access": "此Google帐户无权访问Google文件。"
   },
   "ui": {
+    "restoring_archive": "载入档案",
+    "restoring_pages": "加载页面",
+    "restoring_undo": "正在加载撤消",
     "event": "事件",
     "code": "代码",
     "action": "行动",
@@ -1582,7 +1585,7 @@
     "scan_autoloc": "正在扫描自动位置",
     "updating_autoloc": "正在更新自动位置",
     "auto_wiring": "自动接线",
-    "wire_sym_not_found": "找不到@@符号。<br />请确保将<b>%%</b>模板扩展或<br />文档选项中禁用了放下符号时自动布线。",
+    "wire_sym_not_found": "找不到@@符号。<br />请确保扩展<b>%%</b>模具。",
     "generating_toc": "生成目录",
     "reuse_toc": "您想重用当前的目录吗？",
     "display_term_loc": "显示终端位置",
