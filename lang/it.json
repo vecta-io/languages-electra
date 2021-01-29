@@ -727,6 +727,9 @@
     "no_access": "Questo account Google non ha accesso al file Google."
   },
   "ui": {
+    "restoring_archive": "Caricamento archivio",
+    "restoring_pages": "Caricamento di pagine",
+    "restoring_undo": "Caricamento annullamento",
     "event": "Evento",
     "code": "Codice",
     "action": "Azione",
@@ -1582,7 +1585,7 @@
     "scan_autoloc": "Scansione delle posizioni auto",
     "updating_autoloc": "Aggiornamento delle posizioni auto",
     "auto_wiring": "Cablaggio automatico",
-    "wire_sym_not_found": "Il simbolo @ @ non viene trovato.<br />Si prega di assicurarsi che lo stencil <b>%%</b> sia espanso o<br />cablaggio automatico quando il simbolo di rilascio è disabilitato nelle Opzioni del documento.",
+    "wire_sym_not_found": "Il simbolo @@ non è stato trovato.<br /> Assicurati che lo stencil <b>%%</b> sia espanso.",
     "generating_toc": "Generazione della tabella dei contenuti",
     "reuse_toc": "Vuoi riutilizzare il TOC corrente?",
     "display_term_loc": "Posizione terminale di visualizzazione",
