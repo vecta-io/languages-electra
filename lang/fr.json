@@ -727,6 +727,9 @@
     "no_access": "Ce compte Google n'a pas accès au fichier Google."
   },
   "ui": {
+    "restoring_archive": "Chargement de l'archive",
+    "restoring_pages": "Chargement des pages",
+    "restoring_undo": "Annulation du chargement",
     "event": "Un événement",
     "code": "Code",
     "action": "Action",
@@ -1582,7 +1585,7 @@
     "scan_autoloc": "Analyse des emplacements automatiques",
     "updating_autoloc": "Mise à jour des emplacements automatiques",
     "auto_wiring": "Câblage automatique",
-    "wire_sym_not_found": "Le symbole @@ est introuvable.<br /> Veuillez vous assurer que le pochoir <b>%%</b> est développé ou<br /> le câblage automatique lors de la suppression du symbole est désactivé dans les options du document.",
+    "wire_sym_not_found": "Le symbole @@ est introuvable.<br /> Veuillez vous assurer que le gabarit <b>%%</b> est développé.",
     "generating_toc": "Génération d'une table des matières",
     "reuse_toc": "Voulez-vous réutiliser la table des matières actuelle?",
     "display_term_loc": "Afficher l'emplacement du terminal",
