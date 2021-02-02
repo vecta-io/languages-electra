@@ -727,6 +727,7 @@
     "no_access": "此Google帐户无权访问Google文件。"
   },
   "ui": {
+    "loading_plugin": "获取插件",
     "restoring_archive": "载入档案",
     "restoring_pages": "加载页面",
     "restoring_undo": "正在加载撤消",
