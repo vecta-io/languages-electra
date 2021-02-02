@@ -727,6 +727,7 @@
     "no_access": "Questo account Google non ha accesso al file Google."
   },
   "ui": {
+    "loading_plugin": "Ottenere il plugin",
     "restoring_archive": "Caricamento archivio",
     "restoring_pages": "Caricamento di pagine",
     "restoring_undo": "Caricamento annullamento",
