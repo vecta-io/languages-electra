@@ -727,6 +727,7 @@
     "no_access": "このGoogleアカウントはGoogleファイルにアクセスできません。"
   },
   "ui": {
+    "loading_plugin": "プラグインの取得",
     "restoring_archive": "アーカイブを読み込んでいます",
     "restoring_pages": "ページの読み込み",
     "restoring_undo": "元に戻すの読み込み",
