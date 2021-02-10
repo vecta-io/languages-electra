@@ -1664,6 +1664,8 @@
     "no_skew": "Réinitialiser isométrique",
     "pin_drawing": "Dessin d'épingle",
     "unpin_drawing": "Détacher le dessin",
+    "pin_file": "Fichier Pin",
+    "unpin_file": "Détacher le fichier",
     "tools": "Outils",
     "convert_path": "Convertir en chemin",
     "add_conn_pt": "Ajouter un point de connexion",
