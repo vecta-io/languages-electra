@@ -1664,6 +1664,8 @@
     "no_skew": "Ripristina isometrico",
     "pin_drawing": "Disegno pin",
     "unpin_drawing": "Sblocca il disegno",
+    "pin_file": "File pin",
+    "unpin_file": "Sblocca file",
     "tools": "Utensili",
     "convert_path": "Converti in percorso",
     "add_conn_pt": "Aggiungi punto di connessione",
