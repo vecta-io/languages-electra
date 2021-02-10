@@ -1664,6 +1664,8 @@
     "no_skew": "アイソメトリックをリセット",
     "pin_drawing": "ピン描画",
     "unpin_drawing": "図面の固定を解除する",
+    "pin_file": "ピンファイル",
+    "unpin_file": "ファイルの固定を解除する",
     "tools": "ツール",
     "convert_path": "パスに変換",
     "add_conn_pt": "接続ポイントを追加します",
