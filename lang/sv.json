@@ -1664,6 +1664,8 @@
     "no_skew": "Återställ isometrisk",
     "pin_drawing": "Stiftritning",
     "unpin_drawing": "Lossa ritningen",
+    "pin_file": "Fäst fil",
+    "unpin_file": "Lossa filen",
     "tools": "Verktyg",
     "convert_path": "Konvertera till sökväg",
     "add_conn_pt": "Lägg till anslutningspunkt",
