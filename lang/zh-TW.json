@@ -1664,6 +1664,8 @@
     "no_skew": "重設等軸測圖",
     "pin_drawing": "銷圖",
     "unpin_drawing": "取消固定繪圖",
+    "pin_file": "固定文件",
+    "unpin_file": "取消固定文件",
     "tools": "工具類",
     "convert_path": "轉換為路徑",
     "add_conn_pt": "添加連接點",
