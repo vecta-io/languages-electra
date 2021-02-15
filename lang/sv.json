@@ -1142,6 +1142,7 @@
     "no_email": "Inget e-postmeddelande i listan",
     "merging_drawing": "Sammanfogande ritning",
     "export_pdf_tips": "För att bädda in anpassat teckensnitt ordentligt, se till att teckensnittsfilen importeras.",
+    "version_show_preview": "Visa förhandsvisning av aktuell ritning",
     "slogan": "Molnbaserad elektrisk CAD-programvara",
     "stencil": "Stencil",
     "keyword": "Nyckelord",
