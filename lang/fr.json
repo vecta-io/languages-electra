@@ -1142,6 +1142,7 @@
     "no_email": "Aucun email dans la liste",
     "merging_drawing": "Fusionner le dessin",
     "export_pdf_tips": "Pour intégrer correctement la police personnalisée, assurez-vous que le fichier de police est importé.",
+    "version_show_preview": "Afficher l'aperçu du dessin courant",
     "slogan": "Logiciel de CAO électrique basé sur le cloud",
     "stencil": "Pochoir",
     "keyword": "Mot-clé",
