@@ -1142,6 +1142,7 @@
     "no_email": "列表中沒有電子郵件",
     "merging_drawing": "合併圖紙",
     "export_pdf_tips": "要正確嵌入自定義字體，請確保已導入字體文件。",
+    "version_show_preview": "顯示當前圖形的預覽",
     "slogan": "基於雲端的電子CAD軟件",
     "stencil": "符號庫",
     "keyword": "關鍵詞",
