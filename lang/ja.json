@@ -1642,6 +1642,9 @@
     "contact_us": "それでも認証に問題がある場合は、 <a href=\"mailto:support@radicasoftware.com\">support @ radicasoftware.comまでご連絡ください</a>。<br /><br />しばらくお待ちいただきますようお願い申し上げます。できるだけ早くご連絡いたします。",
     "removing_acc": "既存のElectraCloudアカウントを削除する",
     "restore_main": "メインに復元",
+    "older_version_detected": "古いバージョンが検出されました",
+    "revert_version": "図面を古いバージョンに戻しますか？",
+    "revert": "元に戻す",
     "restoring_main": "バージョンをメインに復元",
     "version_restored": "バージョンがメインに復元されました",
     "restore_main_error": "メインへの復元に失敗しました"
