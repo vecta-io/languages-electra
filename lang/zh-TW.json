@@ -1642,6 +1642,9 @@
     "contact_us": "如果您仍然對身份驗證有疑問，請通過<a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a>與我們<a href=\"mailto:support@radicasoftware.com\">聯系</a>。<br /><br />感謝您的耐心配合，我們將盡快與您聯系。",
     "removing_acc": "刪除現有的Electra Cloud帳戶",
     "restore_main": "恢復為主",
+    "older_version_detected": "檢測到較舊的版本",
+    "revert_version": "將圖紙還原為舊版本？",
+    "revert": "還原",
     "restoring_main": "將版本還原到主版本",
     "version_restored": "版本恢復為主",
     "restore_main_error": "還原到主要失敗"
