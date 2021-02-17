@@ -1642,6 +1642,9 @@
     "contact_us": "<a href=\"mailto:support@radicasoftware.com\">Kontakta</a> oss på <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> om du fortfarande har problem med autentisering.<br /><br /> Vi tackar dig för ditt tålamod och kommer tillbaka till dig så snart som möjligt.",
     "removing_acc": "Ta bort befintligt Electra Cloud-konto",
     "restore_main": "Återställ till huvud",
+    "older_version_detected": "Äldre version upptäckt",
+    "revert_version": "Återställ ritning till äldre version?",
+    "revert": "Återgå",
     "restoring_main": "Återställer version till main",
     "version_restored": "Version återställd till huvud",
     "restore_main_error": "Återställ till huvud misslyckades"
