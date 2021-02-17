@@ -1642,6 +1642,9 @@
     "contact_us": "Contactez-nous à <a href=\"mailto:support@radicasoftware.com\">support@radicasoftware.com</a> si vous rencontrez toujours des problèmes d&#39;authentification.<br /><br /> Nous vous remercions de votre patience et vous répondrons dans les plus brefs délais.",
     "removing_acc": "Supprimer un compte Electra Cloud existant",
     "restore_main": "Restaurer vers principal",
+    "older_version_detected": "Ancienne version détectée",
+    "revert_version": "Revenir au dessin à l'ancienne version?",
+    "revert": "Revenir",
     "restoring_main": "Restauration de la version principale",
     "version_restored": "Version restaurée sur la version principale",
     "restore_main_error": "La restauration vers le principal a échoué"
