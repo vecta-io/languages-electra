@@ -2750,41 +2750,57 @@
     }
   },
   "videos": {
-    "UsXqhNtEGfg": {
-      "title": "Electra Cloud快速演示",
-      "desc": "全球第一个基于云的Electrical CAD软件Electra Cloud的15分钟快速演示"
+    "nlAyOo-_HLQ": {
+      "title": "片段，并集，差异，相交快速入门",
+      "desc": "使用片段，并集，差值和相交操作创建自己的符号。"
     },
-    "7CP_FG63O2o": {
-      "title": "与Electra Cloud一起绘制",
-      "desc": "了解如何使用Electra Cloud创建团队并在绘图上进行协作"
+    "AOeIJRAECEk": {
+      "title": "创建团队并邀请团队成员",
+      "desc": "邀请您的朋友和队友进行有效的协作。"
     },
-    "hnx0KutWDa0": {
-      "title": "使用Electra Cloud创建和共享绘图",
-      "desc": "与团队成员共享并共享您的绘图以进行协作，或者通过电子邮件共享以供客户查看"
+    "1XbHln-9QDg": {
+      "title": "如何在仪表板中组织绘图和文件夹",
+      "desc": "通过拖放到任何团队或文件夹，轻松移动绘图。使用搜索栏轻松找到您的绘图！"
     },
-    "mWhKbwlRHKg": {
-      "title": "拖放标题栏或绘制一个新标题",
-      "desc": "厌倦了绘制自己的标题栏？Electra Cloud有各种外观整齐的标题栏可供您的项目使用！只需拖放即可！"
+    "JBvyeA743Qo": {
+      "title": "什么是图层以及如何使用它们",
+      "desc": "使用图层可以更好地对形状进行分类，以便于编辑或隐藏信息。"
     },
-    "RCDvyHGbdTo": {
-      "title": "使用Electra Cloud的符号和电线的智能编号",
-      "desc": "浪费了大部分时间重新编号和标记符号？Electra Cloud有更好的办法！借助内置智能功能，Electra Cloud会自动处理您所有的电线和符号编号，因此您可以节省更多的设计时间！！"
+    "5z7hF_yIILw": {
+      "title": "使用形状属性查看和编辑形状",
+      "desc": "与Visio的“大小和位置”对话框非常相似，现在您可以在Vecta中查看和编辑形状。"
     },
-    "4y_1QqasHoA": {
-      "title": "使用Electra Cloud的实时符号对照表功能",
-      "desc": "实时符号对照表功能是Electra Cloud里最受欢迎的功能之一。请观看此视频以了解如何操作"
+    "tp2ryqLTz1M": {
+      "title": "如何按比例调整形状大小和使用偏移",
+      "desc": "使用SHIFT键固定比例，使用ALT键使用偏移。"
     },
-    "sQNQbpE__qw": {
-      "title": "使用Electra Cloud以分配插针名称",
-      "desc": "仍然赶不上为您的符号分配插针名称？您可使用更明智的方式。请观看Electra Cloud如何以更容易的方式分配插针名称"
+    "Y-lxlpDM-7g": {
+      "title": "如何在形状中添加或编辑文本框",
+      "desc": "使用Ctrl-5可以在文本模式下轻松添加文本框，调整大小或旋转文本框。"
     },
-    "AtNeKm_Y138": {
-      "title": "使用Electra Cloud创建您的自定义符号",
-      "desc": "创建自己的符号，保存并重复地使用。与您的团队共享并制度化自定义符号。观看以下的视频以了解如何操作"
+    "wZUVOSDEpPo": {
+      "title": "如何使用符号和符号库",
+      "desc": "观看此视频，了解如何将符号保存到自己的符号库中。只需将重复的符号拖放到绘图上即可节省更多时间。"
     },
-    "X0p1JNrcWGI": {
-      "title": "使用Electra Cloud以自动检测电线名称和电线名称扩散",
-      "desc": "使用Electra Cloud可以自动检测电线名称并轻松分配电线名称。了解如何操作"
+    "a1Mv0H_jZKM": {
+      "title": "Vecta中的符号搜索",
+      "desc": "观看如何在Vecta中轻松有效地找到符号。"
+    },
+    "EWtTCLx8ngg": {
+      "title": "剖析的Vecta调色板",
+      "desc": "观看本指南，了解如何访问上次使用的颜色以及如何使用RGB值或十六进制代码自定义颜色。"
+    },
+    "Zap6sT5bOB0": {
+      "title": "将上次使用的颜色直接轻松地应用于其他形状，文本和线条",
+      "desc": "充分利用您的颜色画家，将上次使用的颜色应用到形状，文本和线条上。"
+    },
+    "YPYPdGPi-nI": {
+      "title": "工具刷",
+      "desc": "充分利用您的颜色画家，将上次使用的颜色应用到形状，文本和线条上。"
+    },
+    "RX3vce2QXyk": {
+      "title": "如何正确连接形状",
+      "desc": "连接器和线之间有什么区别？"
     }
   },
   "list": {
