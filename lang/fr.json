@@ -2750,41 +2750,57 @@
     }
   },
   "videos": {
-    "UsXqhNtEGfg": {
-      "title": "Démonstration rapide d'Electra Cloud",
-      "desc": "Une démonstration rapide de 15 minutes d'Electra Cloud, le premier logiciel de CAO électrique basé sur le cloud au monde."
+    "nlAyOo-_HLQ": {
+      "title": "Introduction rapide à Fragment, Union, Difference, Intersect",
+      "desc": "Créez vos propres symboles avec l'opération de fragment, union, différence et intersection."
     },
-    "7CP_FG63O2o": {
-      "title": "Dessinez avec Electra Cloud",
-      "desc": "Découvrez comment créer une équipe et collaborer sur des dessins avec Electra Cloud."
+    "AOeIJRAECEk": {
+      "title": "Créer une équipe et inviter des membres de l'équipe",
+      "desc": "Invitez vos amis et vos coéquipiers à collaborer efficacement."
     },
-    "hnx0KutWDa0": {
-      "title": "Créez et partagez des dessins avec Electra Cloud",
-      "desc": "Recréez et partagez vos dessins avec les membres de votre équipe pour une collaboration ou partagez-les par e-mail pour que votre client les examine."
+    "1XbHln-9QDg": {
+      "title": "Comment organiser les dessins et les dossiers dans le tableau de bord",
+      "desc": "Déplacez vos dessins facilement en les faisant glisser et en les déposant dans n'importe quelle équipe ou dossier. Utilisez la barre de recherche pour trouver facilement vos dessins!"
     },
-    "mWhKbwlRHKg": {
-      "title": "Faites glisser et déposez le bloc de titre ou dessinez-en un nouveau",
-      "desc": "Vous en avez assez de dessiner votre propre cartouche? Electra Cloud dispose de différents blocs de titre soignés prêts pour vos projets! Faites simplement glisser-déposer et Voila!"
+    "JBvyeA743Qo": {
+      "title": "Que sont les calques et comment les utiliser",
+      "desc": "Utilisez des calques pour mieux classer vos formes afin de faciliter les modifications ou masquer les informations."
     },
-    "RCDvyHGbdTo": {
-      "title": "Numérotation intelligente des symboles et des fils avec Electra Cloud",
-      "desc": "Vous passez la plupart de votre temps à renuméroter et à étiqueter les symboles? Eh bien, plus avec Electra Cloud! Grâce à l'intelligence intégrée, Electra Cloud s'occupe automatiquement de la numérotation de tous vos fils et symboles, vous permettant ainsi de gagner plus de temps dans la conception!"
+    "5z7hF_yIILw": {
+      "title": "Afficher et modifier la forme à l'aide des propriétés de forme",
+      "desc": "Tout comme la boîte de dialogue Taille et position de Visio, vous pouvez désormais afficher et modifier des formes dans Vecta."
     },
-    "4y_1QqasHoA": {
-      "title": "Référence croisée en temps réel avec Electra Cloud",
-      "desc": "La fonction de référence croisée en temps réel est l'une des fonctionnalités les plus favorables d'Electra Cloud. Regardez cette vidéo pour voir comment cela fonctionne."
+    "tp2ryqLTz1M": {
+      "title": "Comment redimensionner les formes proportionnellement et utiliser le décalage",
+      "desc": "Utilisez la touche SHIFT pour fixer les proportions et la touche ALT pour utiliser le décalage."
     },
-    "sQNQbpE__qw": {
-      "title": "Attribution de noms de broches avec Electra Cloud",
-      "desc": "Vous êtes toujours en train d'attribuer un à un les noms des broches à vos symboles? Faites-le de la manière la plus intelligente. Découvrez comment Electra Cloud peut faciliter l'attribution de noms de broches."
+    "Y-lxlpDM-7g": {
+      "title": "Comment ajouter ou modifier une zone de texte dans des formes",
+      "desc": "Utilisez Ctrl-5 pour ajouter facilement une zone de texte, redimensionner ou faire pivoter votre zone de texte en mode texte."
     },
-    "AtNeKm_Y138": {
-      "title": "Créez vos propres symboles personnalisés avec Electra Cloud",
-      "desc": "Créez vos propres symboles, enregistrez-les et utilisez-les encore et encore. Partagez-le avec votre équipe et institutionnalisez des symboles personnalisés dans toute l'entreprise. Apprenez à le faire en regardant la vidéo ci-dessous."
+    "wZUVOSDEpPo": {
+      "title": "Comment utiliser des symboles et des pochoirs",
+      "desc": "Regardez cette vidéo sur la façon d'enregistrer des symboles dans vos propres pochoirs. Gagnez plus de temps en faisant simplement glisser et déposer des symboles répétitifs sur le dessin."
     },
-    "X0p1JNrcWGI": {
-      "title": "Détection automatique des noms de fils et propagation des noms de fils avec Electra Cloud",
-      "desc": "Détection automatique du nom de fil et attribution facile du nom de fil avec Electra Cloud. Regardez comment cela fonctionne."
+    "a1Mv0H_jZKM": {
+      "title": "Recherche de symboles dans Vecta",
+      "desc": "Regardez comment trouver vos symboles facilement et efficacement dans Vecta."
+    },
+    "EWtTCLx8ngg": {
+      "title": "Anatomie de la palette de couleurs de Vecta",
+      "desc": "Regardez ce guide pour savoir comment accéder à la dernière couleur utilisée et personnaliser la couleur à l'aide de valeurs RVB ou de codes HEX."
+    },
+    "Zap6sT5bOB0": {
+      "title": "Appliquez facilement la dernière couleur utilisée directement sur d'autres formes, textes et lignes",
+      "desc": "Utilisez pleinement votre coloriste pour appliquer la dernière couleur utilisée à vos formes, textes et lignes."
+    },
+    "YPYPdGPi-nI": {
+      "title": "Outil de peintre",
+      "desc": "Utilisez pleinement votre coloriste pour appliquer la dernière couleur utilisée à vos formes, textes et lignes."
+    },
+    "RX3vce2QXyk": {
+      "title": "Comment connecter les formes avec précision",
+      "desc": "Quelle est la différence entre les connecteurs et les lignes?"
     }
   },
   "list": {
