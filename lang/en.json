@@ -2750,41 +2750,57 @@
     }
   },
   "videos": {
-    "UsXqhNtEGfg": {
-      "title": "Electra Cloud Quick Demo",
-      "desc": "A quick 15 minutes demo of Electra Cloud, world's first cloud-based Electrical CAD software."
+    "nlAyOo-_HLQ": {
+      "title": "Quick intro to Fragment, Union, Difference, Intersect",
+      "desc": "Create your own symbols with fragment, union, difference and intersect operation."
     },
-    "7CP_FG63O2o": {
-      "title": "Draw Together with Electra Cloud",
-      "desc": "Learn how you can create team and collaborate on drawings with Electra Cloud."
+    "AOeIJRAECEk": {
+      "title": "Create Team and Invite Team Members",
+      "desc": "Invite your friends and teammates to collaborate effectively."
     },
-    "hnx0KutWDa0": {
-      "title": "Create and Share Drawings with Electra Cloud",
-      "desc": "Reate and share your drawings with your team members for collaboration or share it via email for your client to review it."
+    "1XbHln-9QDg": {
+      "title": "How to Organize Drawings and Folders in Dashboard",
+      "desc": "Move your drawings easily by dragging and dropping to any teams or folders. Use the search bar to find your drawings easily!"
     },
-    "mWhKbwlRHKg": {
-      "title": "Drag and Drop Tittle Block or Draw a New One",
-      "desc": "Tired of drawing your own title block? Electra Cloud has various neat-looking title blocks ready for your projects! Simply drag & drop and Voila!"
+    "JBvyeA743Qo": {
+      "title": "What are Layers and How to Use Them",
+      "desc": "Use layers to better categorize your shapes for easier editing, or hide information."
     },
-    "RCDvyHGbdTo": {
-      "title": "Intelligence Numbering for Symbols and Wires with Electra Cloud",
-      "desc": "Spending most of your time renumbering and labelling symbols? Well, not anymore with Electra Cloud! With built-in intelligence, Electra Cloud automatically takes care of all your wires and symbols numbering, so you could save more time in designing!"
+    "5z7hF_yIILw": {
+      "title": "View and edit shape using Shape Properties",
+      "desc": "Much like Visio's Size & Position Dialog, now you can view and edit shapes in Vecta."
     },
-    "4y_1QqasHoA": {
-      "title": "Real-time Cross Reference with Electra Cloud",
-      "desc": "Real-time Cross Reference feature is one of Electra Cloud's most favorable feature. Check out this video to see how it works."
+    "tp2ryqLTz1M": {
+      "title": "How to Resize Shapes Proportionally and Use Offset",
+      "desc": "Use SHIFT key to fix proportions and ALT key to use offset."
     },
-    "sQNQbpE__qw": {
-      "title": "Assigning Pin Names with Electra Cloud",
-      "desc": "Still caught up with assigning pin names one by one to your symbols? Do it the more intelligent way. Watch how Electra Cloud can make assigning pin names way easier."
+    "Y-lxlpDM-7g": {
+      "title": "How to Add or Edit Text Box in Shapes",
+      "desc": "Use Ctrl-5 to easily add text box, resize or rotate your text box in text mode."
     },
-    "AtNeKm_Y138": {
-      "title": "Create your own customize symbols with Electra Cloud",
-      "desc": "Create your own Symbols, Save It and utilize it over and over again. Share it with your team and institutionalize customized symbols through out the company. Learn how to do it by watching the video below."
+    "wZUVOSDEpPo": {
+      "title": "How to Use Symbols and Stencils",
+      "desc": "Watch this video on how to save symbols into your own stencils. Save more time by just drag and drop repetitive symbols onto drawing."
     },
-    "X0p1JNrcWGI": {
-      "title": "Automatic wire name detection and wire name propagation with Electra Cloud",
-      "desc": "Automatic wire name detection and assigning wire name easily with Electra Cloud. Watch how these works."
+    "a1Mv0H_jZKM": {
+      "title": "Symbol search in Vecta",
+      "desc": "Watch on how to find your symbols easily and efficiently in Vecta."
+    },
+    "EWtTCLx8ngg": {
+      "title": "Anatomy of Vecta Color Palette",
+      "desc": "Watch this guide to know how to access last used color and customize color using RGB values or HEX codes."
+    },
+    "Zap6sT5bOB0": {
+      "title": "Apply last used color directly onto other shapes, texts, and lines easily",
+      "desc": "Make full use of your color painter to apply last used color onto your shapes, texts, and lines."
+    },
+    "YPYPdGPi-nI": {
+      "title": "Painter tool ",
+      "desc": "Make full use of your color painter to apply last used color onto your shapes, texts, and lines."
+    },
+    "RX3vce2QXyk": {
+      "title": "How to Connect Shapes Accurately",
+      "desc": "What's the difference between connectors and lines?"
     }
   },
   "list": {
