@@ -2750,41 +2750,57 @@
     }
   },
   "videos": {
-    "UsXqhNtEGfg": {
-      "title": "Electra Cloud Quick Demo",
-      "desc": "En snabb 15-minuters demo av Electra Cloud, världens första molnbaserade elektriska CAD-programvara."
+    "nlAyOo-_HLQ": {
+      "title": "Snabb introduktion till Fragment, Union, Difference, Intersect",
+      "desc": "Skapa dina egna symboler med fragment, union, skillnad och skärning."
     },
-    "7CP_FG63O2o": {
-      "title": "Rita tillsammans med Electra Cloud",
-      "desc": "Lär dig hur du kan skapa team och samarbeta om teckningar med Electra Cloud."
+    "AOeIJRAECEk": {
+      "title": "Skapa team och bjud in teammedlemmar",
+      "desc": "Bjud in dina vänner och lagkamrater att samarbeta effektivt."
     },
-    "hnx0KutWDa0": {
-      "title": "Skapa och dela ritningar med Electra Cloud",
-      "desc": "Läs och dela dina ritningar med dina teammedlemmar för samarbete eller dela det via e-post så att din klient kan granska den."
+    "1XbHln-9QDg": {
+      "title": "Hur man organiserar teckningar och mappar i instrumentpanelen",
+      "desc": "Flytta dina ritningar enkelt genom att dra och släppa till valfritt team eller mappar. Använd sökfältet för att enkelt hitta dina ritningar!"
     },
-    "mWhKbwlRHKg": {
-      "title": "Dra och släpp Tittle Block eller Rita en ny",
-      "desc": "Är du trött på att rita ditt eget titelblock? Electra Cloud har olika snygga titelblock redo för dina projekt! Dra bara och släpp och Voila!"
+    "JBvyeA743Qo": {
+      "title": "Vad är lager och hur man använder dem",
+      "desc": "Använd lager för att bättre kategorisera dina former för enklare redigering, eller dölj information."
     },
-    "RCDvyHGbdTo": {
-      "title": "Intelligensnummerering för symboler och ledningar med Electra Cloud",
-      "desc": "Tillbringar du mest av din tid med att numera om och märka symboler? Tja, inte längre med Electra Cloud! Med inbyggd intelligens tar Electra Cloud automatiskt hand om alla dina ledningar och symboler som numrerar, så att du kan spara mer tid på att designa!"
+    "5z7hF_yIILw": {
+      "title": "Visa och redigera form med Shape Properties",
+      "desc": "Precis som Visios storlek och positionsdialog kan du nu visa och redigera former i Vecta."
     },
-    "4y_1QqasHoA": {
-      "title": "Korsreferens i realtid med Electra Cloud",
-      "desc": "Korsreferensfunktion i realtid är en av Electra Cloud mest fördelaktiga funktioner. Kolla in den här videon för att se hur den fungerar."
+    "tp2ryqLTz1M": {
+      "title": "Hur man ändrar storlek på proportioner och använder offset",
+      "desc": "Använd SHIFT-tangenten för att fixa proportioner och ALT-tangenten för att använda offset."
     },
-    "sQNQbpE__qw": {
-      "title": "Tilldela pin-namn med Electra Cloud",
-      "desc": "Fortfarande fastnat med att tilldela pin-namn en efter en till dina symboler? Gör det på ett mer intelligent sätt. Se hur Electra Cloud kan göra det lättare att tilldela pin-namn."
+    "Y-lxlpDM-7g": {
+      "title": "Hur man lägger till eller redigerar textruta i former",
+      "desc": "Använd Ctrl-5 för att enkelt lägga till textruta, ändra storlek eller rotera textrutan i textläge."
     },
-    "AtNeKm_Y138": {
-      "title": "Skapa dina egna anpassade symboler med Electra Cloud",
-      "desc": "Skapa dina egna symboler, spara det och använd dem om och om igen. Dela det med ditt team och institutionalisera anpassade symboler genom hela företaget. Lär dig hur du gör det genom att titta på videon nedan."
+    "wZUVOSDEpPo": {
+      "title": "Hur man använder symboler och stenciler",
+      "desc": "Titta på den här videon om hur du sparar symboler i dina egna stenciler. Spara mer tid genom att bara dra och släppa repetitiva symboler på ritningen."
     },
-    "X0p1JNrcWGI": {
-      "title": "Automatisk detektering av trådnamn och utbredning av trådnamn med Electra Cloud",
-      "desc": "Automatisk detektering av trådnamn och tilldelning av trådnamn enkelt med Electra Cloud. Se hur dessa fungerar."
+    "a1Mv0H_jZKM": {
+      "title": "Symbolsökning i Vecta",
+      "desc": "Se hur du hittar dina symboler enkelt och effektivt i Vecta."
+    },
+    "EWtTCLx8ngg": {
+      "title": "Anatomi av Vecta färgpalett",
+      "desc": "Titta på den här guiden för att få veta hur du får åtkomst till senast använda färger och anpassar färger med RGB-värden eller HEX-koder."
+    },
+    "Zap6sT5bOB0": {
+      "title": "Applicera senast använda färger direkt på andra former, texter och linjer",
+      "desc": "Använd din färgmålare till fullo för att applicera den senast använda färgen på dina former, texter och linjer."
+    },
+    "YPYPdGPi-nI": {
+      "title": "Målarverktyg",
+      "desc": "Använd din färgmålare till fullo för att applicera den senast använda färgen på dina former, texter och linjer."
+    },
+    "RX3vce2QXyk": {
+      "title": "Hur man ansluter former korrekt",
+      "desc": "Vad är skillnaden mellan kontakter och ledningar?"
     }
   },
   "list": {
