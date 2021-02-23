@@ -2749,60 +2749,6 @@
       "compdb": "Chemin de la base de données des composants:"
     }
   },
-  "videos": {
-    "nlAyOo-_HLQ": {
-      "title": "Introduction rapide à Fragment, Union, Difference, Intersect",
-      "desc": "Créez vos propres symboles avec l'opération de fragment, union, différence et intersection."
-    },
-    "AOeIJRAECEk": {
-      "title": "Créer une équipe et inviter des membres de l'équipe",
-      "desc": "Invitez vos amis et vos coéquipiers à collaborer efficacement."
-    },
-    "1XbHln-9QDg": {
-      "title": "Comment organiser les dessins et les dossiers dans le tableau de bord",
-      "desc": "Déplacez vos dessins facilement en les faisant glisser et en les déposant dans n'importe quelle équipe ou dossier. Utilisez la barre de recherche pour trouver facilement vos dessins!"
-    },
-    "JBvyeA743Qo": {
-      "title": "Que sont les calques et comment les utiliser",
-      "desc": "Utilisez des calques pour mieux classer vos formes afin de faciliter les modifications ou masquer les informations."
-    },
-    "5z7hF_yIILw": {
-      "title": "Afficher et modifier la forme à l'aide des propriétés de forme",
-      "desc": "Tout comme la boîte de dialogue Taille et position de Visio, vous pouvez désormais afficher et modifier des formes dans Vecta."
-    },
-    "tp2ryqLTz1M": {
-      "title": "Comment redimensionner les formes proportionnellement et utiliser le décalage",
-      "desc": "Utilisez la touche SHIFT pour fixer les proportions et la touche ALT pour utiliser le décalage."
-    },
-    "Y-lxlpDM-7g": {
-      "title": "Comment ajouter ou modifier une zone de texte dans des formes",
-      "desc": "Utilisez Ctrl-5 pour ajouter facilement une zone de texte, redimensionner ou faire pivoter votre zone de texte en mode texte."
-    },
-    "wZUVOSDEpPo": {
-      "title": "Comment utiliser des symboles et des pochoirs",
-      "desc": "Regardez cette vidéo sur la façon d'enregistrer des symboles dans vos propres pochoirs. Gagnez plus de temps en faisant simplement glisser et déposer des symboles répétitifs sur le dessin."
-    },
-    "a1Mv0H_jZKM": {
-      "title": "Recherche de symboles dans Vecta",
-      "desc": "Regardez comment trouver vos symboles facilement et efficacement dans Vecta."
-    },
-    "EWtTCLx8ngg": {
-      "title": "Anatomie de la palette de couleurs de Vecta",
-      "desc": "Regardez ce guide pour savoir comment accéder à la dernière couleur utilisée et personnaliser la couleur à l'aide de valeurs RVB ou de codes HEX."
-    },
-    "Zap6sT5bOB0": {
-      "title": "Appliquez facilement la dernière couleur utilisée directement sur d'autres formes, textes et lignes",
-      "desc": "Utilisez pleinement votre coloriste pour appliquer la dernière couleur utilisée à vos formes, textes et lignes."
-    },
-    "YPYPdGPi-nI": {
-      "title": "Outil de peintre",
-      "desc": "Utilisez pleinement votre coloriste pour appliquer la dernière couleur utilisée à vos formes, textes et lignes."
-    },
-    "RX3vce2QXyk": {
-      "title": "Comment connecter les formes avec précision",
-      "desc": "Quelle est la différence entre les connecteurs et les lignes?"
-    }
-  },
   "list": {
     "en": "English",
     "fr": "Français",
