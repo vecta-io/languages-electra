@@ -2749,60 +2749,6 @@
       "compdb": "Komponentdatabasväg:"
     }
   },
-  "videos": {
-    "nlAyOo-_HLQ": {
-      "title": "Snabb introduktion till Fragment, Union, Difference, Intersect",
-      "desc": "Skapa dina egna symboler med fragment, union, skillnad och skärning."
-    },
-    "AOeIJRAECEk": {
-      "title": "Skapa team och bjud in teammedlemmar",
-      "desc": "Bjud in dina vänner och lagkamrater att samarbeta effektivt."
-    },
-    "1XbHln-9QDg": {
-      "title": "Hur man organiserar teckningar och mappar i instrumentpanelen",
-      "desc": "Flytta dina ritningar enkelt genom att dra och släppa till valfritt team eller mappar. Använd sökfältet för att enkelt hitta dina ritningar!"
-    },
-    "JBvyeA743Qo": {
-      "title": "Vad är lager och hur man använder dem",
-      "desc": "Använd lager för att bättre kategorisera dina former för enklare redigering, eller dölj information."
-    },
-    "5z7hF_yIILw": {
-      "title": "Visa och redigera form med Shape Properties",
-      "desc": "Precis som Visios storlek och positionsdialog kan du nu visa och redigera former i Vecta."
-    },
-    "tp2ryqLTz1M": {
-      "title": "Hur man ändrar storlek på proportioner och använder offset",
-      "desc": "Använd SHIFT-tangenten för att fixa proportioner och ALT-tangenten för att använda offset."
-    },
-    "Y-lxlpDM-7g": {
-      "title": "Hur man lägger till eller redigerar textruta i former",
-      "desc": "Använd Ctrl-5 för att enkelt lägga till textruta, ändra storlek eller rotera textrutan i textläge."
-    },
-    "wZUVOSDEpPo": {
-      "title": "Hur man använder symboler och stenciler",
-      "desc": "Titta på den här videon om hur du sparar symboler i dina egna stenciler. Spara mer tid genom att bara dra och släppa repetitiva symboler på ritningen."
-    },
-    "a1Mv0H_jZKM": {
-      "title": "Symbolsökning i Vecta",
-      "desc": "Se hur du hittar dina symboler enkelt och effektivt i Vecta."
-    },
-    "EWtTCLx8ngg": {
-      "title": "Anatomi av Vecta färgpalett",
-      "desc": "Titta på den här guiden för att få veta hur du får åtkomst till senast använda färger och anpassar färger med RGB-värden eller HEX-koder."
-    },
-    "Zap6sT5bOB0": {
-      "title": "Applicera senast använda färger direkt på andra former, texter och linjer",
-      "desc": "Använd din färgmålare till fullo för att applicera den senast använda färgen på dina former, texter och linjer."
-    },
-    "YPYPdGPi-nI": {
-      "title": "Målarverktyg",
-      "desc": "Använd din färgmålare till fullo för att applicera den senast använda färgen på dina former, texter och linjer."
-    },
-    "RX3vce2QXyk": {
-      "title": "Hur man ansluter former korrekt",
-      "desc": "Vad är skillnaden mellan kontakter och ledningar?"
-    }
-  },
   "list": {
     "en": "English",
     "fr": "Français",
