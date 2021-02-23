@@ -2749,60 +2749,6 @@
       "compdb": "Percorso database componenti:"
     }
   },
-  "videos": {
-    "nlAyOo-_HLQ": {
-      "title": "Introduzione rapida a Fragment, Union, Difference, Intersect",
-      "desc": "Crea i tuoi simboli con operazioni di frammentazione, unione, differenza e intersezione."
-    },
-    "AOeIJRAECEk": {
-      "title": "Crea team e invita i membri del team",
-      "desc": "Invita i tuoi amici e compagni di squadra a collaborare in modo efficace."
-    },
-    "1XbHln-9QDg": {
-      "title": "Come organizzare disegni e cartelle nel dashboard",
-      "desc": "Sposta facilmente i tuoi disegni trascinandoli e rilasciandoli in qualsiasi team o cartella. Usa la barra di ricerca per trovare facilmente i tuoi disegni!"
-    },
-    "JBvyeA743Qo": {
-      "title": "Cosa sono i livelli e come usarli",
-      "desc": "Usa i livelli per classificare meglio le tue forme per modificarle più facilmente o nascondere le informazioni."
-    },
-    "5z7hF_yIILw": {
-      "title": "Visualizza e modifica la forma utilizzando Proprietà forma",
-      "desc": "Proprio come la finestra di dialogo Dimensioni e posizione di Visio, ora puoi visualizzare e modificare le forme in Vecta."
-    },
-    "tp2ryqLTz1M": {
-      "title": "Come ridimensionare le forme proporzionalmente e utilizzare l'offset",
-      "desc": "Utilizzare il tasto MAIUSC per correggere le proporzioni e il tasto ALT per utilizzare l'offset."
-    },
-    "Y-lxlpDM-7g": {
-      "title": "Come aggiungere o modificare la casella di testo nelle forme",
-      "desc": "Usa Ctrl-5 per aggiungere facilmente una casella di testo, ridimensionare o ruotare la casella di testo in modalità testo."
-    },
-    "wZUVOSDEpPo": {
-      "title": "Come usare simboli e stampini",
-      "desc": "Guarda questo video su come salvare i simboli nei tuoi stampini. Risparmia più tempo semplicemente trascinando i simboli ripetitivi sul disegno."
-    },
-    "a1Mv0H_jZKM": {
-      "title": "Ricerca di simboli a Vecta",
-      "desc": "Guarda come trovare i tuoi simboli in modo semplice ed efficiente in Vecta."
-    },
-    "EWtTCLx8ngg": {
-      "title": "Anatomia della tavolozza dei colori Vecta",
-      "desc": "Guarda questa guida per sapere come accedere all'ultimo colore utilizzato e personalizzare il colore utilizzando valori RGB o codici HEX."
-    },
-    "Zap6sT5bOB0": {
-      "title": "Applica facilmente l'ultimo colore utilizzato direttamente su altre forme, testi e linee",
-      "desc": "Fai pieno uso del tuo pittore di colori per applicare l'ultimo colore utilizzato su forme, testi e linee."
-    },
-    "YPYPdGPi-nI": {
-      "title": "Strumento pittore",
-      "desc": "Fai pieno uso del tuo pittore di colori per applicare l'ultimo colore utilizzato su forme, testi e linee."
-    },
-    "RX3vce2QXyk": {
-      "title": "Come collegare le forme in modo accurato",
-      "desc": "Qual è la differenza tra connettori e linee?"
-    }
-  },
   "list": {
     "en": "English",
     "fr": "Français",
