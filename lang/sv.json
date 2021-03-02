@@ -337,7 +337,8 @@
     "ask_create_account": "<p>Det verkar som om du har loggat in, men vi kan inte hitta några register över att du registrerar dig hos oss.</p><p> Klicka på knappen nedan för att börja spara och dela dina ritningar direkt!</p>",
     "dont_go": "Vi hatar att se dig gå, men vi förstår helt, kom tillbaka när som helst.",
     "redirect": "Omdirigering",
-    "creating_account": "Skapa Vecta-konto"
+    "creating_account": "Skapa Vecta-konto",
+    "demo_collab_noti": "Registrera dig för en gratis testperiod på 30 dagar"
   },
   "verify": {
     "unverified_not_found": "Vi kan inte verifiera din länk. Du kanske redan har registrerats hos oss. Vänligen försök logga in igen. Om du inte kan logga in, vänligen kontakta oss på hello@vecta.io.",
@@ -1069,7 +1070,7 @@
     "no_friend_to_tag": "Inga vänner hittades på denna ritning.<br /> Dela den här ritningen till dina vänner för att märka dem.",
     "invite_friend": "Dela ritning",
     "tagged_list": "Märkt lista",
-    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Registrera dig för en gratis testperiod på 30 dagar</a>",
+    "demo_collab_noti": "",
     "save_to_edit": " annars går den förlorad vid uppdatering",
     "signup_to_save": "Registrera dig för att spara dina ändringar",
     "save_to_dashboard": "Spara ritning till ditt konto",
