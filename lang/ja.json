@@ -337,7 +337,8 @@
     "ask_create_account": "<p>サインインしているようですが、登録した記録が見つかりません。</p><p>下のボタンをクリックして、すぐに図面の保存と共有を開始してください。</p>",
     "dont_go": "私たちはあなたが行くのを見るのは嫌いですが、私たちは完全に理解しています、いつでも戻ってきてください。",
     "redirect": "リダイレクト",
-    "creating_account": "Electra Cloudアカウントの作成"
+    "creating_account": "Electra Cloudアカウントの作成",
+    "demo_collab_noti": "30日間の無料トライアルにサインアップ"
   },
   "verify": {
     "unverified_not_found": "あなたのリンクを確認することはできません。あなたはすでに私たちに登録されているかもしれません。もう一度ログインしてみてください。ログインできない場合は、hello@vecta.ioまでご連絡ください。",
@@ -1069,7 +1070,7 @@
     "no_friend_to_tag": "この図面に友だちは見つかりません。<br />この図面を友だちと共有して、タグを付ける。",
     "invite_friend": "図面を共有する",
     "tagged_list": "タグ付きリスト",
-    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">30日間の無料トライアルにサインアップ</a>",
+    "demo_collab_noti": "",
     "save_to_edit": " またはリフレッシュ時に失われます",
     "signup_to_save": "サインアップして変更を保存します",
     "save_to_dashboard": "アカウントに図面を保存します",
