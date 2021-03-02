@@ -337,7 +337,8 @@
     "ask_create_account": "<p>您已登录，但我们找不到您任何注册的记录。</p><p>请点击下面的按钮立即开始保存和共享您的绘图！</p>",
     "dont_go": "我们不愿看到您离开，但我们完全理解，请随时回来。",
     "redirect": "转址中",
-    "creating_account": "正在创建Electra Cloud帐户"
+    "creating_account": "正在创建Electra Cloud帐户",
+    "demo_collab_noti": "注册免费的30天试用版"
   },
   "verify": {
     "unverified_not_found": "我们无法验证您的链接。您可能已经在我们这里注册了。请尝试重新登录。如果无法登录，请通过support@radicasoftware.com与我们联系",
@@ -1069,7 +1070,7 @@
     "no_friend_to_tag": "在此绘图中找不到朋友。<br />将此绘图分享给您的朋友以标记他们。",
     "invite_friend": "分享绘图",
     "tagged_list": "标记清单",
-    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">注册30天免费试用版</a>",
+    "demo_collab_noti": "",
     "save_to_edit": " 否则刷新后会丢失",
     "signup_to_save": "注册以保存您的更改",
     "save_to_dashboard": "将绘图保存到您的帐户",
