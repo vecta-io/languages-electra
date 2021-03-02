@@ -337,7 +337,8 @@
     "ask_create_account": "<p>Sembra che tu abbia effettuato l&#39;accesso, ma non siamo in grado di trovare alcun record della tua registrazione con noi.</p><p> Fai clic sul pulsante in basso per iniziare a salvare e condividere immediatamente i tuoi disegni!</p>",
     "dont_go": "Ci dispiace vederti andare via, ma capiamo perfettamente, per favore torna in qualsiasi momento.",
     "redirect": "Reindirizzamento",
-    "creating_account": "Creazione dell'account Electra Cloud"
+    "creating_account": "Creazione dell'account Electra Cloud",
+    "demo_collab_noti": "Iscriviti per una prova gratuita di 30 giorni"
   },
   "verify": {
     "unverified_not_found": "Non siamo in grado di verificare il vostro link. Potrebbe essere già stato registrato con noi. Si prega di tentare nuovamente il login. Se non si è in grado di effettuare l'accesso, contattateci all'indirizzo support@radicasoftware.com.",
@@ -1069,7 +1070,7 @@
     "no_friend_to_tag": "Nessun amico trovato in questo disegno.<br /> Condividi questo disegno con i tuoi amici per taggarli.",
     "invite_friend": "Condividi disegno",
     "tagged_list": "Elenco con tag",
-    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Iscriviti per una prova gratuita di 30 giorni</a>",
+    "demo_collab_noti": "",
     "save_to_edit": " o andrà perso al momento dell'aggiornamento",
     "signup_to_save": "Iscriviti per salvare le modifiche",
     "save_to_dashboard": "Salva il disegno nel tuo account",
