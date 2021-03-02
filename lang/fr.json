@@ -337,7 +337,8 @@
     "ask_create_account": "<p>Il semble que vous vous soyez connecté, mais nous ne pouvons trouver aucune trace de votre inscription chez nous.</p><p> Veuillez cliquer sur le bouton ci-dessous pour commencer à enregistrer et partager vos dessins immédiatement!</p>",
     "dont_go": "Nous détestons vous voir partir, mais nous comprenons parfaitement, veuillez revenir à tout moment.",
     "redirect": "Redirection",
-    "creating_account": "Créer un compte Electra Cloud"
+    "creating_account": "Créer un compte Electra Cloud",
+    "demo_collab_noti": "Inscrivez-vous pour un essai gratuit de 30 jours"
   },
   "verify": {
     "unverified_not_found": "Nous ne sommes pas en mesure de vérifier votre lien. Vous avez peut-être déjà été enregistré chez nous. Veuillez réessayer de vous connecter. Si vous ne parvenez pas à vous connecter, veuillez nous contacter à support@radicasoftware.com.",
@@ -1069,7 +1070,7 @@
     "no_friend_to_tag": "Aucun ami trouvé dans ce dessin.<br /> Partagez ce dessin avec vos amis afin de les taguer.",
     "invite_friend": "Partager le dessin",
     "tagged_list": "Liste balisée",
-    "demo_collab_noti": "<a href=\"/app/login.php?mode=signup&src=demo\" class=\"Button.cls\">Inscrivez-vous pour un essai gratuit de 30 jours</a>",
+    "demo_collab_noti": "",
     "save_to_edit": " ou il sera perdu lors du rafraîchissement",
     "signup_to_save": "Inscrivez-vous pour enregistrer vos modifications",
     "save_to_dashboard": "Enregistrer le dessin dans votre compte",
